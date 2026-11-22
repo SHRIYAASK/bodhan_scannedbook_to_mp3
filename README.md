@@ -35,7 +35,9 @@ python -m bodhan_lesson --input chapter.pdf --out out --langs hi ta bn
 ```bash
 pip install -e .[dev] && pytest    # 179 passing tests (smoke & compliance)
 ```
+
 ## Architecture
+
 ```mermaid
 flowchart TD
     PDF["PDF / Image folder"] --> ING["Ingest<br/>PyMuPDF to PNG"]
@@ -47,7 +49,7 @@ flowchart TD
     NAR --> TR
 
     subgraph LOC["Localize (per language in parallel)"]
-        TR["indic-translate<br/>4 workers"] --> CHK["Chunk ≤ 250 chars"]
+        TR["indic-translate<br/>4 workers"] --> CHK["Chunk <= 250 chars"]
         CHK --> SP["indic-speak<br/>6 workers"]
         SP --> CER["indic-transcribe<br/>CER check, re-speak if CER above 0.45"]
         CER --> AUD["Join WAV and ffmpeg<br/>-16 LUFS MP3"]
@@ -65,37 +67,39 @@ flowchart TD
 | Figures | `stages/figures.py` | Qwen 27B vision model describes each figure crop (2 concurrent workers, 2 retries, caption fallback) |
 | Narrate | `stages/narrate/` | Figure placement → grouping → 1800-char batches → `gpt-oss-120b` (Groq) → `check_batch` validator → retry/split → `repair_batch` |
 | Localize | `stages/localize.py` | Per-language parallel: translate pool (4 workers) → chunk ≤250 chars → speak+CER pool (6 workers) → WAV join → ffmpeg MP3 |
+
 ## Workflow
 
 ```mermaid
 flowchart TD
-    A[Page images] --> B[Indic-OCR]
-    B -->|HTTP 502| B2[Retry with larger max_tokens]
+    A["Page images"] --> B["Indic-OCR"]
+    B -->|"HTTP 502"| B2["Retry with larger max_tokens"]
     B2 --> B
-    B --> C[Drop furniture; flag doubtful blocks]
-    C --> D[Assemble elements and sections]
-    D --> E[Figures: vision LLM -> description]
-    E --> F[Narration batch via LLM]
-    F --> G{Valid?}
-    G -->|No| H[Retry with feedback, up to 2 times]
+    B --> C["Drop furniture; flag doubtful blocks"]
+    C --> D["Assemble elements and sections"]
+    D --> E["Figures: vision LLM to description"]
+    E --> F["Narration batch via LLM"]
+    F --> G{"Valid?"}
+    G -->|"No"| H["Retry with feedback, up to 2 times"]
     H --> F
-    G -->|413/429/truncated| I[Split batch]
+    G -->|"413 or truncated"| I["Split batch"]
     I --> F
-    G -->|Still failing| J[Deterministic fallback narration]
-    G -->|Yes| K[English narration script]
+    G -->|"Still failing"| J["Deterministic fallback narration"]
+    G -->|"Yes"| K["English narration script"]
     J --> K
-    K --> L[Indic-Translate per unit]
-    L -->|Truncated| M[Sentence-by-sentence translation]
-    L --> N[Chunk to ≤ 250 characters]
-    M --> N
-    N --> O[Indic-Speak]
-    O --> P[Indic-Transcribe -> CER]
-    P --> Q{Duration odd or CER > 0.45?}
-    Q -->|Yes| R[Alternate voice, keep better result]
-    Q -->|No| S[Join with gaps, loudnorm, MP3]
-    R --> S
-    S --> T[report.json]
+    K --> L["Indic-Translate per unit"]
+    L -->|"Truncated"| M["Sentence-by-sentence translation"]
+    M --> N["Chunk to <= 250 characters"]
+    L --> N
+    N --> O["Indic-Speak"]
+    O --> P["Indic-Transcribe to CER"]
+    P --> Q{"Duration odd or CER > 0.45?"}
+    Q -->|"Yes"| R["Alternate voice, keep better result"]
+    R --> S["Join with gaps, loudnorm, MP3"]
+    Q -->|"No"| S
+    S --> T["report.json"]
 ```
+
 ## Where the LLM is used, and why
 | Decision | Model used | Fallback |
 |---|---|---|

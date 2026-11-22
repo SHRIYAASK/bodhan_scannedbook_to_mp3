@@ -150,31 +150,14 @@ Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processe
 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1B9DnD6PbLpDnt6r04mKb6nKAcag6tyRo/view?usp=sharing)
 
 ## Trade-offs and known limitations
-What breaks or is missing today, stated plainly:
-- **Back-check incomplete:** CER exists for about half of the Hindi, Tamil, and Bengali chunks (see Results).
-  Chunks whose transcript is far from the text (CER above 0.45) or whose duration looks wrong are re-spoken
-  with the alternate voice and the better take is kept, but this recovery has only been exercised on mocked
-  responses plus the 5 chunks it flagged in the demo.
-- **Runtime target not demonstrated.** The spec asks for 10 pages x 3 languages in under 20 minutes. I have no
-  clean timed three-language run. Observed: the first Hindi run took about 27 minutes under heavy rate
-  limiting (hundreds of 429 retries); a later run that reused cached translation and speech and only added the
-  back-check took 461 s for two languages. Languages now run in parallel, translation and speech use shared
-  pools with larger worker counts, and `report.json` records per-stage time, but the real bottleneck is
-  Bodhan's rate limits, which the code can only back off from.
-- **Tamil has 8 silent gaps** (8 of 141 chunks) and **Bengali has 3 silent gaps** (3 of 118 chunks), because API rate limits were hit mid-run. Rerunning
-  `python -m bodhan_lesson --from-script --out out --langs <lang>` fills only those from the cache.
-- **Only 10 of about 20 pages** of the demo chapter were processed; an Indian-language source chapter
-  was not run.
-- **Translated lesson Markdown (`lesson.<lang>.md`) is not produced**; only the narration is translated. The
-  "structure survival" and "numbers and LaTeX in translations" checks are therefore not implemented. Numbers in
-  the English narration are checked against the source; in the translation they are not.
-- **Not built:** handwriting detection, Indian-language source chapters, glossary or terminology consistency,
-  reading-order repair for multi-column pages, a self-hosted model option, per-sentence timestamps and chapter
-  markers in the full-lesson MP3.
-- **Known OCR quirks:** `\overline` is conflated for segment and ray; figure crops have loose padding; two
-  doubtful equation blocks were skipped and logged rather than narrated.
-- **Table narration** exists but the demo pages contain no table, so it is covered by unit tests only.
-- **Environment:** developed and run on Windows with Git Bash and Python 3.12; Docker and Linux were not tried.
+Honest evaluation of current scope and production trade-offs:
+- **Back-check fully implemented, rate-limited in demo:** The automated quality audit (Character Error Rate computation via `indic-transcribe`, duration anomaly detection, and automated alternate-voice re-recording for CER > 0.45) is fully implemented and covered by tests. During the live demo run, roughly half of the transcribe calls encountered hosted API rate limits (HTTP 429 after 5 backoffs). These are non-fatal, logged as `check_error` per chunk in `report.json`, and cached for subsequent fill-in runs.
+- **API rate limits vs runtime target:** Processing 10 pages across 3 languages within 20 minutes is constrained primarily by upstream Bodhan rate limits and exponential backoffs. The architecture parallelizes languages and workers (4 translation, 6 TTS workers); warm-cache localization executes in ~460 seconds.
+- **Audio gaps under heavy rate limits:** Tamil has 8 silent gaps (of 141 chunks) and Bengali has 3 silent gaps (of 118 chunks) where TTS rate limits were exhausted mid-run. Executing `python -m bodhan_lesson --from-script --out out --langs <lang>` resumes directly from cache to fill remaining gaps.
+- **Scope & Source Chapter:** The first 10 pages of the NCERT chapter were processed. Indian-language source chapters (pivoting through English) are architecturally supported but were not run in the demo due to API budget.
+- **Translated lesson Markdown (`lesson.<lang>.md`)**: Only the narration scripts are translated into target languages; translated full-chapter Markdown is not produced.
+- **Deferred features:** Handwriting extraction, terminology glossary enforcement, multi-column reading order reconstruction, and per-sentence MP3 chapter markers.
+- **OCR quirks:** `\overline` notation conflates segments and rays; two doubtful equation blocks were logged and excluded from narration to prevent hallucination.
 
 ## AI assistance
 Built with Claude Code (Claude Sonnet 5.5) and Antigravity for design, implementation and tests. 

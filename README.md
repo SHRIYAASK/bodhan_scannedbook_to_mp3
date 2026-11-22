@@ -10,33 +10,106 @@ This project implements an automated, agentic pipeline that transforms scanned t
 
 Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
 
+This project implements an automated, agentic pipeline that transforms scanned textbook chapters—containing complex geometry diagrams, LaTeX equations, and multi-page layouts—into pedagogical, multilingual narrated audio lessons across Indian languages. 
+
+Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
+
 ## How to run
-System dependency: **ffmpeg** on `PATH` (MP3 encoding and loudness). Page rendering uses PyMuPDF, so
-poppler is not needed. Python 3.10+.
+
+### Prerequisites
+- **Python**: 3.10 or higher
+- **ffmpeg**: Must be installed and accessible on `PATH` (used for audio loudness normalization and MP3 mastering).
+- *(Note: Page rendering uses PyMuPDF; `poppler` is not required.)*
+
+---
+
+### Step 1 · Set up Virtual Environment
 
 ```bash
-python -m venv .venv && . .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r requirements.txt && pip install -e .
-cp .env.example .env                                  # fill in the keys
+# Clone the repository and navigate into it
+git clone https://github.com/SHRIYAASK/bodhan_scannedbook_to_mp3.git
+cd bodhan_scannedbook_to_mp3
+
+# Create and activate a virtual environment
+python -m venv .venv
+
+# On Linux/macOS:
+source .venv/bin/activate
+
+# On Windows (PowerShell):
+.venv\Scripts\Activate.ps1
+```
+
+---
+
+### Step 2 · Install Dependencies
+
+```bash
+pip install -r requirements.txt
+pip install -e .
+```
+
+---
+
+### Step 3 · Configure API Keys
+
+Copy the environment template and configure your credentials:
+
+```bash
+cp .env.example .env
+```
+
+| Key | Purpose | Required? | Demo Configuration |
+|---|---|---|---|
+| `BODHAN_OCR_KEY` | Bodhan `indic-ocr` API access | **Yes** | Bodhan Console API Key |
+| `BODHAN_TRANSLATE_KEY` | Bodhan `indic-translate` API access | **Yes** | Bodhan Console API Key |
+| `BODHAN_SPEAK_KEY` | Bodhan `indic-speak` TTS API access | **Yes** | Bodhan Console API Key |
+| `BODHAN_TRANSCRIBE_KEY` | Bodhan `indic-transcribe` ASR for CER check | Optional | Skips back-check verification if omitted |
+| `LLM_BASE_URL` | OpenAI-compatible endpoint URL | **Yes** | `https://api.groq.com/openai/v1` |
+| `LLM_API_KEY` | API Key for LLM provider | **Yes** | Groq API Key |
+| `LLM_MODEL` | Model for English narration | **Yes** | `gpt-oss-120b` (Groq free tier) |
+| `LLM_VISION_MODEL` | Vision model for figure descriptions | Optional | `Qwen 27B` (falls back to caption if unset) |
+| `LLM_EXERCISE_MODEL` | Model for exercise hint planning | Optional | Defaults to `LLM_MODEL` if unset |
+
+---
+
+### Step 4 · Run the Pipeline
+
+Execute end-to-end processing for a scanned PDF or folder of page images:
+
+```bash
 python -m bodhan_lesson --input chapter.pdf --out out --langs hi ta bn
 ```
 
-Or with Docker: `docker build -t bodhan-lesson . && docker run --env-file .env -v "$PWD:/work" bodhan-lesson --input chapter.pdf --out out --langs hi`.
+#### Useful CLI Options
 
-Options: `--pages N` (first N pages), `--no-llm` (rule-based narration, no figure descriptions),
-`--no-audio` (translate only), `--from-script` (reuse `out/source/narration_script.en.json`, only translate
-and speak), `--cache-dir` (default `.bodhan_cache`). Reruns are cheap: every paid call (OCR, LLM,
-translate, speak, transcribe) is cached by content hash, so an interrupted run resumes. The exit code is
-non-zero if a language failed; partial outputs and `out/report.json` are still written.
+| Flag | Description | Typical Use Case |
+|---|---|---|
+| `--pages N` | Process only the first $N$ pages | Fast evaluation on long chapters (e.g. `--pages 10`) |
+| `--from-script` | Skip OCR, Cleanup, and Narration; reuse `out/source/narration_script.en.json` | Resuming speech generation or adding languages without re-calling LLMs |
+| `--no-llm` | Disable LLM calls; uses deterministic rule-based fallback narration | Offline/zero-cost testing without LLM API keys |
+| `--no-audio` | Run through translation only; skips TTS and MP3 assembly | Fast text and translation validation |
+| `--cache-dir` | Path for disk cache (default: `.bodhan_cache`) | Content-hashed disk cache ensures interrupted runs resume cheaply |
 
-Keys (`.env.example`): `BODHAN_OCR_KEY`, `BODHAN_TRANSLATE_KEY`, `BODHAN_SPEAK_KEY`,
-`BODHAN_TRANSCRIBE_KEY`, and `LLM_BASE_URL`, `LLM_MODEL`, `LLM_API_KEY` (any OpenAI-compatible endpoint;
-for the demo: `gpt-oss-120b` from the Groq free tier for English narration, and Qwen 27B as `LLM_VISION_MODEL`
-for figure descriptions; optional `LLM_REASONING_EFFORT`, `LLM_EXERCISE_MODEL`). Without a transcribe key the
-back-check is skipped and the report says so.
+---
 
-Tests: `pip install -e .[dev] && pytest` (179 tests, including a two-page end-to-end smoke test on mocked
-APIs and a compliance test that rejects banned OCR/translate/TTS/ASR packages).
+### Step 5 · Run Verification Tests
+
+Run the 179-test automated test suite, including smoke tests on mocked APIs and compliance checks that reject banned non-Bodhan OCR/TTS libraries:
+
+```bash
+pip install -e .[dev]
+pytest
+```
+
+<details>
+<summary><b>Alternative: Run with Docker</b></summary>
+
+```bash
+docker build -t bodhan-lesson .
+docker run --env-file .env -v "$PWD:/work" bodhan-lesson --input chapter.pdf --out out --langs hi ta bn
+```
+</details>
 
 ## Architecture
 

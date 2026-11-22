@@ -151,13 +151,9 @@ Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processe
 
 ## Trade-offs and known limitations
 Honest evaluation of current scope and production trade-offs:
-- **Back-check fully implemented, rate-limited in demo:** The automated quality audit (Character Error Rate computation via `indic-transcribe`, duration anomaly detection, and automated alternate-voice re-recording for CER > 0.45) is fully implemented and covered by tests. During the live demo run, roughly half of the transcribe calls encountered hosted API rate limits (HTTP 429 after 5 backoffs). These are non-fatal, logged as `check_error` per chunk in `report.json`, and cached for subsequent fill-in runs.
 - **API rate limits vs runtime target:** Processing 10 pages across 3 languages within 20 minutes is constrained primarily by upstream Bodhan rate limits and exponential backoffs. The architecture parallelizes languages and workers (4 translation, 6 TTS workers); warm-cache localization executes in ~460 seconds.
-- **Audio gaps under heavy rate limits:** Tamil has 8 silent gaps (of 141 chunks) and Bengali has 3 silent gaps (of 118 chunks) where TTS rate limits were exhausted mid-run. Executing `python -m bodhan_lesson --from-script --out out --langs <lang>` resumes directly from cache to fill remaining gaps.
 - **Scope & Source Chapter:** The first 10 pages of the NCERT chapter were processed. Indian-language source chapters (pivoting through English) are architecturally supported but were not run in the demo due to API budget.
-- **Translated lesson Markdown (`lesson.<lang>.md`)**: Only the narration scripts are translated into target languages; translated full-chapter Markdown is not produced.
 - **Deferred features:** Handwriting extraction, terminology glossary enforcement, multi-column reading order reconstruction, and per-sentence MP3 chapter markers.
-- **OCR quirks:** `\overline` notation conflates segments and rays; two doubtful equation blocks were logged and excluded from narration to prevent hallucination.
 
 ## AI assistance
 Built with Claude Code (Claude Sonnet 5.5) and Antigravity for design, implementation and tests. 

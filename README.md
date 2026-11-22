@@ -1,14 +1,8 @@
 # Scanned Chapter to Translated, Narrated Audio Lesson
 
-An automated pipeline that converts scanned textbook pages (PDF or page images) into structured English lesson notes and translated, teacher-style narrated MP3 audio across Indian languages.
+An automated pipeline that transforms scanned textbook chapters into structured lesson notes and teacher-style narrated MP3 audio across Indian languages. 
 
-Core pipeline rule: all OCR, translation, speech synthesis, and speech recognition use Bodhan models only (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`). An external LLM is strictly confined to English pedagogical narration and diagram comprehension; it is programmatically barred from generating Indian-language text.
-
-## Summary
-
-This project implements an automated, agentic pipeline that transforms scanned textbook chapters—containing complex geometry diagrams, LaTeX equations, and multi-page layouts—into pedagogical, multilingual narrated audio lessons across Indian languages. 
-
-Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
+All OCR, translation, speech synthesis, and audio verification are handled exclusively by Bodhan models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`). An external LLM (`gpt-oss-120b` via Groq free tier) and vision model (Qwen 27B) operate strictly in English for diagram comprehension and conversational narration, programmatically barred from generating Indian-language text. Mathematical notation is converted to natural spoken phrasing, diagrams are relocated to their point of reference, and synthesized audio is validated via automated back-transcription before mastering to loudness-normalized (-16 LUFS) MP3s.
 
 ## How to run
 

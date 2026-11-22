@@ -6,13 +6,9 @@ Core pipeline rule: all OCR, translation, speech synthesis, and speech recogniti
 
 ## Summary
 
-This project processes raw chapter scans through an end-to-end, multi-stage pipeline:
+This project implements an automated, agentic pipeline that transforms scanned textbook chapters—containing complex geometry diagrams, LaTeX equations, and multi-page layouts—into pedagogical, multilingual narrated audio lessons across Indian languages. 
 
-1. **Ingest & OCR**: Renders page images at 150 DPI (ignoring unreliable embedded PDF text) and extracts structured blocks via `indic-ocr` with automatic `max_tokens` ladder escalation (2048 → 4096 → 8192) on HTTP 502 errors.
-2. **Deterministic Cleanup & Assembly**: Applies 11 rule-based filters to eliminate page furniture (running headers, footers, numbers), reclassify misidentified equation blocks, join cross-page breaks, and assemble continuous Markdown (`lesson.src.md`) with full block mapping.
-3. **Figure Understanding & Pedagogical Narration**: Crops diagrams to generate audio-friendly visual descriptions using Qwen 27B, relocating figures to the paragraphs that cite them. Synthesizes a teacher-style English narration script with `gpt-oss-120b` (Groq free tier), converting equations into natural spoken words and framing exercises as guided problem-solving hints under strict symbol and hallucination checks.
-4. **Localize & Self-Auditing TTS**: Translates narration units using `indic-translate`, splits text into $\le 250$ character sentence chunks, and synthesizes audio with `indic-speak` across target languages in parallel. Every spoken chunk is back-transcribed with `indic-transcribe` to calculate Character Error Rate (CER), automatically re-recording with an alternate voice if CER exceeds 0.45 or duration is anomalous.
-5. **Audio Mastering**: Joins audio segments with natural pedagogical pauses and encodes loudness-normalized (-16 LUFS) MP3s for both individual sections and the complete chapter.
+Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
 
 ## How to run
 System dependency: **ffmpeg** on `PATH` (MP3 encoding and loudness). Page rendering uses PyMuPDF, so

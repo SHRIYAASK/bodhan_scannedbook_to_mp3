@@ -10,10 +10,6 @@ This project implements an automated, agentic pipeline that transforms scanned t
 
 Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
 
-This project implements an automated, agentic pipeline that transforms scanned textbook chapters—containing complex geometry diagrams, LaTeX equations, and multi-page layouts—into pedagogical, multilingual narrated audio lessons across Indian languages. 
-
-Visual document extraction, translation, speech synthesis, and audio verification are handled exclusively by Bodhan Indic foundation models (`indic-ocr`, `indic-translate`, `indic-speak`, `indic-transcribe`), while general-purpose models (`gpt-oss-120b` via Groq free tier and Qwen 27B) are strictly constrained to English pedagogical planning, diagram comprehension, and conversational narration. The system deterministically repairs OCR layout noise, translates dense mathematical notation into natural spoken words, relocates visual descriptions to their exact point of textual reference, and enforces an automated closed-loop quality audit where synthesized audio is back-transcribed to detect and re-speak anomalous chunks before final mastering into loudness-normalized (-16 LUFS) MP3 lessons.
-
 ## How to run
 
 ### Prerequisites

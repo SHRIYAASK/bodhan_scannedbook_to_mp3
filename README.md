@@ -119,10 +119,15 @@ flowchart TD
   angles to find angle A O C. Then use the given sum to find angle B O E, and finally use angles on a line."
 
 ## Bodhan models used
-Hosted API (`https://api.bodhan.ai/v1`): `indic-ocr` (table format markdown), `indic-translate`
-(`script: native`, `max_output_tokens`, truncation detected by `finish_reason`), `indic-speak` (voice by
-language, `style: educational lecture`, chunks of at most 250 characters), `indic-transcribe` (per chunk,
-under the 30 s limit).
+
+All core OCR, translation, speech synthesis, and verification calls are hosted at `https://api.bodhan.ai/v1`:
+
+| Model | Purpose | Configuration & Tuning | Error & Edge-Case Handling |
+|---|---|---|---|
+| `indic-ocr` | Text and layout block extraction from 150 DPI page scans | Markdown table format, 3 concurrent worker threads | Escalates `max_tokens` (2048 &rarr; 4096 &rarr; 8192) on HTTP 502; cached per page |
+| `indic-translate` | Translating English narration units into target Indian languages | `script: native`, `max_output_tokens: 2048`, 4 concurrent workers | Fallback to sentence-by-sentence translation if response is truncated |
+| `indic-speak` | Pedagogical speech synthesis across 13 Indian languages | `style: educational lecture`, sentence chunks &le; 250 chars, 6 workers | Re-speaks with secondary voice if CER > 0.45 or duration is suspect |
+| `indic-transcribe` | Automated ASR back-transcription for CER audio verification | Chunks &le; 30 seconds (within API input limit) | Non-fatal logging as `check_error` under 429 rate limits; cached on retry |
 
 ## Results
 Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processed (OCR cost limited the rest).

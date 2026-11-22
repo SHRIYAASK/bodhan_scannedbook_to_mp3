@@ -132,13 +132,13 @@ under the 30 s limit).
 ## Results
 Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processed (OCR cost limited the rest).
 
-| | English | Hindi | Tamil | Bengali |
-|---|---|---|---|---|
-| Narration units | 72 | 72 | 72 | 72 |
-| Audio chunks spoken | | 117 of 117 | 141 of 141 | 118 of 118 |
-| Audio length | | about 27 min | about 29 min | about 30 min |
-| Chunks back-transcribed (CER) | | 53 of 117 | 59 of 141 | 53 of 118 |
-| CER over those chunks | | 0.114 | 0.082 | 0.082 |
+| | Hindi | Tamil | Bengali |
+|---|---|---|---|
+| Narration units | 72 | 72 | 72 |
+| Audio chunks spoken | 117 of 117 | 141 of 141 | 118 of 118 |
+| Audio length | about 27 min | about 29 min | about 30 min |
+| Chunks back-transcribed (CER) | 53 of 117 | 59 of 141 | 53 of 118 |
+| CER over those chunks | 0.114 | 0.082 | 0.082 |
 
 - **Files:** `out/source/lesson.src.md`, `out/source/narration_script.en.md`; `out/<lang>/lesson.<lang>.mp3`,
   `out/<lang>/narration/<section>.<lang>.mp3`, `out/<lang>/narration_script.<lang>.json` (the exact TTS text,

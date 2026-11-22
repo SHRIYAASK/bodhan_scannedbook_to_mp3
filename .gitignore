@@ -1,3 +1,4 @@
+out/
 *.egg-info/
 *.pdf
 .bodhan_cache/
@@ -7,7 +8,6 @@
 .venv/
 __pycache__/
 Agentic Engineer*.md
-out/pages_png/
 plan.md
 plan.v1.md
 *.tmp

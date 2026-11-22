@@ -143,11 +143,13 @@ Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processe
 - **Why only about half the chunks have a CER:** the remaining Indic-Transcribe calls hit the API rate limit
   (HTTP 429) after five attempts. They are recorded as `check_error` per chunk, never silently skipped, and
   a rerun fills them from the cache.
-- Bengali is fully produced (all 72 units translated, voice Ishita, CER 0.082). The Indian-language source chapter was **not produced**.
-- Demo outputs are not committed (scans and large audio). Link: _to be added_.
+- **Demo Audio Outputs (Google Drive):**
+  - [Hindi Narration Audio (MP3)](https://drive.google.com/file/d/1vvCzO4k0cxnFUYbnPMjEWzeH447PJfQl/view?usp=sharing)
+  - [Tamil Narration Audio (MP3)](https://drive.google.com/file/d/1ZogfqrUi37AhMQ7gSyblZpQpYHwjZKDX/view?usp=sharing)
+  - [Bengali Narration Audio (MP3)](https://drive.google.com/file/d/13aPDFyOVh9CdBdKF6_Ak7pwtjbcQwp5x/view?usp=sharing)
 
 ## Demo video
-[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1B9DnD6PbLpDnt6r04mKb6nKAcag6tyRo/view?usp=sharing)
+[Watch Project Walkthrough & Explanation Video](https://drive.google.com/file/d/1B9DnD6PbLpDnt6r04mKb6nKAcag6tyRo/view?usp=sharing)
 
 ## Trade-offs and known limitations
 Honest evaluation of current scope and production trade-offs:

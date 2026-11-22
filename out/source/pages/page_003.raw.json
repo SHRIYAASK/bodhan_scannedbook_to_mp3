@@ -1,0 +1,222 @@
+{
+  "id": "indic-ocr-bd0be79c80d346e4b0a3068a8bbd0703",
+  "created": 1795193487,
+  "model": "indic-ocr",
+  "object": "chat.completion",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "LINES AND ANGLES\n\nAn **acute** angle measures between $0^{\\circ}$ and $90^{\\circ}$, whereas a **right angle** is exactly\nequal to $90^{\\circ}$. An angle greater than $90^{\\circ}$ but less than $180^{\\circ}$ is called an **obtuse angle**.\nAlso, recall that a **straight angle** is equal to $180^{\\circ}$. An angle which is greater than $180^{\\circ}$\nbut less than $360^{\\circ}$ is called a **reflex angle**. Further, two angles whose sum is $90^{\\circ}$ are\ncalled **complementary angles**, and two angles whose sum is $180^{\\circ}$ are called\n**supplementary angles**.\n\nYou have also studied about adjacent angles\nin the earlier classes (see Fig. 6.2). Two angles\nare **adjacent**, if they have a common vertex, a\ncommon arm and their non-common arms are\non different sides of the common arm. In\nFig. 6.2, $\\angle$ ABD and $\\angle$ DBC are adjacent\nangles. Ray BD is their common arm and point\nB is their common vertex. Ray BA and ray BC\nare non common arms. Moreover, when two\nangles are adjacent, then their sum is always\nequal to the angle formed by the two noncommon arms. So, we can write\n\nFig. 6.2 : Adjacent angles\n\n$$\\angle \\mathrm{ABC} = \\angle \\mathrm{ABD} + \\angle \\mathrm{DBC}.$$\n\nNote that $\\angle$ ABC and $\\angle$ ABD are not\nadjacent angles. Why? Because their noncommon arms BD and BC lie on the same side\nof the common arm BA.\n\nIf the non-common arms BA and BC in\nFig. 6.2, form a line then it will look like Fig. 6.3.\nIn this case, $\\angle$ ABD and $\\angle$ DBC are called\n**linear pair of angles.**\n\nFig. 6.3 : Linear pair of angles\n\nYou may also recall the vertically opposite\nangles formed when two lines, say AB and CD,\nintersect each other, say at the point O\n(see Fig. 6.4). There are two pairs of vertically\nopposite angles.\n\nOne pair is $\\angle AOD$ and $\\angle BOC$. Can you\nfind the other pair?\n\nFig. 6.4 : Vertically opposite\nangles",
+        "role": "assistant",
+        "provider_specific_fields": {
+          "refusal": null
+        }
+      },
+      "provider_specific_fields": {}
+    }
+  ],
+  "usage": {
+    "completion_tokens": 535,
+    "prompt_tokens": 1409,
+    "total_tokens": 1944
+  },
+  "blocks": [
+    {
+      "order": 0,
+      "label": "Header",
+      "type": "PageHeader",
+      "bbox_xyxy": [
+        126.4,
+        179.6,
+        922.1,
+        216.9
+      ],
+      "conf": 0.545,
+      "text": ""
+    },
+    {
+      "order": 1,
+      "label": "Chapter-title",
+      "type": "Title",
+      "bbox_xyxy": [
+        125.3,
+        180.3,
+        297.4,
+        215.5
+      ],
+      "conf": 0.543,
+      "text": "LINES AND ANGLES"
+    },
+    {
+      "order": 2,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.6,
+        229.5,
+        922.7,
+        406.1
+      ],
+      "conf": 0.972,
+      "text": "An **acute** angle measures between $0^{\\circ}$ and $90^{\\circ}$, whereas a **right angle** is exactly\nequal to $90^{\\circ}$. An angle greater than $90^{\\circ}$ but less than $180^{\\circ}$ is called an **obtuse angle**.\nAlso, recall that a **straight angle** is equal to $180^{\\circ}$. An angle which is greater than $180^{\\circ}$\nbut less than $360^{\\circ}$ is called a **reflex angle**. Further, two angles whose sum is $90^{\\circ}$ are\ncalled **complementary angles**, and two angles whose sum is $180^{\\circ}$ are called\n**supplementary angles**."
+    },
+    {
+      "order": 3,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        404.6,
+        577.8,
+        743.4
+      ],
+      "conf": 0.98,
+      "text": "You have also studied about adjacent angles\nin the earlier classes (see Fig. 6.2). Two angles\nare **adjacent**, if they have a common vertex, a\ncommon arm and their non-common arms are\non different sides of the common arm. In\nFig. 6.2, $\\angle$ ABD and $\\angle$ DBC are adjacent\nangles. Ray BD is their common arm and point\nB is their common vertex. Ray BA and ray BC\nare non common arms. Moreover, when two\nangles are adjacent, then their sum is always\nequal to the angle formed by the two non-\ncommon arms. So, we can write"
+    },
+    {
+      "order": 4,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        585.0,
+        433.2,
+        898.8,
+        669.5
+      ],
+      "conf": 0.962,
+      "text": ""
+    },
+    {
+      "order": 5,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        616.1,
+        668.5,
+        855.8,
+        705.6
+      ],
+      "conf": 0.901,
+      "text": "Fig. 6.2 : Adjacent angles"
+    },
+    {
+      "order": 6,
+      "label": "Equation",
+      "type": "Equation",
+      "bbox_xyxy": [
+        210.4,
+        741.9,
+        501.2,
+        780.8
+      ],
+      "conf": 0.863,
+      "text": "$$ \\angle \\mathrm{ABC} = \\angle \\mathrm{ABD} + \\angle \\mathrm{DBC}. $$"
+    },
+    {
+      "order": 7,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.6,
+        778.2,
+        577.5,
+        898.4
+      ],
+      "conf": 0.95,
+      "text": "Note that $\\angle$ ABC and $\\angle$ ABD are not\nadjacent angles. Why? Because their non-\ncommon arms BD and BC lie on the same side\nof the common arm BA."
+    },
+    {
+      "order": 8,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        575.2,
+        757.8,
+        913.9,
+        980.8
+      ],
+      "conf": 0.96,
+      "text": ""
+    },
+    {
+      "order": 9,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.2,
+        906.6,
+        577.5,
+        1026.6
+      ],
+      "conf": 0.947,
+      "text": "If the non-common arms BA and BC in\nFig. 6.2, form a line then it will look like Fig. 6.3.\nIn this case, $\\angle$ ABD and $\\angle$ DBC are called\n**linear pair of angles.**"
+    },
+    {
+      "order": 10,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        585.3,
+        982.8,
+        868.2,
+        1020.0
+      ],
+      "conf": 0.899,
+      "text": "Fig. 6.3 : Linear pair of angles"
+    },
+    {
+      "order": 11,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.4,
+        1034.6,
+        577.7,
+        1182.6
+      ],
+      "conf": 0.954,
+      "text": "You may also recall the vertically opposite\nangles formed when two lines, say AB and CD,\nintersect each other, say at the point O\n(see Fig. 6.4). There are two pairs of vertically\nopposite angles."
+    },
+    {
+      "order": 12,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        614.9,
+        1046.2,
+        843.7,
+        1242.9
+      ],
+      "conf": 0.939,
+      "text": ""
+    },
+    {
+      "order": 13,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.0,
+        1190.8,
+        577.4,
+        1256.4
+      ],
+      "conf": 0.875,
+      "text": "One pair is $\\angle AOD$ and $\\angle BOC$. Can you\nfind the other pair?"
+    },
+    {
+      "order": 14,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        611.1,
+        1253.2,
+        872.5,
+        1312.5
+      ],
+      "conf": 0.915,
+      "text": "Fig. 6.4 : Vertically opposite\nangles"
+    }
+  ]
+}

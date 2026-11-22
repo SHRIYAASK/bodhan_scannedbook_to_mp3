@@ -1,0 +1,370 @@
+{
+  "number": 9,
+  "width": 1050,
+  "height": 1500,
+  "image_path": "out\\pages_png\\page_009.png",
+  "blocks": [
+    {
+      "id": "p009.b02",
+      "page": 9,
+      "order": 2,
+      "label": "Question",
+      "type": "Text",
+      "bbox_xyxy": [
+        164.5,
+        229.1,
+        622.9,
+        290.9
+      ],
+      "conf": 0.927,
+      "text": "2. In Fig. 6.14, lines XY and MN intersect at O. If\n$\\angle POY = 90^\\circ$ and $a : b = 2 : 3$, find $c$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b03",
+      "page": 9,
+      "order": 3,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        616.7,
+        233.1,
+        906.8,
+        495.2
+      ],
+      "conf": 0.972,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p009_b03.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p009.b04",
+      "page": 9,
+      "order": 4,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        714.0,
+        493.6,
+        812.4,
+        529.4
+      ],
+      "conf": 0.907,
+      "text": "Fig. 6.14",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b05",
+      "page": 9,
+      "order": 5,
+      "label": "Question",
+      "type": "Text",
+      "bbox_xyxy": [
+        164.0,
+        518.7,
+        622.2,
+        580.6
+      ],
+      "conf": 0.931,
+      "text": "3. In Fig. 6.15, $\\angle PQR = \\angle PRQ$, then prove that\n$\\angle PQS = \\angle PRT$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b06",
+      "page": 9,
+      "order": 6,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        631.9,
+        532.8,
+        920.5,
+        711.1
+      ],
+      "conf": 0.959,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p009_b06.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p009.b07",
+      "page": 9,
+      "order": 7,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        713.6,
+        725.9,
+        812.4,
+        762.6
+      ],
+      "conf": 0.888,
+      "text": "Fig. 6.15",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b08",
+      "page": 9,
+      "order": 8,
+      "label": "Question",
+      "type": "Text",
+      "bbox_xyxy": [
+        163.6,
+        748.2,
+        622.6,
+        810.2
+      ],
+      "conf": 0.917,
+      "text": "4. In Fig. 6.16, if $x + y = w + z$, then prove that AOB\nis a line.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b09",
+      "page": 9,
+      "order": 9,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        650.8,
+        764.1,
+        884.7,
+        1028.8
+      ],
+      "conf": 0.96,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p009_b09.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p009.b10",
+      "page": 9,
+      "order": 10,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        713.9,
+        1025.6,
+        812.1,
+        1060.7
+      ],
+      "conf": 0.858,
+      "text": "Fig. 6.16",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b11",
+      "page": 9,
+      "order": 11,
+      "label": "Question",
+      "type": "Text",
+      "bbox_xyxy": [
+        163.7,
+        1068.0,
+        622.1,
+        1209.4
+      ],
+      "conf": 0.938,
+      "text": "5. In Fig. 6.17, POQ is a line. Ray OR is perpendicular\nto line PQ. OS is another ray lying between rays\nOP and OR. Prove that\n$$\\angle \\text{ROS} = \\frac{1}{2} (\\angle \\text{QOS} - \\angle \\text{POS}).$$",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b12",
+      "page": 9,
+      "order": 12,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        633.0,
+        1082.2,
+        921.5,
+        1259.7
+      ],
+      "conf": 0.95,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p009_b12.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p009.b13",
+      "page": 9,
+      "order": 13,
+      "label": "Question",
+      "type": "Text",
+      "bbox_xyxy": [
+        163.3,
+        1206.8,
+        622.9,
+        1316.2
+      ],
+      "conf": 0.931,
+      "text": "6. It is given that $\\angle XYZ = 64^\\circ$ and $XY$ is produced\nto point P. Draw a figure from the given\ninformation. If ray YQ bisects $\\angle ZYP$, find $\\angle XYQ$\nand reflex $\\angle QYP$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p009.b14",
+      "page": 9,
+      "order": 14,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        728.1,
+        1269.4,
+        826.7,
+        1306.2
+      ],
+      "conf": 0.845,
+      "text": "Fig. 6.17",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    }
+  ],
+  "markdown": "LINES AND ANGLES\n\n2. In Fig. 6.14, lines XY and MN intersect at O. If\n$\\angle POY = 90^\\circ$ and $a : b = 2 : 3$, find $c$.\n\nFig. 6.14\n\n3. In Fig. 6.15, $\\angle PQR = \\angle PRQ$, then prove that\n$\\angle PQS = \\angle PRT$.\n\nFig. 6.15\n\n4. In Fig. 6.16, if $x + y = w + z$, then prove that AOB\nis a line.\n\nFig. 6.16\n\n5. In Fig. 6.17, POQ is a line. Ray OR is perpendicular\nto line PQ. OS is another ray lying between rays\nOP and OR. Prove that\n$$\\angle \\text{ROS} = \\frac{1}{2} (\\angle \\text{QOS} - \\angle \\text{POS}).$$\n\n6. It is given that $\\angle XYZ = 64^\\circ$ and $XY$ is produced\nto point P. Draw a figure from the given\ninformation. If ray YQ bisects $\\angle ZYP$, find $\\angle XYQ$\nand reflex $\\angle QYP$.\n\nFig. 6.17",
+  "dropped": [
+    {
+      "block": {
+        "id": "p009.b00",
+        "page": 9,
+        "order": 0,
+        "label": "Header",
+        "type": "PageHeader",
+        "bbox_xyxy": [
+          126.4,
+          179.4,
+          922.8,
+          216.7
+        ],
+        "conf": 0.546,
+        "text": "",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_furniture_type:PageHeader"
+    },
+    {
+      "block": {
+        "id": "p009.b01",
+        "page": 9,
+        "order": 1,
+        "label": "Chapter-title",
+        "type": "Title",
+        "bbox_xyxy": [
+          125.8,
+          180.3,
+          296.6,
+          215.1
+        ],
+        "conf": 0.648,
+        "text": "LINES AND ANGLES",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_running_header"
+    }
+  ]
+}

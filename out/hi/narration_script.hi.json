@@ -1,0 +1,2546 @@
+{
+  "language": "hi",
+  "ai_generated": true,
+  "voice": "Kavya",
+  "ai_label": "AI-generated narration: Bodhan Indic-Speak, voice Kavya",
+  "back_check": "every chunk back-transcribed with Indic-Transcribe; CER against the TTS text",
+  "cer": 0.1144,
+  "sections": [
+    {
+      "section_id": "s01",
+      "title": "Introduction",
+      "slug": "01-introduction",
+      "units": [],
+      "cer": null
+    },
+    {
+      "section_id": "s02",
+      "title": "6.1 Introduction",
+      "slug": "02-6-1-introduction",
+      "units": [
+        {
+          "id": "s02.u01",
+          "kind": "heading",
+          "text_en": "Chapter six lines and angles.",
+          "text": "अध्याय छह रेखाएँ और कोण।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अध्याय छह रेखाएँ और कोण।",
+              "voice": "Kavya",
+              "duration_s": 2.39,
+              "status": "ok",
+              "transcript": "अध्याय छः रेखाएँ और कोण",
+              "cer_errors": 1,
+              "cer_len": 13,
+              "cer": 0.0769,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 2.39,
+                  "cer": 0.0769
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u02",
+          "kind": "heading",
+          "text_en": "Six point one introduction.",
+          "text": "छह दशमलव एक परिचय।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "छह दशमलव एक परिचय।",
+              "voice": "Kavya",
+              "duration_s": 1.96,
+              "status": "ok",
+              "transcript": "छह दशमलव एक परिचय",
+              "cer_errors": 0,
+              "cer_len": 13,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 1.96,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u03",
+          "kind": "explanation",
+          "text_en": "In Chapter five you learned that at least two points are needed to draw a line. You also studied some axioms and used them to prove other statements. In this chapter you will study the properties of the angles formed when two lines intersect each other, and also the properties of the angles formed when a line intersects two or more parallel lines at distinct points. You will use these properties to prove statements by deductive reasoning. You have already verified these statements through activities in earlier classes.",
+          "text": "अध्याय पाँच में आपने सीखा कि एक रेखा खींचने के लिए कम से कम दो बिंदुओं की आवश्यकता होती है। आपने कुछ स्वयंसिद्धों का भी अध्ययन किया और उनका उपयोग अन्य कथनों को सिद्ध करने के लिए किया। इस अध्याय में आप उन कोणों के गुणों का अध्ययन करेंगे जो तब बनते हैं जब दो रेखाएँ एक दूसरे को काटती हैं, और उन कोणों के गुणों का भी अध्ययन करेंगे जो तब बनते हैं जब एक रेखा दो या अधिक समानांतर रेखाओं को अलग-अलग बिंदुओं पर काटती है। आप इन गुणों का उपयोग निगमनात्मक तर्क द्वारा कथनों को सिद्ध करने के लिए करेंगे। आपने पहले की कक्षाओं में गतिविधियों के माध्यम से इन कथनों को पहले ही सत्यापित कर लिया है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अध्याय पाँच में आपने सीखा कि एक रेखा खींचने के लिए कम से कम दो बिंदुओं की आवश्यकता होती है। आपने कुछ स्वयंसिद्धों का भी अध्ययन किया और उनका उपयोग अन्य कथनों को सिद्ध करने के लिए किया।",
+              "voice": "Kavya",
+              "duration_s": 14.08,
+              "status": "ok",
+              "transcript": "अध्याय पाँच में आपने सीखा कि एक रेखा खींचने के लिए कम से कम दो बिंदुओं की आवश्यकता होती है आपने कुछ स्वयंसिद्धों का भी अध्ययन किया और उनका उपयोग अन्य कथनों को सिद्ध करने के लिए किया",
+              "cer_errors": 0,
+              "cer_len": 89,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.08,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "इस अध्याय में आप उन कोणों के गुणों का अध्ययन करेंगे जो तब बनते हैं जब दो रेखाएँ एक दूसरे को काटती हैं, और उन कोणों के गुणों का भी अध्ययन करेंगे जो तब बनते हैं जब एक रेखा दो या अधिक समानांतर रेखाओं को अलग-अलग बिंदुओं पर काटती है।",
+              "voice": "Kavya",
+              "duration_s": 18.18,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.18,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "आप इन गुणों का उपयोग निगमनात्मक तर्क द्वारा कथनों को सिद्ध करने के लिए करेंगे। आपने पहले की कक्षाओं में गतिविधियों के माध्यम से इन कथनों को पहले ही सत्यापित कर लिया है।",
+              "voice": "Kavya",
+              "duration_s": 12.03,
+              "status": "ok",
+              "transcript": "आप इन गुणों का उपयोग निगमनात्मक तर्क द्वारा कथनों को सिद्ध करने के लिए करेंगे आपने पहले की कक्षाओं में गतिविधियों के माध्यम से इन कथनों को पहले ही सत्यापित कर लिया है",
+              "cer_errors": 0,
+              "cer_len": 83,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.03,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u04",
+          "kind": "explanation",
+          "text_en": "In daily life you see different types of angles formed between the edges of plane surfaces. To make a model using plane surfaces you need a thorough knowledge of angles. For instance, suppose you want to make a model of a hut for a school exhibition using bamboo sticks. You would keep some sticks parallel and some sticks slanted. An architect drawing a plan for a multistoried building also draws intersecting lines and parallel lines at different angles. Without knowledge of the properties of these lines and angles, she could not draw the layout of the building.",
+          "text": "दैनिक जीवन में आप समतल सतहों के किनारों के बीच बने विभिन्न प्रकार के कोण देखते हैं। समतल सतहों का उपयोग करके एक मॉडल बनाने के लिए आपको कोणों का गहन ज्ञान होना आवश्यक है। उदाहरण के लिए, मान लीजिए कि आप बांस की छड़ियों का उपयोग करके स्कूल प्रदर्शनी के लिए एक झोपड़ी का मॉडल बनाना चाहते हैं। आप कुछ छड़ियों को समानांतर और कुछ छड़ियों को तिरछा रखेंगे। एक बहुमंजिला इमारत के लिए योजना बनाते समय एक वास्तुकार भी विभिन्न कोणों पर प्रतिच्छेदी रेखाएँ और समानांतर रेखाएँ खींचती है। इन रेखाओं और कोणों के गुणों के ज्ञान के बिना, वह इमारत का लेआउट नहीं बना सकती थी।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "दैनिक जीवन में आप समतल सतहों के किनारों के बीच बने विभिन्न प्रकार के कोण देखते हैं। समतल सतहों का उपयोग करके एक मॉडल बनाने के लिए आपको कोणों का गहन ज्ञान होना आवश्यक है।",
+              "voice": "Kavya",
+              "duration_s": 14.76,
+              "status": "ok",
+              "transcript": "दैनिक जीवन में आप समतल सतहों के किनारों के बीच बने विभिन्न प्रकार के कोण देखते हैं समतल सतहों का उपयोग करके एक मॉडल बनाने के लिए आपको कोणों का गहन ज्ञान होना आवश्यक है",
+              "cer_errors": 0,
+              "cer_len": 86,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.76,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "उदाहरण के लिए, मान लीजिए कि आप बांस की छड़ियों का उपयोग करके स्कूल प्रदर्शनी के लिए एक झोपड़ी का मॉडल बनाना चाहते हैं। आप कुछ छड़ियों को समानांतर और कुछ छड़ियों को तिरछा रखेंगे।",
+              "voice": "Kavya",
+              "duration_s": 13.31,
+              "status": "ok",
+              "transcript": "उदाहरण के लिए मान लीजिए कि आप बाँस की छड़ियों का उपयोग करके स्कूल प्रदर्शनी के लिए एक झोपड़ी का मॉडल बनाना चाहते हैं आप कुछ छड़ियों को समानांतर और कुछ छड़ियों को तिरछा रखेंगे",
+              "cer_errors": 0,
+              "cer_len": 85,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.31,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "एक बहुमंजिला इमारत के लिए योजना बनाते समय एक वास्तुकार भी विभिन्न कोणों पर प्रतिच्छेदी रेखाएँ और समानांतर रेखाएँ खींचती है। इन रेखाओं और कोणों के गुणों के ज्ञान के बिना, वह इमारत का लेआउट नहीं बना सकती थी।",
+              "voice": "Kavya",
+              "duration_s": 15.53,
+              "status": "ok",
+              "transcript": "एक बहुमंजिला इमारत के लिए योजना बनाते समय एक वास्तुकार भी विभिन्न कोणों पर प्रतिच्छेदी रेखाएँ और समानांतर रेखाएँ खींचती है इन रेखाओं और कोणों के गुणों के ज्ञान के बिना वह इमारत का लेआउट नहीं बना सकती थी",
+              "cer_errors": 0,
+              "cer_len": 100,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.53,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u05",
+          "kind": "explanation",
+          "text_en": "Now, let us see why lines and angles are so important. In science we study light by drawing ray diagrams. When light passes from one medium to another we use the properties of intersecting lines and parallel lines to understand refraction. Similarly, when several forces act on a body we draw directed line segments to find the net effect. In such diagrams we must know how angles relate when the rays or line segments are parallel or intersect each other. To find the height of a tower or the distance of a ship from a lighthouse we use the angle between the horizontal and the line of sight. Many other situations use lines and angles. In the next chapters of geometry you will use these properties to deduce more useful results. Let us first revise the terms and definitions related to lines and angles that you learned in earlier classes.",
+          "text": "अब, आइए देखते हैं कि रेखाएँ और कोण इतने महत्वपूर्ण क्यों हैं। विज्ञान में हम किरण आरेख बनाकर प्रकाश का अध्ययन करते हैं। जब प्रकाश एक माध्यम से दूसरे माध्यम में जाता है तो हम अपवर्तन को समझने के लिए प्रतिच्छेदी रेखाओं और समानांतर रेखाओं के गुणों का उपयोग करते हैं। इसी तरह, जब कई बल किसी पिंड पर कार्य करते हैं तो हम शुद्ध प्रभाव ज्ञात करने के लिए निर्देशित रेखाखंडों को खींचते हैं। ऐसे आरेखों में हमें यह जानना चाहिए कि जब किरणें या रेखाखंड समानांतर होते हैं या एक दूसरे को काटते हैं तो कोण कैसे संबंधित होते हैं। किसी टावर की ऊँचाई या लाइटहाउस से जहाज की दूरी ज्ञात करने के लिए हम क्षैतिज और दृष्टि रेखा के बीच के कोण का उपयोग करते हैं। कई अन्य स्थितियाँ रेखाओं और कोणों का उपयोग करती हैं। ज्यामिति के अगले अध्यायों में आप अधिक उपयोगी परिणाम निकालने के लिए इन गुणों का उपयोग करेंगे। आइए पहले रेखाओं और कोणों से संबंधित उन शब्दों और परिभाषाओं को दोहरा लें जो आपने पिछली कक्षाओं में सीखी थीं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अब, आइए देखते हैं कि रेखाएँ और कोण इतने महत्वपूर्ण क्यों हैं। विज्ञान में हम किरण आरेख बनाकर प्रकाश का अध्ययन करते हैं।",
+              "voice": "Kavya",
+              "duration_s": 9.81,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.81,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "जब प्रकाश एक माध्यम से दूसरे माध्यम में जाता है तो हम अपवर्तन को समझने के लिए प्रतिच्छेदी रेखाओं और समानांतर रेखाओं के गुणों का उपयोग करते हैं।",
+              "voice": "Kavya",
+              "duration_s": 11.61,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 11.61,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "इसी तरह, जब कई बल किसी पिंड पर कार्य करते हैं तो हम शुद्ध प्रभाव ज्ञात करने के लिए निर्देशित रेखाखंडों को खींचते हैं। ऐसे आरेखों में हमें यह जानना चाहिए कि जब किरणें या रेखाखंड समानांतर होते हैं या एक दूसरे को काटते हैं तो कोण कैसे संबंधित होते हैं।",
+              "voice": "Kavya",
+              "duration_s": 20.31,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.31,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "किसी टावर की ऊँचाई या लाइटहाउस से जहाज की दूरी ज्ञात करने के लिए हम क्षैतिज और दृष्टि रेखा के बीच के कोण का उपयोग करते हैं। कई अन्य स्थितियाँ रेखाओं और कोणों का उपयोग करती हैं।",
+              "voice": "Kavya",
+              "duration_s": 13.57,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.57,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "ज्यामिति के अगले अध्यायों में आप अधिक उपयोगी परिणाम निकालने के लिए इन गुणों का उपयोग करेंगे। आइए पहले रेखाओं और कोणों से संबंधित उन शब्दों और परिभाषाओं को दोहरा लें जो आपने पिछली कक्षाओं में सीखी थीं।",
+              "voice": "Kavya",
+              "duration_s": 15.53,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.53,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0021
+    },
+    {
+      "section_id": "s03",
+      "title": "6.2 Basic Terms and Definitions",
+      "slug": "03-6-2-basic-terms-and-definitions",
+      "units": [
+        {
+          "id": "s03.u01",
+          "kind": "heading",
+          "text_en": "Six point two, Basic Terms and Definitions.",
+          "text": "छह दशमलव दो, बुनियादी शब्द और परिभाषाएँ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "छह दशमलव दो, बुनियादी शब्द और परिभाषाएँ।",
+              "voice": "Kavya",
+              "duration_s": 3.67,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 3.67,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a part of a line with two end points is called a line segment. A part of a line with one end point is called a ray. We will write the line segment AB, the ray AB, the length AB and the line AB all with the same letters AB. The meaning will be clear from the context. Sometimes small letters l, m, n and so on will be used to denote lines.",
+          "text": "स्मरण रहे कि दो अंत बिन्दुओं वाली रेखा के एक भाग को रेखाखण्ड कहते हैं। एक अंत बिन्दु वाली रेखा के एक भाग को किरण कहते हैं। हम रेखाखण्ड AB, किरण AB, लम्बाई AB और रेखा AB सभी को समान अक्षरों AB से लिखेंगे। अर्थ संदर्भ से स्पष्ट हो जाएगा। कभी-कभी छोटे अक्षर l, m, n आदि का प्रयोग रेखाओं को दर्शाने के लिए किया जाएगा।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "स्मरण रहे कि दो अंत बिन्दुओं वाली रेखा के एक भाग को रेखाखण्ड कहते हैं। एक अंत बिन्दु वाली रेखा के एक भाग को किरण कहते हैं। हम रेखाखण्ड AB, किरण AB, लम्बाई AB और रेखा AB सभी को समान अक्षरों AB से लिखेंगे। अर्थ संदर्भ से स्पष्ट हो जाएगा।",
+              "voice": "Kavya",
+              "duration_s": 22.27,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 22.27,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "कभी-कभी छोटे अक्षर l, m, n आदि का प्रयोग रेखाओं को दर्शाने के लिए किया जाएगा।",
+              "voice": "Kavya",
+              "duration_s": 7.68,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 7.68,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u03",
+          "kind": "explanation",
+          "text_en": "If three or more points lie on the same line, they are called collinear points; otherwise they are called non collinear points.",
+          "text": "यदि तीन या अधिक बिंदु एक ही रेखा पर स्थित हों तो उन्हें संरेख बिंदु कहा जाता है अन्यथा उन्हें असमरिक बिंदु कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "यदि तीन या अधिक बिंदु एक ही रेखा पर स्थित हों तो उन्हें संरेख बिंदु कहा जाता है अन्यथा उन्हें असमरिक बिंदु कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 9.13,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.13,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u04",
+          "kind": "explanation",
+          "text_en": "Recall that an angle is formed when two rays originate from the same end point. The rays are called the arms of the angle and the end point is called the vertex. You have studied different types of angles such as acute angle, right angle, obtuse angle, straight angle and reflex angle in earlier classes. Look at Figure six point one.",
+          "text": "याद कीजिए कि एक कोण तब बनता है जब दो किरणें एक ही अंतिम बिंदु से निकलती हैं। किरणों को कोण की भुजाएँ कहा जाता है और अंतिम बिंदु को शीर्ष कहा जाता है। आपने पिछली कक्षाओं में विभिन्न प्रकार के कोणों जैसे न्यून कोण, समकोण, अधिक कोण, ऋजु कोण और परावर्तित कोण का अध्ययन किया है। चित्र छह बिंदु एक देखें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "याद कीजिए कि एक कोण तब बनता है जब दो किरणें एक ही अंतिम बिंदु से निकलती हैं। किरणों को कोण की भुजाएँ कहा जाता है और अंतिम बिंदु को शीर्ष कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 11.86,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 11.86,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "आपने पिछली कक्षाओं में विभिन्न प्रकार के कोणों जैसे न्यून कोण, समकोण, अधिक कोण, ऋजु कोण और परावर्तित कोण का अध्ययन किया है। चित्र छह बिंदु एक देखें।",
+              "voice": "Kavya",
+              "duration_s": 12.29,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.29,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u05",
+          "kind": "explanation",
+          "text_en": "Figure six point one shows five separate angle diagrams arranged in two rows. In the top row, diagram one shows two rays meeting at a vertex forming a small angle marked with an arc and the letter x, labeled acute angle. Diagram two shows two rays meeting at a right angle, marked with a small square and the letter y, labeled right angle. Diagram three shows two rays forming a wide angle marked with an arc and the letter z, labeled obtuse angle. In the bottom row, diagram four shows a single straight line with arrows on both ends and a dot at the centre, with a curved arc above it labeled s, called straight angle. Diagram five shows two rays from a vertex with a large curved arrow looping around the outside, labeled t, called reflex angle.",
+          "text": "चित्र छह दशमलव एक में दो पंक्तियों में व्यवस्थित पाँच अलग-अलग कोण आरेख दिखाए गए हैं। ऊपरी पंक्ति में, आरेख एक में दो किरणें एक शीर्ष पर मिलती हुई दिखाई गई हैं, जो एक छोटे कोण का निर्माण करती हैं, जिसे चाप और अक्षर x से चिह्नित किया गया है, और इसे न्यून कोण कहा गया है। आरेख दो में दो किरणें एक समकोण पर मिलती हुई दिखाई गई हैं, जिसे एक छोटे वर्ग और अक्षर y से चिह्नित किया गया है, और इसे समकोण कहा गया है। आरेख तीन में दो किरणें एक विस्तृत कोण बनाती हुई दिखाई गई हैं, जिसे एक चाप और अक्षर z से चिह्नित किया गया है, और इसे अधिक कोण कहा गया है। निचली पंक्ति में, आरेख चार में एक सीधी रेखा दिखाई गई है जिसके दोनों सिरों पर तीर हैं और केंद्र में एक बिंदु है, जिसके ऊपर एक घुमावदार चाप है जिसे s से चिह्नित किया गया है, और इसे ऋजु कोण कहा जाता है। आरेख पाँच में एक शीर्ष से दो किरणें दिखाई गई हैं जिनके चारों ओर बाहर की ओर एक बड़ा घुमावदार तीर है, जिसे t से चिह्नित किया गया है, और इसे परावर्तित कोण कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव एक में दो पंक्तियों में व्यवस्थित पाँच अलग-अलग कोण आरेख दिखाए गए हैं।",
+              "voice": "Kavya",
+              "duration_s": 6.06,
+              "status": "ok",
+              "transcript": "चित्र छह दशमलव एक में दो पंक्तियों में व्यवस्थित पाँच अलग अलग कोण आरेख दिखाए गए हैं",
+              "cer_errors": 0,
+              "cer_len": 44,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 6.06,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "ऊपरी पंक्ति में, आरेख एक में दो किरणें एक शीर्ष पर मिलती हुई दिखाई गई हैं, जो एक छोटे कोण का निर्माण करती हैं, जिसे चाप और अक्षर x से चिह्नित किया गया है, और इसे न्यून कोण कहा गया है।",
+              "voice": "Kavya",
+              "duration_s": 14.25,
+              "status": "ok",
+              "transcript": "ऊपरी पंक्ति में आरेख एक में दो किरणें एक शीर्ष पर मिलती हुई दिखाई गई हैं जो एक छोटे कोण का निर्माण करती हैं जिसे चाप और अक्षर एक्स से चिह्नित किया गया है और इसे न्यून कोण कहा गया है",
+              "cer_errors": 3,
+              "cer_len": 86,
+              "cer": 0.0349,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.25,
+                  "cer": 0.0349
+                }
+              ]
+            },
+            {
+              "text": "आरेख दो में दो किरणें एक समकोण पर मिलती हुई दिखाई गई हैं, जिसे एक छोटे वर्ग और अक्षर y से चिह्नित किया गया है, और इसे समकोण कहा गया है।",
+              "voice": "Kavya",
+              "duration_s": 9.9,
+              "status": "ok",
+              "transcript": "आरेख दो में दो किरणें एक समकोण पर मिलती हुई दिखाई गई हैं जिसे एक छोटे वर्ग और अक्षर वाय से चिह्नित किया गया है और इसे समकोण कहा गया है",
+              "cer_errors": 2,
+              "cer_len": 67,
+              "cer": 0.0299,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.9,
+                  "cer": 0.0299
+                }
+              ]
+            },
+            {
+              "text": "आरेख तीन में दो किरणें एक विस्तृत कोण बनाती हुई दिखाई गई हैं, जिसे एक चाप और अक्षर z से चिह्नित किया गया है, और इसे अधिक कोण कहा गया है।",
+              "voice": "Kavya",
+              "duration_s": 11.86,
+              "status": "ok",
+              "transcript": "आरेख तीन में दो किरणें एक विस्तृत कोण बनाती हुई दिखाई गई हैं जिसे एक चाप और अक्षर ज़ेड से चिह्नित किया गया है और इसे अधिक कोण कहा गया है",
+              "cer_errors": 2,
+              "cer_len": 66,
+              "cer": 0.0303,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 11.86,
+                  "cer": 0.0303
+                }
+              ]
+            },
+            {
+              "text": "निचली पंक्ति में, आरेख चार में एक सीधी रेखा दिखाई गई है जिसके दोनों सिरों पर तीर हैं और केंद्र में एक बिंदु है, जिसके ऊपर एक घुमावदार चाप है जिसे s से चिह्नित किया गया है, और इसे ऋजु कोण कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 15.36,
+              "status": "ok",
+              "transcript": "निचली पंक्ति में आरेख चार में एक सीधी रेखा दिखाई गई है जिसके दोनों सिरों पर तीर हैं और केंद्र में एक बिंदु है जिसके ऊपर एक घुमावदार चाप है जिसे से चिह्नित किया गया है और इसे रिजुकोण कहा जाता है",
+              "cer_errors": 2,
+              "cer_len": 90,
+              "cer": 0.0222,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.36,
+                  "cer": 0.0222
+                }
+              ]
+            },
+            {
+              "text": "आरेख पाँच में एक शीर्ष से दो किरणें दिखाई गई हैं जिनके चारों ओर बाहर की ओर एक बड़ा घुमावदार तीर है, जिसे t से चिह्नित किया गया है, और इसे परावर्तित कोण कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 12.97,
+              "status": "ok",
+              "transcript": "आरेख पाँच में एक शीर्ष से दो किरणें दिखाई गई हैं जिनके चारों ओर बाहर की ओर एक बड़ा घुमावदार तीर है जिसे टी से चिह्नित किया गया है और इसे परावर्तित कोण कहा जाता है",
+              "cer_errors": 1,
+              "cer_len": 77,
+              "cer": 0.013,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.97,
+                  "cer": 0.013
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u06",
+          "kind": "explanation",
+          "text_en": "An acute angle measures between zero degrees and ninety degrees. A right angle is exactly ninety degrees. An angle greater than ninety degrees but less than one hundred and eighty degrees is called an obtuse angle. A straight angle is equal to one hundred and eighty degrees. An angle greater than one hundred and eighty degrees but less than three hundred and sixty degrees is called a reflex angle. Two angles whose sum is ninety degrees are called complementary angles, and two angles whose sum is one hundred and eighty degrees are called supplementary angles.",
+          "text": "एक न्यून कोण शून्य डिग्री से लेकर नब्बे डिग्री के बीच का होता है। एक समकोण ठीक नब्बे डिग्री का होता है। नब्बे डिग्री से अधिक लेकिन सौ अस्सी डिग्री से कम वाले कोण को अधिक कोण कहते हैं। एक ऋजु कोण सौ अस्सी डिग्री के बराबर होता है। सौ अस्सी डिग्री से अधिक लेकिन तीन सौ साठ डिग्री से कम वाले कोण को परावर्ती कोण कहते हैं। दो कोणों जिनका योग नब्बे डिग्री हो पूरक कोण कहलाते हैं और दो कोणों जिनका योग सौ अस्सी डिग्री हो संपूरक कोण कहलाते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक न्यून कोण शून्य डिग्री से लेकर नब्बे डिग्री के बीच का होता है। एक समकोण ठीक नब्बे डिग्री का होता है। नब्बे डिग्री से अधिक लेकिन सौ अस्सी डिग्री से कम वाले कोण को अधिक कोण कहते हैं। एक ऋजु कोण सौ अस्सी डिग्री के बराबर होता है।",
+              "voice": "Kavya",
+              "duration_s": 18.69,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.69,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "सौ अस्सी डिग्री से अधिक लेकिन तीन सौ साठ डिग्री से कम वाले कोण को परावर्ती कोण कहते हैं। दो कोणों जिनका योग नब्बे डिग्री हो पूरक कोण कहलाते हैं और दो कोणों जिनका योग सौ अस्सी डिग्री हो संपूरक कोण कहलाते हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.38,
+              "status": "ok",
+              "transcript": "सौ अस्सी डिग्री से अधिक लेकिन तीन सौ साठ डिग्री से कम वाले कोण को परावर्ती कोण कहते हैं दो कोणों जिनका योग नब्बे डिग्री हो पूरक कोण कहलाते हैं और दो कोणों जिनका योग सौ अस्सी डिग्री हो सम्पूरक कोण कहलाते हैं",
+              "cer_errors": 1,
+              "cer_len": 95,
+              "cer": 0.0105,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.38,
+                  "cer": 0.0105
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u07",
+          "kind": "explanation",
+          "text_en": "You have also studied about adjacent angles in the earlier classes. Look at Figure six point two. Two angles are adjacent if they have a common vertex, a common arm and their non common arms are on different sides of the common arm. In Figure six point two, angle A B D and angle D B C are adjacent angles. Ray B D is their common arm and point B is their common vertex. Ray B A and ray B C are non common arms. Moreover, when two angles are adjacent, then their sum is always equal to the angle formed by the two non common arms.",
+          "text": "आपने पहले की कक्षाओं में आसन्न कोणों के बारे में भी पढ़ा है। चित्र छह बिंदु दो को देखें। दो कोण आसन्न होते हैं यदि उनके पास एक उभयनिष्ठ शीर्ष, एक उभयनिष्ठ भुजा हो और उनकी गैर-उभयनिष्ठ भुजाएँ उभयनिष्ठ भुजा के अलग-अलग पक्षों पर हों। चित्र छह बिंदु दो में, कोण ए बी डी और कोण डी बी सी आसन्न कोण हैं। किरण बी डी उनकी उभयनिष्ठ भुजा है और बिंदु बी उनका उभयनिष्ठ शीर्ष है। किरण बी ए और किरण बी सी गैर-उभयनिष्ठ भुजाएँ हैं। इसके अलावा, जब दो कोण आसन्न होते हैं, तो उनका योग हमेशा दो गैर-उभयनिष्ठ भुजाओं द्वारा बनाए गए कोण के बराबर होता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "आपने पहले की कक्षाओं में आसन्न कोणों के बारे में भी पढ़ा है। चित्र छह बिंदु दो को देखें। दो कोण आसन्न होते हैं यदि उनके पास एक उभयनिष्ठ शीर्ष, एक उभयनिष्ठ भुजा हो और उनकी गैर-उभयनिष्ठ भुजाएँ उभयनिष्ठ भुजा के अलग-अलग पक्षों पर हों।",
+              "voice": "Kavya",
+              "duration_s": 20.91,
+              "status": "ok",
+              "transcript": "आपने पहले की कक्षाओं में आसन्न कोणों के बारे में भी पढ़ा है चित्र छः बिंदु दो को देखें दो कोण आसन्न होते हैं यदि उनके पास एक उभयनिष्ठ शीर्ष एक उभयनिष्ठ भुजा हो और उनकी गैर उभयनिष्ठ भुजाएँ उभयनिष्ठ भुजा के अलग अलग पक्षों पर हों",
+              "cer_errors": 1,
+              "cer_len": 113,
+              "cer": 0.0088,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.91,
+                  "cer": 0.0088
+                }
+              ]
+            },
+            {
+              "text": "चित्र छह बिंदु दो में, कोण ए बी डी और कोण डी बी सी आसन्न कोण हैं। किरण बी डी उनकी उभयनिष्ठ भुजा है और बिंदु बी उनका उभयनिष्ठ शीर्ष है। किरण बी ए और किरण बी सी गैर-उभयनिष्ठ भुजाएँ हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.81,
+              "status": "ok",
+              "transcript": "चित्र छह बिंदु दो में कोण ए बी डी और कोण डी बी सी आसन्न कोण हैं  किरण बी डी उनकी उभयनिष्ठ भुजा है और बिंदु बी उनका उभयनिष्ठ शीर्ष है  किरण बी ए और किरण बी सी गैर उभयनिष्ठ भुजाएं हैं",
+              "cer_errors": 0,
+              "cer_len": 87,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.81,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "इसके अलावा, जब दो कोण आसन्न होते हैं, तो उनका योग हमेशा दो गैर-उभयनिष्ठ भुजाओं द्वारा बनाए गए कोण के बराबर होता है।",
+              "voice": "Kavya",
+              "duration_s": 9.22,
+              "status": "ok",
+              "transcript": "इसके अलावा जब दो कोण आसन्न होते हैं तो उनका योग हमेशा दो गायर उभयनिष्ठ भुजाओं द्वारा बनाए गए कोण के बराबर होता है",
+              "cer_errors": 1,
+              "cer_len": 57,
+              "cer": 0.0175,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.22,
+                  "cer": 0.0175
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u08",
+          "kind": "explanation",
+          "text_en": "Figure six point two shows three rays starting from the common vertex B. Ray B A points up and to the left, ray B D points up and to the right, and ray B C points horizontally to the right.",
+          "text": "चित्र छह दशमलव दो में तीन किरणें सामान्य शीर्ष बी से शुरू होती हैं। किरण बी ए ऊपर और बाईं ओर इंगित करती है, किरण बी डी ऊपर और दाईं ओर इंगित करती है, और किरण बी सी क्षैतिज रूप से दाईं ओर इंगित करती है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव दो में तीन किरणें सामान्य शीर्ष बी से शुरू होती हैं। किरण बी ए ऊपर और बाईं ओर इंगित करती है, किरण बी डी ऊपर और दाईं ओर इंगित करती है, और किरण बी सी क्षैतिज रूप से दाईं ओर इंगित करती है।",
+              "voice": "Kavya",
+              "duration_s": 17.15,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 17.15,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u09",
+          "kind": "explanation",
+          "text_en": "Angle A B C equals angle A B D plus angle D B C.",
+          "text": "कोण A B C, कोण A B D और कोण D B C के योग के बराबर है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण A B C, कोण A B D और कोण D B C के योग के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 6.14,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 6.14,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u10",
+          "kind": "explanation",
+          "text_en": "Note that angle A B C and angle A B D are not adjacent angles. Why? Because their non common arms B D and B C lie on the same side of the common arm B A.",
+          "text": "ध्यान दें कि कोण A B C और कोण A B D आसन्न कोण नहीं हैं। क्यों? क्योंकि उनकी गैर-समान भुजाएँ B D और B C समान भुजा B A के एक ही तरफ स्थित हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ध्यान दें कि कोण A B C और कोण A B D आसन्न कोण नहीं हैं। क्यों? क्योंकि उनकी गैर-समान भुजाएँ B D और B C समान भुजा B A के एक ही तरफ स्थित हैं।",
+              "voice": "Kavya",
+              "duration_s": 13.57,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.57,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u11",
+          "kind": "explanation",
+          "text_en": "If the non common arms B A and B C in Figure six point two form a line then it will look like Figure six point three. In this case, angle A B D and angle D B C are called linear pair of angles.",
+          "text": "यदि चित्र छह बिंदु दो में गैर-सामान्य भुजाएँ B A और B C एक रेखा बनाती हैं तो यह चित्र छह बिंदु तीन की तरह दिखेगा। इस स्थिति में, कोण A B D और कोण D B C को कोणों का रैखिक युग्म कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "यदि चित्र छह बिंदु दो में गैर-सामान्य भुजाएँ B A और B C एक रेखा बनाती हैं तो यह चित्र छह बिंदु तीन की तरह दिखेगा। इस स्थिति में, कोण A B D और कोण D B C को कोणों का रैखिक युग्म कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 16.73,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.73,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u12",
+          "kind": "explanation",
+          "text_en": "Figure six point three shows a straight horizontal line labelled A on the left, B in the middle, and C on the right. Ray B D extends upward and to the right. The two small arcs at B mark the two angles that form a linear pair.",
+          "text": "चित्र छह दशमलव तीन में एक सीधी क्षैतिज रेखा दिखाई गई है जिस पर बाईं ओर A, मध्य में B और दाईं ओर C लिखा है। किरण BD ऊपर और दाईं ओर फैली हुई है। B पर दो छोटे चाप उन दो कोणों को दर्शाते हैं जो एक रैखिक युग्म बनाते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव तीन में एक सीधी क्षैतिज रेखा दिखाई गई है जिस पर बाईं ओर A, मध्य में B और दाईं ओर C लिखा है। किरण BD ऊपर और दाईं ओर फैली हुई है। B पर दो छोटे चाप उन दो कोणों को दर्शाते हैं जो एक रैखिक युग्म बनाते हैं।",
+              "voice": "Kavya",
+              "duration_s": 18.35,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.35,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u13",
+          "kind": "explanation",
+          "text_en": "You may also recall the vertically opposite angles formed when two lines, say A B and C D, intersect each other at the point O. See Figure six point four. There are two pairs of vertically opposite angles.",
+          "text": "आप उन शीर्ष अभिमुख कोणों को भी याद कर सकते हैं जो तब बनते हैं जब दो रेखाएँ, मान लीजिए A B और C D, एक दूसरे को बिंदु O पर काटती हैं। चित्र छह बिंदु चार देखें। शीर्ष अभिमुख कोणों के दो जोड़े हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "आप उन शीर्ष अभिमुख कोणों को भी याद कर सकते हैं जो तब बनते हैं जब दो रेखाएँ, मान लीजिए A B और C D, एक दूसरे को बिंदु O पर काटती हैं। चित्र छह बिंदु चार देखें। शीर्ष अभिमुख कोणों के दो जोड़े हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.98,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.98,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u14",
+          "kind": "explanation",
+          "text_en": "Figure six point four shows two straight lines crossing at point O. One line is labelled A at the upper left and B at the lower right. The other line is labelled C at the lower left and D at the upper right. Four curved arcs around O show the four angles, with two opposite arcs marked as equal.",
+          "text": "चित्र छह दशमलव चार में दो सीधी रेखाएँ बिंदु O पर एक दूसरे को काटती हुई दिखाई गई हैं। एक रेखा के ऊपरी बाएँ भाग में A और निचले दाएँ भाग में B लिखा है। दूसरी रेखा के निचले बाएँ भाग में C और ऊपरी दाएँ भाग में D लिखा है। O के चारों ओर चार वक्र चाप चार कोणों को दर्शाते हैं, जिनमें से दो विपरीत चापों को बराबर चिह्नित किया गया है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव चार में दो सीधी रेखाएँ बिंदु O पर एक दूसरे को काटती हुई दिखाई गई हैं। एक रेखा के ऊपरी बाएँ भाग में A और निचले दाएँ भाग में B लिखा है। दूसरी रेखा के निचले बाएँ भाग में C और ऊपरी दाएँ भाग में D लिखा है।",
+              "voice": "Kavya",
+              "duration_s": 19.63,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 19.63,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "O के चारों ओर चार वक्र चाप चार कोणों को दर्शाते हैं, जिनमें से दो विपरीत चापों को बराबर चिह्नित किया गया है।",
+              "voice": "Kavya",
+              "duration_s": 8.96,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 8.96,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u15",
+          "kind": "explanation",
+          "text_en": "One pair is angle A O D and angle B O C. Can you find the other pair?",
+          "text": "एक युग्म कोण AOD और कोण BOC है। क्या आप दूसरा युग्म खोज सकते हैं?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक युग्म कोण AOD और कोण BOC है। क्या आप दूसरा युग्म खोज सकते हैं?",
+              "voice": "Kavya",
+              "duration_s": 5.89,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.89,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0166
+    },
+    {
+      "section_id": "s04",
+      "title": "6.3 Intersecting Lines and Non-intersecting Lines",
+      "slug": "04-6-3-intersecting-lines-and-non-intersect",
+      "units": [
+        {
+          "id": "s04.u01",
+          "kind": "heading",
+          "text_en": "Section six point three intersecting lines and non intersecting lines.",
+          "text": "धारा छह बिंदु तीन प्रतिच्छेदी रेखाएँ और अपरिच्छेदी रेखाएँ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "धारा छह बिंदु तीन प्रतिच्छेदी रेखाएँ और अपरिच्छेदी रेखाएँ।",
+              "voice": "Kavya",
+              "duration_s": 5.12,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.12,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u02",
+          "kind": "explanation",
+          "text_en": "Draw two different lines P Q and R S on a paper. You will see that you can draw them in two different ways as shown in figure six point five i and figure six point five ii.",
+          "text": "एक कागज़ पर दो अलग-अलग रेखाएँ PQ और RS खींचिए। आप देखेंगे कि आप उन्हें दो अलग-अलग तरीकों से बना सकते हैं, जैसा कि चित्र छह बिंदु पाँच i और चित्र छह बिंदु पाँच ii में दिखाया गया है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक कागज़ पर दो अलग-अलग रेखाएँ PQ और RS खींचिए। आप देखेंगे कि आप उन्हें दो अलग-अलग तरीकों से बना सकते हैं, जैसा कि चित्र छह बिंदु पाँच i और चित्र छह बिंदु पाँच ii में दिखाया गया है।",
+              "voice": "Kavya",
+              "duration_s": 15.96,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.96,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u03",
+          "kind": "explanation",
+          "text_en": "Look at figure six point five. The figure has two parts. Part one, labeled i intersecting lines, shows two straight lines crossing at a single point in the middle. One line runs from point P in the upper left to point Q in the lower right, and the other runs from point R in the lower left to point S in the upper right, with arrows at both ends of each line. Part two, labeled ii non intersecting parallel lines, shows two horizontal straight lines that do not meet. The top line has point P on the left and point Q on the right, and the bottom line has point R on the left and point S on the right, each with arrows at both ends.",
+          "text": "चित्र छह दशमलव पाँच को देखिए। इस चित्र के दो भाग हैं। भाग एक, जिसे 'i प्रतिच्छेदी रेखाएँ' नाम दिया गया है, में दो सीधी रेखाएँ दिखाई गई हैं जो बीच में एक बिंदु पर काटती हैं। एक रेखा ऊपरी बाएँ कोने में स्थित बिंदु P से निचले दाएँ कोने में स्थित बिंदु Q तक जाती है, और दूसरी रेखा निचले बाएँ कोने में स्थित बिंदु R से ऊपरी दाएँ कोने में स्थित बिंदु S तक जाती है, दोनों रेखाओं के सिरों पर तीर के निशान बने हुए हैं। भाग दो, जिसे 'ii अपारंभिक समानांतर रेखाएँ' नाम दिया गया है, में दो क्षैतिज सीधी रेखाएँ दिखाई गई हैं जो आपस में नहीं मिलती हैं। ऊपर वाली रेखा में बाएँ कोने में बिंदु P और दाएँ कोने में बिंदु Q है, और नीचे वाली रेखा में बाएँ कोने में बिंदु R और दाएँ कोने में बिंदु S है, प्रत्येक के सिरों पर तीर के निशान बने हुए हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव पाँच को देखिए। इस चित्र के दो भाग हैं। भाग एक, जिसे 'i प्रतिच्छेदी रेखाएँ' नाम दिया गया है, में दो सीधी रेखाएँ दिखाई गई हैं जो बीच में एक बिंदु पर काटती हैं।",
+              "voice": "Kavya",
+              "duration_s": 13.74,
+              "status": "ok",
+              "transcript": "चित्र छह दशमलव पाँच को देखिए इस चित्र के दो भाग हैं भाग एक जिसे आय प्रतिच्छेदी रेखाएँ नाम दिया गया है में दो सीधी रेखाएँ दिखाई गई हैं जो बीच में एक बिंदु पर काटती हैं",
+              "cer_errors": 2,
+              "cer_len": 76,
+              "cer": 0.0263,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.74,
+                  "cer": 0.0263
+                }
+              ]
+            },
+            {
+              "text": "एक रेखा ऊपरी बाएँ कोने में स्थित बिंदु P से निचले दाएँ कोने में स्थित बिंदु Q तक जाती है, और दूसरी रेखा निचले बाएँ कोने में स्थित बिंदु R से ऊपरी दाएँ कोने में स्थित बिंदु S तक जाती है, दोनों रेखाओं के सिरों पर तीर के निशान बने हुए हैं।",
+              "voice": "Kavya",
+              "duration_s": 22.1,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 22.1,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "भाग दो, जिसे 'ii अपारंभिक समानांतर रेखाएँ' नाम दिया गया है, में दो क्षैतिज सीधी रेखाएँ दिखाई गई हैं जो आपस में नहीं मिलती हैं।",
+              "voice": "Kavya",
+              "duration_s": 9.81,
+              "status": "ok",
+              "transcript": "भाग दो जिसे आई अपारंभिक समानांतर रेखाएँ नाम दिया गया है में दो क्षैतिज सीधी रेखाएँ दिखाई गई हैं जो आपस में नहीं मिलती हैं",
+              "cer_errors": 2,
+              "cer_len": 55,
+              "cer": 0.0364,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.81,
+                  "cer": 0.0364
+                }
+              ]
+            },
+            {
+              "text": "ऊपर वाली रेखा में बाएँ कोने में बिंदु P और दाएँ कोने में बिंदु Q है, और नीचे वाली रेखा में बाएँ कोने में बिंदु R और दाएँ कोने में बिंदु S है, प्रत्येक के सिरों पर तीर के निशान बने हुए हैं।",
+              "voice": "Kavya",
+              "duration_s": 15.45,
+              "status": "ok",
+              "transcript": "ऊपर वाले रेखा में बाएँ कोने में बिंदु पी और दाएँ कोने में बिंदु क्यू है और नीचे वाली रेखा में बाएँ कोने में बिंदु आर और दाएँ कोने में बिंदु एस है प्रत्येक के सिरों पर पीर के निशान बने हुए",
+              "cer_errors": 9,
+              "cer_len": 76,
+              "cer": 0.1184,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.45,
+                  "cer": 0.1184
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u04",
+          "kind": "explanation",
+          "text_en": "Recall the notion of a line, that it extends indefinitely in both directions. Lines P Q and R S in figure six point five i are intersecting lines and in figure six point five ii are parallel lines. Note that the lengths of the common perpendiculars at different points on these parallel lines is the same. This equal length is called distance between two parallel lines.",
+          "text": "एक रेखा की धारणा को याद करें, कि यह दोनों दिशाओं में अनिश्चित काल तक फैली हुई है। चित्र छह बिंदु पांच i में रेखाएँ P Q और R S प्रतिच्छेदी रेखाएँ हैं और चित्र छह बिंदु पांच ii में समानांतर रेखाएँ हैं। ध्यान दें कि इन समानांतर रेखाओं पर विभिन्न बिंदुओं पर उभयनिष्ठ लंबों की लंबाई समान होती है। इस समान लंबाई को दो समानांतर रेखाओं के बीच की दूरी कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक रेखा की धारणा को याद करें, कि यह दोनों दिशाओं में अनिश्चित काल तक फैली हुई है। चित्र छह बिंदु पांच i में रेखाएँ P Q और R S प्रतिच्छेदी रेखाएँ हैं और चित्र छह बिंदु पांच ii में समानांतर रेखाएँ हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.73,
+              "status": "ok",
+              "transcript": "एक रेखा की धारणा को याद करें कि यह दोनों दिशाओं में अनिश्चित काल तक फैली हुई है चित्र छः बिंदु पाँच आई में रेखाएँ पी क्यू और आर एस प्रतिच्छेदी रेखाएँ हैं और चित्र छः बिंदु पाँच ई में समानांतर रेखाएँ हैं",
+              "cer_errors": 13,
+              "cer_len": 89,
+              "cer": 0.1461,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.73,
+                  "cer": 0.1461
+                }
+              ]
+            },
+            {
+              "text": "ध्यान दें कि इन समानांतर रेखाओं पर विभिन्न बिंदुओं पर उभयनिष्ठ लंबों की लंबाई समान होती है। इस समान लंबाई को दो समानांतर रेखाओं के बीच की दूरी कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 12.29,
+              "status": "ok",
+              "transcript": "ध्यान दें कि इन समानांतर रेखाओं पर विभिन्न बिंदुओं पर उभयनिष्ठ लंबों की लंबाई समान होती है इस समान लंबाई को दो समानांतर रेखाओं के बीच की दूरी कहा जाता है",
+              "cer_errors": 0,
+              "cer_len": 73,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.29,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0705
+    },
+    {
+      "section_id": "s05",
+      "title": "6.4 Pairs of Angles",
+      "slug": "05-6-4-pairs-of-angles",
+      "units": [
+        {
+          "id": "s05.u01",
+          "kind": "heading",
+          "text_en": "Six point four Pairs of Angles.",
+          "text": "छह दशमलव चार कोणों के जोड़े।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "छह दशमलव चार कोणों के जोड़े।",
+              "voice": "Kavya",
+              "duration_s": 2.13,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 2.13,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u02",
+          "kind": "explanation",
+          "text_en": "In Section six point two you learned the definitions of complementary angles, supplementary angles, adjacent angles, linear pair of angles and so on. Can you think of some relations between these angles? Now, let us find out the relation between the angles formed when a ray stands on a line. Look at Figure six point six. Name the line as A B and the ray as O C. The angles formed at the point O are angle A O C, angle B O C and angle A O B.",
+          "text": "धारा छह बिंदु दो में आपने पूरक कोणों, संपूरक कोणों, आसन्न कोणों, रैखिक युग्म कोणों आदि की परिभाषाएँ सीखीं। क्या आप इन कोणों के बीच कुछ संबंध सोच सकते हैं? अब, आइए पता करें कि जब एक किरण एक रेखा पर खड़ी होती है तो बनने वाले कोणों के बीच क्या संबंध होता है। चित्र छह बिंदु छह को देखें। रेखा का नाम AB और किरण का नाम OC रखें। बिंदु O पर बनने वाले कोण कोण AOC, कोण BOC और कोण AOB हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "धारा छह बिंदु दो में आपने पूरक कोणों, संपूरक कोणों, आसन्न कोणों, रैखिक युग्म कोणों आदि की परिभाषाएँ सीखीं। क्या आप इन कोणों के बीच कुछ संबंध सोच सकते हैं?",
+              "voice": "Kavya",
+              "duration_s": 13.57,
+              "status": "ok",
+              "transcript": "धारा छह बिंदु दो में आपने पूरक कोणों संपूरक कोणों आसन्न कोणों रैखिक युग्म कोणों आदि की परिभाषाएँ सीखीं क्या आप इन कोणों के बीच कुछ संबंध सोच सकते हैं",
+              "cer_errors": 0,
+              "cer_len": 68,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.57,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "अब, आइए पता करें कि जब एक किरण एक रेखा पर खड़ी होती है तो बनने वाले कोणों के बीच क्या संबंध होता है। चित्र छह बिंदु छह को देखें। रेखा का नाम AB और किरण का नाम OC रखें। बिंदु O पर बनने वाले कोण कोण AOC, कोण BOC और कोण AOB हैं।",
+              "voice": "Kavya",
+              "duration_s": 21.16,
+              "status": "ok",
+              "transcript": "अब आइए पता करें कि जब एक किरण एक रेखा पर खड़ी होती है तो बनने वाले कोणों के बीच क्या संबंध होता है चित्र छः बिंदु छः को देखें रेखा का नाम ए बी और किरण का नाम ओ सी रखें बिंदु ओ पर बनने वाले कोण कोण ए ओ सी कोण बी ओ सी और कोण ए ओ बी हैं",
+              "cer_errors": 16,
+              "cer_len": 108,
+              "cer": 0.1481,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 21.16,
+                  "cer": 0.1481
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point six shows a horizontal line with arrows on both ends labeled A on the left and B on the right, with the point O marked in the middle. A ray labeled C starts at point O and extends upward and to the right, ending in an arrow. Three small arcs are drawn at point O, one between ray O A and ray O C, one between ray O C and ray O B, and a larger one spanning from ray O A to ray O B.",
+          "text": "चित्र छह दशमलव छह में एक क्षैतिज रेखा दिखाई गई है जिसके दोनों सिरों पर तीर हैं। बाईं ओर A और दाईं ओर B अंकित है, और बीच में बिंदु O चिह्नित है। एक किरण C बिंदु O से शुरू होती है और ऊपर और दाईं ओर बढ़ती है, जो एक तीर में समाप्त होती है। बिंदु O पर तीन छोटे चाप खींचे गए हैं, एक किरण O A और किरण O C के बीच, एक किरण O C और किरण O B के बीच, और एक बड़ा चाप किरण O A से किरण O B तक फैला हुआ है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव छह में एक क्षैतिज रेखा दिखाई गई है जिसके दोनों सिरों पर तीर हैं। बाईं ओर A और दाईं ओर B अंकित है, और बीच में बिंदु O चिह्नित है। एक किरण C बिंदु O से शुरू होती है और ऊपर और दाईं ओर बढ़ती है, जो एक तीर में समाप्त होती है।",
+              "voice": "Kavya",
+              "duration_s": 20.48,
+              "status": "high_cer",
+              "transcript": "ୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄ",
+              "cer_errors": 111,
+              "cer_len": 111,
+              "cer": 1.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.48,
+                  "cer": 1.0
+                },
+                {
+                  "voice": "Amit",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "बिंदु O पर तीन छोटे चाप खींचे गए हैं, एक किरण O A और किरण O C के बीच, एक किरण O C और किरण O B के बीच, और एक बड़ा चाप किरण O A से किरण O B तक फैला हुआ है।",
+              "voice": "Kavya",
+              "duration_s": 14.85,
+              "status": "high_cer",
+              "transcript": "बिंदुओं पर तीन छोटे चाप खींचे गए हैं एक किरण ओ ए और किୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄ",
+              "cer_errors": 52,
+              "cer_len": 76,
+              "cer": 0.6842,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.85,
+                  "cer": 0.6842
+                },
+                {
+                  "voice": "Amit",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u04",
+          "kind": "explanation",
+          "text_en": "Equation one states that angle A O C plus angle B O C equals angle A O B.",
+          "text": "समीकरण एक में कहा गया है कि कोण A O C प्लस कोण B O C, कोण A O B के बराबर है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समीकरण एक में कहा गया है कि कोण A O C प्लस कोण B O C, कोण A O B के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 6.14,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 6.14,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u05",
+          "kind": "explanation",
+          "text_en": "Yes! Because they are adjacent angles as described in Section six point two.",
+          "text": "हाँ! क्योंकि वे खंड छह बिंदु दो में वर्णित अनुसार आसन्न कोण हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "हाँ! क्योंकि वे खंड छह बिंदु दो में वर्णित अनुसार आसन्न कोण हैं।",
+              "voice": "Kavya",
+              "duration_s": 5.55,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.55,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u06",
+          "kind": "explanation",
+          "text_en": "What is the measure of angle A O B? It is one hundred and eighty degrees. Why? Because the two rays O A and O B form a straight line.",
+          "text": "कोण AOB का माप क्या है? यह एक सौ अस्सी डिग्री है। क्यों? क्योंकि दो किरणें OA और OB एक सीधी रेखा बनाती हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण AOB का माप क्या है? यह एक सौ अस्सी डिग्री है। क्यों? क्योंकि दो किरणें OA और OB एक सीधी रेखा बनाती हैं।",
+              "voice": "Kavya",
+              "duration_s": 10.07,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 10.07,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u07",
+          "kind": "explanation",
+          "text_en": "From equation one and the fact that angle A O B is one hundred and eighty degrees, we can say that angle A O C plus angle B O C equals one hundred and eighty degrees. Yes! Because the two adjacent angles together make a straight line.",
+          "text": "समीकरण एक से और इस तथ्य से कि कोण AOB एक सौ अस्सी डिग्री है, हम कह सकते हैं कि कोण AOC प्लस कोण BOC एक सौ अस्सी डिग्री के बराबर है। हाँ! क्योंकि दो आसन्न कोण मिलकर एक सीधी रेखा बनाते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समीकरण एक से और इस तथ्य से कि कोण AOB एक सौ अस्सी डिग्री है, हम कह सकते हैं कि कोण AOC प्लस कोण BOC एक सौ अस्सी डिग्री के बराबर है। हाँ! क्योंकि दो आसन्न कोण मिलकर एक सीधी रेखा बनाते हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.04,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.04,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u08",
+          "kind": "explanation",
+          "text_en": "From the above discussion we can state the following axiom. Axiom six point one: If a ray stands on a line, then the sum of the two adjacent angles so formed is one hundred and eighty degrees.",
+          "text": "उपरोक्त चर्चा से हम निम्नलिखित स्वयंसिद्ध को कह सकते हैं। स्वयंसिद्ध छह दशमलव एक: यदि कोई किरण किसी रेखा पर स्थित है तो इस प्रकार बने दो आसन्न कोणों का योग एक सौ अस्सी डिग्री होता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "उपरोक्त चर्चा से हम निम्नलिखित स्वयंसिद्ध को कह सकते हैं। स्वयंसिद्ध छह दशमलव एक: यदि कोई किरण किसी रेखा पर स्थित है तो इस प्रकार बने दो आसन्न कोणों का योग एक सौ अस्सी डिग्री होता है।",
+              "voice": "Kavya",
+              "duration_s": 14.25,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.25,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u09",
+          "kind": "explanation",
+          "text_en": "Recall that when the sum of two adjacent angles is one hundred and eighty degrees, then they are called a linear pair of angles.",
+          "text": "याद रखें कि जब दो आसन्न कोणों का योग एक सौ अस्सी डिग्री होता है, तो उन्हें कोणों का रैखिक युग्म कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "याद रखें कि जब दो आसन्न कोणों का योग एक सौ अस्सी डिग्री होता है, तो उन्हें कोणों का रैखिक युग्म कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 7.68,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 7.68,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u10",
+          "kind": "explanation",
+          "text_en": "In Axiom six point one it is given that a ray stands on a line. From this given we concluded that the sum of the two adjacent angles is one hundred and eighty degrees. Can we write Axiom six point one the other way? That is, take the conclusion as the given and the given as the conclusion.",
+          "text": "एक्सिओम छह दशमलव एक में यह दिया गया है कि एक किरण एक रेखा पर स्थित है। इस दिए गए से हमने निष्कर्ष निकाला कि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है। क्या हम एक्सिओम छह दशमलव एक को दूसरी तरह से लिख सकते हैं? यानी, निष्कर्ष को दिए गए के रूप में और दिए गए को निष्कर्ष के रूप में लें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक्सिओम छह दशमलव एक में यह दिया गया है कि एक किरण एक रेखा पर स्थित है। इस दिए गए से हमने निष्कर्ष निकाला कि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है। क्या हम एक्सिओम छह दशमलव एक को दूसरी तरह से लिख सकते हैं?",
+              "voice": "Kavya",
+              "duration_s": 12.54,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.54,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "यानी, निष्कर्ष को दिए गए के रूप में और दिए गए को निष्कर्ष के रूप में लें।",
+              "voice": "Kavya",
+              "duration_s": 5.12,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.12,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u11",
+          "kind": "explanation",
+          "text_en": "Statement A: If the sum of two adjacent angles is one hundred and eighty degrees, then a ray stands on a line, meaning the non‑common arms form a straight line.",
+          "text": "कथन ए: यदि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है, तो एक किरण एक रेखा पर खड़ी होती है, जिसका अर्थ है कि गैर-साझा भुजाएँ एक सीधी रेखा बनाती हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कथन ए: यदि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है, तो एक किरण एक रेखा पर खड़ी होती है, जिसका अर्थ है कि गैर-साझा भुजाएँ एक सीधी रेखा बनाती हैं।",
+              "voice": "Kavya",
+              "duration_s": 11.86,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 11.86,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u12",
+          "kind": "explanation",
+          "text_en": "Now you see that the axiom six point one and statement A are in a sense the reverse of each other. We call each the converse of the other. We do not know whether statement A is true or not. Let us check. Draw adjacent angles of different measures as shown in figure six point seven. Keep the ruler along one of the non common arms in each case. Does the other non common arm also lie along the ruler?",
+          "text": "अब आप देखते हैं कि स्वयंसिद्ध छह दशमलव एक और कथन ए एक तरह से एक दूसरे के विपरीत हैं। हम प्रत्येक को दूसरे का प्रतिलोम कहते हैं। हमें नहीं पता कि कथन ए सत्य है या नहीं। आइए जाँच करें। चित्र छह दशमलव सात में दिखाए गए अनुसार अलग-अलग माप के आसन्न कोणों को खींचें। प्रत्येक स्थिति में गैर-सामान्य भुजाओं में से एक के साथ रूलर रखें। क्या दूसरी गैर-सामान्य भुजा भी रूलर के साथ स्थित है?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अब आप देखते हैं कि स्वयंसिद्ध छह दशमलव एक और कथन ए एक तरह से एक दूसरे के विपरीत हैं। हम प्रत्येक को दूसरे का प्रतिलोम कहते हैं। हमें नहीं पता कि कथन ए सत्य है या नहीं। आइए जाँच करें।",
+              "voice": "Kavya",
+              "duration_s": 15.96,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.96,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "चित्र छह दशमलव सात में दिखाए गए अनुसार अलग-अलग माप के आसन्न कोणों को खींचें। प्रत्येक स्थिति में गैर-सामान्य भुजाओं में से एक के साथ रूलर रखें। क्या दूसरी गैर-सामान्य भुजा भी रूलर के साथ स्थित है?",
+              "voice": "Kavya",
+              "duration_s": 16.73,
+              "status": "ok",
+              "transcript": "चित्र छह दशमलव सात में दिखाए गए अनुसार अलग अलग माप के आसन कोणों को खींचें प्रत्येक स्थिति में गैर सामान्य भुजाओं में से एक के साथ रूलर रखें क्या दूसरी गैर सामान्य भुजा भी रूलर के साथ स्थित",
+              "cer_errors": 2,
+              "cer_len": 94,
+              "cer": 0.0213,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.73,
+                  "cer": 0.0213
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u13",
+          "kind": "explanation",
+          "text_en": "Look at figure six point seven: Adjacent angles with different measures. The image shows four separate diagrams labeled one, two, three, and four. Each diagram has a common vertex O and a common arm O C. In diagram one, ray O A points straight up and ray O B points straight right; ray O C lies between them, creating angle A O C of sixty degrees and angle C O B of thirty degrees. In diagram two, ray O B points right and ray O A points up and to the left; ray O C is between them, with angle A O C of sixty degrees and angle C O B of eighty degrees. In diagram three, a ruler is drawn along the straight line formed by rays O A and O B, which point in opposite horizontal directions; ray O C stands on this line, creating angle A O C of one hundred twenty five degrees and angle C O B of fifty five degrees. In diagram four, ray O B points right and ray O A points down and to the left, not forming a straight line with O B; ray O C is between them, with angle A O C of one hundred fifty degrees and angle C O B of seventy degrees.",
+          "text": "चित्र छह दशमलव सात को देखें: अलग-अलग माप वाले संलग्न कोण। चित्र में एक, दो, तीन और चार लेबल वाले चार अलग-अलग आरेख दिखाए गए हैं। प्रत्येक आरेख में एक उभयनिष्ठ शीर्ष O और एक उभयनिष्ठ भुजा OC है। आरेख एक में, किरण OA सीधे ऊपर की ओर इंगित करती है और किरण OB सीधे दाईं ओर इंगित करती है; किरण OC उनके बीच स्थित है, जिससे कोण AOC साठ डिग्री और कोण COB तीस डिग्री बनता है। आरेख दो में, किरण OB दाईं ओर इंगित करती है और किरण OA ऊपर और बाईं ओर इंगित करती है; किरण OC उनके बीच में है, जिसमें कोण AOC साठ डिग्री और कोण COB अस्सी डिग्री है। आरेख तीन में, किरण OA और किरण OB द्वारा बनाई गई सीधी रेखा के साथ एक रूलर खींचा गया है, जो विपरीत क्षैतिज दिशाओं में इंगित करते हैं; किरण OC इस रेखा पर स्थित है, जिससे कोण AOC एक सौ पच्चीस डिग्री और कोण COB पचपन डिग्री बनता है। आरेख चार में, किरण OB दाईं ओर इंगित करती है और किरण OA नीचे और बाईं ओर इंगित करती है, जो OB के साथ एक सीधी रेखा नहीं बनाती है; किरण OC उनके बीच में है, जिसमें कोण AOC एक सौ पचास डिग्री और कोण COB सत्तर डिग्री है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव सात को देखें: अलग-अलग माप वाले संलग्न कोण। चित्र में एक, दो, तीन और चार लेबल वाले चार अलग-अलग आरेख दिखाए गए हैं। प्रत्येक आरेख में एक उभयनिष्ठ शीर्ष O और एक उभयनिष्ठ भुजा OC है।",
+              "voice": "Kavya",
+              "duration_s": 18.09,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.09,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "आरेख एक में, किरण OA सीधे ऊपर की ओर इंगित करती है और किरण OB सीधे दाईं ओर इंगित करती है; किरण OC उनके बीच स्थित है, जिससे कोण AOC साठ डिग्री और कोण COB तीस डिग्री बनता है।",
+              "voice": "Kavya",
+              "duration_s": 16.3,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.3,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "आरेख दो में, किरण OB दाईं ओर इंगित करती है और किरण OA ऊपर और बाईं ओर इंगित करती है; किरण OC उनके बीच में है, जिसमें कोण AOC साठ डिग्री और कोण COB अस्सी डिग्री है।",
+              "voice": "Kavya",
+              "duration_s": 14.76,
+              "status": "ok",
+              "transcript": "आरेख दो में किरण ओ बी दाईं ओर इंगित करती है और किरण ओ ए ऊपर और बाईं ओर इंगित करती है किरण ओ सी उनके बीच में है जिसमें कोण ए ओ सी साठ डिग्री और कोण सी ओ बी अस्सी डिग्री",
+              "cer_errors": 13,
+              "cer_len": 83,
+              "cer": 0.1566,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.76,
+                  "cer": 0.1566
+                }
+              ]
+            },
+            {
+              "text": "आरेख तीन में, किरण OA और किरण OB द्वारा बनाई गई सीधी रेखा के साथ एक रूलर खींचा गया है, जो विपरीत क्षैतिज दिशाओं में इंगित करते हैं; किरण OC इस रेखा पर स्थित है, जिससे कोण AOC एक सौ पच्चीस डिग्री और कोण COB पचपन डिग्री बनता है।",
+              "voice": "Kavya",
+              "duration_s": 18.94,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.94,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "आरेख चार में, किरण OB दाईं ओर इंगित करती है और किरण OA नीचे और बाईं ओर इंगित करती है, जो OB के साथ एक सीधी रेखा नहीं बनाती है; किरण OC उनके बीच में है, जिसमें कोण AOC एक सौ पचास डिग्री और कोण COB सत्तर डिग्री है।",
+              "voice": "Kavya",
+              "duration_s": 18.18,
+              "status": "ok",
+              "transcript": "आरेख चार में किरण ओबे दाईं ओर इंगित करती है और किरण ओए नीचे और बाईं ओर इंगित करती है जो ओबी के साथ एक सीधी रेखा नहीं बनाती है किरण ओसी उनके बीच में है जिसमें कोण एओसी एक सौ पचास डिग्री और कोण कोब सत्तर डिग्री",
+              "cer_errors": 15,
+              "cer_len": 106,
+              "cer": 0.1415,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.18,
+                  "cer": 0.1415
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u14",
+          "kind": "explanation",
+          "text_en": "You will find that only in figure six point seven, diagram three, both the non common arms lie along the ruler, that is, points A, O and B lie on the same line and ray O C stands on it. Also see that angle A O C plus angle C O B equals one hundred twenty five degrees plus fifty five degrees equals one hundred eighty degrees. From this, you may conclude that statement A is true. So you can state in the form of an axiom as follows.",
+          "text": "आप पाएंगे कि केवल चित्र छह बिंदु सात में, आरेख तीन दोनों गैर-सामान्य भुजाएँ शासक के साथ स्थित हैं, यानी बिंदु A, O और B एक ही रेखा पर स्थित हैं और किरण O C इस पर स्थित है। यह भी देखें कि कोण A O C प्लस कोण C O B बराबर एक सौ पच्चीस डिग्री प्लस पचपन डिग्री बराबर एक सौ अस्सी डिग्री। इससे आप निष्कर्ष निकाल सकते हैं कि कथन A सत्य है। तो आप स्वयंसिद्ध के रूप में निम्नलिखित कह सकते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "आप पाएंगे कि केवल चित्र छह बिंदु सात में, आरेख तीन दोनों गैर-सामान्य भुजाएँ शासक के साथ स्थित हैं, यानी बिंदु A, O और B एक ही रेखा पर स्थित हैं और किरण O C इस पर स्थित है।",
+              "voice": "Kavya",
+              "duration_s": 14.51,
+              "status": "ok",
+              "transcript": "आप पाएंगे कि केवल चित्र छह बिंदु सात में आरेख तीन दोनों गैर सामान्य भुजाएँ शासक के साथ स्थित हैं यानी बिंदु ए ओ क्वारिज एक ही रेखा पर स्थित है और किरण ओ सी इस पर स्थित है",
+              "cer_errors": 7,
+              "cer_len": 80,
+              "cer": 0.0875,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.51,
+                  "cer": 0.0875
+                }
+              ]
+            },
+            {
+              "text": "यह भी देखें कि कोण A O C प्लस कोण C O B बराबर एक सौ पच्चीस डिग्री प्लस पचपन डिग्री बराबर एक सौ अस्सी डिग्री। इससे आप निष्कर्ष निकाल सकते हैं कि कथन A सत्य है। तो आप स्वयंसिद्ध के रूप में निम्नलिखित कह सकते हैं।",
+              "voice": "Kavya",
+              "duration_s": 19.2,
+              "status": "ok",
+              "transcript": "यह भी देखें कि कोण ए ओ सी प्लस कोण सी ओ बी बराबर एक सौ पच्चीस डिग्री प्लस पचपन डिग्री बराबर एक सौ अस्सी डिग्री इससे आप निष्कर्ष निकाल सकते हैं कि कथन ए सत्य है तो आप स्वयंसिद्ध के रूप में निम्नलिखित कह सकते हैं",
+              "cer_errors": 7,
+              "cer_len": 107,
+              "cer": 0.0654,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 19.2,
+                  "cer": 0.0654
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u15",
+          "kind": "explanation",
+          "text_en": "Axiom six point two: If the sum of two adjacent angles is one hundred and eighty degrees, then the non common arms of the angles form a line.",
+          "text": "स्वयंसिद्ध छह दशमलव दो: यदि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है, तो कोणों की गैर-साझा भुजाएँ एक रेखा बनाती हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "स्वयंसिद्ध छह दशमलव दो: यदि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है, तो कोणों की गैर-साझा भुजाएँ एक रेखा बनाती हैं।",
+              "voice": "Kavya",
+              "duration_s": 10.24,
+              "status": "ok",
+              "transcript": "स्वयंसिद्ध छह दशमलव दो यदि दो आसन्न कोणों का योग एक सौ अस्सी डिग्री है तो कोणों की गैर साझा भुजाएँ एक रेखा बनाती हैं",
+              "cer_errors": 0,
+              "cer_len": 55,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 10.24,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u16",
+          "kind": "explanation",
+          "text_en": "For obvious reasons, the two axioms above together are called the linear pair axiom.",
+          "text": "स्पष्ट कारणों से, ऊपर दिए गए दोनों स्वयंसिद्धों को एक साथ रैखिक युग्म स्वयंसिद्ध कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "स्पष्ट कारणों से, ऊपर दिए गए दोनों स्वयंसिद्धों को एक साथ रैखिक युग्म स्वयंसिद्ध कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 7.85,
+              "status": "ok",
+              "transcript": "स्पष्ट कारणों से ऊपर दिए गए दोनों स्वयंसिद्धों को एक साथ रैखिक युग्म स्वयंसिद्ध कहा जाता है",
+              "cer_errors": 0,
+              "cer_len": 45,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 7.85,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u17",
+          "kind": "explanation",
+          "text_en": "Let us now examine the case when two lines intersect each other.",
+          "text": "अब हम उस स्थिति की जाँच करते हैं जब दो रेखाएँ एक दूसरे को प्रतिच्छेद करती हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अब हम उस स्थिति की जाँच करते हैं जब दो रेखाएँ एक दूसरे को प्रतिच्छेद करती हैं।",
+              "voice": "Kavya",
+              "duration_s": 5.89,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.89,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u18",
+          "kind": "explanation",
+          "text_en": "Recall from earlier classes that when two lines intersect, the vertically opposite angles are equal. Let us prove this result now. See appendix one for the ingredients of a proof, and keep those in mind while studying the proof given below.",
+          "text": "पिछली कक्षाओं से याद करें कि जब दो रेखाएँ प्रतिच्छेद करती हैं, तो शीर्ष अभिमुख कोण बराबर होते हैं। आइए अब इस परिणाम को सिद्ध करें। प्रमाण के घटकों के लिए परिशिष्ट एक देखें, और नीचे दिए गए प्रमाण का अध्ययन करते समय उन्हें ध्यान में रखें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "पिछली कक्षाओं से याद करें कि जब दो रेखाएँ प्रतिच्छेद करती हैं, तो शीर्ष अभिमुख कोण बराबर होते हैं। आइए अब इस परिणाम को सिद्ध करें। प्रमाण के घटकों के लिए परिशिष्ट एक देखें, और नीचे दिए गए प्रमाण का अध्ययन करते समय उन्हें ध्यान में रखें।",
+              "voice": "Kavya",
+              "duration_s": 18.43,
+              "status": "ok",
+              "transcript": "पिछली कक्षाओं से याद करें कि जब दो रेखाएँ प्रतिच्छेद करती हैं तो शेष अभिमुख कोण बराबर होते हैं आइए अब इस परिणाम को सिद्ध करें प्रमाण के घटकों के लिए परिशिष्ट एक देखें और नीचे दिए गए प्रमाण का अध्ययन करते समय उन्हें ध्यान में रखें",
+              "cer_errors": 1,
+              "cer_len": 116,
+              "cer": 0.0086,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.43,
+                  "cer": 0.0086
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u19",
+          "kind": "example",
+          "text_en": "Theorem six point one states that if two lines intersect, the vertically opposite angles are equal. Look at figure six point eight where lines A B and C D cross at O. The opposite pairs are angle A O C with angle B O D, and angle A O D with angle B O C. We need to prove both. First, note that ray O A lies on line C D. By the linear pair axiom, angle A O C plus angle A O D equals one hundred and eighty degrees. Also angle A O D plus angle B O D equals one hundred and eighty degrees.",
+          "text": "प्रमेय छह दशमलव एक में कहा गया है कि यदि दो रेखाएँ प्रतिच्छेद करती हैं, तो शीर्ष अभिमुख कोण बराबर होते हैं। चित्र छह दशमलव आठ देखें जहाँ रेखाएँ A B और C D, O पर काटती हैं। विपरीत जोड़े कोण A O C और कोण B O D हैं, और कोण A O D और कोण B O C हैं। हमें दोनों को सिद्ध करना होगा। सबसे पहले, ध्यान दें कि किरण O A रेखा C D पर स्थित है। रैखिक युग्म स्वयंसिद्ध के अनुसार, कोण A O C जमा कोण A O D एक सौ अस्सी डिग्री के बराबर होता है। साथ ही कोण A O D जमा कोण B O D एक सौ अस्सी डिग्री के बराबर होता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "प्रमेय छह दशमलव एक में कहा गया है कि यदि दो रेखाएँ प्रतिच्छेद करती हैं, तो शीर्ष अभिमुख कोण बराबर होते हैं। चित्र छह दशमलव आठ देखें जहाँ रेखाएँ A B और C D, O पर काटती हैं। विपरीत जोड़े कोण A O C और कोण B O D हैं, और कोण A O D और कोण B O C हैं।",
+              "voice": "Amit",
+              "duration_s": 23.55,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Amit",
+                  "duration_s": 23.55,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "हमें दोनों को सिद्ध करना होगा। सबसे पहले, ध्यान दें कि किरण O A रेखा C D पर स्थित है। रैखिक युग्म स्वयंसिद्ध के अनुसार, कोण A O C जमा कोण A O D एक सौ अस्सी डिग्री के बराबर होता है। साथ ही कोण A O D जमा कोण B O D एक सौ अस्सी डिग्री के बराबर होता है।",
+              "voice": "Kavya",
+              "duration_s": 20.39,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.39,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u20",
+          "kind": "example",
+          "text_en": "Example one: In figure six point nine, lines P Q and R S intersect at O and the ratio of angle P O R to angle R O Q is five to seven. First, apply the linear pair axiom: angle P O R plus angle R O Q equals one hundred and eighty degrees. Second, write the angles as five parts and seven parts of the straight angle, so angle P O R is five twelfths of one hundred and eighty degrees and angle R O Q is seven twelfths of one hundred and eighty degrees.",
+          "text": "उदाहरण एक: चित्र छह बिंदु नौ में, रेखाएँ PQ और RS, O पर प्रतिच्छेद करती हैं और कोण POR का कोण ROQ से अनुपात पाँच से सात है। सबसे पहले, रैखिक युग्म अभिगृहीत लागू करें: कोण POR जमा कोण ROQ एक सौ अस्सी डिग्री के बराबर है। दूसरा, कोणों को ऋजु कोण के पाँच भागों और सात भागों के रूप में लिखें, इसलिए कोण POR एक सौ अस्सी डिग्री का पाँच बटा बारहवाँ भाग है और कोण ROQ एक सौ अस्सी डिग्री का सात बटा बारहवाँ भाग है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "उदाहरण एक: चित्र छह बिंदु नौ में, रेखाएँ PQ और RS, O पर प्रतिच्छेद करती हैं और कोण POR का कोण ROQ से अनुपात पाँच से सात है। सबसे पहले, रैखिक युग्म अभिगृहीत लागू करें: कोण POR जमा कोण ROQ एक सौ अस्सी डिग्री के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 21.93,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 21.93,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "दूसरा, कोणों को ऋजु कोण के पाँच भागों और सात भागों के रूप में लिखें, इसलिए कोण POR एक सौ अस्सी डिग्री का पाँच बटा बारहवाँ भाग है और कोण ROQ एक सौ अस्सी डिग्री का सात बटा बारहवाँ भाग है।",
+              "voice": "Kavya",
+              "duration_s": 15.87,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.87,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u21",
+          "kind": "example",
+          "text_en": "Example three. In Figure six point eleven, the four rays are O P, O Q, O R and O S. Prove that angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees. First, extend one of the rays backwards. Produce ray O Q backwards to a point T so that T O Q is a straight line, as shown in Figure six point twelve. Then observe that ray O P now lies on the line T O Q. Use the straight line property to relate the four angles and conclude the sum is three hundred and sixty degrees.",
+          "text": "उदाहरण तीन। चित्र छह बिंदु ग्यारह में, चार किरणें O P, O Q, O R और O S हैं। सिद्ध कीजिए कि कोण P O Q जमा कोण Q O R जमा कोण S O R जमा कोण P O S तीन सौ साठ डिग्री के बराबर है। सबसे पहले, किरणों में से एक को पीछे की ओर बढ़ाएँ। किरण O Q को पीछे की ओर एक बिंदु T तक इस प्रकार बढ़ाएँ कि T O Q एक सीधी रेखा हो, जैसा कि चित्र छह बिंदु बारह में दिखाया गया है। फिर देखें कि किरण O P अब रेखा T O Q पर स्थित है। चार कोणों को संबंधित करने के लिए सीधी रेखा गुण का उपयोग करें और निष्कर्ष निकालें कि योग तीन सौ साठ डिग्री है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "उदाहरण तीन। चित्र छह बिंदु ग्यारह में, चार किरणें O P, O Q, O R और O S हैं। सिद्ध कीजिए कि कोण P O Q जमा कोण Q O R जमा कोण S O R जमा कोण P O S तीन सौ साठ डिग्री के बराबर है। सबसे पहले, किरणों में से एक को पीछे की ओर बढ़ाएँ।",
+              "voice": "Kavya",
+              "duration_s": 20.91,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.91,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "किरण O Q को पीछे की ओर एक बिंदु T तक इस प्रकार बढ़ाएँ कि T O Q एक सीधी रेखा हो, जैसा कि चित्र छह बिंदु बारह में दिखाया गया है। फिर देखें कि किरण O P अब रेखा T O Q पर स्थित है।",
+              "voice": "Amit",
+              "duration_s": 14.93,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Amit",
+                  "duration_s": 14.93,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "चार कोणों को संबंधित करने के लिए सीधी रेखा गुण का उपयोग करें और निष्कर्ष निकालें कि योग तीन सौ साठ डिग्री है।",
+              "voice": "Kavya",
+              "duration_s": 8.28,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 8.28,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.2135
+    },
+    {
+      "section_id": "s06",
+      "title": "6.4 Pairs of Angles (part 2)",
+      "slug": "06-6-4-pairs-of-angles-part-2",
+      "units": [
+        {
+          "id": "s06.u01",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O P plus angle P O Q equals one hundred and eighty degrees. This is equation one. Linear pair axiom.",
+          "text": "इसलिए, कोण T O P जमा कोण P O Q एक सौ अस्सी डिग्री के बराबर है। यह समीकरण एक है। रैखिक युग्म स्वयंसिद्ध।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "इसलिए, कोण T O P जमा कोण P O Q एक सौ अस्सी डिग्री के बराबर है। यह समीकरण एक है। रैखिक युग्म स्वयंसिद्ध।",
+              "voice": "Kavya",
+              "duration_s": 9.39,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.39,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u02",
+          "kind": "explanation",
+          "text_en": "Look at Figure six point twelve. Five rays start from the common point O. Ray O T is drawn as a dashed line pointing left, while ray O Q is a solid line pointing right, so T, O, and Q lie on one straight line. Ray O P points upward, ray O S points down and to the left, and ray O R points down and to the right.",
+          "text": "चित्र छह बिंदु बारह को देखें। पाँच किरणें उभयनिष्ठ बिंदु O से शुरू होती हैं। किरण O T एक डैश वाली रेखा के रूप में बाईं ओर इंगित करती है, जबकि किरण O Q एक ठोस रेखा है जो दाईं ओर इंगित करती है, इसलिए T, O और Q एक सीधी रेखा पर स्थित हैं। किरण O P ऊपर की ओर इंगित करती है, किरण O S नीचे और बाईं ओर इंगित करती है, और किरण O R नीचे और दाईं ओर इंगित करती है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह बिंदु बारह को देखें। पाँच किरणें उभयनिष्ठ बिंदु O से शुरू होती हैं। किरण O T एक डैश वाली रेखा के रूप में बाईं ओर इंगित करती है, जबकि किरण O Q एक ठोस रेखा है जो दाईं ओर इंगित करती है, इसलिए T, O और Q एक सीधी रेखा पर स्थित हैं।",
+              "voice": "Kavya",
+              "duration_s": 20.99,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.99,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "किरण O P ऊपर की ओर इंगित करती है, किरण O S नीचे और बाईं ओर इंगित करती है, और किरण O R नीचे और दाईं ओर इंगित करती है।",
+              "voice": "Kavya",
+              "duration_s": 9.64,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 9.64,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u03",
+          "kind": "explanation",
+          "text_en": "Similarly, ray O S stands on line T O Q.",
+          "text": "इसी प्रकार, किरण O S रेखा T O Q पर स्थित है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "इसी प्रकार, किरण O S रेखा T O Q पर स्थित है।",
+              "voice": "Kavya",
+              "duration_s": 3.75,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 3.75,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u04",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O S plus angle S O Q equals one hundred and eighty degrees. This is equation two.",
+          "text": "इसलिए, कोण T O S प्लस कोण S O Q एक सौ अस्सी डिग्री के बराबर है। यह समीकरण दो है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "इसलिए, कोण T O S प्लस कोण S O Q एक सौ अस्सी डिग्री के बराबर है। यह समीकरण दो है।",
+              "voice": "Kavya",
+              "duration_s": 8.02,
+              "status": "ok",
+              "transcript": "इसलिए कोण टी ओ एस प्लस कोण एस ओ क्यू एक सौ अस्सी डिग्री के बराबर है यह समीकरण दो है",
+              "cer_errors": 9,
+              "cer_len": 41,
+              "cer": 0.2195,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 8.02,
+                  "cer": 0.2195
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u05",
+          "kind": "explanation",
+          "text_en": "But angle S O Q equals angle S O R plus angle Q O R.",
+          "text": "लेकिन कोण S O Q, कोण S O R और कोण Q O R के योग के बराबर है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "लेकिन कोण S O Q, कोण S O R और कोण Q O R के योग के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 5.21,
+              "status": "high_cer",
+              "transcript": "लेकिन कोण एस ओ क्यू कोण एस ओ आर और कोण क्यू ओ आर के योग के बराबर है",
+              "cer_errors": 15,
+              "cer_len": 29,
+              "cer": 0.5172,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.21,
+                  "cer": 0.5172
+                },
+                {
+                  "voice": "Amit",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u06",
+          "kind": "explanation",
+          "text_en": "So, equation two becomes",
+          "text": "तो, समीकरण दो बन जाता है",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "तो, समीकरण दो बन जाता है",
+              "voice": "Kavya",
+              "duration_s": 2.13,
+              "status": "ok",
+              "transcript": "तो समीकरण दो बन जाता है",
+              "cer_errors": 0,
+              "cer_len": 12,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 2.13,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u07",
+          "kind": "explanation",
+          "text_en": "Angle T O S plus angle S O R plus angle Q O R equals one hundred and eighty degrees. This is equation three.",
+          "text": "कोण T O S प्लस कोण S O R प्लस कोण Q O R एक सौ अस्सी डिग्री के बराबर है। यह समीकरण तीन है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण T O S प्लस कोण S O R प्लस कोण Q O R एक सौ अस्सी डिग्री के बराबर है। यह समीकरण तीन है।",
+              "voice": "Kavya",
+              "duration_s": 8.96,
+              "status": "ok",
+              "transcript": "कोण टीओएस प्लस कोण एसओआर प्लस कोण क्यूओआर एक सौ अस्सी डिग्री के बराबर है यह समीकरण तीन है",
+              "cer_errors": 14,
+              "cer_len": 46,
+              "cer": 0.3043,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 8.96,
+                  "cer": 0.3043
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u08",
+          "kind": "explanation",
+          "text_en": "Now, adding equation one and equation three, you get",
+          "text": "अब, समीकरण एक और समीकरण तीन को जोड़ने पर, आपको प्राप्त होता है",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अब, समीकरण एक और समीकरण तीन को जोड़ने पर, आपको प्राप्त होता है",
+              "voice": "Kavya",
+              "duration_s": 5.12,
+              "status": "ok",
+              "transcript": "अब समीकरण एक और समीकरण तीन को जोड़ने पर आपको प्राप्त होता है",
+              "cer_errors": 0,
+              "cer_len": 34,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 5.12,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u09",
+          "kind": "explanation",
+          "text_en": "Angle T O P plus angle P O Q plus angle T O S plus angle S O R plus angle Q O R equals three hundred and sixty degrees. This is equation four. But angle T O P plus angle T O S equals angle P O S.",
+          "text": "कोण T O P प्लस कोण P O Q प्लस कोण T O S प्लस कोण S O R प्लस कोण Q O R तीन सौ साठ डिग्री के बराबर है। यह समीकरण चार है। लेकिन कोण T O P प्लस कोण T O S कोण P O S के बराबर है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण T O P प्लस कोण P O Q प्लस कोण T O S प्लस कोण S O R प्लस कोण Q O R तीन सौ साठ डिग्री के बराबर है। यह समीकरण चार है। लेकिन कोण T O P प्लस कोण T O S कोण P O S के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 22.7,
+              "status": "high_cer",
+              "transcript": "कौन टी ओ पी प्लस कौन पी ओ क्यू प्लस कौन टी ओ एस प्लस कौन एस ओ आर प्लस कौन क्यू ओ आर तीन सौ साठ डिग्री के बराबर है यह समीकरण चार है लेकिन कौन टी ओ पी प्लस कौन टी ओ एस कौन पी ओ एस के बराबर है",
+              "cer_errors": 40,
+              "cer_len": 88,
+              "cer": 0.4545,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 22.7,
+                  "cer": 0.4545
+                },
+                {
+                  "voice": "Amit",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u10",
+          "kind": "explanation",
+          "text_en": "Therefore, equation four becomes",
+          "text": "इसलिए, समीकरण चार बन जाता है",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "इसलिए, समीकरण चार बन जाता है",
+              "voice": "Kavya",
+              "duration_s": 2.39,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 2.39,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u11",
+          "kind": "explanation",
+          "text_en": "Angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees.",
+          "text": "कोण P O Q प्लस कोण Q O R प्लस कोण S O R प्लस कोण P O S तीन सौ साठ डिग्री के बराबर है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण P O Q प्लस कोण Q O R प्लस कोण S O R प्लस कोण P O S तीन सौ साठ डिग्री के बराबर है।",
+              "voice": "Kavya",
+              "duration_s": 10.24,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 10.24,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.312
+    },
+    {
+      "section_id": "s07",
+      "title": "EXERCISE 6.1",
+      "slug": "07-exercise-6-1",
+      "units": [
+        {
+          "id": "s07.u01",
+          "kind": "heading",
+          "text_en": "It is time to practise.",
+          "text": "अभ्यास करने का समय आ गया है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अभ्यास करने का समय आ गया है।",
+              "voice": "Kavya",
+              "duration_s": 2.05,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 2.05,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u02",
+          "kind": "exercise_problem",
+          "text_en": "Problem one. Find angle B O E and reflex angle C O E. First, use vertically opposite angles to find angle A O C. Then use the given sum to find angle B O E, and finally use angles on a line to find the reflex angle.",
+          "text": "समस्या एक। कोण B O E और परावर्तित कोण C O E ज्ञात कीजिए। सबसे पहले, शीर्ष अभिमुख कोणों का उपयोग करके कोण A O C ज्ञात कीजिए। फिर दिए गए योग का उपयोग करके कोण B O E ज्ञात कीजिए, और अंत में एक रेखा पर स्थित कोणों का उपयोग करके परावर्तित कोण ज्ञात कीजिए।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या एक। कोण B O E और परावर्तित कोण C O E ज्ञात कीजिए। सबसे पहले, शीर्ष अभिमुख कोणों का उपयोग करके कोण A O C ज्ञात कीजिए। फिर दिए गए योग का उपयोग करके कोण B O E ज्ञात कीजिए, और अंत में एक रेखा पर स्थित कोणों का उपयोग करके परावर्तित कोण ज्ञात कीजिए।",
+              "voice": "Kavya",
+              "duration_s": 23.3,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 23.3,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u03",
+          "kind": "exercise_problem",
+          "text_en": "Problem two. Find the value of c. First, use the right angle at P O Y to find the sum of a and b. Then use the ratio to find c, and finally check the angles on a line.",
+          "text": "समस्या दो। c का मान ज्ञात कीजिए। सबसे पहले, P O Y पर समकोण का उपयोग करके a और b का योग ज्ञात कीजिए। फिर अनुपात का उपयोग करके c ज्ञात कीजिए, और अंत में एक रेखा पर कोणों की जाँच कीजिए।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या दो। c का मान ज्ञात कीजिए। सबसे पहले, P O Y पर समकोण का उपयोग करके a और b का योग ज्ञात कीजिए। फिर अनुपात का उपयोग करके c ज्ञात कीजिए, और अंत में एक रेखा पर कोणों की जाँच कीजिए।",
+              "voice": "Kavya",
+              "duration_s": 15.96,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.96,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u04",
+          "kind": "exercise_problem",
+          "text_en": "Problem three. Prove that angle P Q S equals angle P R T. First, use the exterior angle property for triangle P Q R. Then subtract the equal interior angles, and finally conclude the exterior angles are equal.",
+          "text": "समस्या तीन। सिद्ध कीजिए कि कोण P Q S, कोण P R T के बराबर है। सबसे पहले, त्रिभुज P Q R के लिए बाह्य कोण गुणधर्म का उपयोग करें। फिर समान आंतरिक कोणों को घटाएँ, और अंत में निष्कर्ष निकालें कि बाह्य कोण बराबर हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या तीन। सिद्ध कीजिए कि कोण P Q S, कोण P R T के बराबर है। सबसे पहले, त्रिभुज P Q R के लिए बाह्य कोण गुणधर्म का उपयोग करें। फिर समान आंतरिक कोणों को घटाएँ, और अंत में निष्कर्ष निकालें कि बाह्य कोण बराबर हैं।",
+              "voice": "Kavya",
+              "duration_s": 16.73,
+              "status": "ok",
+              "transcript": "समस्या तीन सिद्ध कीजिए कि कोण पी क्यू एस कोण पी आर टी के बराबर है सबसे पहले त्रिभुज पी क्यू आर के लिए बाह्य कोण गुणधर्म का उपयोग करें फिर समान आंतरिक कोणों को घटाएँ और अंत में निष्कर्ष निकालें कि बाह्य कोण बराबर है",
+              "cer_errors": 14,
+              "cer_len": 101,
+              "cer": 0.1386,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 16.73,
+                  "cer": 0.1386
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u05",
+          "kind": "exercise_problem",
+          "text_en": "Problem four. Prove that A O B is a line. First, use vertically opposite angles to relate x to z and y to w. Then add the equations, and finally use the linear pair axiom to prove the line.",
+          "text": "समस्या चार। सिद्ध करें कि A O B एक रेखा है। सबसे पहले, x को z से और y को w से संबंधित करने के लिए शीर्ष अभिमुख कोणों का उपयोग करें। फिर समीकरणों को जोड़ें, और अंत में रेखा को सिद्ध करने के लिए रैखिक युग्म स्वयंसिद्ध का उपयोग करें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या चार। सिद्ध करें कि A O B एक रेखा है। सबसे पहले, x को z से और y को w से संबंधित करने के लिए शीर्ष अभिमुख कोणों का उपयोग करें। फिर समीकरणों को जोड़ें, और अंत में रेखा को सिद्ध करने के लिए रैखिक युग्म स्वयंसिद्ध का उपयोग करें।",
+              "voice": "Kavya",
+              "duration_s": 20.48,
+              "status": "ok",
+              "transcript": "समस्या चार सिद्ध करें कि ए ओ बी एक रेखा है सबसे पहले एक्स को ज़ेड से और वाई को डब्ल्यू से संबंधित करने के लिए शीर्ष अभिमुख कोणों का उपयोग करें फिर समीकरणों को जोड़ें और अंत में रेखा को सिद्ध करने के लिए रैखिक युग्म स्वयंसिद्ध का उपयोग करें",
+              "cer_errors": 14,
+              "cer_len": 108,
+              "cer": 0.1296,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.48,
+                  "cer": 0.1296
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u06",
+          "kind": "exercise_problem",
+          "text_en": "Problem five. Prove the relationship between angle R O S and the difference of other angles. First, express angle Q O S and angle P O S using the right angle. Then subtract the two expressions, and finally simplify to get the required result.",
+          "text": "समस्या पाँच। कोण R O S और अन्य कोणों के अंतर के बीच संबंध सिद्ध कीजिए। सबसे पहले, समकोण का उपयोग करके कोण Q O S और कोण P O S को व्यक्त करें। फिर दोनों व्यंजकों को घटाएँ, और अंत में आवश्यक परिणाम प्राप्त करने के लिए सरलीकरण करें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या पाँच। कोण R O S और अन्य कोणों के अंतर के बीच संबंध सिद्ध कीजिए। सबसे पहले, समकोण का उपयोग करके कोण Q O S और कोण P O S को व्यक्त करें। फिर दोनों व्यंजकों को घटाएँ, और अंत में आवश्यक परिणाम प्राप्त करने के लिए सरलीकरण करें।",
+              "voice": "Kavya",
+              "duration_s": 18.26,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 18.26,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u07",
+          "kind": "exercise_problem",
+          "text_en": "Problem six. Find angle X Y Q and reflex angle Q Y P. First, use the linear pair to find angle Z Y P. Then use the bisector property to find angle X Y Q, and finally calculate the reflex angle.",
+          "text": "समस्या छह। कोण X Y Q और परावर्तित कोण Q Y P ज्ञात कीजिए। सबसे पहले, रैखिक युग्म का उपयोग करके कोण Z Y P ज्ञात कीजिए। फिर कोण X Y Q ज्ञात करने के लिए द्विभाजक गुण का उपयोग करें, और अंत में परावर्तित कोण की गणना करें।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "समस्या छह। कोण X Y Q और परावर्तित कोण Q Y P ज्ञात कीजिए। सबसे पहले, रैखिक युग्म का उपयोग करके कोण Z Y P ज्ञात कीजिए। फिर कोण X Y Q ज्ञात करने के लिए द्विभाजक गुण का उपयोग करें, और अंत में परावर्तित कोण की गणना करें।",
+              "voice": "Kavya",
+              "duration_s": 20.57,
+              "status": "ok",
+              "transcript": "समस्या छह कोण एक्स वाई क्यू और परावर्तित कोण क्यू वाई टी ज्ञात कीजिए सबसे पहले रैखिक युग्म का उपयोग करके कोण ज़ेड वाई पी ज्ञात कीजिए फिर कोण एक्स वाई क्यू ज्ञात करने के लिए द्विभाजक गुण का उपयोग करें और अंत में परावर्तित कोण की गणना करें",
+              "cer_errors": 24,
+              "cer_len": 110,
+              "cer": 0.2182,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 20.57,
+                  "cer": 0.2182
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.163
+    },
+    {
+      "section_id": "s08",
+      "title": "6.5 Parallel Lines and a Transversal",
+      "slug": "08-6-5-parallel-lines-and-a-transversal",
+      "units": [
+        {
+          "id": "s08.u01",
+          "kind": "heading",
+          "text_en": "Section six point five Parallel Lines and a Transversal.",
+          "text": "धारा छह दशमलव पाँच समानांतर रेखाएँ और एक तिर्यक रेखा।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "धारा छह दशमलव पाँच समानांतर रेखाएँ और एक तिर्यक रेखा।",
+              "voice": "Kavya",
+              "duration_s": 4.86,
+              "status": "ok",
+              "transcript": "धारा छह दशमलव पाँच समानांतर रेखाएँ और एक तिर्यक रेखा",
+              "cer_errors": 0,
+              "cer_len": 29,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 4.86,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a line which intersects two or more lines at distinct points is called a transversal. Look at Figure six point eighteen. Line l intersects line m and line n at points P and Q respectively. Therefore line l is a transversal for lines m and n. Observe that four angles are formed at each of the points P and Q.",
+          "text": "याद रखें कि एक रेखा जो दो या दो से अधिक रेखाओं को अलग-अलग बिंदुओं पर काटती है, उसे तिर्यक रेखा कहते हैं। चित्र छह बिंदु अठारह देखें। रेखा l, रेखा m और रेखा n को क्रमशः बिंदु P और Q पर काटती है। इसलिए रेखा l, रेखा m और रेखा n के लिए एक तिर्यक रेखा है। ध्यान दें कि प्रत्येक बिंदु P और Q पर चार कोण बनते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "याद रखें कि एक रेखा जो दो या दो से अधिक रेखाओं को अलग-अलग बिंदुओं पर काटती है, उसे तिर्यक रेखा कहते हैं। चित्र छह बिंदु अठारह देखें। रेखा l, रेखा m और रेखा n को क्रमशः बिंदु P और Q पर काटती है। इसलिए रेखा l, रेखा m और रेखा n के लिए एक तिर्यक रेखा है।",
+              "voice": "Kavya",
+              "duration_s": 15.1,
+              "status": "ok",
+              "transcript": "याद रखें कि एक रेखा जो दो या दो से अधिक रेखाओं को अलग अलग बिंदुओं पर काटती है उसे तिर्यक रेखा कहते हैं चित्र छह बिंदु अठारह देखें रेखा एम और रेखा एन के लिए एक तिर्यक रेखा",
+              "cer_errors": 37,
+              "cer_len": 116,
+              "cer": 0.319,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 15.1,
+                  "cer": 0.319
+                }
+              ]
+            },
+            {
+              "text": "ध्यान दें कि प्रत्येक बिंदु P और Q पर चार कोण बनते हैं।",
+              "voice": "Kavya",
+              "duration_s": 4.78,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 4.78,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point eighteen shows line l running from the upper left to the lower right and crossing line m at point P and line n at point Q. At point P the four angles around the intersection are labeled one, two, three, and four, with one in the upper left, two in the upper right, three in the lower right, and four in the lower left. At point Q the four angles are labeled five, six, seven, and eight, with five in the upper left, six in the upper right, seven in the lower right, and eight in the lower left.",
+          "text": "चित्र छह दशमलव अठारह में रेखा l को ऊपर बाईं ओर से नीचे दाईं ओर जाते हुए दिखाया गया है और यह रेखा m को बिंदु P पर और रेखा n को बिंदु Q पर काटती है। बिंदु P पर प्रतिच्छेदन के चारों ओर के चार कोणों को एक, दो, तीन और चार के रूप में लेबल किया गया है, जिसमें एक ऊपर बाईं ओर, दो ऊपर दाईं ओर, तीन नीचे दाईं ओर और चार नीचे बाईं ओर हैं। बिंदु Q पर चार कोणों को पाँच, छह, सात और आठ के रूप में लेबल किया गया है, जिसमें पाँच ऊपर बाईं ओर, छह ऊपर दाईं ओर, सात नीचे दाईं ओर और आठ नीचे बाईं ओर हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चित्र छह दशमलव अठारह में रेखा l को ऊपर बाईं ओर से नीचे दाईं ओर जाते हुए दिखाया गया है और यह रेखा m को बिंदु P पर और रेखा n को बिंदु Q पर काटती है।",
+              "voice": "Kavya",
+              "duration_s": 11.78,
+              "status": "ok",
+              "transcript": "चित्र छह दशमलव अठारह में रेखा एल को ऊपर बाईं ओर से नीचे दाईं ओर जाते हुए दिखाया गया है और यह रेखा एम को बिंदु पी पर और रेखा एन को बिंदु क्यू पर काटती है",
+              "cer_errors": 9,
+              "cer_len": 71,
+              "cer": 0.1268,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 11.78,
+                  "cer": 0.1268
+                }
+              ]
+            },
+            {
+              "text": "बिंदु P पर प्रतिच्छेदन के चारों ओर के चार कोणों को एक, दो, तीन और चार के रूप में लेबल किया गया है, जिसमें एक ऊपर बाईं ओर, दो ऊपर दाईं ओर, तीन नीचे दाईं ओर और चार नीचे बाईं ओर हैं।",
+              "voice": "Kavya",
+              "duration_s": 14.25,
+              "status": "ok",
+              "transcript": "बिंदु पी पर प्रतिच्छेदन के चारों ओर के चार कोणों को एक दो तीन और चार के रूप में लेबल किया गया है जिसमें एक ऊपर बाईं ओर दो ऊपर दाईं ओर तीन नीचे दाईं ओर और चार नीचे बाईं ओर है",
+              "cer_errors": 1,
+              "cer_len": 83,
+              "cer": 0.012,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.25,
+                  "cer": 0.012
+                }
+              ]
+            },
+            {
+              "text": "बिंदु Q पर चार कोणों को पाँच, छह, सात और आठ के रूप में लेबल किया गया है, जिसमें पाँच ऊपर बाईं ओर, छह ऊपर दाईं ओर, सात नीचे दाईं ओर और आठ नीचे बाईं ओर हैं।",
+              "voice": "Kavya",
+              "duration_s": 13.57,
+              "status": "ok",
+              "transcript": "बिंदु क्यू पर चार कोणों को पाँच छह सात और आठ के रूप में लेबल किया गया है जिसमें पाँच ऊपर बाईं ओर छह ऊपर दाईं ओर सात नीचे दाईं ओर और आठ नीचे बाईं ओर हैं",
+              "cer_errors": 2,
+              "cer_len": 72,
+              "cer": 0.0278,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 13.57,
+                  "cer": 0.0278
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u04",
+          "kind": "explanation",
+          "text_en": "Let us name these angles as angle one, angle two, and so on up to angle eight as shown in Figure six point eighteen.",
+          "text": "आइए इन कोणों को कोण एक, कोण दो और इसी तरह आठवें कोण के रूप में नाम दें जैसा कि चित्र छह बिंदु अठारह में दिखाया गया है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "आइए इन कोणों को कोण एक, कोण दो और इसी तरह आठवें कोण के रूप में नाम दें जैसा कि चित्र छह बिंदु अठारह में दिखाया गया है।",
+              "voice": "Kavya",
+              "duration_s": 10.58,
+              "status": "ok",
+              "transcript": "आइए इन कोणों को कोण एक कोण दो और इसी तरह आठवें कोण के रूप में नाम दें जैसा कि चित्र छह बिंदु अठारह में दिखाया गया है",
+              "cer_errors": 0,
+              "cer_len": 55,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 10.58,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u05",
+          "kind": "explanation",
+          "text_en": "Angle one, angle two, angle seven and angle eight are called exterior angles, while angle three, angle four, angle five and angle six are called interior angles.",
+          "text": "कोण एक, कोण दो, कोण सात और कोण आठ को बाह्य कोण कहा जाता है, जबकि कोण तीन, कोण चार, कोण पाँच और कोण छह को आंतरिक कोण कहा जाता है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "कोण एक, कोण दो, कोण सात और कोण आठ को बाह्य कोण कहा जाता है, जबकि कोण तीन, कोण चार, कोण पाँच और कोण छह को आंतरिक कोण कहा जाता है।",
+              "voice": "Kavya",
+              "duration_s": 12.8,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.8,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u06",
+          "kind": "explanation",
+          "text_en": "Recall that in the earlier classes you have named some pairs of angles formed when a transversal intersects two lines. These are as follows.",
+          "text": "याद कीजिए कि पिछली कक्षाओं में आपने दो रेखाओं को एक तिर्यक रेखा द्वारा प्रतिच्छेदित करने पर बनने वाले कुछ कोणों के युग्मों का नामकरण किया था। ये इस प्रकार हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "याद कीजिए कि पिछली कक्षाओं में आपने दो रेखाओं को एक तिर्यक रेखा द्वारा प्रतिच्छेदित करने पर बनने वाले कुछ कोणों के युग्मों का नामकरण किया था। ये इस प्रकार हैं।",
+              "voice": "Kavya",
+              "duration_s": 12.71,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.71,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u07",
+          "kind": "explanation",
+          "text_en": "There are four groups. First, corresponding angles: angle one and angle five; angle two and angle six; angle four and angle eight; angle three and angle seven. Second, alternate interior angles: angle four and angle six; angle three and angle five. Third, alternate exterior angles: angle one and angle seven; angle two and angle eight. Fourth, interior angles on the same side of the transversal: angle four and angle five; angle three and angle six.",
+          "text": "चार समूह हैं। पहला, संगत कोण: कोण एक और कोण पाँच; कोण दो और कोण छह; कोण चार और कोण आठ; कोण तीन और कोण सात। दूसरा, एकांतर अंतःकोण: कोण चार और कोण छह; कोण तीन और कोण पाँच। तीसरा, एकांतर बाह्य कोण: कोण एक और कोण सात; कोण दो और कोण आठ। चौथा, तिर्यक रेखा के एक ही ओर के अंतःकोण: कोण चार और कोण पाँच; कोण तीन और कोण छह।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "चार समूह हैं। पहला, संगत कोण: कोण एक और कोण पाँच; कोण दो और कोण छह; कोण चार और कोण आठ; कोण तीन और कोण सात। दूसरा, एकांतर अंतःकोण: कोण चार और कोण छह; कोण तीन और कोण पाँच। तीसरा, एकांतर बाह्य कोण: कोण एक और कोण सात; कोण दो और कोण आठ।",
+              "voice": "Kavya",
+              "duration_s": 27.48,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 27.48,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "चौथा, तिर्यक रेखा के एक ही ओर के अंतःकोण: कोण चार और कोण पाँच; कोण तीन और कोण छह।",
+              "voice": "Amit",
+              "duration_s": 8.53,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Amit",
+                  "duration_s": 8.53,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u08",
+          "kind": "explanation",
+          "text_en": "Interior angles on the same side of the transversal are also referred to as consecutive interior angles, allied angles, or co interior angles. Many times we simply use the words alternate angles for alternate interior angles.",
+          "text": "एक ही तरफ के अनुप्रस्थ कोणों को लगातार आंतरिक कोण, संबद्ध कोण या सह-आंतरिक कोण भी कहा जाता है। कई बार हम वैकल्पिक आंतरिक कोणों के लिए केवल वैकल्पिक कोण शब्दों का उपयोग करते हैं।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "एक ही तरफ के अनुप्रस्थ कोणों को लगातार आंतरिक कोण, संबद्ध कोण या सह-आंतरिक कोण भी कहा जाता है। कई बार हम वैकल्पिक आंतरिक कोणों के लिए केवल वैकल्पिक कोण शब्दों का उपयोग करते हैं।",
+              "voice": "Kavya",
+              "duration_s": 14.51,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.51,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u09",
+          "kind": "explanation",
+          "text_en": "Now, let us find out the relation between the angles in these pairs when line m is parallel to line n. You know that the ruled lines of your notebook are parallel to each other. So, with ruler and pencil, draw two parallel lines along any two of these lines and a transversal to intersect them as shown in Figure six point nineteen. Figure six point nineteen shows a slanted line labeled l crossing two horizontal lines, labeled m on top and n on the bottom. At the intersection of line l and line m, four angles are marked with arcs and numbered one, two, three, and four. Angle one is upper left, two is upper right, three is lower right, and four is lower left. At the intersection of line l and line n, four angles are marked with arcs and numbered five, six, seven, and eight. Angle five is upper left, six is upper right, seven is lower right, and eight is lower left.",
+          "text": "अब, आइए इन युग्मों में कोणों के बीच संबंध ज्ञात करें जब रेखा m, रेखा n के समानांतर हो। आप जानते हैं कि आपकी नोटबुक की रूल वाली रेखाएँ एक दूसरे के समानांतर होती हैं। तो, रूलर और पेंसिल से, इनमें से किन्हीं दो रेखाओं पर दो समानांतर रेखाएँ खींचें और उन्हें प्रतिच्छेद करने के लिए एक तिर्यक रेखा खींचें जैसा कि चित्र छह बिंदु उन्नीस में दिखाया गया है। चित्र छह बिंदु उन्नीस में एक तिरछी रेखा दिखाई गई है जिसे l नाम दिया गया है, जो दो क्षैतिज रेखाओं को काटती है, जिनके ऊपर m और नीचे n लिखा है। रेखा l और रेखा m के प्रतिच्छेदन पर, चार कोणों को चापों से चिह्नित किया गया है और उन्हें एक, दो, तीन और चार क्रमांकित किया गया है। कोण एक ऊपरी बाएँ, दो ऊपरी दाएँ, तीन निचला दायाँ और चार निचला बायाँ है। रेखा l और रेखा n के प्रतिच्छेदन पर, चार कोणों को चापों से चिह्नित किया गया है और उन्हें पाँच, छह, सात और आठ क्रमांकित किया गया है। कोण पाँच ऊपरी बाएँ, छह ऊपरी दाएँ, सात निचला दायाँ और आठ निचला बायाँ है।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "अब, आइए इन युग्मों में कोणों के बीच संबंध ज्ञात करें जब रेखा m, रेखा n के समानांतर हो। आप जानते हैं कि आपकी नोटबुक की रूल वाली रेखाएँ एक दूसरे के समानांतर होती हैं।",
+              "voice": "Kavya",
+              "duration_s": 14.59,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.59,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "तो, रूलर और पेंसिल से, इनमें से किन्हीं दो रेखाओं पर दो समानांतर रेखाएँ खींचें और उन्हें प्रतिच्छेद करने के लिए एक तिर्यक रेखा खींचें जैसा कि चित्र छह बिंदु उन्नीस में दिखाया गया है।",
+              "voice": "Kavya",
+              "duration_s": 14.93,
+              "status": "ok",
+              "transcript": "तो रूलर और पेंसिल से इनमें से किन्हीं दो रेखाओं पर दो समानांतर रेखाएँ खींचें और उन्हें प्रतिच्छेद करने के लिए एक तिर्यक रेखा खींचें जैसा कि चित्र छह बिंदु उन्नीस में दिखाया गया है",
+              "cer_errors": 0,
+              "cer_len": 82,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 14.93,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "चित्र छह बिंदु उन्नीस में एक तिरछी रेखा दिखाई गई है जिसे l नाम दिया गया है, जो दो क्षैतिज रेखाओं को काटती है, जिनके ऊपर m और नीचे n लिखा है।",
+              "voice": "Kavya",
+              "duration_s": 12.97,
+              "status": "ok",
+              "transcript": "चित्र छह बिंदु उन्नीस में एक तिरछी रेखा दिखाई गई है जिसे एल नाम दिया गया है जो दो क्षैतिज रेखाओं को काटती है जिनके ऊपर एम और नीचे एन लिखा है",
+              "cer_errors": 6,
+              "cer_len": 64,
+              "cer": 0.0938,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 12.97,
+                  "cer": 0.0938
+                }
+              ]
+            },
+            {
+              "text": "रेखा l और रेखा m के प्रतिच्छेदन पर, चार कोणों को चापों से चिह्नित किया गया है और उन्हें एक, दो, तीन और चार क्रमांकित किया गया है। कोण एक ऊपरी बाएँ, दो ऊपरी दाएँ, तीन निचला दायाँ और चार निचला बायाँ है।",
+              "voice": "Kavya",
+              "duration_s": 17.41,
+              "status": "ok",
+              "transcript": "रेखा एल और रेखा एम के प्रतिच्छेदन पर चार कोणों को चापों से चिह्नित किया गया है और उन्हें एक दो तीन और चार क्रमांकित किया गया है कोण एक ऊपरी बाएँ दो ऊपरी दाएँ तीन निचला दायाँ और चार निचला बायाँ हैं",
+              "cer_errors": 4,
+              "cer_len": 91,
+              "cer": 0.044,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 17.41,
+                  "cer": 0.044
+                }
+              ]
+            },
+            {
+              "text": "रेखा l और रेखा n के प्रतिच्छेदन पर, चार कोणों को चापों से चिह्नित किया गया है और उन्हें पाँच, छह, सात और आठ क्रमांकित किया गया है। कोण पाँच ऊपरी बाएँ, छह ऊपरी दाएँ, सात निचला दायाँ और आठ निचला बायाँ है।",
+              "voice": "Kavya",
+              "duration_s": 19.8,
+              "status": "ok",
+              "transcript": "रेखा एल और रेखा एन के प्रतिच्छेदन पर चार कोणों को चापों से चिह्नित किया गया है और उन्हें पाँच छह सात और आठ क्रमांकित किया गया है कोण पाँच ऊपरी बाएँ छह ऊपरी दाएँ सात निचला दायाँ और आठ निचला बायाँ हैं",
+              "cer_errors": 4,
+              "cer_len": 93,
+              "cer": 0.043,
+              "attempts": [
+                {
+                  "voice": "Kavya",
+                  "duration_s": 19.8,
+                  "cer": 0.043
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0833
+    }
+  ]
+}

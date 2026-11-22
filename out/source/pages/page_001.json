@@ -1,0 +1,175 @@
+{
+  "number": 1,
+  "width": 1050,
+  "height": 1500,
+  "image_path": "out\\pages_png\\page_001.png",
+  "blocks": [
+    {
+      "id": "p001.b00",
+      "page": 1,
+      "order": 0,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        808.4,
+        328.5,
+        880.5,
+        354.2
+      ],
+      "conf": 0.724,
+      "text": "$0962\\mathrm{CH}06$",
+      "doubtful": true,
+      "doubtful_reason": "isolated_code_token",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule5_doubtful"
+      ]
+    },
+    {
+      "id": "p001.b01",
+      "page": 1,
+      "order": 1,
+      "label": "Chapter-title",
+      "type": "Title",
+      "bbox_xyxy": [
+        762.8,
+        400.5,
+        920.9,
+        462.9
+      ],
+      "conf": 0.716,
+      "text": "CHAPTER 6",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p001.b02",
+      "page": 1,
+      "order": 2,
+      "label": "Chapter-title",
+      "type": "Title",
+      "bbox_xyxy": [
+        126.3,
+        475.0,
+        433.5,
+        515.4
+      ],
+      "conf": 0.858,
+      "text": "LINES AND ANGLES",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p001.b03",
+      "page": 1,
+      "order": 3,
+      "label": "Section-title",
+      "type": "SectionHeader",
+      "bbox_xyxy": [
+        126.1,
+        567.5,
+        311.6,
+        606.1
+      ],
+      "conf": 0.891,
+      "text": "6.1 Introduction",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p001.b04",
+      "page": 1,
+      "order": 4,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.8,
+        611.2,
+        922.5,
+        838.1
+      ],
+      "conf": 0.981,
+      "text": "In Chapter 5, you have studied that a minimum of two points are required to draw a\nline. You have also studied some axioms and, with the help of these axioms, you\nproved some other statements. In this chapter, you will study the properties of the\nangles formed when two lines intersect each other, and also the properties of the\nangles formed when a line intersects two or more parallel lines at distinct points.\nFurther you will use these properties to prove some statements using deductive reasoning\n(see Appendix 1). You have already verified these statements through some activities\nin the earlier classes.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p001.b05",
+      "page": 1,
+      "order": 5,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.9,
+        838.8,
+        922.7,
+        1094.1
+      ],
+      "conf": 0.981,
+      "text": "In your daily life, you see different types of angles formed between the edges of\nplane surfaces. For making a similar kind of model using the plane surfaces, you need\nto have a thorough knowledge of angles. For instance, suppose you want to make a\nmodel of a hut to keep in the school exhibition using bamboo sticks. Imagine how you\nwould make it? You would keep some of the sticks parallel to each other, and some\nsticks would be kept slanted. Whenever an architect has to draw a plan for a multistoried\nbuilding, she has to draw intersecting lines and parallel lines at different angles. Without\nthe knowledge of the properties of these lines and angles, do you think she can draw\nthe layout of the building?",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p001.b06",
+      "page": 1,
+      "order": 6,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        1094.1,
+        922.6,
+        1323.0
+      ],
+      "conf": 0.975,
+      "text": "In science, you study the properties of light by drawing the ray diagrams.\nFor example, to study the refraction property of light when it enters from one medium\nto the other medium, you use the properties of intersecting lines and parallel lines.\nWhen two or more forces act on a body, you draw the diagram in which forces are\nrepresented by directed line segments to study the net effect of the forces on the\nbody. At that time, you need to know the relation between the angles when the rays\n(or line segments) are parallel to or intersect each other. To find the height of a tower\nor to find the distance of a ship from the light house, one needs to know the angle formed between the horizontal and the line of sight. Plenty of other examples can be\ngiven where lines and angles are used. In the subsequent chapters of geometry, you\nwill be using these properties of lines and angles to deduce more and more useful\nproperties.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule10_joined:p002.b00"
+      ]
+    }
+  ],
+  "markdown": "$0962\\mathrm{CH}06$\n\nCHAPTER 6\n\nLINES AND ANGLES\n\n6.1 Introduction\n\nIn Chapter 5, you have studied that a minimum of two points are required to draw a\nline. You have also studied some axioms and, with the help of these axioms, you\nproved some other statements. In this chapter, you will study the properties of the\nangles formed when two lines intersect each other, and also the properties of the\nangles formed when a line intersects two or more parallel lines at distinct points.\nFurther you will use these properties to prove some statements using deductive reasoning\n(see Appendix 1). You have already verified these statements through some activities\nin the earlier classes.\n\nIn your daily life, you see different types of angles formed between the edges of\nplane surfaces. For making a similar kind of model using the plane surfaces, you need\nto have a thorough knowledge of angles. For instance, suppose you want to make a\nmodel of a hut to keep in the school exhibition using bamboo sticks. Imagine how you\nwould make it? You would keep some of the sticks parallel to each other, and some\nsticks would be kept slanted. Whenever an architect has to draw a plan for a multistoried\nbuilding, she has to draw intersecting lines and parallel lines at different angles. Without\nthe knowledge of the properties of these lines and angles, do you think she can draw\nthe layout of the building?\n\nIn science, you study the properties of light by drawing the ray diagrams.\nFor example, to study the refraction property of light when it enters from one medium\nto the other medium, you use the properties of intersecting lines and parallel lines.\nWhen two or more forces act on a body, you draw the diagram in which forces are\nrepresented by directed line segments to study the net effect of the forces on the\nbody. At that time, you need to know the relation between the angles when the rays\n(or line segments) are parallel to or intersect each other. To find the height of a tower\nor to find the distance of a ship from the light house, one needs to know the angle",
+  "dropped": []
+}

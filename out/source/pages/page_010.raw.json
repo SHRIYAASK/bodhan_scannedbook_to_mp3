@@ -1,0 +1,183 @@
+{
+  "id": "indic-ocr-59f8c4a5b7ad42c9bb44bb6598f58636",
+  "created": 1795193546,
+  "model": "indic-ocr",
+  "object": "chat.completion",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "6.5 Parallel Lines and a Transversal\n\nRecall that a line which intersects two or more lines\nat distinct points is called a **transversal**\n(see Fig. 6.18). Line $l$ intersects lines $m$ and $n$ at\npoints P and Q respectively. Therefore, line $l$ is a\ntransversal for lines $m$ and $n$. Observe that four angles\nare formed at each of the points P and Q.\n\nLet us name these angles as $\\angle 1, \\angle 2, \\dots, \\angle 8$ as\nshown in Fig. 6.18.\n\nFig. 6.18\n\n$\\angle$ 1, $\\angle$ 2, $\\angle$ 7 and $\\angle$ 8 are called **exterior**\n**angles**, while $\\angle$ 3, $\\angle$ 4, $\\angle$ 5 and $\\angle$ 6 are called\n**interior angles**.\n\nRecall that in the earlier classes, you have named some pairs of angles formed\nwhen a transversal intersects two lines. These are as follows:\n\n(a) Corresponding angles :\n(i) $\\angle 1$ and $\\angle 5$                                     (ii) $\\angle 2$ and $\\angle 6$\n(iii) $\\angle 4$ and $\\angle 8$                                     (iv) $\\angle 3$ and $\\angle 7$\n\n(b) Alternate interior angles :\n(i) $\\angle 4$ and $\\angle 6$                                     (ii) $\\angle 3$ and $\\angle 5$\n\n(c) Alternate exterior angles:\n(i) $\\angle 1$ and $\\angle 7$                                     (ii) $\\angle 2$ and $\\angle 8$\n\n(d) Interior angles on the same side of the transversal:\n(i) $\\angle 4$ and $\\angle 5$                                     (ii) $\\angle 3$ and $\\angle 6$\n\nInterior angles on the same side of the transversal\nare also referred to as **consecutive interior** angles\nor **allied** angles or **co-interior** angles. Further, many\na times, we simply use the words alternate angles for\nalternate interior angles.\n\nNow, let us find out the relation between the\nangles in these pairs when line $m$ is parallel to line $n$.\nYou know that the ruled lines of your notebook are\nparallel to each other. So, with ruler and pencil, draw\ntwo parallel lines along any two of these lines and a\ntransversal to intersect them as shown in Fig. 6.19.\n\nFig. 6.19",
+        "role": "assistant",
+        "provider_specific_fields": {
+          "refusal": null
+        }
+      },
+      "provider_specific_fields": {}
+    }
+  ],
+  "usage": {
+    "completion_tokens": 577,
+    "prompt_tokens": 1281,
+    "total_tokens": 1858
+  },
+  "blocks": [
+    {
+      "order": 0,
+      "label": "Section-title",
+      "type": "SectionHeader",
+      "bbox_xyxy": [
+        126.4,
+        230.4,
+        520.6,
+        270.1
+      ],
+      "conf": 0.907,
+      "text": "6.5 Parallel Lines and a Transversal"
+    },
+    {
+      "order": 1,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.2,
+        274.1,
+        622.6,
+        447.2
+      ],
+      "conf": 0.972,
+      "text": "Recall that a line which intersects two or more lines\nat distinct points is called a **transversal**\n(see Fig. 6.18). Line $l$ intersects lines $m$ and $n$ at\npoints P and Q respectively. Therefore, line $l$ is a\ntransversal for lines $m$ and $n$. Observe that four angles\nare formed at each of the points P and Q."
+    },
+    {
+      "order": 2,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        622.8,
+        281.9,
+        899.3,
+        552.3
+      ],
+      "conf": 0.966,
+      "text": ""
+    },
+    {
+      "order": 3,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.0,
+        446.2,
+        622.0,
+        510.8
+      ],
+      "conf": 0.934,
+      "text": "Let us name these angles as $\\angle 1, \\angle 2, \\dots, \\angle 8$ as\nshown in Fig. 6.18."
+    },
+    {
+      "order": 4,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        714.4,
+        556.3,
+        812.2,
+        591.4
+      ],
+      "conf": 0.876,
+      "text": "Fig. 6.18"
+    },
+    {
+      "order": 5,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.9,
+        509.7,
+        622.8,
+        601.4
+      ],
+      "conf": 0.947,
+      "text": "$\\angle$ 1, $\\angle$ 2, $\\angle$ 7 and $\\angle$ 8 are called **exterior**\n**angles**, while $\\angle$ 3, $\\angle$ 4, $\\angle$ 5 and $\\angle$ 6 are called\n**interior angles**."
+    },
+    {
+      "order": 6,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.0,
+        600.4,
+        922.8,
+        666.0
+      ],
+      "conf": 0.94,
+      "text": "Recall that in the earlier classes, you have named some pairs of angles formed\nwhen a transversal intersects two lines. These are as follows:"
+    },
+    {
+      "order": 7,
+      "label": "List",
+      "type": "Text",
+      "bbox_xyxy": [
+        163.7,
+        664.5,
+        746.4,
+        985.6
+      ],
+      "conf": 0.848,
+      "text": "(a) Corresponding angles :\n(i) $\\angle 1$ and $\\angle 5$                                     (ii) $\\angle 2$ and $\\angle 6$\n(iii) $\\angle 4$ and $\\angle 8$                                     (iv) $\\angle 3$ and $\\angle 7$\n\n(b) Alternate interior angles :\n(i) $\\angle 4$ and $\\angle 6$                                     (ii) $\\angle 3$ and $\\angle 5$\n\n(c) Alternate exterior angles:\n(i) $\\angle 1$ and $\\angle 7$                                     (ii) $\\angle 2$ and $\\angle 8$\n\n(d) Interior angles on the same side of the transversal:\n(i) $\\angle 4$ and $\\angle 5$                                     (ii) $\\angle 3$ and $\\angle 6$"
+    },
+    {
+      "order": 8,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        987.3,
+        622.3,
+        1133.0
+      ],
+      "conf": 0.95,
+      "text": "Interior angles on the same side of the transversal\nare also referred to as **consecutive interior** angles\nor **allied** angles or **co-interior** angles. Further, many\na times, we simply use the words alternate angles for\nalternate interior angles."
+    },
+    {
+      "order": 9,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        625.1,
+        1017.0,
+        922.4,
+        1273.7
+      ],
+      "conf": 0.958,
+      "text": ""
+    },
+    {
+      "order": 10,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.9,
+        1131.5,
+        622.4,
+        1305.6
+      ],
+      "conf": 0.956,
+      "text": "Now, let us find out the relation between the\nangles in these pairs when line $m$ is parallel to line $n$.\nYou know that the ruled lines of your notebook are\nparallel to each other. So, with ruler and pencil, draw\ntwo parallel lines along any two of these lines and a\ntransversal to intersect them as shown in Fig. 6.19."
+    },
+    {
+      "order": 11,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        714.5,
+        1278.4,
+        812.5,
+        1314.5
+      ],
+      "conf": 0.865,
+      "text": "Fig. 6.19"
+    }
+  ]
+}

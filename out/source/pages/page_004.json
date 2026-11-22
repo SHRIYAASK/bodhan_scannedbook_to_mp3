@@ -1,0 +1,372 @@
+{
+  "number": 4,
+  "width": 1050,
+  "height": 1500,
+  "image_path": "out\\pages_png\\page_004.png",
+  "blocks": [
+    {
+      "id": "p004.b00",
+      "page": 4,
+      "order": 0,
+      "label": "Section-title",
+      "type": "SectionHeader",
+      "bbox_xyxy": [
+        126.3,
+        230.5,
+        662.0,
+        271.5
+      ],
+      "conf": 0.903,
+      "text": "6.3 Intersecting Lines and Non-intersecting Lines",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b01",
+      "page": 4,
+      "order": 1,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        273.9,
+        923.1,
+        339.0
+      ],
+      "conf": 0.948,
+      "text": "Draw two different lines PQ and RS on a paper. You will see that you can draw them\nin two different ways as shown in Fig. 6.5 (i) and Fig. 6.5 (ii).",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b02",
+      "page": 4,
+      "order": 2,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        231.6,
+        362.6,
+        805.9,
+        588.9
+      ],
+      "conf": 0.886,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p004_b02.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p004.b03",
+      "page": 4,
+      "order": 3,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        227.5,
+        553.0,
+        865.7,
+        591.9
+      ],
+      "conf": 0.601,
+      "text": "(i) Intersecting lines (ii) Non-intersecting (parallel) lines",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule7_whitespace_labels"
+      ]
+    },
+    {
+      "id": "p004.b04",
+      "page": 4,
+      "order": 4,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        323.2,
+        592.5,
+        725.9,
+        629.7
+      ],
+      "conf": 0.901,
+      "text": "Fig. 6.5 : Different ways of drawing two lines",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b05",
+      "page": 4,
+      "order": 5,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        630.8,
+        923.4,
+        751.4
+      ],
+      "conf": 0.96,
+      "text": "Recall the notion of a line, that it extends indefinitely in both directions. Lines PQ\nand RS in Fig. 6.5 (i) are intersecting lines and in Fig. 6.5 (ii) are parallel lines. Note\nthat the lengths of the common perpendiculars at different points on these parallel\nlines is the same. This equal length is called the $distance$ $between$ $two$ $parallel$ $lines$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b06",
+      "page": 4,
+      "order": 6,
+      "label": "Section-title",
+      "type": "SectionHeader",
+      "bbox_xyxy": [
+        125.9,
+        770.2,
+        341.4,
+        809.6
+      ],
+      "conf": 0.814,
+      "text": "6.4 Pairs of Angles",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b07",
+      "page": 4,
+      "order": 7,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.9,
+        811.5,
+        577.5,
+        1125.8
+      ],
+      "conf": 0.938,
+      "text": "In Section 6.2, you have learnt the definitions of\nsome of the pairs of angles such as\ncomplementary angles, supplementary angles,\nadjacent angles, linear pair of angles, etc. Can\nyou think of some relations between these\nangles? Now, let us find out the relation between\nthe angles formed when a ray stands on a line.\nDraw a figure in which a ray stands on a line as\nshown in Fig. 6.6. Name the line as AB and the\nray as OC. What are the angles formed at the\npoint O? They are $\\angle \\text{AOC}$, $\\angle \\text{BOC}$ and $\\angle \\text{AOB}$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule9_angle"
+      ]
+    },
+    {
+      "id": "p004.b08",
+      "page": 4,
+      "order": 8,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        568.2,
+        823.7,
+        908.7,
+        1049.2
+      ],
+      "conf": 0.944,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p004_b08.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p004.b09",
+      "page": 4,
+      "order": 9,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        593.5,
+        1060.2,
+        875.7,
+        1096.8
+      ],
+      "conf": 0.882,
+      "text": "Fig. 6.6 : Linear pair of angles",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b10",
+      "page": 4,
+      "order": 10,
+      "label": "Equation",
+      "type": "Equation",
+      "bbox_xyxy": [
+        127.5,
+        1121.5,
+        923.1,
+        1160.9
+      ],
+      "conf": 0.764,
+      "text": "Can we write $\\angle \\text{AOC} + \\angle \\text{BOC} = \\angle \\text{AOB}$? (1)",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule7_whitespace_labels"
+      ]
+    },
+    {
+      "id": "p004.b11",
+      "page": 4,
+      "order": 11,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.4,
+        1158.8,
+        629.8,
+        1198.1
+      ],
+      "conf": 0.811,
+      "text": "Yes! (Why? Refer to adjacent angles in Section 6.2)",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p004.b12",
+      "page": 4,
+      "order": 12,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.2,
+        1194.6,
+        922.1,
+        1233.4
+      ],
+      "conf": 0.758,
+      "text": "What is the measure of $\\angle \\text{AOB}$? It is $180^\\circ$. (Why?)",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": "2",
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule7_whitespace_labels",
+        "rule9_angle"
+      ]
+    },
+    {
+      "id": "p004.b13",
+      "page": 4,
+      "order": 13,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        1229.8,
+        863.1,
+        1269.2
+      ],
+      "conf": 0.775,
+      "text": "From (1) and (2), can you say that $\\angle \\text{AOC} + \\angle \\text{BOC} = 180^\\circ$? Yes! (Why?)",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule7_whitespace_labels"
+      ]
+    },
+    {
+      "id": "p004.b14",
+      "page": 4,
+      "order": 14,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.0,
+        1266.3,
+        716.5,
+        1303.8
+      ],
+      "conf": 0.821,
+      "text": "From the above discussion, we can state the following Axiom: Axiom 6.1 : If a ray stands on a line, then the sum of two adjacent angles so\nformed is $180^{\\circ}$.",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule10_joined:p005.b02"
+      ]
+    }
+  ],
+  "markdown": "6.3 Intersecting Lines and Non-intersecting Lines\n\nDraw two different lines PQ and RS on a paper. You will see that you can draw them\nin two different ways as shown in Fig. 6.5 (i) and Fig. 6.5 (ii).\n\n(i) Intersecting lines                                     (ii) Non-intersecting (parallel) lines\n\nFig. 6.5 : Different ways of drawing two lines\n\nRecall the notion of a line, that it extends indefinitely in both directions. Lines PQ\nand RS in Fig. 6.5 (i) are intersecting lines and in Fig. 6.5 (ii) are parallel lines. Note\nthat the lengths of the common perpendiculars at different points on these parallel\nlines is the same. This equal length is called the $distance$ $between$ $two$ $parallel$ $lines$.\n\n6.4 Pairs of Angles\n\nIn Section 6.2, you have learnt the definitions of\nsome of the pairs of angles such as\ncomplementary angles, supplementary angles,\nadjacent angles, linear pair of angles, etc. Can\nyou think of some relations between these\nangles? Now, let us find out the relation between\nthe angles formed when a ray stands on a line.\nDraw a figure in which a ray stands on a line as\nshown in Fig. 6.6. Name the line as AB and the\nray as OC. What are the angles formed at the\npoint O? They are $\\angle$ AOC, $\\angle$ BOC and $\\angle$ AOB.\n\nFig. 6.6 : Linear pair of angles\n\nCan we write $\\angle \\text{AOC} + \\angle \\text{BOC} = \\angle \\text{AOB}$?                                                                                             (1)\n\nYes! (Why? Refer to adjacent angles in Section 6.2)\n\nWhat is the measure of $\\angle$ AOB? It is $180^\\circ$. (Why?) (2)\n\nFrom (1) and (2), can you say that $\\angle \\text{AOC} + \\angle \\text{BOC} = 180^\\circ$?   Yes! (Why?)\n\nFrom the above discussion, we can state the following Axiom:",
+  "dropped": []
+}

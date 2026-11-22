@@ -1,0 +1,79 @@
+{
+  "languages": {
+    "bn": {
+      "language": "bn",
+      "voice": "Ishita",
+      "units": 72,
+      "units_failed": 0,
+      "chunks": 118,
+      "chunks_failed": 3,
+      "chunks_suspect": 0,
+      "chunks_high_cer": 2,
+      "audio_seconds": 1817.4,
+      "cer": 0.0817,
+      "sections": [
+        {
+          "section_id": "s01",
+          "audio": null,
+          "duration_s": 0.0,
+          "cer": null
+        },
+        {
+          "section_id": "s02",
+          "audio": "out\\bn\\narration\\02-6-1-introduction.bn.mp3",
+          "duration_s": 185.81,
+          "cer": 0.0049
+        },
+        {
+          "section_id": "s03",
+          "audio": "out\\bn\\narration\\03-6-2-basic-terms-and-definitions.bn.mp3",
+          "duration_s": 411.31,
+          "cer": 0.0998
+        },
+        {
+          "section_id": "s04",
+          "audio": "out\\bn\\narration\\04-6-3-intersecting-lines-and-non-intersect.bn.mp3",
+          "duration_s": 130.28,
+          "cer": null
+        },
+        {
+          "section_id": "s05",
+          "audio": "out\\bn\\narration\\05-6-4-pairs-of-angles.bn.mp3",
+          "duration_s": 549.64,
+          "cer": 0.0995
+        },
+        {
+          "section_id": "s06",
+          "audio": "out\\bn\\narration\\06-6-4-pairs-of-angles-part-2.bn.mp3",
+          "duration_s": 127.28,
+          "cer": 0.4333
+        },
+        {
+          "section_id": "s07",
+          "audio": "out\\bn\\narration\\07-exercise-6-1.bn.mp3",
+          "duration_s": 126.57,
+          "cer": 0.1735
+        },
+        {
+          "section_id": "s08",
+          "audio": "out\\bn\\narration\\08-6-5-parallel-lines-and-a-transversal.bn.mp3",
+          "duration_s": 279.36,
+          "cer": 0.0604
+        }
+      ],
+      "errors": [],
+      "timing_s": {
+        "translate": 0.0,
+        "speak_and_check": 155.3,
+        "assemble": 114.4,
+        "total": 269.8
+      },
+      "lesson_audio": "out\\bn\\lesson.bn.mp3",
+      "cost_estimate_inr": 13.98
+    }
+  },
+  "wall_time_s": 269.8,
+  "translate_calls": 0,
+  "speak_calls": 20,
+  "transcribe_calls": 0
+}

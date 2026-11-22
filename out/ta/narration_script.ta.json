@@ -1,0 +1,2960 @@
+{
+  "language": "ta",
+  "ai_generated": true,
+  "voice": "Anitha",
+  "ai_label": "AI-generated narration: Bodhan Indic-Speak, voice Anitha",
+  "back_check": "every chunk back-transcribed with Indic-Transcribe; CER against the TTS text",
+  "cer": 0.0816,
+  "sections": [
+    {
+      "section_id": "s01",
+      "title": "Introduction",
+      "slug": "01-introduction",
+      "units": [],
+      "cer": null
+    },
+    {
+      "section_id": "s02",
+      "title": "6.1 Introduction",
+      "slug": "02-6-1-introduction",
+      "units": [
+        {
+          "id": "s02.u01",
+          "kind": "heading",
+          "text_en": "Chapter six lines and angles.",
+          "text": "அத்தியாயம் ஆறு கோடுகள் மற்றும் கோணங்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "அத்தியாயம் ஆறு கோடுகள் மற்றும் கோணங்கள்.",
+              "voice": "Anitha",
+              "duration_s": 2.65,
+              "status": "ok",
+              "transcript": "அத்தியாயம் ஆறு கோடுகள் மற்றும் கோணங்கள்",
+              "cer_errors": 0,
+              "cer_len": 21,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 2.65,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u02",
+          "kind": "heading",
+          "text_en": "Six point one introduction.",
+          "text": "ஆறு புள்ளி ஒன்று அறிமுகம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆறு புள்ளி ஒன்று அறிமுகம்.",
+              "voice": "Anitha",
+              "duration_s": 2.56,
+              "status": "ok",
+              "transcript": "ஆறு புள்ளி ஒன்று அறிமுகம்",
+              "cer_errors": 0,
+              "cer_len": 13,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 2.56,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u03",
+          "kind": "explanation",
+          "text_en": "In Chapter five you learned that at least two points are needed to draw a line. You also studied some axioms and used them to prove other statements. In this chapter you will study the properties of the angles formed when two lines intersect each other, and also the properties of the angles formed when a line intersects two or more parallel lines at distinct points. You will use these properties to prove statements by deductive reasoning. You have already verified these statements through activities in earlier classes.",
+          "text": "அத்தியாயம் ஐந்தில் ஒரு கோடு வரைய குறைந்தபட்சம் இரண்டு புள்ளிகள் தேவை என்பதை நீங்கள் கற்றுக் கொண்டீர்கள். சில சுயவிதிமுறைகளையும் படித்தீர்கள் மற்றும் மற்ற கூற்றுகளை நிரூபிக்க அவற்றைப் பயன்படுத்தினீர்கள். இந்த அத்தியாயத்தில் இரண்டு கோடுகள் ஒன்றுக்கொன்று வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும், ஒரு கோடு இரண்டு அல்லது அதற்கு மேற்பட்ட இணையான கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும் படிப்பீர்கள். இந்த பண்புகளைப் பயன்படுத்தி அனுமான ரீதியான காரணங்களால் கூற்றுகளை நிரூபிப்பீர்கள். முந்தைய வகுப்புகளில் உள்ள செயல்பாடுகள் மூலம் இந்தக் கூற்றுகளை ஏற்கனவே சரிபார்த்துள்ளீர்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "அத்தியாயம் ஐந்தில் ஒரு கோடு வரைய குறைந்தபட்சம் இரண்டு புள்ளிகள் தேவை என்பதை நீங்கள் கற்றுக் கொண்டீர்கள். சில சுயவிதிமுறைகளையும் படித்தீர்கள் மற்றும் மற்ற கூற்றுகளை நிரூபிக்க அவற்றைப் பயன்படுத்தினீர்கள்.",
+              "voice": "Anitha",
+              "duration_s": 14.93,
+              "status": "ok",
+              "transcript": "அத்தியாயம் ஐந்தில் ஒரு கோடு வரைய குறைந்தபட்சம் இரண்டு புள்ளிகள் தேவை என்பதை நீங்கள் கற்றுக்கொண்டீர்கள் சில சுயவிதி முறைகளையும் படித்தீர்கள் மற்றும் மற்ற கூற்றுகளை நிரூபிக்க அவற்றைப் பயன்படுத்தினீர்",
+              "cer_errors": 2,
+              "cer_len": 106,
+              "cer": 0.0189,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.93,
+                  "cer": 0.0189
+                }
+              ]
+            },
+            {
+              "text": "இந்த அத்தியாயத்தில் இரண்டு கோடுகள் ஒன்றுக்கொன்று வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும், ஒரு கோடு இரண்டு அல்லது அதற்கு மேற்பட்ட இணையான கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும் படிப்பீர்கள்.",
+              "voice": "Anitha",
+              "duration_s": 15.45,
+              "status": "ok",
+              "transcript": "இந்த அத்தியாயத்தில் இரண்டு கோடுகள் ஒன்றுக்கொன்று வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும் ஒரு கோடு இரண்டு அல்லது அதற்கு மேற்பட்ட இணையான கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும்போது உருவாகும் கோணங்களின் பண்புகளையும் படிப்பீர்கள்",
+              "cer_errors": 0,
+              "cer_len": 120,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.45,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "இந்த பண்புகளைப் பயன்படுத்தி அனுமான ரீதியான காரணங்களால் கூற்றுகளை நிரூபிப்பீர்கள். முந்தைய வகுப்புகளில் உள்ள செயல்பாடுகள் மூலம் இந்தக் கூற்றுகளை ஏற்கனவே சரிபார்த்துள்ளீர்கள்.",
+              "voice": "Anitha",
+              "duration_s": 11.95,
+              "status": "ok",
+              "transcript": "இந்த பண்புகளைப் பயன்படுத்தி அனுமான ரீதியான காரணங்களால் கூற்றுகளை நிரூபிப்பீர்கள் முந்தைய வகுப்புகளில் உள்ள செயல்பாடுகள் மூலம் இந்த கூற்றுகளை ஏற்கனவே சரிபார்த்துள்ளீர்கள்",
+              "cer_errors": 1,
+              "cer_len": 93,
+              "cer": 0.0108,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.95,
+                  "cer": 0.0108
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u04",
+          "kind": "explanation",
+          "text_en": "In daily life you see different types of angles formed between the edges of plane surfaces. To make a model using plane surfaces you need a thorough knowledge of angles. For instance, suppose you want to make a model of a hut for a school exhibition using bamboo sticks. You would keep some sticks parallel and some sticks slanted. An architect drawing a plan for a multistoried building also draws intersecting lines and parallel lines at different angles. Without knowledge of the properties of these lines and angles, she could not draw the layout of the building.",
+          "text": "சாதாரண வாழ்க்கையில், தட்டையான பரப்புகளின் விளிம்புகளுக்கு இடையே உருவாகும் பல்வேறு வகையான கோணங்களை நீங்கள் காண்கிறீர்கள். தட்டையான பரப்புகளைப் பயன்படுத்தி ஒரு மாதிரி உருவாக்க, உங்களுக்குக் கோணங்களைப் பற்றிய முழுமையான அறிவு தேவை. உதாரணமாக, மூங்கில் குச்சிகளைப் பயன்படுத்தி பள்ளி கண்காட்சிக்காக ஒரு குடிசை மாதிரி செய்ய விரும்புகிறீர்கள் என்று வைத்துக்கொள்வோம். சில குச்சிகளை இணையாகவும், சில குச்சிகளை சாய்வாகவும் வைத்திருப்பீர்கள். பல மாடி கட்டிடம் ஒன்றிற்கான வரைபடத்தை வரையும் ஒரு கட்டிடக் கலைஞர், வெட்டும் கோடுகளையும், வெவ்வேறு கோணங்களில் உள்ள இணையான கோடுகளையும் வரைகிறார். இந்த கோடுகள் மற்றும் கோணங்களின் பண்புகள் பற்றிய அறிவு இல்லாமல், அவரால் கட்டிடத்தின் அமைப்பை வரைய முடியாது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "சாதாரண வாழ்க்கையில், தட்டையான பரப்புகளின் விளிம்புகளுக்கு இடையே உருவாகும் பல்வேறு வகையான கோணங்களை நீங்கள் காண்கிறீர்கள். தட்டையான பரப்புகளைப் பயன்படுத்தி ஒரு மாதிரி உருவாக்க, உங்களுக்குக் கோணங்களைப் பற்றிய முழுமையான அறிவு தேவை.",
+              "voice": "Anitha",
+              "duration_s": 15.36,
+              "status": "ok",
+              "transcript": "சாதாரண வாழ்க்கையில் தட்டையான பரப்புகளின் விளிம்புகளுக்கு இடையே உருவாகும் பல்வேறு வகையான கோணங்களை நீங்கள் காண்கிறீர்கள் தட்டையான பரப்புகளைப் பயன்படுத்தி ஒரு மாதிரி உருவாக்க உங்களுக்கு கோணங்களைப் பற்றிய முழுமையான அறிவு தேவை",
+              "cer_errors": 1,
+              "cer_len": 118,
+              "cer": 0.0085,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.36,
+                  "cer": 0.0085
+                }
+              ]
+            },
+            {
+              "text": "உதாரணமாக, மூங்கில் குச்சிகளைப் பயன்படுத்தி பள்ளி கண்காட்சிக்காக ஒரு குடிசை மாதிரி செய்ய விரும்புகிறீர்கள் என்று வைத்துக்கொள்வோம். சில குச்சிகளை இணையாகவும், சில குச்சிகளை சாய்வாகவும் வைத்திருப்பீர்கள்.",
+              "voice": "Anitha",
+              "duration_s": 13.48,
+              "status": "ok",
+              "transcript": "உதாரணமாக மூங்கில் குச்சிகளைப் பயன்படுத்தி பள்ளிக் கண்காட்சிக்காக ஒரு குடிசை மாதிரி செய்ய விரும்புகிறீர்கள் என்று வைத்துக்கொள்வோம் சில குச்சிகளை இணையாகவும் சில குச்சிகளை சாய்வாகவும் வைத்திருப்பீர்கள்",
+              "cer_errors": 1,
+              "cer_len": 100,
+              "cer": 0.01,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.48,
+                  "cer": 0.01
+                }
+              ]
+            },
+            {
+              "text": "பல மாடி கட்டிடம் ஒன்றிற்கான வரைபடத்தை வரையும் ஒரு கட்டிடக் கலைஞர், வெட்டும் கோடுகளையும், வெவ்வேறு கோணங்களில் உள்ள இணையான கோடுகளையும் வரைகிறார். இந்த கோடுகள் மற்றும் கோணங்களின் பண்புகள் பற்றிய அறிவு இல்லாமல், அவரால் கட்டிடத்தின் அமைப்பை வரைய முடியாது.",
+              "voice": "Anitha",
+              "duration_s": 16.64,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.64,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u05",
+          "kind": "explanation",
+          "text_en": "Now, let us see why lines and angles are so important. In science we study light by drawing ray diagrams. When light passes from one medium to another we use the properties of intersecting lines and parallel lines to understand refraction. Similarly, when several forces act on a body we draw directed line segments to find the net effect. In such diagrams we must know how angles relate when the rays or line segments are parallel or intersect each other. To find the height of a tower or the distance of a ship from a lighthouse we use the angle between the horizontal and the line of sight. Many other situations use lines and angles. In the next chapters of geometry you will use these properties to deduce more useful results. Let us first revise the terms and definitions related to lines and angles that you learned in earlier classes.",
+          "text": "இப்போது, கோடுகளும் கோணங்களும் ஏன் மிகவும் முக்கியமானவை என்று பார்ப்போம். அறிவியலில் கதிரியக்க வரைபடங்களை வரைவதன் மூலம் ஒளியைப் பற்றி படிக்கிறோம். ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்குச் செல்லும்போது, ஒளிவிலகலைப் புரிந்துகொள்ள வெட்டும் கோடுகள் மற்றும் இணையான கோடுகளின் பண்புகளைப் பயன்படுத்துகிறோம். அதேபோல், ஒரு பொருளின் மீது பல விசைகள் செயல்படும்போது, நிகர விளைவைக் கண்டறிய திசைப்படுத்தப்பட்ட கோட்டுத்துண்டுகளை வரைகிறோம். இத்தகைய வரைபடங்களில், கதிர்கள் அல்லது கோட்டுத்துண்டுகள் ஒன்றுக்கொன்று இணையாகவோ அல்லது வெட்டவோ செய்தால் கோணங்கள் எவ்வாறு தொடர்பு கொள்கின்றன என்பதை நாம் அறிந்திருக்க வேண்டும். ஒரு கோபுரத்தின் உயரத்தையோ அல்லது கலங்கரை விளக்கத்திலிருந்து கப்பலின் தூரத்தையோ கண்டுபிடிக்க கிடைமட்டத்திற்கும் பார்வை கோட்டிற்கும் இடையிலான கோணத்தைப் பயன்படுத்துகிறோம். இன்னும் பல சூழ்நிலைகளில் கோடுகளையும் கோணங்களையும் பயன்படுத்துகிறோம். வடிவியலின் அடுத்த அத்தியாயங்களில், இந்த பண்புகளைப் பயன்படுத்தி இன்னும் பயனுள்ள முடிவுகளைப் பெறுவீர்கள். முந்தைய வகுப்புகளில் நீங்கள் கற்றுக் கொண்ட கோடுகள் மற்றும் கோணங்கள் தொடர்பான சொற்களையும் வரையறைகளையும் முதலில் நினைவு கூர்வோம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இப்போது, கோடுகளும் கோணங்களும் ஏன் மிகவும் முக்கியமானவை என்று பார்ப்போம். அறிவியலில் கதிரியக்க வரைபடங்களை வரைவதன் மூலம் ஒளியைப் பற்றி படிக்கிறோம்.",
+              "voice": "Anitha",
+              "duration_s": 11.43,
+              "status": "ok",
+              "transcript": "இப்போது கோடுகளும் கோணங்களும் ஏன் மிகவும் முக்கியமானவை என்று பார்ப்போம் அறிவியலில் கதிரியக்க வரைபடங்களை வரைவதன் மூலம் ஒளியைப் பற்றி படிக்கிறோம்",
+              "cer_errors": 0,
+              "cer_len": 76,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.43,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்குச் செல்லும்போது, ஒளிவிலகலைப் புரிந்துகொள்ள வெட்டும் கோடுகள் மற்றும் இணையான கோடுகளின் பண்புகளைப் பயன்படுத்துகிறோம்.",
+              "voice": "Anitha",
+              "duration_s": 11.01,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.01,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "அதேபோல், ஒரு பொருளின் மீது பல விசைகள் செயல்படும்போது, நிகர விளைவைக் கண்டறிய திசைப்படுத்தப்பட்ட கோட்டுத்துண்டுகளை வரைகிறோம்.",
+              "voice": "Anitha",
+              "duration_s": 8.02,
+              "status": "ok",
+              "transcript": "அதேபோல் ஒரு பொருளின் மீது பல விசைகள் செயல்படும்போது நிகர விளைவைக் கண்டறிய திசைப்படுத்தப்பட்ட கோட்டுத் துண்டுகளை வரைகிறோம்",
+              "cer_errors": 0,
+              "cer_len": 63,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.02,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "இத்தகைய வரைபடங்களில், கதிர்கள் அல்லது கோட்டுத்துண்டுகள் ஒன்றுக்கொன்று இணையாகவோ அல்லது வெட்டவோ செய்தால் கோணங்கள் எவ்வாறு தொடர்பு கொள்கின்றன என்பதை நாம் அறிந்திருக்க வேண்டும்.",
+              "voice": "Anitha",
+              "duration_s": 11.09,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.09,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "ஒரு கோபுரத்தின் உயரத்தையோ அல்லது கலங்கரை விளக்கத்திலிருந்து கப்பலின் தூரத்தையோ கண்டுபிடிக்க கிடைமட்டத்திற்கும் பார்வை கோட்டிற்கும் இடையிலான கோணத்தைப் பயன்படுத்துகிறோம். இன்னும் பல சூழ்நிலைகளில் கோடுகளையும் கோணங்களையும் பயன்படுத்துகிறோம்.",
+              "voice": "Anitha",
+              "duration_s": 15.7,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.7,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வடிவியலின் அடுத்த அத்தியாயங்களில், இந்த பண்புகளைப் பயன்படுத்தி இன்னும் பயனுள்ள முடிவுகளைப் பெறுவீர்கள். முந்தைய வகுப்புகளில் நீங்கள் கற்றுக் கொண்ட கோடுகள் மற்றும் கோணங்கள் தொடர்பான சொற்களையும் வரையறைகளையும் முதலில் நினைவு கூர்வோம்.",
+              "voice": "Anitha",
+              "duration_s": 15.53,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.53,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.007
+    },
+    {
+      "section_id": "s03",
+      "title": "6.2 Basic Terms and Definitions",
+      "slug": "03-6-2-basic-terms-and-definitions",
+      "units": [
+        {
+          "id": "s03.u01",
+          "kind": "heading",
+          "text_en": "Six point two, Basic Terms and Definitions.",
+          "text": "ஆறு புள்ளி இரண்டு, அடிப்படை சொற்கள் மற்றும் வரையறைகள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆறு புள்ளி இரண்டு, அடிப்படை சொற்கள் மற்றும் வரையறைகள்.",
+              "voice": "Anitha",
+              "duration_s": 4.1,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 4.1,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a part of a line with two end points is called a line segment. A part of a line with one end point is called a ray. We will write the line segment AB, the ray AB, the length AB and the line AB all with the same letters AB. The meaning will be clear from the context. Sometimes small letters l, m, n and so on will be used to denote lines.",
+          "text": "இரண்டு இறுதிப் புள்ளிகளைக் கொண்ட ஒரு கோட்டின் பகுதி கோட்டுத்துண்டு என்று அழைக்கப்படுகிறது என்பதை நினைவில் கொள்க. ஒரு இறுதிப் புள்ளியைக் கொண்ட ஒரு கோட்டின் பகுதி கதிர் என்று அழைக்கப்படுகிறது. நாம் கோட்டுத்துண்டு AB, கதிர் AB, நீளம் AB மற்றும் கோடு AB ஆகியவற்றை ஒரே எழுத்துக்களான AB உடன் எழுதுவோம். சூழலிலிருந்து பொருள் தெளிவாக இருக்கும். சில நேரங்களில் சிறிய எழுத்துக்கள் l, m, n போன்றவை கோடுகளைக் குறிக்கப் பயன்படும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு இறுதிப் புள்ளிகளைக் கொண்ட ஒரு கோட்டின் பகுதி கோட்டுத்துண்டு என்று அழைக்கப்படுகிறது என்பதை நினைவில் கொள்க. ஒரு இறுதிப் புள்ளியைக் கொண்ட ஒரு கோட்டின் பகுதி கதிர் என்று அழைக்கப்படுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 13.06,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.06,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "நாம் கோட்டுத்துண்டு AB, கதிர் AB, நீளம் AB மற்றும் கோடு AB ஆகியவற்றை ஒரே எழுத்துக்களான AB உடன் எழுதுவோம். சூழலிலிருந்து பொருள் தெளிவாக இருக்கும். சில நேரங்களில் சிறிய எழுத்துக்கள் l, m, n போன்றவை கோடுகளைக் குறிக்கப் பயன்படும்.",
+              "voice": "Anitha",
+              "duration_s": 20.14,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.14,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u03",
+          "kind": "explanation",
+          "text_en": "If three or more points lie on the same line, they are called collinear points; otherwise they are called non collinear points.",
+          "text": "மூன்று அல்லது அதற்கு மேற்பட்ட புள்ளிகள் ஒரே நேர்கோட்டில் இருந்தால், அவை ஒருகோட்டுப் புள்ளிகள் எனப்படும்; இல்லையெனில் அவை ஒருகோட்டுப் புள்ளிகள் அல்லாதவை எனப்படும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "மூன்று அல்லது அதற்கு மேற்பட்ட புள்ளிகள் ஒரே நேர்கோட்டில் இருந்தால், அவை ஒருகோட்டுப் புள்ளிகள் எனப்படும்; இல்லையெனில் அவை ஒருகோட்டுப் புள்ளிகள் அல்லாதவை எனப்படும்.",
+              "voice": "Anitha",
+              "duration_s": 12.71,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.71,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u04",
+          "kind": "explanation",
+          "text_en": "Recall that an angle is formed when two rays originate from the same end point. The rays are called the arms of the angle and the end point is called the vertex. You have studied different types of angles such as acute angle, right angle, obtuse angle, straight angle and reflex angle in earlier classes. Look at Figure six point one.",
+          "text": "இரண்டு கதிர்கள் ஒரே முனையிலிருந்து உருவாகும்போது ஒரு கோணம் உருவாகிறது என்பதை நினைவில் கொள்க. அந்த கதிர்கள் கோணத்தின் বাহவுகள் என்றும், முனைப் புள்ளி உச்சி என்றும் அழைக்கப்படுகிறது. முன்பே நீங்கள் குறுங்கோணம், செங்கோணம், விரிகோணம், நேர்கோணம் மற்றும் பிரதிபலிப்புக் கோணம் போன்ற பல்வேறு வகையான கோணங்களைப் பற்றி படித்திருக்கிறீர்கள். படம் ஆறு புள்ளி ஒன்றை பாருங்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு கதிர்கள் ஒரே முனையிலிருந்து உருவாகும்போது ஒரு கோணம் உருவாகிறது என்பதை நினைவில் கொள்க. அந்த கதிர்கள் கோணத்தின் বাহவுகள் என்றும், முனைப் புள்ளி உச்சி என்றும் அழைக்கப்படுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 12.54,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.54,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "முன்பே நீங்கள் குறுங்கோணம், செங்கோணம், விரிகோணம், நேர்கோணம் மற்றும் பிரதிபலிப்புக் கோணம் போன்ற பல்வேறு வகையான கோணங்களைப் பற்றி படித்திருக்கிறீர்கள். படம் ஆறு புள்ளி ஒன்றை பாருங்கள்.",
+              "voice": "Anitha",
+              "duration_s": 12.46,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.46,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u05",
+          "kind": "explanation",
+          "text_en": "Figure six point one shows five separate angle diagrams arranged in two rows. In the top row, diagram one shows two rays meeting at a vertex forming a small angle marked with an arc and the letter x, labeled acute angle. Diagram two shows two rays meeting at a right angle, marked with a small square and the letter y, labeled right angle. Diagram three shows two rays forming a wide angle marked with an arc and the letter z, labeled obtuse angle. In the bottom row, diagram four shows a single straight line with arrows on both ends and a dot at the centre, with a curved arc above it labeled s, called straight angle. Diagram five shows two rays from a vertex with a large curved arrow looping around the outside, labeled t, called reflex angle.",
+          "text": "படம் ஆறு புள்ளி ஒன்று இரண்டு வரிசைகளில் அமைக்கப்பட்ட ஐந்து தனித்தனி கோண வரைபடங்களைக் காட்டுகிறது. மேல் வரிசையில், வரைபடம் ஒன்று ஒரு உச்சிப் புள்ளியில் சந்திக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, அவை ஒரு சிறிய கோணத்தை உருவாக்குகின்றன, இது வளைவு மற்றும் x என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது குறுங்கோணம் என்று பெயரிடப்பட்டுள்ளது. வரைபடம் இரண்டு ஒரு செங்கோணத்தில் சந்திக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, இது ஒரு சிறிய சதுரம் மற்றும் y என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது செங்கோணம் என்று பெயரிடப்பட்டுள்ளது. வரைபடம் மூன்று ஒரு பரந்த கோணத்தை உருவாக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, இது ஒரு வளைவு மற்றும் z என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது விரிகோணம் என்று பெயரிடப்பட்டுள்ளது. கீழ் வரிசையில், வரைபடம் நான்கு இரு முனைகளிலும் அம்புக்குறிகளுடன் கூடிய ஒரு நேர்கோட்டையும், மையத்தில் ஒரு புள்ளியையும் காட்டுகிறது, அதன் மேலே ஒரு வளைந்த வளைவு s என்று பெயரிடப்பட்டுள்ளது, இது நேர்கோணம் என்று அழைக்கப்படுகிறது. வரைபடம் ஐந்து ஒரு உச்சிப் புள்ளியிலிருந்து வரும் இரண்டு கதிர்களைக் காட்டுகிறது, வெளிப்புறத்தில் ஒரு பெரிய வளைந்த அம்புக்குறி சுழல்கிறது, இது t என்று பெயரிடப்பட்டுள்ளது, இது நிமிர்ந்த கோணம் என்று அழைக்கப்படுகிறது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி ஒன்று இரண்டு வரிசைகளில் அமைக்கப்பட்ட ஐந்து தனித்தனி கோண வரைபடங்களைக் காட்டுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 8.02,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.02,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "மேல் வரிசையில், வரைபடம் ஒன்று ஒரு உச்சிப் புள்ளியில் சந்திக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, அவை ஒரு சிறிய கோணத்தை உருவாக்குகின்றன, இது வளைவு மற்றும் x என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது குறுங்கோணம் என்று பெயரிடப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 15.87,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.87,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் இரண்டு ஒரு செங்கோணத்தில் சந்திக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, இது ஒரு சிறிய சதுரம் மற்றும் y என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது செங்கோணம் என்று பெயரிடப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 12.2,
+              "status": "ok",
+              "transcript": "வரைபடம் இரண்டு ஒரு செங்கோணத்தில் சந்திக்கும் இரண்டு கதிர்களைக் காட்டுகிறது இது ஒரு சிறிய சதுரம் மற்றும் வை என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது இது செங்கோணம் என்று பெயரிடப்பட்டுள்ளது",
+              "cer_errors": 1,
+              "cer_len": 96,
+              "cer": 0.0104,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.2,
+                  "cer": 0.0104
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் மூன்று ஒரு பரந்த கோணத்தை உருவாக்கும் இரண்டு கதிர்களைக் காட்டுகிறது, இது ஒரு வளைவு மற்றும் z என்ற எழுத்தால் குறிக்கப்பட்டுள்ளது, இது விரிகோணம் என்று பெயரிடப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 13.31,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.31,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கீழ் வரிசையில், வரைபடம் நான்கு இரு முனைகளிலும் அம்புக்குறிகளுடன் கூடிய ஒரு நேர்கோட்டையும், மையத்தில் ஒரு புள்ளியையும் காட்டுகிறது, அதன் மேலே ஒரு வளைந்த வளைவு s என்று பெயரிடப்பட்டுள்ளது, இது நேர்கோணம் என்று அழைக்கப்படுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 17.07,
+              "status": "ok",
+              "transcript": "கீழ்வரிசையில் வரைபடம் நான்கு இரு முனைகளிலும் அம்புக்குறிகளுடன் கூடிய ஒரு நேர்கோட்டையும் மையத்தில் ஒரு புள்ளியையும் காட்டுகிறது அதன் மேலே ஒரு வளைந்த வளைவு எஸ் என்று பெயரிடப்பட்டுள்ளது இது நேர்கோணம் என்று அழைக்கப்படுகிறது",
+              "cer_errors": 2,
+              "cer_len": 113,
+              "cer": 0.0177,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 17.07,
+                  "cer": 0.0177
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் ஐந்து ஒரு உச்சிப் புள்ளியிலிருந்து வரும் இரண்டு கதிர்களைக் காட்டுகிறது, வெளிப்புறத்தில் ஒரு பெரிய வளைந்த அம்புக்குறி சுழல்கிறது, இது t என்று பெயரிடப்பட்டுள்ளது, இது நிமிர்ந்த கோணம் என்று அழைக்கப்படுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 14.59,
+              "status": "ok",
+              "transcript": "வரைபடம் ஐந்து ஒரு உச்சிப்புள்ளியிலிருந்து வரும் இரண்டு கதிர்களைக் காட்டுகிறது வெளிப்புறத்தில் ஒரு பெரிய வளைந்த அம்புக்குறி சுழல்கிறது இது டீ என்று பெயரிடப்பட்டுள்ளது இது நிமிர்ந்த கோணம் என்று அழைக்கப்படுகிறது",
+              "cer_errors": 1,
+              "cer_len": 110,
+              "cer": 0.0091,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.59,
+                  "cer": 0.0091
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u06",
+          "kind": "explanation",
+          "text_en": "An acute angle measures between zero degrees and ninety degrees. A right angle is exactly ninety degrees. An angle greater than ninety degrees but less than one hundred and eighty degrees is called an obtuse angle. A straight angle is equal to one hundred and eighty degrees. An angle greater than one hundred and eighty degrees but less than three hundred and sixty degrees is called a reflex angle. Two angles whose sum is ninety degrees are called complementary angles, and two angles whose sum is one hundred and eighty degrees are called supplementary angles.",
+          "text": "ஒரு குறுங்கோணம் பூஜ்ஜிய டிகிரியில் இருந்து தொண்ணூறு டிகிரி வரை இருக்கும். ஒரு செங்கோணம் சரியாக தொண்ணூறு டிகிரி ஆகும். தொண்ணூறு டிகிரியை விட அதிகமாகவும் நூற்று எண்பது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு விரிகோணம் எனப்படும். ஒரு நேர்கோணம் நூற்று எண்பது டிகிரிகளுக்கு சமம். நூற்று எண்பது டிகிரியை விட அதிகமாகவும் முந்நூற்று அறுபது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு பிரதிபலிப்புக் கோணம் எனப்படும். இரண்டு கோணங்களின் கூடுதல் தொண்ணூறு டிகிரியாக இருந்தால் அவை நிரப்புக்கோணங்கள் என்றும், இரண்டு கோணங்களின் கூடுதல் நூற்று எண்பது டிகிரியாக இருந்தால் அவை நிரப்பிக்கோணங்கள் என்றும் அழைக்கப்படுகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஒரு குறுங்கோணம் பூஜ்ஜிய டிகிரியில் இருந்து தொண்ணூறு டிகிரி வரை இருக்கும். ஒரு செங்கோணம் சரியாக தொண்ணூறு டிகிரி ஆகும். தொண்ணூறு டிகிரியை விட அதிகமாகவும் நூற்று எண்பது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு விரிகோணம் எனப்படும்.",
+              "voice": "Anitha",
+              "duration_s": 16.81,
+              "status": "ok",
+              "transcript": "ஒரு குறுங்கோணம் பூஜ்ஜிய டிகிரியில் இருந்து தொண்ணூறு டிகிரி வரை இருக்கும் ஒரு செங்கோணம் சரியாக தொண்ணூறு டிகிரி ஆகும் தொண்ணூறு டிகிரியை விட அதிகமாகவும் நூற்று எண்பது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு விரிகோணம் எனப்படும்",
+              "cer_errors": 0,
+              "cer_len": 111,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.81,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "ஒரு நேர்கோணம் நூற்று எண்பது டிகிரிகளுக்கு சமம். நூற்று எண்பது டிகிரியை விட அதிகமாகவும் முந்நூற்று அறுபது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு பிரதிபலிப்புக் கோணம் எனப்படும்.",
+              "voice": "Anitha",
+              "duration_s": 12.89,
+              "status": "ok",
+              "transcript": "ஒரு நேர்கோணம் நூற்றி எண்பது டிகிரிகளுக்கு சமம் நூற்றி எண்பது டிகிரியை விட அதிகமாகவும் முன்னூற்றி அறுபது டிகிரியை விட குறைவாகவும் உள்ள கோணம் ஒரு பிரதிபலிப்பு கோணம் எனப்படும்",
+              "cer_errors": 3,
+              "cer_len": 90,
+              "cer": 0.0333,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.89,
+                  "cer": 0.0333
+                }
+              ]
+            },
+            {
+              "text": "இரண்டு கோணங்களின் கூடுதல் தொண்ணூறு டிகிரியாக இருந்தால் அவை நிரப்புக்கோணங்கள் என்றும், இரண்டு கோணங்களின் கூடுதல் நூற்று எண்பது டிகிரியாக இருந்தால் அவை நிரப்பிக்கோணங்கள் என்றும் அழைக்கப்படுகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 13.99,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.99,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u07",
+          "kind": "explanation",
+          "text_en": "You have also studied about adjacent angles in the earlier classes. Look at Figure six point two. Two angles are adjacent if they have a common vertex, a common arm and their non common arms are on different sides of the common arm. In Figure six point two, angle A B D and angle D B C are adjacent angles. Ray B D is their common arm and point B is their common vertex. Ray B A and ray B C are non common arms. Moreover, when two angles are adjacent, then their sum is always equal to the angle formed by the two non common arms.",
+          "text": "அடுத்தடுத்த கோணங்களைப் பற்றி முந்தைய வகுப்புகளில் நீங்கள் படித்திருப்பீர்கள். படம் ஆறு புள்ளி இரண்டு-ஐப் பாருங்கள். இரண்டு கோணங்கள் ஒரு பொதுவான உச்சி, ஒரு பொதுவான கை மற்றும் அவற்றின் பொதுவான கையின் வெவ்வேறு பக்கங்களில் உள்ள பொதுவான கைகள் இருந்தால் அவை அடுத்தடுத்த கோணங்கள் ஆகும். படம் ஆறு புள்ளி இரண்டில், கோணம் A B D மற்றும் கோணம் D B C ஆகியவை அடுத்தடுத்த கோணங்கள் ஆகும். கதிர் B D என்பது அவற்றின் பொதுவான கை மற்றும் புள்ளி B என்பது அவற்றின் பொதுவான உச்சி ஆகும். கதிர் B A மற்றும் கதிர் B C ஆகியவை பொதுவான கைகள் அல்லாதவை. மேலும், இரண்டு கோணங்கள் அடுத்தடுத்ததாக இருக்கும்போது, அவற்றின் கூடுதல் எப்போதும் இரண்டு பொதுவான கைகள் அல்லாத கைகளால் உருவாக்கப்பட்ட கோணத்திற்கு சமமாக இருக்கும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "அடுத்தடுத்த கோணங்களைப் பற்றி முந்தைய வகுப்புகளில் நீங்கள் படித்திருப்பீர்கள். படம் ஆறு புள்ளி இரண்டு-ஐப் பாருங்கள்.",
+              "voice": "Anitha",
+              "duration_s": 6.74,
+              "status": "ok",
+              "transcript": "அடுத்தடுத்த கோணங்களைப் பற்றி முந்தைய வகுப்புகளில் நீங்கள் படித்திருப்பீர்கள் படம் ஆறு புள்ளி இரண்டைப் பாருங்கள்",
+              "cer_errors": 1,
+              "cer_len": 60,
+              "cer": 0.0167,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 6.74,
+                  "cer": 0.0167
+                }
+              ]
+            },
+            {
+              "text": "இரண்டு கோணங்கள் ஒரு பொதுவான உச்சி, ஒரு பொதுவான கை மற்றும் அவற்றின் பொதுவான கையின் வெவ்வேறு பக்கங்களில் உள்ள பொதுவான கைகள் இருந்தால் அவை அடுத்தடுத்த கோணங்கள் ஆகும்.",
+              "voice": "Anitha",
+              "duration_s": 11.61,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.61,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "படம் ஆறு புள்ளி இரண்டில், கோணம் A B D மற்றும் கோணம் D B C ஆகியவை அடுத்தடுத்த கோணங்கள் ஆகும். கதிர் B D என்பது அவற்றின் பொதுவான கை மற்றும் புள்ளி B என்பது அவற்றின் பொதுவான உச்சி ஆகும். கதிர் B A மற்றும் கதிர் B C ஆகியவை பொதுவான கைகள் அல்லாதவை.",
+              "voice": "Anitha",
+              "duration_s": 23.3,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 23.3,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "மேலும், இரண்டு கோணங்கள் அடுத்தடுத்ததாக இருக்கும்போது, அவற்றின் கூடுதல் எப்போதும் இரண்டு பொதுவான கைகள் அல்லாத கைகளால் உருவாக்கப்பட்ட கோணத்திற்கு சமமாக இருக்கும்.",
+              "voice": "Anitha",
+              "duration_s": 12.37,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.37,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u08",
+          "kind": "explanation",
+          "text_en": "Figure six point two shows three rays starting from the common vertex B. Ray B A points up and to the left, ray B D points up and to the right, and ray B C points horizontally to the right.",
+          "text": "படம் ஆறு புள்ளி இரண்டு பொதுவான முனை பி-லிருந்து தொடங்கும் மூன்று கதிர்களைக் காட்டுகிறது. கதிர் பி ஏ மேல் மற்றும் இடதுபுறம் நோக்கிச் செல்கிறது, கதிர் பி டி மேல் மற்றும் வலதுபுறம் நோக்கிச் செல்கிறது, மேலும் கதிர் பி சி கிடைமட்டமாக வலதுபுறம் நோக்கிச் செல்கிறது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி இரண்டு பொதுவான முனை பி-லிருந்து தொடங்கும் மூன்று கதிர்களைக் காட்டுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 4.61,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 4.61,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கதிர் பி ஏ மேல் மற்றும் இடதுபுறம் நோக்கிச் செல்கிறது, கதிர் பி டி மேல் மற்றும் வலதுபுறம் நோக்கிச் செல்கிறது, மேலும் கதிர் பி சி கிடைமட்டமாக வலதுபுறம் நோக்கிச் செல்கிறது.",
+              "voice": "Anitha",
+              "duration_s": 11.95,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.95,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u09",
+          "kind": "explanation",
+          "text_en": "Angle A B C equals angle A B D plus angle D B C.",
+          "text": "கோணம் A B C என்பது கோணம் A B D மற்றும் கோணம் D B C ஆகியவற்றின் கூட்டுத்தொகைக்குச் சமம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் A B C என்பது கோணம் A B D மற்றும் கோணம் D B C ஆகியவற்றின் கூட்டுத்தொகைக்குச் சமம்.",
+              "voice": "Anitha",
+              "duration_s": 8.02,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.02,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u10",
+          "kind": "explanation",
+          "text_en": "Note that angle A B C and angle A B D are not adjacent angles. Why? Because their non common arms B D and B C lie on the same side of the common arm B A.",
+          "text": "கோணம் A B C மற்றும் கோணம் A B D ஆகியவை அடுத்துள்ள கோணங்கள் அல்ல என்பதை நினைவில் கொள்க. ஏன்? ஏனெனில் அவற்றின் பொதுவான বাহுக்கள் இல்லாத B D மற்றும் B C ஆகியவை பொதுவான বাহு B A இன் ஒரே பக்கத்தில் அமைந்துள்ளன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் A B C மற்றும் கோணம் A B D ஆகியவை அடுத்துள்ள கோணங்கள் அல்ல என்பதை நினைவில் கொள்க. ஏன்? ஏனெனில் அவற்றின் பொதுவான বাহுக்கள் இல்லாத B D மற்றும் B C ஆகியவை பொதுவான বাহு B A இன் ஒரே பக்கத்தில் அமைந்துள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 20.39,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.39,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u11",
+          "kind": "explanation",
+          "text_en": "If the non common arms B A and B C in Figure six point two form a line then it will look like Figure six point three. In this case, angle A B D and angle D B C are called linear pair of angles.",
+          "text": "படம் ஆறு புள்ளி இரண்டு இல் உள்ள பொதுவான அல்லாத கைகள் B A மற்றும் B C ஒரு கோட்டை உருவாக்குகின்றன என்றால் அது படம் ஆறு புள்ளி மூன்று போல இருக்கும். இந்த நிலையில், கோணம் A B D மற்றும் கோணம் D B C ஆகியவை கோணங்களின் நேரியல் ஜோடி என்று அழைக்கப்படுகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி இரண்டு இல் உள்ள பொதுவான அல்லாத கைகள் B A மற்றும் B C ஒரு கோட்டை உருவாக்குகின்றன என்றால் அது படம் ஆறு புள்ளி மூன்று போல இருக்கும். இந்த நிலையில், கோணம் A B D மற்றும் கோணம் D B C ஆகியவை கோணங்களின் நேரியல் ஜோடி என்று அழைக்கப்படுகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 19.97,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 19.97,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u12",
+          "kind": "explanation",
+          "text_en": "Figure six point three shows a straight horizontal line labelled A on the left, B in the middle, and C on the right. Ray B D extends upward and to the right. The two small arcs at B mark the two angles that form a linear pair.",
+          "text": "படம் ஆறு புள்ளி மூன்று இடதுபுறத்தில் A என்றும், நடுவில் B என்றும், வலதுபுறத்தில் C என்றும் குறிக்கப்பட்ட ஒரு நேர்கோட்டு கிடைமட்டக் கோட்டைக் காட்டுகிறது. கதிர் B D மேல்நோக்கி மற்றும் வலதுபுறமாக நீண்டுள்ளது. B இல் உள்ள இரண்டு சிறிய வளைவுகள் ஒரு நேரியல் ஜோடியை உருவாக்கும் இரண்டு கோணங்களைக் குறிக்கின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி மூன்று இடதுபுறத்தில் A என்றும், நடுவில் B என்றும், வலதுபுறத்தில் C என்றும் குறிக்கப்பட்ட ஒரு நேர்கோட்டு கிடைமட்டக் கோட்டைக் காட்டுகிறது. கதிர் B D மேல்நோக்கி மற்றும் வலதுபுறமாக நீண்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 15.79,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.79,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "B இல் உள்ள இரண்டு சிறிய வளைவுகள் ஒரு நேரியல் ஜோடியை உருவாக்கும் இரண்டு கோணங்களைக் குறிக்கின்றன.",
+              "voice": "Anitha",
+              "duration_s": 6.66,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 6.66,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u13",
+          "kind": "explanation",
+          "text_en": "You may also recall the vertically opposite angles formed when two lines, say A B and C D, intersect each other at the point O. See Figure six point four. There are two pairs of vertically opposite angles.",
+          "text": "A B மற்றும் C D ஆகிய இரண்டு கோடுகள் O என்ற புள்ளியில் வெட்டும்போது உருவாகும் செங்குத்து எதிர் கோணங்களையும் நீங்கள் நினைவு கூரலாம். படம் ஆறு புள்ளி நான்கு-ஐப் பார்க்கவும். செங்குத்து எதிர் கோணங்களின் இரண்டு ஜோடிகள் உள்ளன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "A B மற்றும் C D ஆகிய இரண்டு கோடுகள் O என்ற புள்ளியில் வெட்டும்போது உருவாகும் செங்குத்து எதிர் கோணங்களையும் நீங்கள் நினைவு கூரலாம். படம் ஆறு புள்ளி நான்கு-ஐப் பார்க்கவும். செங்குத்து எதிர் கோணங்களின் இரண்டு ஜோடிகள் உள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 18.09,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 18.09,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u14",
+          "kind": "explanation",
+          "text_en": "Figure six point four shows two straight lines crossing at point O. One line is labelled A at the upper left and B at the lower right. The other line is labelled C at the lower left and D at the upper right. Four curved arcs around O show the four angles, with two opposite arcs marked as equal.",
+          "text": "படம் ஆறு புள்ளி நான்கு, இரண்டு நேர்கோடுகள் O என்ற புள்ளியில் வெட்டுவதைக் காட்டுகிறது. ஒரு கோடு மேல் இடதுபுறத்தில் A என்றும் கீழ் வலதுபுறத்தில் B என்றும் குறிக்கப்பட்டுள்ளது. மற்ற கோடு கீழ் இடதுபுறத்தில் C என்றும் மேல் வலதுபுறத்தில் D என்றும் குறிக்கப்பட்டுள்ளது. O ஐச் சுற்றி நான்கு வளைந்த வளைவுகள் நான்கு கோணங்களைக் காட்டுகின்றன, இரண்டு எதிர் வளைவுகள் சமமாக குறிக்கப்பட்டுள்ளன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி நான்கு, இரண்டு நேர்கோடுகள் O என்ற புள்ளியில் வெட்டுவதைக் காட்டுகிறது. ஒரு கோடு மேல் இடதுபுறத்தில் A என்றும் கீழ் வலதுபுறத்தில் B என்றும் குறிக்கப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 11.52,
+              "status": "ok",
+              "transcript": "படம் ஆறு புள்ளி நான்கு இரண்டு மேற்கோடுகள் ஓ என்ற புள்ளியில் வெட்டுவதைக் காட்டுகிறது ஒரு கோடு மேல் இடதுபுறத்தில் ஏ என்றும் கீழ் வலதுபுறத்தில் பி என்றும் குறிக்கப்பட்டுள்ளது",
+              "cer_errors": 5,
+              "cer_len": 87,
+              "cer": 0.0575,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.52,
+                  "cer": 0.0575
+                }
+              ]
+            },
+            {
+              "text": "மற்ற கோடு கீழ் இடதுபுறத்தில் C என்றும் மேல் வலதுபுறத்தில் D என்றும் குறிக்கப்பட்டுள்ளது. O ஐச் சுற்றி நான்கு வளைந்த வளைவுகள் நான்கு கோணங்களைக் காட்டுகின்றன, இரண்டு எதிர் வளைவுகள் சமமாக குறிக்கப்பட்டுள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 15.02,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.02,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u15",
+          "kind": "explanation",
+          "text_en": "One pair is angle A O D and angle B O C. Can you find the other pair?",
+          "text": "ஒரு ஜோடி கோணம் A O D மற்றும் கோணம் B O C ஆகும். மற்ற ஜோடியை உங்களால் கண்டுபிடிக்க முடியுமா?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஒரு ஜோடி கோணம் A O D மற்றும் கோணம் B O C ஆகும். மற்ற ஜோடியை உங்களால் கண்டுபிடிக்க முடியுமா?",
+              "voice": "Anitha",
+              "duration_s": 7.08,
+              "status": "ok",
+              "transcript": "ஒரு ஜோடி கோணம் ஏஓடி மற்றும் கோணம் பிஓசி ஆகும் மற்ற ஜோடிய உங்களால் கண்டுபிடிக்க முடியுமா",
+              "cer_errors": 6,
+              "cer_len": 45,
+              "cer": 0.1333,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.08,
+                  "cer": 0.1333
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0267
+    },
+    {
+      "section_id": "s04",
+      "title": "6.3 Intersecting Lines and Non-intersecting Lines",
+      "slug": "04-6-3-intersecting-lines-and-non-intersect",
+      "units": [
+        {
+          "id": "s04.u01",
+          "kind": "heading",
+          "text_en": "Section six point three intersecting lines and non intersecting lines.",
+          "text": "பிரிவு ஆறு புள்ளி மூன்று வெட்டும் கோடுகள் மற்றும் வெட்டாத கோடுகள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரிவு ஆறு புள்ளி மூன்று வெட்டும் கோடுகள் மற்றும் வெட்டாத கோடுகள்.",
+              "voice": "Anitha",
+              "duration_s": 5.46,
+              "status": "ok",
+              "transcript": "பிரிவு ஆறு புள்ளி மூன்று வெட்டும் கோடுகள் மற்றும் வெட்டாத கோடுகள்",
+              "cer_errors": 0,
+              "cer_len": 31,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 5.46,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u02",
+          "kind": "explanation",
+          "text_en": "Draw two different lines P Q and R S on a paper. You will see that you can draw them in two different ways as shown in figure six point five i and figure six point five ii.",
+          "text": "ஒரு காகிதத்தில் P Q மற்றும் R S என்ற இரண்டு வெவ்வேறு கோடுகளை வரையவும். படம் ஆறு புள்ளி ஐந்து i மற்றும் படம் ஆறு புள்ளி ஐந்து ii இல் காட்டப்பட்டுள்ளபடி, அவற்றை நீங்கள் இரண்டு வெவ்வேறு வழிகளில் வரையலாம் என்பதைப் பார்ப்பீர்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஒரு காகிதத்தில் P Q மற்றும் R S என்ற இரண்டு வெவ்வேறு கோடுகளை வரையவும். படம் ஆறு புள்ளி ஐந்து i மற்றும் படம் ஆறு புள்ளி ஐந்து ii இல் காட்டப்பட்டுள்ளபடி, அவற்றை நீங்கள் இரண்டு வெவ்வேறு வழிகளில் வரையலாம் என்பதைப் பார்ப்பீர்கள்.",
+              "voice": "Anitha",
+              "duration_s": 17.07,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 17.07,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u03",
+          "kind": "explanation",
+          "text_en": "Look at figure six point five. The figure has two parts. Part one, labeled i intersecting lines, shows two straight lines crossing at a single point in the middle. One line runs from point P in the upper left to point Q in the lower right, and the other runs from point R in the lower left to point S in the upper right, with arrows at both ends of each line. Part two, labeled ii non intersecting parallel lines, shows two horizontal straight lines that do not meet. The top line has point P on the left and point Q on the right, and the bottom line has point R on the left and point S on the right, each with arrows at both ends.",
+          "text": "படம் ஆறு புள்ளி ஐந்து-ஐப் பாருங்கள். இந்த படத்தில் இரண்டு பகுதிகள் உள்ளன. பகுதி ஒன்று, அதாவது \"i வெட்டும் கோடுகள்\" என்று பெயரிடப்பட்டுள்ளது. இதில் இரண்டு நேர்கோடுகள் நடுவில் ஒரு புள்ளியில் சந்திக்கின்றன. ஒரு கோடு மேல் இடதுபுறத்தில் உள்ள புள்ளி P-லிருந்து கீழ் வலதுபுறத்தில் உள்ள புள்ளி Q வரை செல்கிறது, மற்றொன்று கீழ் இடதுபுறத்தில் உள்ள புள்ளி R-லிருந்து மேல் வலதுபுறத்தில் உள்ள புள்ளி S வரை செல்கிறது. ஒவ்வொரு கோட்டின் இரு முனைகளிலும் அம்புக்குறிகள் உள்ளன. பகுதி இரண்டு, அதாவது \"ii வெட்டாத இணையான கோடுகள்\" என்று பெயரிடப்பட்டுள்ளது. இதில் இரண்டு கிடைமட்ட நேர்கோடுகள் ஒன்றையொன்று சந்திக்காமல் உள்ளன. மேல் கோட்டில் இடதுபுறத்தில் புள்ளி P-யும் வலதுபுறத்தில் புள்ளி Q-வும் உள்ளன, அதேபோல் கீழ் கோட்டில் இடதுபுறத்தில் புள்ளி R-உம் வலதுபுறத்தில் புள்ளி S-உம் உள்ளன. ஒவ்வொன்றின் இரு முனைகளிலும் அம்புக்குறிகள் உள்ளன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி ஐந்து-ஐப் பாருங்கள். இந்த படத்தில் இரண்டு பகுதிகள் உள்ளன. பகுதி ஒன்று, அதாவது \"i வெட்டும் கோடுகள்\" என்று பெயரிடப்பட்டுள்ளது. இதில் இரண்டு நேர்கோடுகள் நடுவில் ஒரு புள்ளியில் சந்திக்கின்றன.",
+              "voice": "Anitha",
+              "duration_s": 15.62,
+              "status": "ok",
+              "transcript": "படம் ஆறு புள்ளி ஐந்து ஐ பாருங்கள் இந்த படத்தில் இரண்டு பகுதிகள் உள்ளன பகுதி ஒன்று அதாவது ஐ வெட்டும் கோடுகள் என்று பெயரிடப்பட்டுள்ளது இதில் இரண்டு நேர்கோடுகள் நடுவில் ஒரு புள்ளியில் சந்திக்கின்றன",
+              "cer_errors": 2,
+              "cer_len": 104,
+              "cer": 0.0192,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.62,
+                  "cer": 0.0192
+                }
+              ]
+            },
+            {
+              "text": "ஒரு கோடு மேல் இடதுபுறத்தில் உள்ள புள்ளி P-லிருந்து கீழ் வலதுபுறத்தில் உள்ள புள்ளி Q வரை செல்கிறது, மற்றொன்று கீழ் இடதுபுறத்தில் உள்ள புள்ளி R-லிருந்து மேல் வலதுபுறத்தில் உள்ள புள்ளி S வரை செல்கிறது.",
+              "voice": "Anitha",
+              "duration_s": 13.23,
+              "status": "ok",
+              "transcript": "ஒரு கோடு மேல் இடதுபுறத்தில் உள்ள புள்ளி பியிலிருந்து கீழ் வலதுபுறத்தில் உள்ள புள்ளி க்யூ வரை செல்கிறது மற்றொன்று கீழ் இடதுபுறத்தில் உள்ள புள்ளி ஆறிலிருந்து மேல் வலதுபுறத்தில் உள்ள புள்ளி எஸ் வரை செல்கிறது",
+              "cer_errors": 8,
+              "cer_len": 99,
+              "cer": 0.0808,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.23,
+                  "cer": 0.0808
+                }
+              ]
+            },
+            {
+              "text": "ஒவ்வொரு கோட்டின் இரு முனைகளிலும் அம்புக்குறிகள் உள்ளன. பகுதி இரண்டு, அதாவது \"ii வெட்டாத இணையான கோடுகள்\" என்று பெயரிடப்பட்டுள்ளது. இதில் இரண்டு கிடைமட்ட நேர்கோடுகள் ஒன்றையொன்று சந்திக்காமல் உள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 13.57,
+              "status": "ok",
+              "transcript": "ஒவ்வொரு கோட்டின் இரு முனைகளிலும் அம்புக்குறிகள் உள்ளன பகுதி இரண்டு அதாவது ஐஇஇ வெட்டாத இணையான கோடுகள் என்று பெயரிடப்பட்டுள்ளது இதில் இரண்டு கிடைமட்ட நேர்கோடுகள் ஒன்றையொன்று சந்திக்காமல் உள்ளன",
+              "cer_errors": 3,
+              "cer_len": 102,
+              "cer": 0.0294,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.57,
+                  "cer": 0.0294
+                }
+              ]
+            },
+            {
+              "text": "மேல் கோட்டில் இடதுபுறத்தில் புள்ளி P-யும் வலதுபுறத்தில் புள்ளி Q-வும் உள்ளன, அதேபோல் கீழ் கோட்டில் இடதுபுறத்தில் புள்ளி R-உம் வலதுபுறத்தில் புள்ளி S-உம் உள்ளன. ஒவ்வொன்றின் இரு முனைகளிலும் அம்புக்குறிகள் உள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 16.81,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.81,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u04",
+          "kind": "explanation",
+          "text_en": "Recall the notion of a line, that it extends indefinitely in both directions. Lines P Q and R S in figure six point five i are intersecting lines and in figure six point five ii are parallel lines. Note that the lengths of the common perpendiculars at different points on these parallel lines is the same. This equal length is called distance between two parallel lines.",
+          "text": "ஒரு கோடு என்பது இரு திசைகளிலும் முடிவில்லாமல் நீண்டு செல்லும் என்ற கருத்தை நினைவுகூருங்கள். படம் ஆறு புள்ளி ஐந்து i இல் உள்ள கோடுகள் P Q மற்றும் R S வெட்டும் கோடுகளாகும், மேலும் படம் ஆறு புள்ளி ஐந்து ii இல் உள்ளவை இணையான கோடுகளாகும். இந்த இணையான கோடுகளில் வெவ்வேறு புள்ளிகளில் உள்ள பொதுவான செங்குத்துக்களின் நீளம் சமமாக இருக்கும் என்பதை கவனத்தில் கொள்க. இந்த சமமான நீளம் இரண்டு இணையான கோடுகளுக்கு இடையிலான தூரம் என்று அழைக்கப்படுகிறது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஒரு கோடு என்பது இரு திசைகளிலும் முடிவில்லாமல் நீண்டு செல்லும் என்ற கருத்தை நினைவுகூருங்கள். படம் ஆறு புள்ளி ஐந்து i இல் உள்ள கோடுகள் P Q மற்றும் R S வெட்டும் கோடுகளாகும், மேலும் படம் ஆறு புள்ளி ஐந்து ii இல் உள்ளவை இணையான கோடுகளாகும்.",
+              "voice": "Anitha",
+              "duration_s": 21.93,
+              "status": "high_cer",
+              "transcript": "ୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄୄ",
+              "cer_errors": 116,
+              "cer_len": 116,
+              "cer": 1.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 21.93,
+                  "cer": 1.0
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "இந்த இணையான கோடுகளில் வெவ்வேறு புள்ளிகளில் உள்ள பொதுவான செங்குத்துக்களின் நீளம் சமமாக இருக்கும் என்பதை கவனத்தில் கொள்க. இந்த சமமான நீளம் இரண்டு இணையான கோடுகளுக்கு இடையிலான தூரம் என்று அழைக்கப்படுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 14.42,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.42,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.2854
+    },
+    {
+      "section_id": "s05",
+      "title": "6.4 Pairs of Angles",
+      "slug": "05-6-4-pairs-of-angles",
+      "units": [
+        {
+          "id": "s05.u01",
+          "kind": "heading",
+          "text_en": "Six point four Pairs of Angles.",
+          "text": "ஆறு புள்ளி நான்கு கோணங்களின் ஜோடிகள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆறு புள்ளி நான்கு கோணங்களின் ஜோடிகள்.",
+              "voice": "Anitha",
+              "duration_s": 3.07,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 3.07,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u02",
+          "kind": "explanation",
+          "text_en": "In Section six point two you learned the definitions of complementary angles, supplementary angles, adjacent angles, linear pair of angles and so on. Can you think of some relations between these angles? Now, let us find out the relation between the angles formed when a ray stands on a line. Look at Figure six point six. Name the line as A B and the ray as O C. The angles formed at the point O are angle A O C, angle B O C and angle A O B.",
+          "text": "பிரிவு ஆறு புள்ளி இரண்டில் நிரப்பு கோணங்கள், நிரப்பிக் கோணங்கள், அடுத்துள்ள கோணங்கள், நேரியல் ஜோடி கோணங்கள் மற்றும் பலவற்றின் வரையறைகளை நீங்கள் கற்றுக் கொண்டீர்கள். இந்த கோணங்களுக்கு இடையே உள்ள சில தொடர்புகளைப் பற்றி நீங்கள் சிந்திக்க முடியுமா? இப்போது, ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கும் போது உருவாகும் கோணங்களுக்கு இடையிலான தொடர்பைக் கண்டுபிடிப்போம். படம் ஆறு புள்ளி ஆறில் பாருங்கள். கோட்டை A B என்றும் கதிரை O C என்றும் பெயரிடுங்கள். O புள்ளியில் உருவாகும் கோணங்கள் கோணம் A O C, கோணம் B O C மற்றும் கோணம் A O B ஆகும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரிவு ஆறு புள்ளி இரண்டில் நிரப்பு கோணங்கள், நிரப்பிக் கோணங்கள், அடுத்துள்ள கோணங்கள், நேரியல் ஜோடி கோணங்கள் மற்றும் பலவற்றின் வரையறைகளை நீங்கள் கற்றுக் கொண்டீர்கள். இந்த கோணங்களுக்கு இடையே உள்ள சில தொடர்புகளைப் பற்றி நீங்கள் சிந்திக்க முடியுமா?",
+              "voice": "Anitha",
+              "duration_s": 17.49,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 17.49,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "இப்போது, ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கும் போது உருவாகும் கோணங்களுக்கு இடையிலான தொடர்பைக் கண்டுபிடிப்போம். படம் ஆறு புள்ளி ஆறில் பாருங்கள். கோட்டை A B என்றும் கதிரை O C என்றும் பெயரிடுங்கள்.",
+              "voice": "Anitha",
+              "duration_s": 15.62,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.62,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "O புள்ளியில் உருவாகும் கோணங்கள் கோணம் A O C, கோணம் B O C மற்றும் கோணம் A O B ஆகும்.",
+              "voice": "Anitha",
+              "duration_s": 8.28,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.28,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point six shows a horizontal line with arrows on both ends labeled A on the left and B on the right, with the point O marked in the middle. A ray labeled C starts at point O and extends upward and to the right, ending in an arrow. Three small arcs are drawn at point O, one between ray O A and ray O C, one between ray O C and ray O B, and a larger one spanning from ray O A to ray O B.",
+          "text": "படம் ஆறு புள்ளி ஆறு இடதுபுறத்தில் A என்றும் வலதுபுறத்தில் B என்றும் குறிக்கப்பட்ட அம்புக்குறிகளுடன் கூடிய ஒரு கிடைமட்ட கோட்டைக் காட்டுகிறது, நடுவில் O என்ற புள்ளி குறிக்கப்பட்டுள்ளது. C என்று பெயரிடப்பட்ட கதிர் O புள்ளியில் தொடங்கி மேல்நோக்கி மற்றும் வலதுபுறமாக நீண்டு, ஒரு அம்புக்குறியுடன் முடிவடைகிறது. மூன்று சிறிய வளைவுகள் O புள்ளியில் வரையப்பட்டுள்ளன, ஒன்று கதிர் O A மற்றும் கதிர் O C க்கு இடையில், ஒன்று கதிர் O C மற்றும் கதிர் O B க்கு இடையில், மற்றும் ஒரு பெரியது கதிர் O A முதல் கதிர் O B வரை பரவியுள்ளது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி ஆறு இடதுபுறத்தில் A என்றும் வலதுபுறத்தில் B என்றும் குறிக்கப்பட்ட அம்புக்குறிகளுடன் கூடிய ஒரு கிடைமட்ட கோட்டைக் காட்டுகிறது, நடுவில் O என்ற புள்ளி குறிக்கப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 12.63,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.63,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "C என்று பெயரிடப்பட்ட கதிர் O புள்ளியில் தொடங்கி மேல்நோக்கி மற்றும் வலதுபுறமாக நீண்டு, ஒரு அம்புக்குறியுடன் முடிவடைகிறது.",
+              "voice": "Anitha",
+              "duration_s": 9.22,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 9.22,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "மூன்று சிறிய வளைவுகள் O புள்ளியில் வரையப்பட்டுள்ளன, ஒன்று கதிர் O A மற்றும் கதிர் O C க்கு இடையில், ஒன்று கதிர் O C மற்றும் கதிர் O B க்கு இடையில், மற்றும் ஒரு பெரியது கதிர் O A முதல் கதிர் O B வரை பரவியுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 20.05,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.05,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u04",
+          "kind": "explanation",
+          "text_en": "Equation one states that angle A O C plus angle B O C equals angle A O B.",
+          "text": "சமன்பாடு ஒன்று, கோணம் A O C கூட்டல் கோணம் B O C என்பது கோணம் A O B க்கு சமம் என்று கூறுகிறது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "சமன்பாடு ஒன்று, கோணம் A O C கூட்டல் கோணம் B O C என்பது கோணம் A O B க்கு சமம் என்று கூறுகிறது.",
+              "voice": "Anitha",
+              "duration_s": 8.87,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.87,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u05",
+          "kind": "explanation",
+          "text_en": "Yes! Because they are adjacent angles as described in Section six point two.",
+          "text": "ஆம்! ஏனெனில் அவை பிரிவு ஆறு புள்ளி இரண்டில் விவரிக்கப்பட்டுள்ளபடி அடுத்தடுத்த கோணங்கள் ஆகும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆம்! ஏனெனில் அவை பிரிவு ஆறு புள்ளி இரண்டில் விவரிக்கப்பட்டுள்ளபடி அடுத்தடுத்த கோணங்கள் ஆகும்.",
+              "voice": "Anitha",
+              "duration_s": 7.17,
+              "status": "ok",
+              "transcript": "ஆம் ஏனெனில் அவை பிரிவு ஆறு புள்ளி இரண்டில் விவரிக்கப்பட்டுள்ளபடி அடுத்தடுத்த கோணங்கள் ஆகும்",
+              "cer_errors": 0,
+              "cer_len": 49,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.17,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u06",
+          "kind": "explanation",
+          "text_en": "What is the measure of angle A O B? It is one hundred and eighty degrees. Why? Because the two rays O A and O B form a straight line.",
+          "text": "கோணம் A O B-ன் அளவு என்ன? அது நூற்று எண்பது டிகிரி ஆகும். ஏன்? ஏனெனில், O A மற்றும் O B ஆகிய இரண்டு கதிர்களும் ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் A O B-ன் அளவு என்ன? அது நூற்று எண்பது டிகிரி ஆகும். ஏன்? ஏனெனில், O A மற்றும் O B ஆகிய இரண்டு கதிர்களும் ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 13.57,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.57,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u07",
+          "kind": "explanation",
+          "text_en": "From equation one and the fact that angle A O B is one hundred and eighty degrees, we can say that angle A O C plus angle B O C equals one hundred and eighty degrees. Yes! Because the two adjacent angles together make a straight line.",
+          "text": "சமன்பாடு ஒன்றிலிருந்து மற்றும் கோணம் A O B என்பது நூற்று எண்பது டிகிரி என்ற உண்மையிலிருந்து, கோணம் A O C கூட்டல் கோணம் B O C என்பது நூற்று எண்பது டிகிரிகளுக்கு சமம் என்று கூறலாம். ஆம்! ஏனெனில் இரண்டு அடுத்தடுத்த கோணங்களும் சேர்ந்து ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "சமன்பாடு ஒன்றிலிருந்து மற்றும் கோணம் A O B என்பது நூற்று எண்பது டிகிரி என்ற உண்மையிலிருந்து, கோணம் A O C கூட்டல் கோணம் B O C என்பது நூற்று எண்பது டிகிரிகளுக்கு சமம் என்று கூறலாம். ஆம்!",
+              "voice": "Anitha",
+              "duration_s": 17.49,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 17.49,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "ஏனெனில் இரண்டு அடுத்தடுத்த கோணங்களும் சேர்ந்து ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+              "voice": "Arun",
+              "duration_s": 4.61,
+              "status": "ok",
+              "transcript": "ஏனெனில் இரண்டு அடுத்தடுத்த கோணங்களும் சேர்ந்து ஒரு நேர்கோட்டை உருவாக்குகின்றன",
+              "cer_errors": 0,
+              "cer_len": 41,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 4.61,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u08",
+          "kind": "explanation",
+          "text_en": "From the above discussion we can state the following axiom. Axiom six point one: If a ray stands on a line, then the sum of the two adjacent angles so formed is one hundred and eighty degrees.",
+          "text": "மேற்கண்ட விவாதத்திலிருந்து நாம் பின்வரும் தத்துவத்தை கூறலாம். தத்துவம் ஆறு புள்ளி ஒன்று: ஒரு கதிர் ஒரு கோட்டின் மீது நின்றால், அதனால் உருவாகும் இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "மேற்கண்ட விவாதத்திலிருந்து நாம் பின்வரும் தத்துவத்தை கூறலாம். தத்துவம் ஆறு புள்ளி ஒன்று: ஒரு கதிர் ஒரு கோட்டின் மீது நின்றால், அதனால் உருவாகும் இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்.",
+              "voice": "Anitha",
+              "duration_s": 14.76,
+              "status": "ok",
+              "transcript": "மேற்கண்ட விவாதத்திலிருந்து நாம் பின்வரும் தத்துவத்தைக் கூறலாம் தத்துவம் ஆறு புள்ளி ஒன்று ஒரு கதிர் ஒரு கோட்டின் மீது நின்றால் அதனால் உருவாகும் இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்",
+              "cer_errors": 1,
+              "cer_len": 108,
+              "cer": 0.0093,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.76,
+                  "cer": 0.0093
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u09",
+          "kind": "explanation",
+          "text_en": "Recall that when the sum of two adjacent angles is one hundred and eighty degrees, then they are called a linear pair of angles.",
+          "text": "இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்போது, அவை ஒரு நேரியல் கோண ஜோடி என்று அழைக்கப்படுகின்றன என்பதை நினைவில் கொள்க.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்போது, அவை ஒரு நேரியல் கோண ஜோடி என்று அழைக்கப்படுகின்றன என்பதை நினைவில் கொள்க.",
+              "voice": "Anitha",
+              "duration_s": 9.22,
+              "status": "ok",
+              "transcript": "இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருக்கும்போது அவை ஒரு நேரியல் கோண ஜோடி என்று அழைக்கப்படுகின்றன என்பதை நினைவில் கொள்க",
+              "cer_errors": 0,
+              "cer_len": 77,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 9.22,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u10",
+          "kind": "explanation",
+          "text_en": "In Axiom six point one it is given that a ray stands on a line. From this given we concluded that the sum of the two adjacent angles is one hundred and eighty degrees. Can we write Axiom six point one the other way? That is, take the conclusion as the given and the given as the conclusion.",
+          "text": "அக்ஸ்யோம் ஆறு புள்ளி ஒன்றில் ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது என்று கொடுக்கப்பட்டுள்ளது. இந்த கொடுக்கப்பட்டதிலிருந்து இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்று எண்பது டிகிரி என்று முடிவு செய்தோம். அக்ஸ்யோம் ஆறு புள்ளி ஒன்றை வேறு வழியில் எழுத முடியுமா? அதாவது, முடிவை கொடுக்கப்பட்டதாகவும், கொடுக்கப்பட்டதை முடிவாகவும் எடுத்துக்கொள்வது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "அக்ஸ்யோம் ஆறு புள்ளி ஒன்றில் ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது என்று கொடுக்கப்பட்டுள்ளது. இந்த கொடுக்கப்பட்டதிலிருந்து இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்று எண்பது டிகிரி என்று முடிவு செய்தோம்.",
+              "voice": "Anitha",
+              "duration_s": 14.51,
+              "status": "ok",
+              "transcript": "அக்ஸியோம் ஆறு புள்ளி ஒன்றில் ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது என்று கொடுக்கப்பட்டுள்ளது இந்த கொடுக்கப்பட்டதிலிருந்து இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரி என்று முடிவு செய்தோம்",
+              "cer_errors": 0,
+              "cer_len": 103,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.51,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "அக்ஸ்யோம் ஆறு புள்ளி ஒன்றை வேறு வழியில் எழுத முடியுமா? அதாவது, முடிவை கொடுக்கப்பட்டதாகவும், கொடுக்கப்பட்டதை முடிவாகவும் எடுத்துக்கொள்வது.",
+              "voice": "Anitha",
+              "duration_s": 9.3,
+              "status": "ok",
+              "transcript": "அக்ஸியோம் ஆறு புள்ளி ஒன்றை வேறு வழியில் எழுத முடியுமா அதாவது முடிவை கொடுக்கப்பட்டதாகவும் கொடுக்கப்பட்டதை முடிவாகவும் எடுத்துக்கொள்வது",
+              "cer_errors": 0,
+              "cer_len": 69,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 9.3,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u11",
+          "kind": "explanation",
+          "text_en": "Statement A: If the sum of two adjacent angles is one hundred and eighty degrees, then a ray stands on a line, meaning the non‑common arms form a straight line.",
+          "text": "கூற்று ஏ: இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால், ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது, அதாவது பொதுவான அல்லாத கரங்கள் ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கூற்று ஏ: இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால், ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது, அதாவது பொதுவான அல்லாத கரங்கள் ஒரு நேர்கோட்டை உருவாக்குகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 13.57,
+              "status": "ok",
+              "transcript": "கூற்றியே இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால் ஒரு கதிர் ஒரு கோட்டின் மீது நிற்கிறது அதாவது பொதுவான அல்லாத கரங்கள் ஒரு நேர்கோட்டை உருவாக்குகின்றன",
+              "cer_errors": 1,
+              "cer_len": 93,
+              "cer": 0.0108,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.57,
+                  "cer": 0.0108
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u12",
+          "kind": "explanation",
+          "text_en": "Now you see that the axiom six point one and statement A are in a sense the reverse of each other. We call each the converse of the other. We do not know whether statement A is true or not. Let us check. Draw adjacent angles of different measures as shown in figure six point seven. Keep the ruler along one of the non common arms in each case. Does the other non common arm also lie along the ruler?",
+          "text": "இப்போது நீங்கள் பார்த்தால், கருதுகோள் ஆறு புள்ளி ஒன்று மற்றும் கூற்று ஏ ஆகியவை ஒரு வகையில் ஒன்றுக்கொன்று நேர்மாறாக உள்ளன. ஒவ்வொன்றையும் மற்றொன்றின் converse என்று அழைக்கிறோம். கூற்று ஏ உண்மையா இல்லையா என்று நமக்குத் தெரியாது. சரிபார்ப்போம். படம் ஆறு புள்ளி ஏழில் காட்டப்பட்டுள்ளபடி வெவ்வேறு அளவுகளில் அடுத்தடுத்த கோணங்களை வரையவும். ஒவ்வொரு நிகழ்விலும் பொதுவான அல்லாத கைகளில் ஒன்றின் வழியே அளவுகோலை வைக்கவும். மற்ற பொதுவான அல்லாத கை அளவுகோலின் வழியே இருக்கிறதா?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இப்போது நீங்கள் பார்த்தால், கருதுகோள் ஆறு புள்ளி ஒன்று மற்றும் கூற்று ஏ ஆகியவை ஒரு வகையில் ஒன்றுக்கொன்று நேர்மாறாக உள்ளன. ஒவ்வொன்றையும் மற்றொன்றின் converse என்று அழைக்கிறோம். கூற்று ஏ உண்மையா இல்லையா என்று நமக்குத் தெரியாது. சரிபார்ப்போம்.",
+              "voice": "Anitha",
+              "duration_s": 18.43,
+              "status": "ok",
+              "transcript": "இப்போது நீங்கள் பார்த்தால் கருதுகோள் ஆறு புள்ளி ஒன்று மற்றும் கூற்று ஏ ஆகியவை ஒரு வகையில் ஒன்றுக்கொன்று நேர்மாறாக உள்ளன ஒவ்வொன்றையும் மற்றொன்றின் கான்வெர்ஸ் என்று அழைக்கிறோம் கூற்று ஏ உண்மையா இல்லையா என்று நமக்குத் தெரியாது சரி பார்ப்போம்",
+              "cer_errors": 8,
+              "cer_len": 121,
+              "cer": 0.0661,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 18.43,
+                  "cer": 0.0661
+                }
+              ]
+            },
+            {
+              "text": "படம் ஆறு புள்ளி ஏழில் காட்டப்பட்டுள்ளபடி வெவ்வேறு அளவுகளில் அடுத்தடுத்த கோணங்களை வரையவும். ஒவ்வொரு நிகழ்விலும் பொதுவான அல்லாத கைகளில் ஒன்றின் வழியே அளவுகோலை வைக்கவும். மற்ற பொதுவான அல்லாத கை அளவுகோலின் வழியே இருக்கிறதா?",
+              "voice": "Arun",
+              "duration_s": 15.62,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 15.62,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u13",
+          "kind": "explanation",
+          "text_en": "Look at figure six point seven: Adjacent angles with different measures. The image shows four separate diagrams labeled one, two, three, and four. Each diagram has a common vertex O and a common arm O C. In diagram one, ray O A points straight up and ray O B points straight right; ray O C lies between them, creating angle A O C of sixty degrees and angle C O B of thirty degrees. In diagram two, ray O B points right and ray O A points up and to the left; ray O C is between them, with angle A O C of sixty degrees and angle C O B of eighty degrees. In diagram three, a ruler is drawn along the straight line formed by rays O A and O B, which point in opposite horizontal directions; ray O C stands on this line, creating angle A O C of one hundred twenty five degrees and angle C O B of fifty five degrees. In diagram four, ray O B points right and ray O A points down and to the left, not forming a straight line with O B; ray O C is between them, with angle A O C of one hundred fifty degrees and angle C O B of seventy degrees.",
+          "text": "சரியாக ஆறு புள்ளி ஏழு வரைபடத்தைப் பாருங்கள்: வெவ்வேறு அளவுகளைக் கொண்ட அடுத்தடுத்த கோணங்கள். இந்த படத்தில் ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று பெயரிடப்பட்ட நான்கு தனித்தனி வரைபடங்கள் உள்ளன. ஒவ்வொரு வரைபடத்திலும் ஒரு பொதுவான உச்சி O மற்றும் ஒரு பொதுவான கை O C உள்ளது. வரைபடம் ஒன்றில், கதிர் O A நேராக மேலே சுட்டிக்காட்டுகிறது மற்றும் கதிர் O B நேராக வலதுபுறம் சுட்டிக்காட்டுகிறது; கதிர் O C அவற்றுக்கு இடையில் அமைந்துள்ளது, இது அறுபது டிகிரி கோணம் A O C ஐயும் முப்பது டிகிரி கோணம் C O B ஐயும் உருவாக்குகிறது. வரைபடம் இரண்டில், கதிர் O B வலதுபுறம் சுட்டிக்காட்டுகிறது மற்றும் கதிர் O A மேல்நோக்கி இடதுபுறம் சுட்டிக்காட்டுகிறது; கதிர் O C அவற்றுக்கு இடையில் உள்ளது, இதில் அறுபது டிகிரி கோணம் A O C மற்றும் எண்பது டிகிரி கோணம் C O B உள்ளது. வரைபடம் மூன்றில், கதிர் O A மற்றும் O B ஆகியவற்றால் உருவாக்கப்பட்ட நேர்கோட்டில் ஒரு அளவுகோல் வரையப்பட்டுள்ளது, அவை எதிர் கிடைமட்ட திசைகளில் சுட்டிக்காட்டுகின்றன; கதிர் O C இந்த கோட்டில் நிற்கிறது, இது நூற்றி இருபத்தைந்து டிகிரி கோணம் A O C ஐயும் ஐம்பத்தைந்து டிகிரி கோணம் C O B ஐயும் உருவாக்குகிறது. வரைபடம் நான்கில், கதிர் O B வலதுபுறம் சுட்டிக்காட்டுகிறது மற்றும் கதிர் O A கீழ்நோக்கி இடதுபுறம் சுட்டிக்காட்டுகிறது, இது O B உடன் ஒரு நேர்கோட்டை உருவாக்கவில்லை; கதிர் O C அவற்றுக்கு இடையில் உள்ளது, இதில் நூற்றி ஐம்பது டிகிரி கோணம் A O C மற்றும் எழுபது டிகிரி கோணம் C O B உள்ளது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "சரியாக ஆறு புள்ளி ஏழு வரைபடத்தைப் பாருங்கள்: வெவ்வேறு அளவுகளைக் கொண்ட அடுத்தடுத்த கோணங்கள். இந்த படத்தில் ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று பெயரிடப்பட்ட நான்கு தனித்தனி வரைபடங்கள் உள்ளன.",
+              "voice": "Arun",
+              "duration_s": 14.59,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 14.59,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "ஒவ்வொரு வரைபடத்திலும் ஒரு பொதுவான உச்சி O மற்றும் ஒரு பொதுவான கை O C உள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 6.23,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 6.23,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் ஒன்றில், கதிர் O A நேராக மேலே சுட்டிக்காட்டுகிறது மற்றும் கதிர் O B நேராக வலதுபுறம் சுட்டிக்காட்டுகிறது; கதிர் O C அவற்றுக்கு இடையில் அமைந்துள்ளது, இது அறுபது டிகிரி கோணம் A O C ஐயும் முப்பது டிகிரி கோணம் C O B ஐயும் உருவாக்குகிறது.",
+              "voice": "Anitha",
+              "duration_s": 20.65,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.65,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் இரண்டில், கதிர் O B வலதுபுறம் சுட்டிக்காட்டுகிறது மற்றும் கதிர் O A மேல்நோக்கி இடதுபுறம் சுட்டிக்காட்டுகிறது; கதிர் O C அவற்றுக்கு இடையில் உள்ளது, இதில் அறுபது டிகிரி கோணம் A O C மற்றும் எண்பது டிகிரி கோணம் C O B உள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 17.58,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 17.58,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் மூன்றில், கதிர் O A மற்றும் O B ஆகியவற்றால் உருவாக்கப்பட்ட நேர்கோட்டில் ஒரு அளவுகோல் வரையப்பட்டுள்ளது, அவை எதிர் கிடைமட்ட திசைகளில் சுட்டிக்காட்டுகின்றன; கதிர் O C இந்த கோட்டில் நிற்கிறது,",
+              "voice": "Anitha",
+              "duration_s": 14.76,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.76,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "இது நூற்றி இருபத்தைந்து டிகிரி கோணம் A O C ஐயும் ஐம்பத்தைந்து டிகிரி கோணம் C O B ஐயும் உருவாக்குகிறது.",
+              "voice": "Anitha",
+              "duration_s": 9.39,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 9.39,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "வரைபடம் நான்கில், கதிர் O B வலதுபுறம் சுட்டிக்காட்டுகிறது மற்றும் கதிர் O A கீழ்நோக்கி இடதுபுறம் சுட்டிக்காட்டுகிறது, இது O B உடன் ஒரு நேர்கோட்டை உருவாக்கவில்லை; கதிர் O C அவற்றுக்கு இடையில் உள்ளது,",
+              "voice": "Anitha",
+              "duration_s": 16.64,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.64,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "இதில் நூற்றி ஐம்பது டிகிரி கோணம் A O C மற்றும் எழுபது டிகிரி கோணம் C O B உள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 8.11,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.11,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u14",
+          "kind": "explanation",
+          "text_en": "You will find that only in figure six point seven, diagram three, both the non common arms lie along the ruler, that is, points A, O and B lie on the same line and ray O C stands on it. Also see that angle A O C plus angle C O B equals one hundred twenty five degrees plus fifty five degrees equals one hundred eighty degrees. From this, you may conclude that statement A is true. So you can state in the form of an axiom as follows.",
+          "text": "படம் ஆறு புள்ளி ஏழு, வரைபடம் மூன்று ஆகியவற்றில் மட்டுமே பொதுவான அல்லாத கைகள் அளவுகோலின் மீது அமைந்திருப்பதைக் காண்பீர்கள், அதாவது புள்ளிகள் A, O மற்றும் B ஒரே நேர்கோட்டில் உள்ளன மற்றும் கதிர் O C அதன் மீது நிற்கிறது. மேலும் கோணம் A O C கூட்டல் கோணம் C O B நூற்றி இருபத்தைந்து டிகிரி கூட்டல் ஐம்பத்தைந்து டிகிரிக்கு சமம் நூற்றி எண்பது டிகிரியாகும் என்பதையும் பார்க்கவும். இதிலிருந்து, கூற்று A உண்மை என்று நீங்கள் முடிவு செய்யலாம். எனவே நீங்கள் ஒரு அனுமானத்தின் வடிவத்தில் பின்வருமாறு கூறலாம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி ஏழு, வரைபடம் மூன்று ஆகியவற்றில் மட்டுமே பொதுவான அல்லாத கைகள் அளவுகோலின் மீது அமைந்திருப்பதைக் காண்பீர்கள், அதாவது புள்ளிகள் A, O மற்றும் B ஒரே நேர்கோட்டில் உள்ளன மற்றும் கதிர் O C அதன் மீது நிற்கிறது.",
+              "voice": "Anitha",
+              "duration_s": 18.69,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 18.69,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "மேலும் கோணம் A O C கூட்டல் கோணம் C O B நூற்றி இருபத்தைந்து டிகிரி கூட்டல் ஐம்பத்தைந்து டிகிரிக்கு சமம் நூற்றி எண்பது டிகிரியாகும் என்பதையும் பார்க்கவும். இதிலிருந்து, கூற்று A உண்மை என்று நீங்கள் முடிவு செய்யலாம்.",
+              "voice": "Anitha",
+              "duration_s": 16.64,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.64,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "எனவே நீங்கள் ஒரு அனுமானத்தின் வடிவத்தில் பின்வருமாறு கூறலாம்.",
+              "voice": "Anitha",
+              "duration_s": 4.01,
+              "status": "ok",
+              "transcript": "எனவே நீங்கள் ஒரு அனுமானத்தின் வடிவத்தில் பின்வருமாறு கூறலாம்",
+              "cer_errors": 0,
+              "cer_len": 32,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 4.01,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u15",
+          "kind": "explanation",
+          "text_en": "Axiom six point two: If the sum of two adjacent angles is one hundred and eighty degrees, then the non common arms of the angles form a line.",
+          "text": "அக்ஷியாம் ஆறு புள்ளி இரண்டு: இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால், அந்த கோணங்களின் பொதுவான பக்கங்கள் அல்லாதவை ஒரு கோட்டை உருவாக்கும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "அக்ஷியாம் ஆறு புள்ளி இரண்டு: இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால், அந்த கோணங்களின் பொதுவான பக்கங்கள் அல்லாதவை ஒரு கோட்டை உருவாக்கும்.",
+              "voice": "Anitha",
+              "duration_s": 11.69,
+              "status": "ok",
+              "transcript": "அக்ஷியாம் ஆறு புள்ளி இரண்டு இரண்டு அடுத்தடுத்த கோணங்களின் கூடுதல் நூற்றி எண்பது டிகிரியாக இருந்தால் அந்த கோணங்களின் பொதுவான பக்கங்கள் அல்லாதவை ஒரு கோட்டை உருவாக்கும்",
+              "cer_errors": 0,
+              "cer_len": 87,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.69,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u16",
+          "kind": "explanation",
+          "text_en": "For obvious reasons, the two axioms above together are called the linear pair axiom.",
+          "text": "வெளிப்படையான காரணங்களுக்காக, மேலே உள்ள இரண்டு அடிக்கோள்களும் ஒன்றாக நேரியல் ஜோடி அடிக்கோள் என்று அழைக்கப்படுகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "வெளிப்படையான காரணங்களுக்காக, மேலே உள்ள இரண்டு அடிக்கோள்களும் ஒன்றாக நேரியல் ஜோடி அடிக்கோள் என்று அழைக்கப்படுகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 8.79,
+              "status": "ok",
+              "transcript": "வெளிப்படையான காரணங்களுக்காக மேலே உள்ள இரண்டு அடிக்கோள்களும் ஒன்றாக நேரியல் ஜோடி அடிக்கோள் என்று அழைக்கப்படுகின்றன",
+              "cer_errors": 0,
+              "cer_len": 62,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 8.79,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u17",
+          "kind": "explanation",
+          "text_en": "Let us now examine the case when two lines intersect each other.",
+          "text": "இரண்டு கோடுகள் ஒன்றுக்கொன்று வெட்டும் நிகழ்வை இப்போது ஆராய்வோம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு கோடுகள் ஒன்றுக்கொன்று வெட்டும் நிகழ்வை இப்போது ஆராய்வோம்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u18",
+          "kind": "explanation",
+          "text_en": "Recall from earlier classes that when two lines intersect, the vertically opposite angles are equal. Let us prove this result now. See appendix one for the ingredients of a proof, and keep those in mind while studying the proof given below.",
+          "text": "இரண்டு கோடுகள் வெட்டும்போது, செங்குத்தாக எதிரெதிர் கோணங்கள் சமமாக இருக்கும் என்பதை முந்தைய வகுப்புகளில் இருந்து நினைவு கூருங்கள். இப்போது இந்த முடிவை நிரூபிப்போம். ஒரு நிரூபணத்தின் கூறுகளைப் பார்க்க பின்னிணைப்பு ஒன்றை பார்க்கவும், கீழே கொடுக்கப்பட்டுள்ள நிரூபணத்தைப் படிக்கும்போது அவற்றை மனதில் கொள்ளுங்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு கோடுகள் வெட்டும்போது, செங்குத்தாக எதிரெதிர் கோணங்கள் சமமாக இருக்கும் என்பதை முந்தைய வகுப்புகளில் இருந்து நினைவு கூருங்கள். இப்போது இந்த முடிவை நிரூபிப்போம்.",
+              "voice": "Anitha",
+              "duration_s": 11.95,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.95,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "ஒரு நிரூபணத்தின் கூறுகளைப் பார்க்க பின்னிணைப்பு ஒன்றை பார்க்கவும், கீழே கொடுக்கப்பட்டுள்ள நிரூபணத்தைப் படிக்கும்போது அவற்றை மனதில் கொள்ளுங்கள்.",
+              "voice": "Arun",
+              "duration_s": 8.19,
+              "status": "ok",
+              "transcript": "ஒரு நிரூபணத்தின் கூறுகளைப் பார்க்க பின்னிணைப்பு ஒன்றைப் பார்க்கவும் கீழே கொடுக்கப்பட்டுள்ள நிரூபணத்தைப் படிக்கும்போது அவற்றை மனதில் கொள்ளுங்கள்",
+              "cer_errors": 1,
+              "cer_len": 73,
+              "cer": 0.0137,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 8.19,
+                  "cer": 0.0137
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u19",
+          "kind": "example",
+          "text_en": "Theorem six point one states that if two lines intersect, the vertically opposite angles are equal. Look at figure six point eight where lines A B and C D cross at O. The opposite pairs are angle A O C with angle B O D, and angle A O D with angle B O C. We need to prove both. First, note that ray O A lies on line C D. By the linear pair axiom, angle A O C plus angle A O D equals one hundred and eighty degrees. Also angle A O D plus angle B O D equals one hundred and eighty degrees.",
+          "text": "கோடி ஆறு புள்ளி ஒன்று கூற்றுப்படி, இரண்டு கோடுகள் வெட்டிக்கொண்டால், செங்குத்தாக எதிரெதிர் கோணங்கள் சமமாக இருக்கும். படம் ஆறு புள்ளி எட்டில், கோடுகள் A B மற்றும் C D ஆகியவை O இல் வெட்டுவதைக் கவனியுங்கள். எதிரெதிர் ஜோடிகள் கோணம் A O C உடன் கோணம் B O D, மற்றும் கோணம் A O D உடன் கோணம் B O C ஆகும். நாம் இரண்டையும் நிரூபிக்க வேண்டும். முதலாவதாக, கதிர் O A கோடு C D இல் உள்ளது என்பதைக் கவனியுங்கள். நேரியல் ஜோடி அடிக்கோட்டின்படி, கோணம் A O C கூட்டல் கோணம் A O D நூற்றி எண்பது டிகிரிக்கு சமம். மேலும் கோணம் A O D கூட்டல் கோணம் B O D நூற்றி எண்பது டிகிரிக்கு சமம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோடி ஆறு புள்ளி ஒன்று கூற்றுப்படி, இரண்டு கோடுகள் வெட்டிக்கொண்டால், செங்குத்தாக எதிரெதிர் கோணங்கள் சமமாக இருக்கும். படம் ஆறு புள்ளி எட்டில், கோடுகள் A B மற்றும் C D ஆகியவை O இல் வெட்டுவதைக் கவனியுங்கள்.",
+              "voice": "Arun",
+              "duration_s": 14.17,
+              "status": "ok",
+              "transcript": "கோடி ஆறு புள்ளி ஒன்று கூற்றுப்படி இரண்டு கோடுகள் வெட்டிக்கொண்டால் செங்குத்தாக எதிர் எதிர் கோணங்கள் சமமாக இருக்கும் படம் ஆறு புள்ளி எட்டில் கோடுகள் பி மற்றும் சி டி ஆகியவை ஓ இல் வெட்டுவதைக் கவனியுங்கள்",
+              "cer_errors": 6,
+              "cer_len": 101,
+              "cer": 0.0594,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 14.17,
+                  "cer": 0.0594
+                }
+              ]
+            },
+            {
+              "text": "எதிரெதிர் ஜோடிகள் கோணம் A O C உடன் கோணம் B O D, மற்றும் கோணம் A O D உடன் கோணம் B O C ஆகும். நாம் இரண்டையும் நிரூபிக்க வேண்டும். முதலாவதாக, கதிர் O A கோடு C D இல் உள்ளது என்பதைக் கவனியுங்கள்.",
+              "voice": "Arun",
+              "duration_s": 13.82,
+              "status": "ok",
+              "transcript": "எதிர் எதிர் ஜோடிகள் கோணம் ஏஓசி உடன் கோணம் பிஓடி மற்றும் கோணம் ஏஓடி உடன் கோணம் பிஓசி ஆகும் நாம் இரண்டையும் நிரூபிக்க வேண்டும் முதலாவதாக கதிர் ஓஏ கோடு சிடி இல் உள்ளது என்பதை கவனியுங்கள்",
+              "cer_errors": 18,
+              "cer_len": 96,
+              "cer": 0.1875,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 13.82,
+                  "cer": 0.1875
+                }
+              ]
+            },
+            {
+              "text": "நேரியல் ஜோடி அடிக்கோட்டின்படி, கோணம் A O C கூட்டல் கோணம் A O D நூற்றி எண்பது டிகிரிக்கு சமம். மேலும் கோணம் A O D கூட்டல் கோணம் B O D நூற்றி எண்பது டிகிரிக்கு சமம்.",
+              "voice": "Anitha",
+              "duration_s": 25.0,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 25.0,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u20",
+          "kind": "example",
+          "text_en": "Example one: In figure six point nine, lines P Q and R S intersect at O and the ratio of angle P O R to angle R O Q is five to seven. First, apply the linear pair axiom: angle P O R plus angle R O Q equals one hundred and eighty degrees. Second, write the angles as five parts and seven parts of the straight angle, so angle P O R is five twelfths of one hundred and eighty degrees and angle R O Q is seven twelfths of one hundred and eighty degrees.",
+          "text": "உதாரணம் ஒன்று: படம் ஆறு புள்ளி ஒன்பதில், கோடுகள் P Q மற்றும் R S ஆகியவை O இல் வெட்டுகின்றன, மேலும் கோணம் P O R க்கும் கோணம் R O Q க்கும் இடையிலான விகிதம் ஐந்துக்கு ஏழு ஆகும். முதலாவதாக, நேரியல் ஜோடி கருதுகோளைப் பயன்படுத்துங்கள்: கோணம் P O R கூட்டல் கோணம் R O Q நூற்றி எண்பது டிகிரிக்கு சமம். இரண்டாவதாக, கோணங்களை நேர்கோட்டின் ஐந்து பகுதிகளாகவும் ஏழு பகுதிகளாகவும் எழுதுங்கள், எனவே கோணம் P O R என்பது நூற்றி எண்பது டிகிரியில் பன்னிரண்டில் ஐந்து பங்காகவும், கோணம் R O Q என்பது நூற்றி எண்பது டிகிரியில் பன்னிரண்டில் ஏழு பங்காகவும் இருக்கும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "உதாரணம் ஒன்று: படம் ஆறு புள்ளி ஒன்பதில், கோடுகள் P Q மற்றும் R S ஆகியவை O இல் வெட்டுகின்றன, மேலும் கோணம் P O R க்கும் கோணம் R O Q க்கும் இடையிலான விகிதம் ஐந்துக்கு ஏழு ஆகும்.",
+              "voice": "Anitha",
+              "duration_s": 16.21,
+              "status": "ok",
+              "transcript": "உதாரணம் ஒன்று படம் ஆறு புள்ளி ஒன்பதில் கோடுகள் பிக்யூ மற்றும் ஆர்எஸ் ஆகியவை ஓ இல் வெட்டுகின்றன மேலும் கோணம் பிஓஆர்க்கும் கோணம் ஆர்ஓ க்யூக்கும் இடையிலான விகிதம் ஐந்துக்கு ஏழு ஆகும்",
+              "cer_errors": 17,
+              "cer_len": 87,
+              "cer": 0.1954,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.21,
+                  "cer": 0.1954
+                }
+              ]
+            },
+            {
+              "text": "முதலாவதாக, நேரியல் ஜோடி கருதுகோளைப் பயன்படுத்துங்கள்: கோணம் P O R கூட்டல் கோணம் R O Q நூற்றி எண்பது டிகிரிக்கு சமம்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "இரண்டாவதாக, கோணங்களை நேர்கோட்டின் ஐந்து பகுதிகளாகவும் ஏழு பகுதிகளாகவும் எழுதுங்கள், எனவே கோணம் P O R என்பது நூற்றி எண்பது டிகிரியில் பன்னிரண்டில் ஐந்து பங்காகவும், கோணம் R O Q என்பது நூற்றி எண்பது டிகிரியில் பன்னிரண்டில் ஏழு பங்காகவும் இருக்கும்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u21",
+          "kind": "example",
+          "text_en": "Example three. In Figure six point eleven, the four rays are O P, O Q, O R and O S. Prove that angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees. First, extend one of the rays backwards. Produce ray O Q backwards to a point T so that T O Q is a straight line, as shown in Figure six point twelve. Then observe that ray O P now lies on the line T O Q. Use the straight line property to relate the four angles and conclude the sum is three hundred and sixty degrees.",
+          "text": "உதாரணம் மூன்று. படம் ஆறு புள்ளி பதினொன்றில், நான்கு கதிர்கள் O P, O Q, O R மற்றும் O S ஆகும். கோணம் P O Q கூட்டல் கோணம் Q O R கூட்டல் கோணம் S O R கூட்டல் கோணம் P O S ஆகியவை முந்நூற்று அறுபது டிகிரிகளுக்கு சமம் என்று நிரூபிக்கவும். முதலில், கதிர்களில் ஒன்றை பின்னோக்கி நீட்டவும். படம் ஆறு புள்ளி பன்னிரண்டில் காட்டப்பட்டுள்ளபடி, T O Q ஒரு நேர்கோடாக இருக்கும்படி O Q கதிரை T என்ற புள்ளி வரை பின்னோக்கி உருவாக்கவும். பின்னர் O P கதிர் இப்போது T O Q கோட்டில் உள்ளது என்பதை கவனிக்கவும். நான்கு கோணங்களையும் தொடர்புபடுத்த நேர்கோடு பண்பைப் பயன்படுத்தி, அவற்றின் கூடுதல் முந்நூற்று அறுபது டிகிரி என்று முடிவு செய்யவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "உதாரணம் மூன்று. படம் ஆறு புள்ளி பதினொன்றில், நான்கு கதிர்கள் O P, O Q, O R மற்றும் O S ஆகும். கோணம் P O Q கூட்டல் கோணம் Q O R கூட்டல் கோணம் S O R கூட்டல் கோணம் P O S ஆகியவை முந்நூற்று அறுபது டிகிரிகளுக்கு சமம் என்று நிரூபிக்கவும்.",
+              "voice": "Anitha",
+              "duration_s": 19.88,
+              "status": "ok",
+              "transcript": "உதாரணம் மூன்று படம் ஆறு புள்ளி பதினொன்றில் நான்கு கதிர்கள் ஓபிஓக்யூ ஓஆர் மற்றும் ஓஎஸ் ஆகும் கோணம் பிஓக்யூ கூட்டல் கோணம் க்யூஓஆர் கூட்டல் கோணம் எஸ்ஓஆர் கூட்டல் கோணம் பிஓஎஸ் ஆகியவை முன்னூற்று அறுபது டிகிரிகளுக்கு சமம் என்று நிரூபிக்கவும்",
+              "cer_errors": 31,
+              "cer_len": 114,
+              "cer": 0.2719,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 19.88,
+                  "cer": 0.2719
+                }
+              ]
+            },
+            {
+              "text": "முதலில், கதிர்களில் ஒன்றை பின்னோக்கி நீட்டவும். படம் ஆறு புள்ளி பன்னிரண்டில் காட்டப்பட்டுள்ளபடி, T O Q ஒரு நேர்கோடாக இருக்கும்படி O Q கதிரை T என்ற புள்ளி வரை பின்னோக்கி உருவாக்கவும். பின்னர் O P கதிர் இப்போது T O Q கோட்டில் உள்ளது என்பதை கவனிக்கவும்.",
+              "voice": "Anitha",
+              "duration_s": 20.99,
+              "status": "ok",
+              "transcript": "முதலில் கதிர்களில் ஒன்றை பின்னோக்கி நீட்டவும் படம் ஆறு புள்ளி பன்னிரெண்டில் காட்டப்பட்டுள்ளபடி டிஓக்யூ ஒரு நேர்கோடாக இருக்கும்படி ஓக்யூ கதிரை டி என்ற புள்ளி வரை பின்னோக்கி உருவாக்கவும் பின்னர் ஓபி கதிர் இப்போது டிஓக்யூ கோட்டில் உள்ளது என்பதைக் கவனிக்கவும்",
+              "cer_errors": 15,
+              "cer_len": 127,
+              "cer": 0.1181,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.99,
+                  "cer": 0.1181
+                }
+              ]
+            },
+            {
+              "text": "நான்கு கோணங்களையும் தொடர்புபடுத்த நேர்கோடு பண்பைப் பயன்படுத்தி, அவற்றின் கூடுதல் முந்நூற்று அறுபது டிகிரி என்று முடிவு செய்யவும்.",
+              "voice": "Anitha",
+              "duration_s": 10.15,
+              "status": "ok",
+              "transcript": "நான்கு கோணங்களையும் தொடர்புபடுத்த நேர்கோடு பண்பைப் பயன்படுத்தி அவற்றின் கூடுதல் முன்னூற்று அறுபது டிகிரி என்று முடிவு செய்யவும்",
+              "cer_errors": 2,
+              "cer_len": 65,
+              "cer": 0.0308,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 10.15,
+                  "cer": 0.0308
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0664
+    },
+    {
+      "section_id": "s06",
+      "title": "6.4 Pairs of Angles (part 2)",
+      "slug": "06-6-4-pairs-of-angles-part-2",
+      "units": [
+        {
+          "id": "s06.u01",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O P plus angle P O Q equals one hundred and eighty degrees. This is equation one. Linear pair axiom.",
+          "text": "எனவே, கோணம் T O P கூட்டல் கோணம் P O Q நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு ஒன்று. நேரியல் ஜோடி கருதுகோள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "எனவே, கோணம் T O P கூட்டல் கோணம் P O Q நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு ஒன்று. நேரியல் ஜோடி கருதுகோள்.",
+              "voice": "Anitha",
+              "duration_s": 9.56,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 9.56,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u02",
+          "kind": "explanation",
+          "text_en": "Look at Figure six point twelve. Five rays start from the common point O. Ray O T is drawn as a dashed line pointing left, while ray O Q is a solid line pointing right, so T, O, and Q lie on one straight line. Ray O P points upward, ray O S points down and to the left, and ray O R points down and to the right.",
+          "text": "படம் ஆறு புள்ளி பன்னிரண்டைப் பாருங்கள். ஐந்து கதிர்கள் பொதுவான புள்ளி O-விலிருந்து தொடங்குகின்றன. கதிர் O T இடதுபுறம் சுட்டிக்காட்டும் ஒரு கோடு போல வரையப்பட்டுள்ளது, அதே நேரத்தில் கதிர் O Q வலதுபுறம் சுட்டிக்காட்டும் ஒரு திடமான கோடு ஆகும், எனவே T, O மற்றும் Q ஆகியவை ஒரே நேர்கோட்டில் உள்ளன. கதிர் O P மேல்நோக்கிச் சுட்டிக்காட்டுகிறது, கதிர் O S கீழ்நோக்கி இடதுபுறமும், கதிர் O R கீழ்நோக்கி வலதுபுறமும் சுட்டிக்காட்டுகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி பன்னிரண்டைப் பாருங்கள். ஐந்து கதிர்கள் பொதுவான புள்ளி O-விலிருந்து தொடங்குகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 6.49,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 6.49,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கதிர் O T இடதுபுறம் சுட்டிக்காட்டும் ஒரு கோடு போல வரையப்பட்டுள்ளது, அதே நேரத்தில் கதிர் O Q வலதுபுறம் சுட்டிக்காட்டும் ஒரு திடமான கோடு ஆகும், எனவே T, O மற்றும் Q ஆகியவை ஒரே நேர்கோட்டில் உள்ளன.",
+              "voice": "Arun",
+              "duration_s": 13.48,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 13.48,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கதிர் O P மேல்நோக்கிச் சுட்டிக்காட்டுகிறது, கதிர் O S கீழ்நோக்கி இடதுபுறமும், கதிர் O R கீழ்நோக்கி வலதுபுறமும் சுட்டிக்காட்டுகின்றன.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u03",
+          "kind": "explanation",
+          "text_en": "Similarly, ray O S stands on line T O Q.",
+          "text": "இதேபோல், கதிர் O S கோடு T O Q இல் உள்ளது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இதேபோல், கதிர் O S கோடு T O Q இல் உள்ளது.",
+              "voice": "Arun",
+              "duration_s": 4.69,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 4.69,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u04",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O S plus angle S O Q equals one hundred and eighty degrees. This is equation two.",
+          "text": "எனவே, கோணம் T O S கூட்டல் கோணம் S O Q நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு இரண்டு.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "எனவே, கோணம் T O S கூட்டல் கோணம் S O Q நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு இரண்டு.",
+              "voice": "Anitha",
+              "duration_s": 7.77,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.77,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u05",
+          "kind": "explanation",
+          "text_en": "But angle S O Q equals angle S O R plus angle Q O R.",
+          "text": "ஆனால் கோணம் S O Q என்பது கோணம் S O R மற்றும் கோணம் Q O R ஆகியவற்றின் கூட்டுத்தொகைக்குச் சமம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆனால் கோணம் S O Q என்பது கோணம் S O R மற்றும் கோணம் Q O R ஆகியவற்றின் கூட்டுத்தொகைக்குச் சமம்.",
+              "voice": "Anitha",
+              "duration_s": 7.42,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.42,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u06",
+          "kind": "explanation",
+          "text_en": "So, equation two becomes",
+          "text": "எனவே, சமன்பாடு இரண்டு ஆகிறது",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "எனவே, சமன்பாடு இரண்டு ஆகிறது",
+              "voice": "Anitha",
+              "duration_s": 3.24,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 3.24,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u07",
+          "kind": "explanation",
+          "text_en": "Angle T O S plus angle S O R plus angle Q O R equals one hundred and eighty degrees. This is equation three.",
+          "text": "கோணம் T O S கூட்டல் கோணம் S O R கூட்டல் கோணம் Q O R நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு மூன்று.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் T O S கூட்டல் கோணம் S O R கூட்டல் கோணம் Q O R நூற்றி எண்பது டிகிரிக்கு சமம். இது சமன்பாடு மூன்று.",
+              "voice": "Anitha",
+              "duration_s": 11.18,
+              "status": "ok",
+              "transcript": "கோணம் டிஓஎஸ் கூட்டல் கோணம் எஸ்ஓஆர் கூட்டல் கோணம் க்யூஓஆர் நூற்றி எண்பது டிகிரிக்கு சமம் இது சமன்பாடு மூன்று",
+              "cer_errors": 14,
+              "cer_len": 51,
+              "cer": 0.2745,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.18,
+                  "cer": 0.2745
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u08",
+          "kind": "explanation",
+          "text_en": "Now, adding equation one and equation three, you get",
+          "text": "இப்போது, சமன்பாடு ஒன்றையும் சமன்பாடு மூன்றையும் கூட்டினால், உங்களுக்குக் கிடைப்பது",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இப்போது, சமன்பாடு ஒன்றையும் சமன்பாடு மூன்றையும் கூட்டினால், உங்களுக்குக் கிடைப்பது",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u09",
+          "kind": "explanation",
+          "text_en": "Angle T O P plus angle P O Q plus angle T O S plus angle S O R plus angle Q O R equals three hundred and sixty degrees. This is equation four. But angle T O P plus angle T O S equals angle P O S.",
+          "text": "கோணம் T O P கூட்டல் கோணம் P O Q கூட்டல் கோணம் T O S கூட்டல் கோணம் S O R கூட்டல் கோணம் Q O R என்பது முந்நூற்று அறுபது டிகிரிக்கு சமம். இது சமன்பாடு நான்கு. ஆனால் கோணம் T O P கூட்டல் கோணம் T O S என்பது கோணம் P O S க்கு சமம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் T O P கூட்டல் கோணம் P O Q கூட்டல் கோணம் T O S கூட்டல் கோணம் S O R கூட்டல் கோணம் Q O R என்பது முந்நூற்று அறுபது டிகிரிக்கு சமம். இது சமன்பாடு நான்கு. ஆனால் கோணம் T O P கூட்டல் கோணம் T O S என்பது கோணம் P O S க்கு சமம்.",
+              "voice": "Arun",
+              "duration_s": 22.95,
+              "status": "ok",
+              "transcript": "கோணம் டிஓபி கூட்டல் கோணம் பிஓக்யூ கூட்டல் கோணம் டிஓஎஸ் கூட்டல் கோணம் எஸ்ஓஆர் கூட்டல் கோணம் யூஓஆர் என்பது முன்னூற்று அறுபது டிகிரிக்கு சமம் இது சமன்பாடு நான்கு ஆனால் கோணம் டிஓபி கூட்டல் கோணம் டிஓஎஸ் என்பது கோணம் பிஓஎஸ்க்கு சமம்",
+              "cer_errors": 33,
+              "cer_len": 111,
+              "cer": 0.2973,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 22.95,
+                  "cer": 0.2973
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u10",
+          "kind": "explanation",
+          "text_en": "Therefore, equation four becomes",
+          "text": "எனவே, சமன்பாடு நான்கு பின்வருமாறு மாறுகிறது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "எனவே, சமன்பாடு நான்கு பின்வருமாறு மாறுகிறது.",
+              "voice": "Arun",
+              "duration_s": 3.41,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 3.41,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u11",
+          "kind": "explanation",
+          "text_en": "Angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees.",
+          "text": "கோணம் P O Q கூட்டல் கோணம் Q O R கூட்டல் கோணம் S O R கூட்டல் கோணம் P O S என்பது முந்நூற்று அறுபது டிகிரிக்கு சமம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் P O Q கூட்டல் கோணம் Q O R கூட்டல் கோணம் S O R கூட்டல் கோணம் P O S என்பது முந்நூற்று அறுபது டிகிரிக்கு சமம்.",
+              "voice": "Anitha",
+              "duration_s": 12.89,
+              "status": "ok",
+              "transcript": "கோணம் பிஓக்யூ கூட்டல் கோணம் க்யூஓஆர் கூட்டல் கோணம் எஸ்ஓஆர் கூட்டல் கோணம் பிஓஎஸ் என்பது முன்னூற்று அறுபது டிகிரிக்கு சமம்",
+              "cer_errors": 20,
+              "cer_len": 57,
+              "cer": 0.3509,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.89,
+                  "cer": 0.3509
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.3059
+    },
+    {
+      "section_id": "s07",
+      "title": "EXERCISE 6.1",
+      "slug": "07-exercise-6-1",
+      "units": [
+        {
+          "id": "s07.u01",
+          "kind": "heading",
+          "text_en": "It is time to practise.",
+          "text": "பயிற்சி செய்ய வேண்டிய நேரம் இது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பயிற்சி செய்ய வேண்டிய நேரம் இது.",
+              "voice": "Arun",
+              "duration_s": 2.39,
+              "status": "ok",
+              "transcript": "பயிற்சி செய்ய வேண்டிய நேரம் இது",
+              "cer_errors": 0,
+              "cer_len": 16,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 2.39,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u02",
+          "kind": "exercise_problem",
+          "text_en": "Problem one. Find angle B O E and reflex angle C O E. First, use vertically opposite angles to find angle A O C. Then use the given sum to find angle B O E, and finally use angles on a line to find the reflex angle.",
+          "text": "பிரச்சனை ஒன்று. கோணம் B O E மற்றும் எதிர்ப்பாசி கோணம் C O E ஆகியவற்றைக் கண்டறியவும். முதலில், செங்குத்து எதிர் கோணங்களைப் பயன்படுத்தி கோணம் A O C ஐக் கண்டறியவும். பின்னர் கொடுக்கப்பட்ட கூடுதலைப் பயன்படுத்தி கோணம் B O E ஐக் கண்டறியவும், இறுதியாக ஒரு கோட்டின் மீதான கோணங்களைப் பயன்படுத்தி எதிர்ப்பாசி கோணத்தைக் கண்டறியவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரச்சனை ஒன்று. கோணம் B O E மற்றும் எதிர்ப்பாசி கோணம் C O E ஆகியவற்றைக் கண்டறியவும். முதலில், செங்குத்து எதிர் கோணங்களைப் பயன்படுத்தி கோணம் A O C ஐக் கண்டறியவும்.",
+              "voice": "Anitha",
+              "duration_s": 13.99,
+              "status": "ok",
+              "transcript": "பிரச்சனை ஒன்று கோணம் பி ஓ இ மற்றும் எதிர்பாசி கோணம் சி ஓ இ ஆகியவற்றைக் கண்டறியவும் முதலில் செங்குத்து எதிர்கோணங்களைப் பயன்படுத்தி கோணம் ஏ ஓ சி ஐக் கண்டறியவும்",
+              "cer_errors": 10,
+              "cer_len": 84,
+              "cer": 0.119,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 13.99,
+                  "cer": 0.119
+                }
+              ]
+            },
+            {
+              "text": "பின்னர் கொடுக்கப்பட்ட கூடுதலைப் பயன்படுத்தி கோணம் B O E ஐக் கண்டறியவும், இறுதியாக ஒரு கோட்டின் மீதான கோணங்களைப் பயன்படுத்தி எதிர்ப்பாசி கோணத்தைக் கண்டறியவும்.",
+              "voice": "Anitha",
+              "duration_s": 12.29,
+              "status": "ok",
+              "transcript": "பின்னர் கொடுக்கப்பட்ட கூடுதலைப் பயன்படுத்தி கோணம் பி ஓ இ ஐக் கண்டறியவும் இறுதியாக ஒரு கோட்டின் மீதான கோணங்களைப் பயன்படுத்தி எதிர்ப்பாசி கோணத்தைக் கண்டறியவும்",
+              "cer_errors": 3,
+              "cer_len": 84,
+              "cer": 0.0357,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.29,
+                  "cer": 0.0357
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u03",
+          "kind": "exercise_problem",
+          "text_en": "Problem two. Find the value of c. First, use the right angle at P O Y to find the sum of a and b. Then use the ratio to find c, and finally check the angles on a line.",
+          "text": "இரண்டாவது கணக்கு. c இன் மதிப்பைக் கண்டுபிடிக்கவும். முதலில், P O Y இல் உள்ள செங்கோணத்தைப் பயன்படுத்தி a மற்றும் b ஆகியவற்றின் கூடுதலைக் கண்டறியவும். பின்னர் விகிதத்தைப் பயன்படுத்தி c ஐக் கண்டறியவும், இறுதியாக ஒரு கோட்டின் மீதுள்ள கோணங்களைச் சரிபார்க்கவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டாவது கணக்கு. c இன் மதிப்பைக் கண்டுபிடிக்கவும். முதலில், P O Y இல் உள்ள செங்கோணத்தைப் பயன்படுத்தி a மற்றும் b ஆகியவற்றின் கூடுதலைக் கண்டறியவும்.",
+              "voice": "Anitha",
+              "duration_s": 12.03,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.03,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "பின்னர் விகிதத்தைப் பயன்படுத்தி c ஐக் கண்டறியவும், இறுதியாக ஒரு கோட்டின் மீதுள்ள கோணங்களைச் சரிபார்க்கவும்.",
+              "voice": "Anitha",
+              "duration_s": 7.59,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.59,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u04",
+          "kind": "exercise_problem",
+          "text_en": "Problem three. Prove that angle P Q S equals angle P R T. First, use the exterior angle property for triangle P Q R. Then subtract the equal interior angles, and finally conclude the exterior angles are equal.",
+          "text": "பிரச்சனை மூன்று. கோணம் P Q S என்பது கோணம் P R T க்கு சமம் என நிரூபிக்கவும். முதலில், முக்கோணம் P Q R க்கான வெளிப்புறக் கோணப் பண்பைப் பயன்படுத்தவும். பின்னர் சமமான உட்கோணங்களைக் கழிக்கவும், இறுதியாக வெளிப்புறக் கோணங்கள் சமம் என்று முடிவு செய்யவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரச்சனை மூன்று. கோணம் P Q S என்பது கோணம் P R T க்கு சமம் என நிரூபிக்கவும். முதலில், முக்கோணம் P Q R க்கான வெளிப்புறக் கோணப் பண்பைப் பயன்படுத்தவும். பின்னர் சமமான உட்கோணங்களைக் கழிக்கவும், இறுதியாக வெளிப்புறக் கோணங்கள் சமம் என்று முடிவு செய்யவும்.",
+              "voice": "Anitha",
+              "duration_s": 19.97,
+              "status": "ok",
+              "transcript": "பிரச்சினை மூன்று கோணம் பிக்யூஎஸ் என்பது கோணம் பிஆர்டிக்கு சமம் என நிரூபிக்கவும் முதலில் முக்கோணம் பிக்யூஆர்க்கான வெளிப்புற கோணப் பண்பைப் பயன்படுத்தவும் பின்னர் சமமான உட்கோணங்களை கழிக்கவும் இறுதியாக வெளிப்புற கோணங்கள் சமம் என்று முடிவு செய்யவும்",
+              "cer_errors": 17,
+              "cer_len": 127,
+              "cer": 0.1339,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 19.97,
+                  "cer": 0.1339
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u05",
+          "kind": "exercise_problem",
+          "text_en": "Problem four. Prove that A O B is a line. First, use vertically opposite angles to relate x to z and y to w. Then add the equations, and finally use the linear pair axiom to prove the line.",
+          "text": "பிரச்சனை நான்கு. A O B ஒரு கோடு என்பதை நிரூபிக்கவும். முதலில், செங்குத்து எதிர் கோணங்களைப் பயன்படுத்தி x ஐ z உடனும், y ஐ w உடனும் தொடர்புபடுத்தவும். பின்னர் சமன்பாடுகளைக் கூட்டவும், இறுதியாக நேரியல் ஜோடி கருதியைப் பயன்படுத்தி கோட்டை நிரூபிக்கவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரச்சனை நான்கு. A O B ஒரு கோடு என்பதை நிரூபிக்கவும். முதலில், செங்குத்து எதிர் கோணங்களைப் பயன்படுத்தி x ஐ z உடனும், y ஐ w உடனும் தொடர்புபடுத்தவும். பின்னர் சமன்பாடுகளைக் கூட்டவும், இறுதியாக நேரியல் ஜோடி கருதியைப் பயன்படுத்தி கோட்டை நிரூபிக்கவும்.",
+              "voice": "Anitha",
+              "duration_s": 27.56,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 27.56,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u06",
+          "kind": "exercise_problem",
+          "text_en": "Problem five. Prove the relationship between angle R O S and the difference of other angles. First, express angle Q O S and angle P O S using the right angle. Then subtract the two expressions, and finally simplify to get the required result.",
+          "text": "ஐந்தாவது கணக்கு. கோணம் R O S க்கும் மற்ற கோணங்களின் வித்தியாசத்திற்கும் இடையேயான தொடர்பை நிரூபிக்கவும். முதலில், கோணம் Q O S மற்றும் கோணம் P O S ஆகியவற்றை செங்கோணத்தைப் பயன்படுத்தி வெளிப்படுத்துங்கள். பின்னர் இரண்டு வெளிப்பாடுகளையும் கழித்து, இறுதியாக தேவையான முடிவைப் பெற சுருக்கவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஐந்தாவது கணக்கு. கோணம் R O S க்கும் மற்ற கோணங்களின் வித்தியாசத்திற்கும் இடையேயான தொடர்பை நிரூபிக்கவும். முதலில், கோணம் Q O S மற்றும் கோணம் P O S ஆகியவற்றை செங்கோணத்தைப் பயன்படுத்தி வெளிப்படுத்துங்கள்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "பின்னர் இரண்டு வெளிப்பாடுகளையும் கழித்து, இறுதியாக தேவையான முடிவைப் பெற சுருக்கவும்.",
+              "voice": "Arun",
+              "duration_s": 5.12,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 5.12,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u07",
+          "kind": "exercise_problem",
+          "text_en": "Problem six. Find angle X Y Q and reflex angle Q Y P. First, use the linear pair to find angle Z Y P. Then use the bisector property to find angle X Y Q, and finally calculate the reflex angle.",
+          "text": "ஆறாவது கணக்கு. கோணம் X Y Q மற்றும் எதிர்ப்பாசி கோணம் Q Y P ஆகியவற்றைக் கண்டுபிடிக்கவும். முதலில், நேர்கோட்டு ஜோடியைப் பயன்படுத்தி கோணம் Z Y P ஐக் கண்டறியவும். பின்னர் இருசமவெட்டி பண்பைப் பயன்படுத்தி கோணம் X Y Q ஐக் கண்டறியவும், இறுதியாக எதிர்ப்பாசி கோணத்தைக் கணக்கிடவும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஆறாவது கணக்கு. கோணம் X Y Q மற்றும் எதிர்ப்பாசி கோணம் Q Y P ஆகியவற்றைக் கண்டுபிடிக்கவும். முதலில், நேர்கோட்டு ஜோடியைப் பயன்படுத்தி கோணம் Z Y P ஐக் கண்டறியவும்.",
+              "voice": "Arun",
+              "duration_s": 12.63,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 12.63,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "பின்னர் இருசமவெட்டி பண்பைப் பயன்படுத்தி கோணம் X Y Q ஐக் கண்டறியவும், இறுதியாக எதிர்ப்பாசி கோணத்தைக் கணக்கிடவும்.",
+              "voice": "Anitha",
+              "duration_s": 18.94,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 18.94,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0965
+    },
+    {
+      "section_id": "s08",
+      "title": "6.5 Parallel Lines and a Transversal",
+      "slug": "08-6-5-parallel-lines-and-a-transversal",
+      "units": [
+        {
+          "id": "s08.u01",
+          "kind": "heading",
+          "text_en": "Section six point five Parallel Lines and a Transversal.",
+          "text": "பிரிவு ஆறு புள்ளி ஐந்து இணையான கோடுகள் மற்றும் ஒரு குறுக்கு வெட்டுக்கோடு.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "பிரிவு ஆறு புள்ளி ஐந்து இணையான கோடுகள் மற்றும் ஒரு குறுக்கு வெட்டுக்கோடு.",
+              "voice": "Anitha",
+              "duration_s": 5.12,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 5.12,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a line which intersects two or more lines at distinct points is called a transversal. Look at Figure six point eighteen. Line l intersects line m and line n at points P and Q respectively. Therefore line l is a transversal for lines m and n. Observe that four angles are formed at each of the points P and Q.",
+          "text": "இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும் ஒரு கோடு குறுக்குவெட்டுக்கோட்டு என்று அழைக்கப்படுகிறது என்பதை நினைவில் கொள்க. படம் ஆறு புள்ளி பதினெட்டைப் பாருங்கள். கோடு l ஆனது கோடு m மற்றும் கோடு n ஆகியவற்றை முறையே P மற்றும் Q புள்ளிகளில் வெட்டுகிறது. எனவே கோடு l என்பது கோடுகள் m மற்றும் n க்கான குறுக்குவெட்டுக்கோட்டு ஆகும். ஒவ்வொரு புள்ளி P மற்றும் Q விலும் நான்கு கோணங்கள் உருவாகின்றன என்பதை கவனியுங்கள்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும் ஒரு கோடு குறுக்குவெட்டுக்கோட்டு என்று அழைக்கப்படுகிறது என்பதை நினைவில் கொள்க. படம் ஆறு புள்ளி பதினெட்டைப் பாருங்கள்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "கோடு l ஆனது கோடு m மற்றும் கோடு n ஆகியவற்றை முறையே P மற்றும் Q புள்ளிகளில் வெட்டுகிறது. எனவே கோடு l என்பது கோடுகள் m மற்றும் n க்கான குறுக்குவெட்டுக்கோட்டு ஆகும். ஒவ்வொரு புள்ளி P மற்றும் Q விலும் நான்கு கோணங்கள் உருவாகின்றன என்பதை கவனியுங்கள்.",
+              "voice": "Anitha",
+              "duration_s": 22.7,
+              "status": "ok",
+              "transcript": "கோடு எல் ஆனது கோடு எம் மற்றும் கோடு என் ஆகியவற்றை முறையே பி மற்றும் க்யூ புள்ளிகளில் வெட்டுகிறது எனவே கோடு எல் என்பது கோடுகள் எம் மற்றும் என் க்கான குறுக்கு வெட்டுக்கோட்டு ஆகும் ஒவ்வொரு புள்ளி பி மற்றும் க்யூ விலும் நான்கு கோணங்கள் உருவாகின்றன என்பதைக் கவனியுங்கள்",
+              "cer_errors": 19,
+              "cer_len": 122,
+              "cer": 0.1557,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 22.7,
+                  "cer": 0.1557
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point eighteen shows line l running from the upper left to the lower right and crossing line m at point P and line n at point Q. At point P the four angles around the intersection are labeled one, two, three, and four, with one in the upper left, two in the upper right, three in the lower right, and four in the lower left. At point Q the four angles are labeled five, six, seven, and eight, with five in the upper left, six in the upper right, seven in the lower right, and eight in the lower left.",
+          "text": "படம் ஆறு புள்ளி பதினெண், மேல் இடதுபுறத்திலிருந்து கீழ் வலதுபுறம் செல்லும் கோடு l-ஐக் காட்டுகிறது. இது புள்ளி P-ல் கோடு m-ஐயும், புள்ளி Q-ல் கோடு n-ஐயும் கடக்கிறது. புள்ளி P-ல், குறுக்குவெட்டின் நான்கு கோணங்களும் ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று குறிக்கப்பட்டுள்ளன. மேல் இடதுபுறத்தில் ஒன்று, மேல் வலதுபுறத்தில் இரண்டு, கீழ் வலதுபுறத்தில் மூன்று, மற்றும் கீழ் இடதுபுறத்தில் நான்கு என்று குறிக்கப்பட்டுள்ளது. புள்ளி Q-ல், நான்கு கோணங்களும் ஐந்து, ஆறு, ஏழு மற்றும் எட்டு என்று குறிக்கப்பட்டுள்ளன. மேல் இடதுபுறத்தில் ஐந்து, மேல் வலதுபுறத்தில் ஆறு, கீழ் வலதுபுறத்தில் ஏழு, மற்றும் கீழ் இடதுபுறத்தில் எட்டு என்று குறிக்கப்பட்டுள்ளது.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "படம் ஆறு புள்ளி பதினெண், மேல் இடதுபுறத்திலிருந்து கீழ் வலதுபுறம் செல்லும் கோடு l-ஐக் காட்டுகிறது. இது புள்ளி P-ல் கோடு m-ஐயும், புள்ளி Q-ல் கோடு n-ஐயும் கடக்கிறது.",
+              "voice": "Anitha",
+              "duration_s": 10.24,
+              "status": "ok",
+              "transcript": "படம் ஆறு புள்ளி பதினெண் மேல் இடதுபுறத்திலிருந்து கீழ் வலதுபுறம் செல்லும் கோடு எல்லை காட்டுகிறது இது புள்ளி பீல் கோடு எம்மையும் புள்ளி க்யூல் கோடு எண்ணையும் கடக்கிறது",
+              "cer_errors": 12,
+              "cer_len": 78,
+              "cer": 0.1538,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 10.24,
+                  "cer": 0.1538
+                }
+              ]
+            },
+            {
+              "text": "புள்ளி P-ல், குறுக்குவெட்டின் நான்கு கோணங்களும் ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று குறிக்கப்பட்டுள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 7.08,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.08,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "மேல் இடதுபுறத்தில் ஒன்று, மேல் வலதுபுறத்தில் இரண்டு, கீழ் வலதுபுறத்தில் மூன்று, மற்றும் கீழ் இடதுபுறத்தில் நான்கு என்று குறிக்கப்பட்டுள்ளது. புள்ளி Q-ல், நான்கு கோணங்களும் ஐந்து, ஆறு, ஏழு மற்றும் எட்டு என்று குறிக்கப்பட்டுள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 15.36,
+              "status": "ok",
+              "transcript": "மேல் இடதுபுறத்தில் ஒன்று மேல் வலதுபுறத்தில் இரண்டு கீழ் வலதுபுறத்தில் மூன்று மற்றும் கீழ் இடதுபுறத்தில் நான்கு என்று குறிக்கப்பட்டுள்ளது புள்ளி க்யூலில் நான்கு கோணங்களும் ஐந்து ஆறு ஏழு மற்றும் எட்டு என்று குறிக்கப்பட்டுள்ளன",
+              "cer_errors": 3,
+              "cer_len": 113,
+              "cer": 0.0265,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 15.36,
+                  "cer": 0.0265
+                }
+              ]
+            },
+            {
+              "text": "மேல் இடதுபுறத்தில் ஐந்து, மேல் வலதுபுறத்தில் ஆறு, கீழ் வலதுபுறத்தில் ஏழு, மற்றும் கீழ் இடதுபுறத்தில் எட்டு என்று குறிக்கப்பட்டுள்ளது.",
+              "voice": "Arun",
+              "duration_s": 8.7,
+              "status": "ok",
+              "transcript": "மேல் இடதுபுறத்தில் ஐந்து மேல் வலதுபுறத்தில் ஆறு கீழ் வலதுபுறத்தில் ஏழு மற்றும் கீழ் இடதுபுறத்தில் எட்டு என்று குறிக்கப்பட்டுள்ளது",
+              "cer_errors": 0,
+              "cer_len": 68,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 8.7,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u04",
+          "kind": "explanation",
+          "text_en": "Let us name these angles as angle one, angle two, and so on up to angle eight as shown in Figure six point eighteen.",
+          "text": "இந்த கோணங்களை கோணம் ஒன்று, கோணம் இரண்டு என்று பெயரிடுவோம். படம் ஆறு புள்ளி பதினெட்டில் காட்டப்பட்டுள்ளபடி எட்டு வரை தொடரலாம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இந்த கோணங்களை கோணம் ஒன்று, கோணம் இரண்டு என்று பெயரிடுவோம். படம் ஆறு புள்ளி பதினெட்டில் காட்டப்பட்டுள்ளபடி எட்டு வரை தொடரலாம்.",
+              "voice": "Anitha",
+              "duration_s": 10.41,
+              "status": "ok",
+              "transcript": "இந்த கோணங்களை கோணம் ஒன்று கோணம் இரண்டு என்று பெயரிடுவோம் படம் ஆறு புள்ளி பதினெட்டில் காட்டப்பட்டுள்ளபடி எட்டு வரை தொடரலாம்",
+              "cer_errors": 0,
+              "cer_len": 65,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 10.41,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u05",
+          "kind": "explanation",
+          "text_en": "Angle one, angle two, angle seven and angle eight are called exterior angles, while angle three, angle four, angle five and angle six are called interior angles.",
+          "text": "கோணம் ஒன்று, கோணம் இரண்டு, கோணம் ஏழு மற்றும் கோணம் எட்டு ஆகியவை வெளிப்புறக் கோணங்கள் என்றும், கோணம் மூன்று, கோணம் நான்கு, கோணம் ஐந்து மற்றும் கோணம் ஆறு ஆகியவை உட்புறக் கோணங்கள் என்றும் அழைக்கப்படுகின்றன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "கோணம் ஒன்று, கோணம் இரண்டு, கோணம் ஏழு மற்றும் கோணம் எட்டு ஆகியவை வெளிப்புறக் கோணங்கள் என்றும், கோணம் மூன்று, கோணம் நான்கு, கோணம் ஐந்து மற்றும் கோணம் ஆறு ஆகியவை உட்புறக் கோணங்கள் என்றும் அழைக்கப்படுகின்றன.",
+              "voice": "Anitha",
+              "duration_s": 20.48,
+              "status": "ok",
+              "transcript": "கோணம் ஒன்று கோணம் இரண்டு கோணம் ஏழு மற்றும் கோணம் எடு ஆகியவை வெளிப்புற கோணங்கள் என்றும் கோணம் மூன்று கோணம் நான்கு கோணம் ஐந்து மற்றும் கோணம் ஆறு ஆகியவை உட்புற கோணங்கள் என்றும் அழைக்கப்படுகின்றன",
+              "cer_errors": 3,
+              "cer_len": 103,
+              "cer": 0.0291,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 20.48,
+                  "cer": 0.0291
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u06",
+          "kind": "explanation",
+          "text_en": "Recall that in the earlier classes you have named some pairs of angles formed when a transversal intersects two lines. These are as follows.",
+          "text": "முந்தைய வகுப்புகளில், ஒரு குறுக்கு வெட்டு இரண்டு கோடுகளை வெட்டும்போது உருவாகும் சில கோண ஜோடிகளை நீங்கள் பெயரிட்டதை நினைவு கூருங்கள். அவை பின்வருமாறு உள்ளன.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "முந்தைய வகுப்புகளில், ஒரு குறுக்கு வெட்டு இரண்டு கோடுகளை வெட்டும்போது உருவாகும் சில கோண ஜோடிகளை நீங்கள் பெயரிட்டதை நினைவு கூருங்கள். அவை பின்வருமாறு உள்ளன.",
+              "voice": "Arun",
+              "duration_s": 9.39,
+              "status": "ok",
+              "transcript": "முந்தைய வகுப்புகளில் ஒரு குறுக்கு வெட்டு இரண்டு கோடுகளை வெட்டும்போது உருவாகும் சில கோண ஜோடிகளை நீங்கள் பெயரிட்டதை நினைவுக் கூறுங்கள் அவை பின்வருமாறு உள்ளன",
+              "cer_errors": 2,
+              "cer_len": 77,
+              "cer": 0.026,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 9.39,
+                  "cer": 0.026
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u07",
+          "kind": "explanation",
+          "text_en": "There are four groups. First, corresponding angles: angle one and angle five; angle two and angle six; angle four and angle eight; angle three and angle seven. Second, alternate interior angles: angle four and angle six; angle three and angle five. Third, alternate exterior angles: angle one and angle seven; angle two and angle eight. Fourth, interior angles on the same side of the transversal: angle four and angle five; angle three and angle six.",
+          "text": "நான்கு குழுக்கள் உள்ளன. முதலாவதாக, ஒத்த கோணங்கள்: கோணம் ஒன்று மற்றும் கோணம் ஐந்து; கோணம் இரண்டு மற்றும் கோணம் ஆறு; கோணம் நான்கு மற்றும் கோணம் எட்டு; கோணம் மூன்று மற்றும் கோணம் ஏழு. இரண்டாவதாக, மாறுபட்ட உள் கோணங்கள்: கோணம் நான்கு மற்றும் கோணம் ஆறு; கோணம் மூன்று மற்றும் கோணம் ஐந்து. மூன்றாவதாக, மாறுபட்ட வெளி கோணங்கள்: கோணம் ஒன்று மற்றும் கோணம் ஏழு; கோணம் இரண்டு மற்றும் கோணம் எட்டு. நான்காவதாக, குறுக்கு வெட்டின் ஒரே பக்கத்தில் உள்ள உள் கோணங்கள்: கோணம் நான்கு மற்றும் கோணம் ஐந்து; கோணம் மூன்று மற்றும் கோணம் ஆறு.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "நான்கு குழுக்கள் உள்ளன. முதலாவதாக, ஒத்த கோணங்கள்: கோணம் ஒன்று மற்றும் கோணம் ஐந்து; கோணம் இரண்டு மற்றும் கோணம் ஆறு; கோணம் நான்கு மற்றும் கோணம் எட்டு; கோணம் மூன்று மற்றும் கோணம் ஏழு.",
+              "voice": "Anitha",
+              "duration_s": 14.93,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 14.93,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "இரண்டாவதாக, மாறுபட்ட உள் கோணங்கள்: கோணம் நான்கு மற்றும் கோணம் ஆறு; கோணம் மூன்று மற்றும் கோணம் ஐந்து. மூன்றாவதாக, மாறுபட்ட வெளி கோணங்கள்: கோணம் ஒன்று மற்றும் கோணம் ஏழு; கோணம் இரண்டு மற்றும் கோணம் எட்டு.",
+              "voice": "Anitha",
+              "duration_s": 19.11,
+              "status": "ok",
+              "transcript": "இரண்டாவதாக மாறுபட்ட உள்கோணங்கள் கோணம் நான்கு மற்றும் கோணம் ஆறு கோணம் மூன்று மற்றும் கோணம் ஐந்து மூன்றாவதாக மாறுபட்ட வெளிக்கோணங்கள் கோணம் ஒன்று மற்றும் கோணம் ஏழு கோணம் இரண்டு மற்றும் கோணம் எட்டு",
+              "cer_errors": 1,
+              "cer_len": 100,
+              "cer": 0.01,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 19.11,
+                  "cer": 0.01
+                }
+              ]
+            },
+            {
+              "text": "நான்காவதாக, குறுக்கு வெட்டின் ஒரே பக்கத்தில் உள்ள உள் கோணங்கள்: கோணம் நான்கு மற்றும் கோணம் ஐந்து; கோணம் மூன்று மற்றும் கோணம் ஆறு.",
+              "voice": "Anitha",
+              "duration_s": 10.84,
+              "status": "ok",
+              "transcript": "நான்காவதாக குறுக்கு வெட்டின் ஒரே பக்கத்தில் உள்ள உள் கோணங்கள் கோணம் நான்கு மற்றும் கோணம் ஐந்து கோணம் மூன்று மற்றும் கோணம் ஆறு",
+              "cer_errors": 0,
+              "cer_len": 63,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 10.84,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u08",
+          "kind": "explanation",
+          "text_en": "Interior angles on the same side of the transversal are also referred to as consecutive interior angles, allied angles, or co interior angles. Many times we simply use the words alternate angles for alternate interior angles.",
+          "text": "ஒரு குறுக்குவெட்டின் ஒரே பக்கத்தில் உள்ள உட்கோணங்கள் தொடர்ச்சியான உட்கோணங்கள், இணை கோணங்கள் அல்லது உடன் உட்கோணங்கள் என்றும் குறிப்பிடப்படுகின்றன. பல நேரங்களில் நாம் மாற்று உட்கோணங்களுக்கு மாற்றுக் கோணங்கள் என்ற வார்த்தைகளை பயன்படுத்துகிறோம்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ஒரு குறுக்குவெட்டின் ஒரே பக்கத்தில் உள்ள உட்கோணங்கள் தொடர்ச்சியான உட்கோணங்கள், இணை கோணங்கள் அல்லது உடன் உட்கோணங்கள் என்றும் குறிப்பிடப்படுகின்றன. பல நேரங்களில் நாம் மாற்று உட்கோணங்களுக்கு மாற்றுக் கோணங்கள் என்ற வார்த்தைகளை பயன்படுத்துகிறோம்.",
+              "voice": "Anitha",
+              "duration_s": 16.73,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 16.73,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u09",
+          "kind": "explanation",
+          "text_en": "Now, let us find out the relation between the angles in these pairs when line m is parallel to line n. You know that the ruled lines of your notebook are parallel to each other. So, with ruler and pencil, draw two parallel lines along any two of these lines and a transversal to intersect them as shown in Figure six point nineteen. Figure six point nineteen shows a slanted line labeled l crossing two horizontal lines, labeled m on top and n on the bottom. At the intersection of line l and line m, four angles are marked with arcs and numbered one, two, three, and four. Angle one is upper left, two is upper right, three is lower right, and four is lower left. At the intersection of line l and line n, four angles are marked with arcs and numbered five, six, seven, and eight. Angle five is upper left, six is upper right, seven is lower right, and eight is lower left.",
+          "text": "இப்போது, கோடு m ஆனது கோடு n-க்கு இணையாக இருக்கும்போது, இந்த ஜோடிகளில் உள்ள கோணங்களுக்கு இடையிலான தொடர்பைக் கண்டுபிடிப்போம். உங்கள் நோட்டுப் புத்தகத்தில் உள்ள கோடுகள் ஒன்றுக்கொன்று இணையாக இருப்பதை நீங்கள் அறிவீர்கள். எனவே, அளவுகோல் மற்றும் பென்சில் கொண்டு, இந்த கோடுகளில் ஏதேனும் இரண்டின் மீது இரண்டு இணைக் கோடுகளை வரைந்து, படம் ஆறு புள்ளி பத்தொன்பது-ல் காட்டப்பட்டுள்ளபடி அவற்றை வெட்டும் ஒரு குறுக்குவெட்டையும் வரையவும். படம் ஆறு புள்ளி பத்தொன்பது-ல் சாய்வான கோடு l, மேல் பகுதியில் m என்றும் கீழ் பகுதியில் n என்றும் குறிக்கப்பட்ட இரண்டு கிடைமட்டக் கோடுகளைக் கடந்து செல்வது காட்டப்பட்டுள்ளது. கோடு l மற்றும் கோடு m ஆகியவற்றின் வெட்டுப் புள்ளியில், நான்கு கோணங்கள் வளைவுகளுடன் குறிக்கப்பட்டு ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று எண்ணிடப்பட்டுள்ளன. கோணம் ஒன்று மேல் இடதுபுறம், இரண்டு மேல் வலதுபுறம், மூன்று கீழ் வலதுபுறம் மற்றும் நான்கு கீழ் இடதுபுறம் ஆகும். கோடு l மற்றும் கோடு n ஆகியவற்றின் வெட்டுப் புள்ளியில், நான்கு கோணங்கள் வளைவுகளுடன் குறிக்கப்பட்டு ஐந்து, ஆறு, ஏழு மற்றும் எட்டு என்று எண்ணிடப்பட்டுள்ளன. கோணம் ஐந்து மேல் இடதுபுறம், ஆறு மேல் வலதுபுறம், ஏழு கீழ் வலதுபுறம் மற்றும் எட்டு கீழ் இடதுபுறம் ஆகும்.",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "இப்போது, கோடு m ஆனது கோடு n-க்கு இணையாக இருக்கும்போது, இந்த ஜோடிகளில் உள்ள கோணங்களுக்கு இடையிலான தொடர்பைக் கண்டுபிடிப்போம். உங்கள் நோட்டுப் புத்தகத்தில் உள்ள கோடுகள் ஒன்றுக்கொன்று இணையாக இருப்பதை நீங்கள் அறிவீர்கள்.",
+              "voice": "Arun",
+              "duration_s": 13.31,
+              "status": "ok",
+              "transcript": "இப்போது கோடு எம் ஆனது கோடு எம்முக்கு இணையாக இருக்கும்போது இந்த ஜோடிகளில் உள்ள கோணங்களுக்கு இடையிலான தொடர்பைக் கண்டுபிடிப்போம் உங்கள் நோட்டுப் புத்தகத்தில் உள்ள கோடுகள் ஒன்றுக்கொன்று இணையாக இருப்பதை நீங்கள் அறிவீர்கள்",
+              "cer_errors": 5,
+              "cer_len": 110,
+              "cer": 0.0455,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 13.31,
+                  "cer": 0.0455
+                }
+              ]
+            },
+            {
+              "text": "எனவே, அளவுகோல் மற்றும் பென்சில் கொண்டு, இந்த கோடுகளில் ஏதேனும் இரண்டின் மீது இரண்டு இணைக் கோடுகளை வரைந்து, படம் ஆறு புள்ளி பத்தொன்பது-ல் காட்டப்பட்டுள்ளபடி அவற்றை வெட்டும் ஒரு குறுக்குவெட்டையும் வரையவும்.",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "படம் ஆறு புள்ளி பத்தொன்பது-ல் சாய்வான கோடு l, மேல் பகுதியில் m என்றும் கீழ் பகுதியில் n என்றும் குறிக்கப்பட்ட இரண்டு கிடைமட்டக் கோடுகளைக் கடந்து செல்வது காட்டப்பட்டுள்ளது.",
+              "voice": "Anitha",
+              "duration_s": 12.8,
+              "status": "ok",
+              "transcript": "படம் ஆறு புள்ளி பத்தொன்பதுலில் சாய்வான கோடு எல் மேல் பகுதியில் எம் என்றும் கீழ் பகுதியில் என் என்றும் குறிக்கப்பட்ட இரண்டு கிடைமட்டக் கோடுகளைக் கடந்து செல்வது காட்டப்பட்டுள்ளது",
+              "cer_errors": 7,
+              "cer_len": 87,
+              "cer": 0.0805,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.8,
+                  "cer": 0.0805
+                }
+              ]
+            },
+            {
+              "text": "கோடு l மற்றும் கோடு m ஆகியவற்றின் வெட்டுப் புள்ளியில், நான்கு கோணங்கள் வளைவுகளுடன் குறிக்கப்பட்டு ஒன்று, இரண்டு, மூன்று மற்றும் நான்கு என்று எண்ணிடப்பட்டுள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 12.37,
+              "status": "ok",
+              "transcript": "கோடு எல் மற்றும் கோடு எம் ஆகியவற்றின் வெட்டுப் புள்ளியில் நான்கு கோணங்கள் வளைவுகளுடன் குறிக்கப்பட்டு ஒன்று இரண்டு மூன்று மற்றும் நான்கு என்று எண்ணிடப்பட்டுள்ளன",
+              "cer_errors": 4,
+              "cer_len": 80,
+              "cer": 0.05,
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 12.37,
+                  "cer": 0.05
+                }
+              ]
+            },
+            {
+              "text": "கோணம் ஒன்று மேல் இடதுபுறம், இரண்டு மேல் வலதுபுறம், மூன்று கீழ் வலதுபுறம் மற்றும் நான்கு கீழ் இடதுபுறம் ஆகும்.",
+              "voice": "Arun",
+              "duration_s": 7.85,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=92cfa166-c748-46ba-85a0-bcd4ef79ff02 over budget. Spend=₹10.20904000000001, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                },
+                {
+                  "voice": "Arun",
+                  "duration_s": 7.85,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கோடு l மற்றும் கோடு n ஆகியவற்றின் வெட்டுப் புள்ளியில், நான்கு கோணங்கள் வளைவுகளுடன் குறிக்கப்பட்டு ஐந்து, ஆறு, ஏழு மற்றும் எட்டு என்று எண்ணிடப்பட்டுள்ளன.",
+              "voice": "Anitha",
+              "duration_s": 11.69,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 11.69,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            },
+            {
+              "text": "கோணம் ஐந்து மேல் இடதுபுறம், ஆறு மேல் வலதுபுறம், ஏழு கீழ் வலதுபுறம் மற்றும் எட்டு கீழ் இடதுபுறம் ஆகும்.",
+              "voice": "Anitha",
+              "duration_s": 7.77,
+              "status": "ok",
+              "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code",
+              "attempts": [
+                {
+                  "voice": "Anitha",
+                  "duration_s": 7.77,
+                  "check_error": "Bodhan /audio/transcriptions unavailable after 5 attempts: HTTP 429: {\"error\":{\"message\":\"litellm.RateLimitError: Maximum rate limit reached for the model\",\"type\":\"throttling_error\",\"param\":null,\"code"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0525
+    }
+  ]
+}

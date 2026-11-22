@@ -1,0 +1,274 @@
+{
+  "id": "indic-ocr-b8e77bd48ecc4be4a1a29edd88c03d79",
+  "created": 1795193493,
+  "model": "indic-ocr",
+  "object": "chat.completion",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "You will find that only in Fig. 6.7 (iii), both the non-common arms lie along the\nruler, that is, points A, O and B lie on the same line and ray OC stands on it. Also see\nthat $\\angle \\text{AOC} + \\angle \\text{COB} = 125^\\circ + 55^\\circ = 180^\\circ$. From this, you may conclude that statement\n(A) is true. So, you can state in the form of an axiom as follows:\n\nAxiom 6.2 : If the sum of two adjacent angles is $180^{\\circ}$, then the non-common arms\nof the angles form a line.\n\nFor obvious reasons, the two axioms above together is called the **Linear Pair**\n**Axiom.**\n\nLet us now examine the case when two lines intersect each other.\n\nRecall, from earlier classes, that when two lines intersect, the vertically opposite\nangles are equal. Let us prove this result now. See Appendix 1 for the ingredients of a\nproof, and keep those in mind while studying the proof given below.\n\nTheorem 6.1 : If two lines intersect each other, then the vertically opposite\nangles are equal.\n\nProof : In the statement above, it is given\nthat ‘two lines intersect each other’. So, let\nAB and CD be two lines intersecting at O as\nshown in Fig. 6.8. They lead to two pairs of\nvertically opposite angles, namely,\n\nFig. 6.8 : Vertically opposite angles\n\n(i) $\\angle$ AOC and $\\angle$ BOD (ii) $\\angle$ AOD and\n$\\angle$ BOC.\n\nWe need to prove that $\\angle AOC = \\angle BOD$\nand $\\angle AOD = \\angle BOC$.\n\nNow, ray OA stands on line CD.\n\nTherefore, $\\angle \\text{ AOC} + \\angle \\text{ AOD} = 180^{\\circ}$ (Linear pair axiom) (1)\n\nCan we write $\\angle \\text{ AOD} + \\angle \\text{ BOD} = 180^\\circ$? Yes! (Why?)                                     (2)\n\nFrom (1) and (2), we can write\n\n$$\\angle AOC + \\angle AOD = \\angle AOD + \\angle BOD$$\n\nThis implies that $\\angle \\text{ AOC} = \\angle \\text{ BOD}$ (Refer Section 5.2, Axiom 3)\n\nSimilarly, it can be proved that $\\angle AOD = \\angle BOC$\n\nNow, let us do some examples based on Linear Pair Axiom and Theorem 6.1.",
+        "role": "assistant",
+        "provider_specific_fields": {
+          "refusal": null
+        }
+      },
+      "provider_specific_fields": {}
+    }
+  ],
+  "usage": {
+    "completion_tokens": 579,
+    "prompt_tokens": 2119,
+    "total_tokens": 2698
+  },
+  "blocks": [
+    {
+      "order": 0,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        125.8,
+        229.4,
+        923.2,
+        351.1
+      ],
+      "conf": 0.966,
+      "text": "You will find that only in Fig. 6.7 (iii), both the non-common arms lie along the\nruler, that is, points A, O and B lie on the same line and ray OC stands on it. Also see\nthat $\\angle \\text{AOC} + \\angle \\text{COB} = 125^\\circ + 55^\\circ = 180^\\circ$. From this, you may conclude that statement\n(A) is true. So, you can state in the form of an axiom as follows:"
+    },
+    {
+      "order": 1,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        361.5,
+        922.5,
+        426.6
+      ],
+      "conf": 0.871,
+      "text": "Axiom 6.2 : If the sum of two adjacent angles is $180^{\\circ}$, then the non-common arms\nof the angles form a line."
+    },
+    {
+      "order": 2,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.4,
+        424.3,
+        922.5,
+        489.3
+      ],
+      "conf": 0.94,
+      "text": "For obvious reasons, the two axioms above together is called the **Linear Pair**\n**Axiom.**"
+    },
+    {
+      "order": 3,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        163.1,
+        488.4,
+        794.2,
+        525.9
+      ],
+      "conf": 0.897,
+      "text": "Let us now examine the case when two lines intersect each other."
+    },
+    {
+      "order": 4,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.6,
+        524.0,
+        923.5,
+        617.0
+      ],
+      "conf": 0.952,
+      "text": "Recall, from earlier classes, that when two lines intersect, the vertically opposite\nangles are equal. Let us prove this result now. See Appendix 1 for the ingredients of a\nproof, and keep those in mind while studying the proof given below."
+    },
+    {
+      "order": 5,
+      "label": "Solved-example",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.5,
+        614.7,
+        922.3,
+        679.6
+      ],
+      "conf": 0.783,
+      "text": "Theorem 6.1 : If two lines intersect each other, then the vertically opposite\nangles are equal."
+    },
+    {
+      "order": 6,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        678.5,
+        548.6,
+        826.2
+      ],
+      "conf": 0.923,
+      "text": "Proof : In the statement above, it is given\nthat ‘two lines intersect each other’. So, let\nAB and CD be two lines intersecting at O as\nshown in Fig. 6.8. They lead to two pairs of\nvertically opposite angles, namely,"
+    },
+    {
+      "order": 7,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        617.4,
+        688.5,
+        815.7,
+        831.6
+      ],
+      "conf": 0.912,
+      "text": ""
+    },
+    {
+      "order": 8,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        563.4,
+        854.2,
+        887.5,
+        891.4
+      ],
+      "conf": 0.895,
+      "text": "Fig. 6.8 : Vertically opposite angles"
+    },
+    {
+      "order": 9,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.8,
+        825.4,
+        548.1,
+        889.5
+      ],
+      "conf": 0.799,
+      "text": "(i) $\\angle$ AOC and $\\angle$ BOD (ii) $\\angle$ AOD and\n$\\angle$ BOC."
+    },
+    {
+      "order": 10,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        890.5,
+        547.2,
+        956.7
+      ],
+      "conf": 0.903,
+      "text": "We need to prove that $\\angle AOC = \\angle BOD$\nand $\\angle AOD = \\angle BOC$."
+    },
+    {
+      "order": 11,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        957.0,
+        447.6,
+        995.4
+      ],
+      "conf": 0.868,
+      "text": "Now, ray OA stands on line CD."
+    },
+    {
+      "order": 12,
+      "label": "Equation",
+      "type": "Equation",
+      "bbox_xyxy": [
+        126.8,
+        994.1,
+        923.3,
+        1033.2
+      ],
+      "conf": 0.807,
+      "text": "Therefore, $\\angle \\text{ AOC} + \\angle \\text{ AOD} = 180^{\\circ}$ (Linear pair axiom) (1)"
+    },
+    {
+      "order": 13,
+      "label": "Equation",
+      "type": "Equation",
+      "bbox_xyxy": [
+        126.6,
+        1031.4,
+        922.2,
+        1070.7
+      ],
+      "conf": 0.807,
+      "text": "Can we write $\\angle \\text{ AOD} + \\angle \\text{ BOD} = 180^\\circ$? Yes! (Why?)                                     (2)"
+    },
+    {
+      "order": 14,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.2,
+        1070.5,
+        434.4,
+        1107.6
+      ],
+      "conf": 0.862,
+      "text": "From (1) and (2), we can write"
+    },
+    {
+      "order": 15,
+      "label": "Equation",
+      "type": "Equation",
+      "bbox_xyxy": [
+        341.1,
+        1107.5,
+        730.3,
+        1146.0
+      ],
+      "conf": 0.867,
+      "text": "$$ \\angle AOC + \\angle AOD = \\angle AOD + \\angle BOD $$"
+    },
+    {
+      "order": 16,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        127.4,
+        1145.2,
+        763.1,
+        1184.8
+      ],
+      "conf": 0.848,
+      "text": "This implies that $\\angle \\text{ AOC} = \\angle \\text{ BOD}$ (Refer Section 5.2, Axiom 3)"
+    },
+    {
+      "order": 17,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        1182.9,
+        593.0,
+        1222.7
+      ],
+      "conf": 0.842,
+      "text": "Similarly, it can be proved that $\\angle AOD = \\angle BOC$"
+    },
+    {
+      "order": 18,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.7,
+        1221.6,
+        861.3,
+        1260.2
+      ],
+      "conf": 0.865,
+      "text": "Now, let us do some examples based on Linear Pair Axiom and Theorem 6.1."
+    }
+  ]
+}

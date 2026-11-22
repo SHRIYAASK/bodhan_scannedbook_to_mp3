@@ -1,0 +1,112 @@
+{
+  "number": 7,
+  "width": 1050,
+  "height": 1500,
+  "image_path": "out\\pages_png\\page_007.png",
+  "blocks": [
+    {
+      "id": "p007.b02",
+      "page": 7,
+      "order": 2,
+      "label": "Solved-example",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        231.1,
+        909.7,
+        670.3
+      ],
+      "conf": 0.557,
+      "text": "Example 1 : In Fig. 6.9, lines PQ and RS\nintersect each other at point O. If\n$\\angle POR : \\angle ROQ = 5 : 7$, find all the angles.\nSolution : $\\angle POR + \\angle ROQ = 180^\\circ$\n(Linear pair of angles)\nBut $\\angle POR : \\angle ROQ = 5 : 7$\n(Given)\n\nTherefore, $\\angle POR = \\frac{5}{12} \\times 180^\\circ = 75^\\circ$\n\nSimilarly, $\\angle ROQ = \\frac{7}{12} \\times 180^\\circ = 105^\\circ$\n\nNow, $\\angle POS = \\angle ROQ = 105^\\circ$\nand $\\angle SOQ = \\angle POR = 75^\\circ$\n(Vertically opposite angles)\n(Vertically opposite angles)",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p007.b03",
+      "page": 7,
+      "order": 3,
+      "label": "Solved-example",
+      "type": "Text",
+      "bbox_xyxy": [
+        123.6,
+        681.9,
+        925.4,
+        1319.7
+      ],
+      "conf": 0.611,
+      "text": "Example 2 : In Fig. 6.10, ray OS stands on a line POQ. Ray OR and ray OT are\nangle bisectors of $\\angle \\text{POS}$ and $\\angle \\text{SOQ}$, respectively. If $\\angle \\text{POS}$ = $x$, find $\\angle \\text{ROT}$.\nSolution : Ray OS stands on the line POQ.\nTherefore, $\\angle \\text{POS}$ + $\\angle \\text{SOQ}$ = $180^\\circ$\nBut, $\\angle \\text{POS}$ = $x$\nTherefore, $x$ + $\\angle \\text{SOQ}$ = $180^\\circ$\nSo, $\\angle \\text{SOQ}$ = $180^\\circ$ – $x$\nNow, ray OR bisects $\\angle \\text{POS}$, therefore,\n\n$$\\angle \\text{ROS} = \\frac{1}{2} \\times \\angle \\text{POS}$$\n$$= \\frac{1}{2} \\times x = \\frac{x}{2}$$\n\nSimilarly, $\\angle \\text{SOT} = \\frac{1}{2} \\times \\angle \\text{SOQ}$$\n$$= \\frac{1}{2} \\times (180^\\circ - x)$$\n$$= 90^\\circ - \\frac{x}{2}$$",
+      "doubtful": true,
+      "doubtful_reason": "latex_unbalanced;low_conf=0.61",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": [
+        "rule9_angle",
+        "rule5_doubtful"
+      ]
+    }
+  ],
+  "markdown": "LINES AND ANGLES\n\nExample 1 : In Fig. 6.9, lines PQ and RS\nintersect each other at point O. If\n$\\angle POR : \\angle ROQ = 5 : 7$, find all the angles.\nSolution : $\\angle POR + \\angle ROQ = 180^\\circ$\n(Linear pair of angles)\nBut $\\angle POR : \\angle ROQ = 5 : 7$\n(Given)\n\nTherefore, $\\angle POR = \\frac{5}{12} \\times 180^\\circ = 75^\\circ$\n\nSimilarly, $\\angle ROQ = \\frac{7}{12} \\times 180^\\circ = 105^\\circ$\n\nNow, $\\angle POS = \\angle ROQ = 105^\\circ$\nand $\\angle SOQ = \\angle POR = 75^\\circ$\n(Vertically opposite angles)\n(Vertically opposite angles)\n\nExample 2 : In Fig. 6.10, ray OS stands on a line POQ. Ray OR and ray OT are\nangle bisectors of $\\angle$ POS and $\\angle$ SOQ, respectively. If $\\angle$ POS = $x$, find $\\angle$ ROT.\nSolution : Ray OS stands on the line POQ.\nTherefore, $\\angle$ POS + $\\angle$ SOQ = $180^\\circ$\nBut, $\\angle$ POS = $x$\nTherefore, $x$ + $\\angle$ SOQ = $180^\\circ$\nSo, $\\angle$ SOQ = $180^\\circ$ – $x$\nNow, ray OR bisects $\\angle$ POS, therefore,\n\n$$\\angle \\text{ROS} = \\frac{1}{2} \\times \\angle \\text{POS}$$\n$$= \\frac{1}{2} \\times x = \\frac{x}{2}$$\n\nSimilarly, $\\angle \\text{SOT} = \\frac{1}{2} \\times \\angle \\text{SOQ}$$$$= \\frac{1}{2} \\times (180^\\circ - x)$$$$= 90^\\circ - \\frac{x}{2}$$",
+  "dropped": [
+    {
+      "block": {
+        "id": "p007.b00",
+        "page": 7,
+        "order": 0,
+        "label": "Header",
+        "type": "PageHeader",
+        "bbox_xyxy": [
+          126.4,
+          179.7,
+          923.0,
+          217.0
+        ],
+        "conf": 0.504,
+        "text": "",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_furniture_type:PageHeader"
+    },
+    {
+      "block": {
+        "id": "p007.b01",
+        "page": 7,
+        "order": 1,
+        "label": "Chapter-title",
+        "type": "Title",
+        "bbox_xyxy": [
+          125.4,
+          180.6,
+          297.0,
+          215.5
+        ],
+        "conf": 0.617,
+        "text": "LINES AND ANGLES",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_running_header"
+    }
+  ]
+}

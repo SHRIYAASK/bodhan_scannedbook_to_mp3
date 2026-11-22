@@ -1,0 +1,2166 @@
+[
+  {
+    "id": "e0001",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s01",
+    "page": 1,
+    "blocks": [
+      "p001.b00"
+    ],
+    "doubtful": true,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "e0002",
+    "kind": "heading",
+    "role": null,
+    "level": 1,
+    "section": "s02",
+    "page": 1,
+    "blocks": [
+      "p001.b01",
+      "p001.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": "e0003",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s02",
+    "page": 1,
+    "blocks": [
+      "p001.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      6,
+      6
+    ]
+  },
+  {
+    "id": "e0004",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s02",
+    "page": 1,
+    "blocks": [
+      "p001.b04"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      8,
+      8
+    ]
+  },
+  {
+    "id": "e0005",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s02",
+    "page": 1,
+    "blocks": [
+      "p001.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      10,
+      10
+    ]
+  },
+  {
+    "id": "e0006",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s02",
+    "page": 1,
+    "blocks": [
+      "p001.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      12,
+      12
+    ]
+  },
+  {
+    "id": "e0007",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s02",
+    "page": 2,
+    "blocks": [
+      "p002.b01"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      14,
+      14
+    ]
+  },
+  {
+    "id": "e0008",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      16,
+      16
+    ]
+  },
+  {
+    "id": "e0009",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      18,
+      18
+    ]
+  },
+  {
+    "id": "e0010",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b04"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      20,
+      20
+    ]
+  },
+  {
+    "id": "e0011",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      22,
+      22
+    ]
+  },
+  {
+    "id": "e0012",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      24,
+      24
+    ]
+  },
+  {
+    "id": "e0013",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b06"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      26,
+      26
+    ]
+  },
+  {
+    "id": "e0014",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b08"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      28,
+      28
+    ]
+  },
+  {
+    "id": "e0015",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b09"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      30,
+      30
+    ]
+  },
+  {
+    "id": "e0016",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b10"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "e0017",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b11"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      34,
+      34
+    ]
+  },
+  {
+    "id": "e0018",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 2,
+    "blocks": [
+      "p002.b12"
+    ],
+    "doubtful": false,
+    "paired_with": "e0012",
+    "math_issues": [],
+    "lines": [
+      36,
+      36
+    ]
+  },
+  {
+    "id": "e0019",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      38,
+      38
+    ]
+  },
+  {
+    "id": "e0020",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      40,
+      40
+    ]
+  },
+  {
+    "id": "e0021",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b04"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      42,
+      42
+    ]
+  },
+  {
+    "id": "e0022",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b05"
+    ],
+    "doubtful": false,
+    "paired_with": "e0021",
+    "math_issues": [],
+    "lines": [
+      44,
+      44
+    ]
+  },
+  {
+    "id": "e0023",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      46,
+      46
+    ]
+  },
+  {
+    "id": "e0024",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": "e0025",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b08"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      50,
+      50
+    ]
+  },
+  {
+    "id": "e0026",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b10"
+    ],
+    "doubtful": false,
+    "paired_with": "e0025",
+    "math_issues": [],
+    "lines": [
+      52,
+      52
+    ]
+  },
+  {
+    "id": "e0027",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b09"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      54,
+      54
+    ]
+  },
+  {
+    "id": "e0028",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b11"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      56,
+      56
+    ]
+  },
+  {
+    "id": "e0029",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b12"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      58,
+      58
+    ]
+  },
+  {
+    "id": "e0030",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b14"
+    ],
+    "doubtful": false,
+    "paired_with": "e0029",
+    "math_issues": [],
+    "lines": [
+      60,
+      60
+    ]
+  },
+  {
+    "id": "e0031",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s03",
+    "page": 3,
+    "blocks": [
+      "p003.b13"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      62,
+      62
+    ]
+  },
+  {
+    "id": "e0032",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b00"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      64,
+      64
+    ]
+  },
+  {
+    "id": "e0033",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b01"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      66,
+      66
+    ]
+  },
+  {
+    "id": "e0034",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      68,
+      68
+    ]
+  },
+  {
+    "id": "e0035",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b03"
+    ],
+    "doubtful": false,
+    "paired_with": "e0034",
+    "math_issues": [],
+    "lines": [
+      70,
+      70
+    ]
+  },
+  {
+    "id": "e0036",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b04"
+    ],
+    "doubtful": false,
+    "paired_with": "e0034",
+    "math_issues": [],
+    "lines": [
+      72,
+      72
+    ]
+  },
+  {
+    "id": "e0037",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s04",
+    "page": 4,
+    "blocks": [
+      "p004.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      74,
+      74
+    ]
+  },
+  {
+    "id": "e0038",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      76,
+      76
+    ]
+  },
+  {
+    "id": "e0039",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      78,
+      78
+    ]
+  },
+  {
+    "id": "e0040",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b08"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      80,
+      80
+    ]
+  },
+  {
+    "id": "e0041",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b09"
+    ],
+    "doubtful": false,
+    "paired_with": "e0040",
+    "math_issues": [],
+    "lines": [
+      82,
+      82
+    ]
+  },
+  {
+    "id": "e0042",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b10"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      84,
+      84
+    ]
+  },
+  {
+    "id": "e0043",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b11"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      86,
+      86
+    ]
+  },
+  {
+    "id": "e0044",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b12"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      88,
+      88
+    ]
+  },
+  {
+    "id": "e0045",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b13"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      90,
+      90
+    ]
+  },
+  {
+    "id": "e0046",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 4,
+    "blocks": [
+      "p004.b14"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      92,
+      92
+    ]
+  },
+  {
+    "id": "e0047",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      94,
+      94
+    ]
+  },
+  {
+    "id": "e0048",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b04"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      96,
+      96
+    ]
+  },
+  {
+    "id": "e0049",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      98,
+      98
+    ]
+  },
+  {
+    "id": "e0050",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": "e0051",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      102,
+      102
+    ]
+  },
+  {
+    "id": "e0052",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 5,
+    "blocks": [
+      "p005.b08"
+    ],
+    "doubtful": false,
+    "paired_with": "e0051",
+    "math_issues": [],
+    "lines": [
+      104,
+      104
+    ]
+  },
+  {
+    "id": "e0053",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b00"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      106,
+      106
+    ]
+  },
+  {
+    "id": "e0054",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b01"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      108,
+      108
+    ]
+  },
+  {
+    "id": "e0055",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      110,
+      110
+    ]
+  },
+  {
+    "id": "e0056",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      112,
+      112
+    ]
+  },
+  {
+    "id": "e0057",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b04"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      114,
+      114
+    ]
+  },
+  {
+    "id": "e0058",
+    "kind": "paragraph",
+    "role": "solved_example",
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      116,
+      116
+    ]
+  },
+  {
+    "id": "e0059",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      118,
+      118
+    ]
+  },
+  {
+    "id": "e0060",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      120,
+      120
+    ]
+  },
+  {
+    "id": "e0061",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b08"
+    ],
+    "doubtful": false,
+    "paired_with": "e0060",
+    "math_issues": [],
+    "lines": [
+      122,
+      122
+    ]
+  },
+  {
+    "id": "e0062",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b09"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      124,
+      124
+    ]
+  },
+  {
+    "id": "e0063",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b10"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      126,
+      126
+    ]
+  },
+  {
+    "id": "e0064",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b11"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      128,
+      128
+    ]
+  },
+  {
+    "id": "e0065",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b12"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      130,
+      130
+    ]
+  },
+  {
+    "id": "e0066",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b13"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      132,
+      132
+    ]
+  },
+  {
+    "id": "e0067",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b14"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      134,
+      134
+    ]
+  },
+  {
+    "id": "e0068",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b15"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      136,
+      136
+    ]
+  },
+  {
+    "id": "e0069",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b16"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      138,
+      138
+    ]
+  },
+  {
+    "id": "e0070",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b17"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      140,
+      140
+    ]
+  },
+  {
+    "id": "e0071",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 6,
+    "blocks": [
+      "p006.b18"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      142,
+      142
+    ]
+  },
+  {
+    "id": "e0072",
+    "kind": "paragraph",
+    "role": "solved_example",
+    "level": null,
+    "section": "s05",
+    "page": 7,
+    "blocks": [
+      "p007.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      144,
+      144
+    ]
+  },
+  {
+    "id": "e0073",
+    "kind": "paragraph",
+    "role": "solved_example",
+    "level": null,
+    "section": "s05",
+    "page": 7,
+    "blocks": [
+      "p007.b03"
+    ],
+    "doubtful": true,
+    "paired_with": null,
+    "math_issues": [
+      "unterminated_inline_math",
+      "empty_math"
+    ],
+    "lines": [
+      146,
+      154
+    ]
+  },
+  {
+    "id": "e0074",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b00"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      156,
+      158
+    ]
+  },
+  {
+    "id": "e0075",
+    "kind": "paragraph",
+    "role": "solved_example",
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b01"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "e0076",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      162,
+      162
+    ]
+  },
+  {
+    "id": "e0077",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b04"
+    ],
+    "doubtful": false,
+    "paired_with": "e0076",
+    "math_issues": [],
+    "lines": [
+      164,
+      164
+    ]
+  },
+  {
+    "id": "e0078",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      166,
+      166
+    ]
+  },
+  {
+    "id": "e0079",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s05",
+    "page": 8,
+    "blocks": [
+      "p008.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      168,
+      168
+    ]
+  },
+  {
+    "id": "e0080",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      170,
+      170
+    ]
+  },
+  {
+    "id": "e0081",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      172,
+      172
+    ]
+  },
+  {
+    "id": "e0082",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b10"
+    ],
+    "doubtful": false,
+    "paired_with": "e0081",
+    "math_issues": [],
+    "lines": [
+      174,
+      174
+    ]
+  },
+  {
+    "id": "e0083",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b08"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      176,
+      176
+    ]
+  },
+  {
+    "id": "e0084",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b09"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      178,
+      178
+    ]
+  },
+  {
+    "id": "e0085",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b11"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      180,
+      180
+    ]
+  },
+  {
+    "id": "e0086",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b12"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      182,
+      182
+    ]
+  },
+  {
+    "id": "e0087",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b13"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      184,
+      184
+    ]
+  },
+  {
+    "id": "e0088",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b14"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      186,
+      186
+    ]
+  },
+  {
+    "id": "e0089",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b15"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      188,
+      189
+    ]
+  },
+  {
+    "id": "e0090",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b16"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      191,
+      191
+    ]
+  },
+  {
+    "id": "e0091",
+    "kind": "equation",
+    "role": null,
+    "level": null,
+    "section": "s06",
+    "page": 8,
+    "blocks": [
+      "p008.b17"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      193,
+      193
+    ]
+  },
+  {
+    "id": "e0092",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s07",
+    "page": 8,
+    "blocks": [
+      "p008.b18"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      195,
+      195
+    ]
+  },
+  {
+    "id": "e0093",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 8,
+    "blocks": [
+      "p008.b19"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      197,
+      197
+    ]
+  },
+  {
+    "id": "e0094",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 8,
+    "blocks": [
+      "p008.b20"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      199,
+      199
+    ]
+  },
+  {
+    "id": "e0095",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 8,
+    "blocks": [
+      "p008.b21"
+    ],
+    "doubtful": false,
+    "paired_with": "e0094",
+    "math_issues": [],
+    "lines": [
+      201,
+      201
+    ]
+  },
+  {
+    "id": "e0096",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      203,
+      203
+    ]
+  },
+  {
+    "id": "e0097",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      205,
+      205
+    ]
+  },
+  {
+    "id": "e0098",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b04"
+    ],
+    "doubtful": false,
+    "paired_with": "e0097",
+    "math_issues": [],
+    "lines": [
+      207,
+      207
+    ]
+  },
+  {
+    "id": "e0099",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      209,
+      209
+    ]
+  },
+  {
+    "id": "e0100",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      211,
+      211
+    ]
+  },
+  {
+    "id": "e0101",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b07"
+    ],
+    "doubtful": false,
+    "paired_with": "e0100",
+    "math_issues": [],
+    "lines": [
+      213,
+      213
+    ]
+  },
+  {
+    "id": "e0102",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b08"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      215,
+      215
+    ]
+  },
+  {
+    "id": "e0103",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b09"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      217,
+      217
+    ]
+  },
+  {
+    "id": "e0104",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b10"
+    ],
+    "doubtful": false,
+    "paired_with": "e0103",
+    "math_issues": [],
+    "lines": [
+      219,
+      219
+    ]
+  },
+  {
+    "id": "e0105",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b11"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      221,
+      222
+    ]
+  },
+  {
+    "id": "e0106",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b12"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      224,
+      224
+    ]
+  },
+  {
+    "id": "e0107",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b14"
+    ],
+    "doubtful": false,
+    "paired_with": "e0106",
+    "math_issues": [],
+    "lines": [
+      226,
+      226
+    ]
+  },
+  {
+    "id": "e0108",
+    "kind": "paragraph",
+    "role": "question",
+    "level": null,
+    "section": "s07",
+    "page": 9,
+    "blocks": [
+      "p009.b13"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      228,
+      228
+    ]
+  },
+  {
+    "id": "e0109",
+    "kind": "heading",
+    "role": null,
+    "level": 2,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b00"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      230,
+      230
+    ]
+  },
+  {
+    "id": "e0110",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b01"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      232,
+      232
+    ]
+  },
+  {
+    "id": "e0111",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b02"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      234,
+      234
+    ]
+  },
+  {
+    "id": "e0112",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b04"
+    ],
+    "doubtful": false,
+    "paired_with": "e0111",
+    "math_issues": [],
+    "lines": [
+      236,
+      236
+    ]
+  },
+  {
+    "id": "e0113",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b03"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      238,
+      238
+    ]
+  },
+  {
+    "id": "e0114",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b05"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      240,
+      240
+    ]
+  },
+  {
+    "id": "e0115",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b06"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      242,
+      242
+    ]
+  },
+  {
+    "id": "e0116",
+    "kind": "list",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b07"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      244,
+      255
+    ]
+  },
+  {
+    "id": "e0117",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b08"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      257,
+      257
+    ]
+  },
+  {
+    "id": "e0118",
+    "kind": "figure",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b09"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      259,
+      259
+    ]
+  },
+  {
+    "id": "e0119",
+    "kind": "caption",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b11"
+    ],
+    "doubtful": false,
+    "paired_with": "e0118",
+    "math_issues": [],
+    "lines": [
+      261,
+      261
+    ]
+  },
+  {
+    "id": "e0120",
+    "kind": "paragraph",
+    "role": null,
+    "level": null,
+    "section": "s08",
+    "page": 10,
+    "blocks": [
+      "p010.b10"
+    ],
+    "doubtful": false,
+    "paired_with": null,
+    "math_issues": [],
+    "lines": [
+      263,
+      263
+    ]
+  }
+]

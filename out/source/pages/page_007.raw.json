@@ -1,0 +1,79 @@
+{
+  "id": "indic-ocr-882470929fbd4443a1ca419afbcec02d",
+  "created": 1795193492,
+  "model": "indic-ocr",
+  "object": "chat.completion",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "LINES AND ANGLES\n\nExample 1 : In Fig. 6.9, lines PQ and RS\nintersect each other at point O. If\n$\\angle POR : \\angle ROQ = 5 : 7$, find all the angles.\nSolution : $\\angle POR + \\angle ROQ = 180^\\circ$\n(Linear pair of angles)\nBut $\\angle POR : \\angle ROQ = 5 : 7$\n(Given)\n\nTherefore, $\\angle POR = \\frac{5}{12} \\times 180^\\circ = 75^\\circ$\n\nSimilarly, $\\angle ROQ = \\frac{7}{12} \\times 180^\\circ = 105^\\circ$\n\nNow, $\\angle POS = \\angle ROQ = 105^\\circ$\nand $\\angle SOQ = \\angle POR = 75^\\circ$\n(Vertically opposite angles)\n(Vertically opposite angles)\n\nExample 2 : In Fig. 6.10, ray OS stands on a line POQ. Ray OR and ray OT are\nangle bisectors of $\\angle$ POS and $\\angle$ SOQ, respectively. If $\\angle$ POS = $x$, find $\\angle$ ROT.\nSolution : Ray OS stands on the line POQ.\nTherefore, $\\angle$ POS + $\\angle$ SOQ = $180^\\circ$\nBut, $\\angle$ POS = $x$\nTherefore, $x$ + $\\angle$ SOQ = $180^\\circ$\nSo, $\\angle$ SOQ = $180^\\circ$ – $x$\nNow, ray OR bisects $\\angle$ POS, therefore,\n\n$$\\angle \\text{ROS} = \\frac{1}{2} \\times \\angle \\text{POS}$$\n$$= \\frac{1}{2} \\times x = \\frac{x}{2}$$\n\nSimilarly, $\\angle \\text{SOT} = \\frac{1}{2} \\times \\angle \\text{SOQ}$$$$= \\frac{1}{2} \\times (180^\\circ - x)$$$$= 90^\\circ - \\frac{x}{2}$$",
+        "role": "assistant",
+        "provider_specific_fields": {
+          "refusal": null
+        }
+      },
+      "provider_specific_fields": {}
+    }
+  ],
+  "usage": {
+    "completion_tokens": 483,
+    "prompt_tokens": 1040,
+    "total_tokens": 1523
+  },
+  "blocks": [
+    {
+      "order": 0,
+      "label": "Header",
+      "type": "PageHeader",
+      "bbox_xyxy": [
+        126.4,
+        179.7,
+        923.0,
+        217.0
+      ],
+      "conf": 0.504,
+      "text": ""
+    },
+    {
+      "order": 1,
+      "label": "Chapter-title",
+      "type": "Title",
+      "bbox_xyxy": [
+        125.4,
+        180.6,
+        297.0,
+        215.5
+      ],
+      "conf": 0.617,
+      "text": "LINES AND ANGLES"
+    },
+    {
+      "order": 2,
+      "label": "Solved-example",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.5,
+        231.1,
+        909.7,
+        670.3
+      ],
+      "conf": 0.557,
+      "text": "Example 1 : In Fig. 6.9, lines PQ and RS\nintersect each other at point O. If\n$\\angle POR : \\angle ROQ = 5 : 7$, find all the angles.\nSolution : $\\angle POR + \\angle ROQ = 180^\\circ$\n(Linear pair of angles)\nBut $\\angle POR : \\angle ROQ = 5 : 7$\n(Given)\n\nTherefore, $\\angle POR = \\frac{5}{12} \\times 180^\\circ = 75^\\circ$\n\nSimilarly, $\\angle ROQ = \\frac{7}{12} \\times 180^\\circ = 105^\\circ$\n\nNow, $\\angle POS = \\angle ROQ = 105^\\circ$\nand $\\angle SOQ = \\angle POR = 75^\\circ$\n(Vertically opposite angles)\n(Vertically opposite angles)"
+    },
+    {
+      "order": 3,
+      "label": "Solved-example",
+      "type": "Text",
+      "bbox_xyxy": [
+        123.6,
+        681.9,
+        925.4,
+        1319.7
+      ],
+      "conf": 0.611,
+      "text": "Example 2 : In Fig. 6.10, ray OS stands on a line POQ. Ray OR and ray OT are\nangle bisectors of $\\angle$ POS and $\\angle$ SOQ, respectively. If $\\angle$ POS = $x$, find $\\angle$ ROT.\nSolution : Ray OS stands on the line POQ.\nTherefore, $\\angle$ POS + $\\angle$ SOQ = $180^\\circ$\nBut, $\\angle$ POS = $x$\nTherefore, $x$ + $\\angle$ SOQ = $180^\\circ$\nSo, $\\angle$ SOQ = $180^\\circ$ – $x$\nNow, ray OR bisects $\\angle$ POS, therefore,\n\n$$\\angle \\text{ROS} = \\frac{1}{2} \\times \\angle \\text{POS}$$\n$$= \\frac{1}{2} \\times x = \\frac{x}{2}$$\n\nSimilarly, $\\angle \\text{SOT} = \\frac{1}{2} \\times \\angle \\text{SOQ}$$\n$$= \\frac{1}{2} \\times (180^\\circ - x)$$\n$$= 90^\\circ - \\frac{x}{2}$$"
+    }
+  ]
+}

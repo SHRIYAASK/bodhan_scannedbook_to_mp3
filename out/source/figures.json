@@ -1,0 +1,355 @@
+[
+  {
+    "element_id": "e0012",
+    "block_ids": [
+      "p002.b07"
+    ],
+    "image": "figures\\p002_b07.png",
+    "caption": "i acute angle : 0 degrees is less than x is less than 90 degrees ii right angle : y equals 90 degrees iii obtuse angle : 90 degrees is less than z is less than 180 degrees iv straight angle : s equals 180 degrees v reflex angle : 180 degrees is less than t is less than 360 degrees Figure 6.1 : Types of Angles",
+    "description": "Five separate angle diagrams are arranged in two rows, each labeled with a letter and a name. In the top row, diagram one shows two rays meeting at a vertex to form a small angle marked with an arc and the letter x, labeled acute angle. Diagram two shows two rays meeting at a right angle, marked with a small square and the letter y, labeled right angle. Diagram three shows two rays forming a wide angle marked with an arc and the letter z, labeled obtuse angle. In the bottom row, diagram four shows a single straight line with arrows on both ends and a dot at the center, with a curved arc above it labeled s, called a straight angle. Diagram five shows two rays from a vertex with a large curved arrow looping around the outside, labeled t, called a reflex angle.",
+    "decorative": false,
+    "visible_labels": [
+      "x",
+      "y",
+      "z",
+      "s",
+      "t"
+    ],
+    "source": "vision",
+    "warnings": [
+      "description must be 20-600 characters, not 768"
+    ]
+  },
+  {
+    "element_id": "e0021",
+    "block_ids": [
+      "p003.b04"
+    ],
+    "image": "figures\\p003_b04.png",
+    "caption": "Figure 6.2 : Adjacent angles",
+    "description": "Three rays start from the common vertex B. Ray B A points up and to the left, ray B D points up and to the right, and ray B C points horizontally to the right, with each ray ending in an arrowhead. Two small arcs are drawn at vertex B: one arc spans the space between ray B A and ray B D, and a second, larger arc spans the space between ray B D and ray B C.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0025",
+    "block_ids": [
+      "p003.b08"
+    ],
+    "image": "figures\\p003_b08.png",
+    "caption": "Figure 6.3 : Linear pair of angles",
+    "description": "A straight horizontal line runs from left to right with arrows at both ends, labeled A on the left, B in the middle, and C on the right. A ray labeled D starts at point B and extends upward and to the right. Two small arcs are drawn at point B, one between ray B A and ray B D, and the other between ray B D and ray B C, marking the two angles that form a linear pair.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0029",
+    "block_ids": [
+      "p003.b12"
+    ],
+    "image": "figures\\p003_b12.png",
+    "caption": "Figure 6.4 : Vertically opposite angles",
+    "description": "Two straight lines cross at a central point labeled O. The line running from the upper left to the lower right has arrows at both ends and is labeled A at the upper left and B at the lower right. The line running from the lower left to the upper right has arrows at both ends and is labeled C at the lower left and D at the upper right. Four curved arcs are drawn around point O, one in each of the four angles formed by the intersecting lines, with two of the opposite arcs marked with a double arc to show they are equal.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "O"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0034",
+    "block_ids": [
+      "p004.b02"
+    ],
+    "image": "figures\\p004_b02.png",
+    "caption": "i Intersecting lines ii Non-intersecting parallel lines Figure 6.5 : Different ways of drawing two lines",
+    "description": "The figure has two parts. Part one, labeled i Intersecting lines, shows two straight lines crossing at a single point in the middle. One line runs from point P in the upper left to point Q in the lower right, and the other runs from point R in the lower left to point S in the upper right, with arrows at both ends of each line. Part two, labeled ii Non-intersecting parallel lines, shows two horizontal straight lines that do not meet. The top line has point P on the left and point Q on the right, and the bottom line has point R on the left and point S on the right, each with arrows at both ends.",
+    "decorative": false,
+    "visible_labels": [
+      "P",
+      "Q",
+      "R",
+      "S",
+      "i Intersecting lines",
+      "ii Non-intersecting (parallel) lines"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0040",
+    "block_ids": [
+      "p004.b08"
+    ],
+    "image": "figures\\p004_b08.png",
+    "caption": "Figure 6.6 : Linear pair of angles",
+    "description": "A horizontal line with arrows on both ends is labeled A on the left and B on the right, with the point O marked in the middle. A ray labeled C starts at point O and extends upward and to the right, ending in an arrow. Three small arcs are drawn at point O, one between ray O A and ray O C, one between ray O C and ray O B, and a larger one spanning from ray O A to ray O B.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "O"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0051",
+    "block_ids": [
+      "p005.b07"
+    ],
+    "image": "figures\\p005_b07.png",
+    "caption": "Figure 6.7 : Adjacent angles with different measures",
+    "description": "The image shows four separate diagrams labeled one, two, three, and four, each illustrating adjacent angles sharing a common vertex O and a common arm O C. In diagram one, ray O A points straight up and ray O B points straight right; ray O C lies between them, creating angle A O C of 60 degrees and angle C O B of 30 degrees. In diagram two, ray O B points right and ray O A points up and to the left; ray O C is between them, with angle A O C of 60 degrees and angle C O B of 80 degrees. In diagram three, a ruler is drawn along the straight line formed by rays O A and O B, which point in opposite horizontal directions; ray O C stands on this line, creating angle A O C of 125 degrees and angle C O B of 55 degrees. In diagram four, ray O B points right and ray O A points down and to the left, not forming a straight line with O B; ray O C is between them, with angle A O C of 150 degrees and angle C O B of 70 degrees. All rays have arrowheads at their ends.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "O",
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ],
+    "source": "vision",
+    "warnings": [
+      "description must be 20-600 characters, not 964"
+    ]
+  },
+  {
+    "element_id": "e0060",
+    "block_ids": [
+      "p006.b07"
+    ],
+    "image": "figures\\p006_b07.png",
+    "caption": "Figure 6.8 : Vertically opposite angles",
+    "description": "Two straight lines cross at a central point labeled O. One line runs from the upper left to the lower right with arrows at both ends, labeled A on the upper left side and B on the lower right side. The other line runs from the lower left to the upper right with arrows at both ends, labeled C on the lower left side and D on the upper right side. A small double arc is drawn around point O in the upper and lower vertical angles.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "O"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0076",
+    "block_ids": [
+      "p008.b02"
+    ],
+    "image": "figures\\p008_b02.png",
+    "caption": "Figure 6.11",
+    "description": "Four rays start from a common point labeled O. Ray O P points up and slightly left, ray O Q points to the right, ray O R points down and to the right, and ray O S points down and to the left, with each ray ending in an arrowhead.",
+    "decorative": false,
+    "visible_labels": [
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0081",
+    "block_ids": [
+      "p008.b07"
+    ],
+    "image": "figures\\p008_b07.png",
+    "caption": "Figure 6.12",
+    "description": "Five rays start from the common point O. Ray O T is drawn as a dashed line pointing left, while ray O Q is a solid line pointing right, so T, O, and Q lie on one straight line. Ray O P points upward, ray O S points down and to the left, and ray O R points down and to the right.",
+    "decorative": false,
+    "visible_labels": [
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "O"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0094",
+    "block_ids": [
+      "p008.b20"
+    ],
+    "image": "figures\\p008_b20.png",
+    "caption": "Figure 6.13",
+    "description": "Figure 6.13 shows two straight lines, line A B and line C D, that cross at a single point labeled O. A third ray, ray O E, also starts at point O and extends upward and to the right, positioned between ray O B and ray O C. The figure is labeled 'Fig. 6.13' at the bottom.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "O",
+      "Fig. 6.13"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0097",
+    "block_ids": [
+      "p009.b03"
+    ],
+    "image": "figures\\p009_b03.png",
+    "caption": "Figure 6.14",
+    "description": "Two straight lines, labeled X Y and M N, cross at a central point labeled O. A vertical ray labeled P starts at O and goes upward, with a small square mark showing that angle P O Y is a right angle. Three curved arcs mark the angles around O: arc a is between ray O P and ray O M, arc b is between ray O M and ray O X, and arc c is between ray O X and ray O N.",
+    "decorative": false,
+    "visible_labels": [
+      "P",
+      "M",
+      "a",
+      "b",
+      "X",
+      "O",
+      "Y",
+      "c",
+      "N"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0100",
+    "block_ids": [
+      "p009.b06"
+    ],
+    "image": "figures\\p009_b06.png",
+    "caption": "Figure 6.15",
+    "description": "A triangle with vertex P at the top and base Q R sits on a horizontal line that has arrows at both ends. The horizontal line is labeled S to the left of Q and T to the right of R, with small tick marks near S and T. Angle arcs are drawn inside the triangle at Q and at R.",
+    "decorative": false,
+    "visible_labels": [
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0103",
+    "block_ids": [
+      "p009.b09"
+    ],
+    "image": "figures\\p009_b09.png",
+    "caption": "Figure 6.16",
+    "description": "Two straight lines cross at a central point labeled O. One line runs from the lower left to the upper right, with its ends labeled A and B. The other line runs from the upper left to the lower right, with its ends labeled C and D. Four angles are marked around point O with arcs and letters: angle x is between ray O C and ray O B, angle w is between ray O B and ray O D, angle z is between ray O D and ray O A, and angle y is between ray O A and ray O C.",
+    "decorative": false,
+    "visible_labels": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "O",
+      "x",
+      "y",
+      "w",
+      "z"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0106",
+    "block_ids": [
+      "p009.b12"
+    ],
+    "image": "figures\\p009_b12.png",
+    "caption": "Figure 6.17",
+    "description": "A horizontal line P Q runs left to right with arrows at both ends, and point O is marked on the line between P and Q. From O, ray O R goes straight up with an arrow at its end, and a small square at O shows that ray O R is perpendicular to line P Q. Ray O S also starts at O and points up and to the left, lying between ray O P and ray O R, with an arrow at its end.",
+    "decorative": false,
+    "visible_labels": [
+      "P",
+      "Q",
+      "O",
+      "R",
+      "S"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0111",
+    "block_ids": [
+      "p010.b02"
+    ],
+    "image": "figures\\p010_b02.png",
+    "caption": "Figure 6.18",
+    "description": "Line l runs from the upper left to the lower right and crosses line m at point P and line n at point Q. At point P, the four angles around the intersection are labeled 1, 2, 3, and 4, with 1 in the upper left, 2 in the upper right, 3 in the lower right, and 4 in the lower left. At point Q, the four angles are labeled 5, 6, 7, and 8, with 5 in the upper left, 6 in the upper right, 7 in the lower right, and 8 in the lower left.",
+    "decorative": false,
+    "visible_labels": [
+      "l",
+      "m",
+      "n",
+      "P",
+      "Q",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "source": "vision",
+    "warnings": []
+  },
+  {
+    "element_id": "e0118",
+    "block_ids": [
+      "p010.b09"
+    ],
+    "image": "figures\\p010_b09.png",
+    "caption": "Figure 6.19",
+    "description": "A slanted line labeled l crosses two horizontal lines, labeled m on top and n on the bottom. At the intersection of line l and line m, four angles are marked with arcs and numbered 1, 2, 3, and 4, where 1 is upper left, 2 is upper right, 3 is lower right, and 4 is lower left. At the intersection of line l and line n, four angles are marked with arcs and numbered 5, 6, 7, and 8, where 5 is upper left, 6 is upper right, 7 is lower right, and 8 is lower left.",
+    "decorative": false,
+    "visible_labels": [
+      "l",
+      "m",
+      "n",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "source": "vision",
+    "warnings": []
+  }
+]

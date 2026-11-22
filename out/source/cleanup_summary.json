@@ -1,0 +1,20 @@
+{
+  "pages": 10,
+  "blocks_kept": 121,
+  "blocks_dropped": 8,
+  "doubtful_blocks": 2,
+  "page_break_joins": 2,
+  "rule_hits": {
+    "rule10_joined": 2,
+    "rule11_reclassify": 1,
+    "rule5_doubtful": 2,
+    "rule6_hyphenation": 2,
+    "rule7_whitespace_labels": 6,
+    "rule8_figure_crop": 17,
+    "rule9_angle": 9
+  },
+  "dropped_by_reason": {
+    "rule3_furniture_type:PageHeader": 4,
+    "rule3_running_header": 4
+  }
+}

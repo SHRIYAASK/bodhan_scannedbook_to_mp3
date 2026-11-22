@@ -1,0 +1,2600 @@
+{
+  "language": "bn",
+  "ai_generated": true,
+  "voice": "Ishita",
+  "ai_label": "AI-generated narration: Bodhan Indic-Speak, voice Ishita",
+  "back_check": "every chunk back-transcribed with Indic-Transcribe; CER against the TTS text",
+  "cer": 0.0817,
+  "sections": [
+    {
+      "section_id": "s01",
+      "title": "Introduction",
+      "slug": "01-introduction",
+      "units": [],
+      "cer": null
+    },
+    {
+      "section_id": "s02",
+      "title": "6.1 Introduction",
+      "slug": "02-6-1-introduction",
+      "units": [
+        {
+          "id": "s02.u01",
+          "kind": "heading",
+          "text_en": "Chapter six lines and angles.",
+          "text": "ষষ্ঠ অধ্যায় রেখা ও কোণ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ষষ্ঠ অধ্যায় রেখা ও কোণ।",
+              "voice": "Ishita",
+              "duration_s": 2.47,
+              "status": "ok",
+              "transcript": "ষষ্ঠ অধ্যায় রেখা ও কোণ",
+              "cer_errors": 0,
+              "cer_len": 12,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 2.47,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u02",
+          "kind": "heading",
+          "text_en": "Six point one introduction.",
+          "text": "ছয় দশমিক এক ভূমিকা।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক এক ভূমিকা।",
+              "voice": "Ishita",
+              "duration_s": 1.96,
+              "status": "ok",
+              "transcript": "ছয় দশমিক এক ভূমিকা",
+              "cer_errors": 0,
+              "cer_len": 11,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 1.96,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u03",
+          "kind": "explanation",
+          "text_en": "In Chapter five you learned that at least two points are needed to draw a line. You also studied some axioms and used them to prove other statements. In this chapter you will study the properties of the angles formed when two lines intersect each other, and also the properties of the angles formed when a line intersects two or more parallel lines at distinct points. You will use these properties to prove statements by deductive reasoning. You have already verified these statements through activities in earlier classes.",
+          "text": "পঞ্চম অধ্যায়ে তোমরা শিখেছ যে একটি রেখা আঁকতে অন্তত দুটি বিন্দুর প্রয়োজন। তোমরা কিছু স্বতঃসিদ্ধও অধ্যয়ন করেছ এবং অন্যান্য বিবৃতি প্রমাণ করতে সেগুলো ব্যবহার করেছ। এই অধ্যায়ে তোমরা দুটি সরলরেখা পরস্পরকে ছেদ করলে যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য এবং একটি সরলরেখা যখন দুটি বা ততোধিক সমান্তরাল সরলরেখাকে ভিন্ন বিন্দুতে ছেদ করে তখন যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য নিয়ে পড়বে। তোমরা অবরোহী যুক্তির মাধ্যমে বিবৃতি প্রমাণ করতে এই বৈশিষ্ট্যগুলো ব্যবহার করবে। পূর্ববর্তী ক্লাসের কার্যক্রমের মাধ্যমে তোমরা ইতিমধ্যেই এই বিবৃতিগুলো যাচাই করেছ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "পঞ্চম অধ্যায়ে তোমরা শিখেছ যে একটি রেখা আঁকতে অন্তত দুটি বিন্দুর প্রয়োজন। তোমরা কিছু স্বতঃসিদ্ধও অধ্যয়ন করেছ এবং অন্যান্য বিবৃতি প্রমাণ করতে সেগুলো ব্যবহার করেছ।",
+              "voice": "Ishita",
+              "duration_s": 14.17,
+              "status": "ok",
+              "transcript": "পঞ্চম অধ্যায়ে তোমরা শিখেছ যে একটি রেখা আঁকতে অন্তত দুটি বিন্দুর প্রয়োজন তোমরা কিছু স্বতঃসিদ্ধ অধ্যয়ন করেছ এবং অন্যান্য বিবৃতি প্রমাণ করতে সেগুলো ব্যবহার করেছ",
+              "cer_errors": 1,
+              "cer_len": 86,
+              "cer": 0.0116,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.17,
+                  "cer": 0.0116
+                }
+              ]
+            },
+            {
+              "text": "এই অধ্যায়ে তোমরা দুটি সরলরেখা পরস্পরকে ছেদ করলে যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য এবং একটি সরলরেখা যখন দুটি বা ততোধিক সমান্তরাল সরলরেখাকে ভিন্ন বিন্দুতে ছেদ করে তখন যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য নিয়ে পড়বে।",
+              "voice": "Ishita",
+              "duration_s": 20.82,
+              "status": "ok",
+              "transcript": "এই অধ্যায়ে তোমরা দুটি সরলরেখা পরস্পরকে ছেদ করলে যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য এবং একটি সরলরেখা যখন দুটি বা ততোধিক সমান্তরাল সরলরেখাকে ভিন্ন বিন্দুতে ছেদ করে তখন যে কোণগুলো তৈরি হয় তার বৈশিষ্ট্য নিয়ে পড়বে",
+              "cer_errors": 0,
+              "cer_len": 110,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.82,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "তোমরা অবরোহী যুক্তির মাধ্যমে বিবৃতি প্রমাণ করতে এই বৈশিষ্ট্যগুলো ব্যবহার করবে। পূর্ববর্তী ক্লাসের কার্যক্রমের মাধ্যমে তোমরা ইতিমধ্যেই এই বিবৃতিগুলো যাচাই করেছ।",
+              "voice": "Ishita",
+              "duration_s": 12.97,
+              "status": "ok",
+              "transcript": "তোমরা অবরোহী যুক্তির মাধ্যমে বিবৃতি প্রমাণ করতে এই বৈশিষ্ট্যগুলো ব্যবহার করবে পূর্ববর্তী ক্লাসের কার্যক্রমের মাধ্যমে তোমরা ইতিমধ্যেই এই বিবৃতিগুলো যাচাই করেছ",
+              "cer_errors": 0,
+              "cer_len": 85,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.97,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u04",
+          "kind": "explanation",
+          "text_en": "In daily life you see different types of angles formed between the edges of plane surfaces. To make a model using plane surfaces you need a thorough knowledge of angles. For instance, suppose you want to make a model of a hut for a school exhibition using bamboo sticks. You would keep some sticks parallel and some sticks slanted. An architect drawing a plan for a multistoried building also draws intersecting lines and parallel lines at different angles. Without knowledge of the properties of these lines and angles, she could not draw the layout of the building.",
+          "text": "দৈনন্দিন জীবনে আপনি সমতল পৃষ্ঠের প্রান্তগুলির মধ্যে বিভিন্ন ধরনের কোণ তৈরি হতে দেখেন। সমতল পৃষ্ঠ ব্যবহার করে একটি মডেল তৈরি করতে হলে আপনার কোণ সম্পর্কে বিস্তারিত জ্ঞান থাকতে হবে। উদাহরণস্বরূপ, ধরুন আপনি বাঁশের লাঠি ব্যবহার করে স্কুলের প্রদর্শনীর জন্য একটি কুঁড়েঘরের মডেল তৈরি করতে চান। সেক্ষেত্রে কিছু লাঠি সমান্তরাল এবং কিছু লাঠি তির্যকভাবে রাখবেন। একজন স্থপতি বহুতল ভবনের নকশা করার সময় বিভিন্ন কোণে ছেদক রেখা এবং সমান্তরাল রেখা আঁকেন। এই রেখা এবং কোণগুলির বৈশিষ্ট্য সম্পর্কে জ্ঞান না থাকলে, তিনি ভবনের নকশা আঁকতে পারতেন না।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "দৈনন্দিন জীবনে আপনি সমতল পৃষ্ঠের প্রান্তগুলির মধ্যে বিভিন্ন ধরনের কোণ তৈরি হতে দেখেন। সমতল পৃষ্ঠ ব্যবহার করে একটি মডেল তৈরি করতে হলে আপনার কোণ সম্পর্কে বিস্তারিত জ্ঞান থাকতে হবে।",
+              "voice": "Ishita",
+              "duration_s": 17.49,
+              "status": "ok",
+              "transcript": "দৈনন্দিন জীবনে আপনি সমতল পৃষ্ঠের প্রান্তগুলির মধ্যে বিভিন্ন ধরনের কোণ তৈরি হতে দেখেন সমতল পৃষ্ঠ ব্যবহার করে একটি মডেল তৈরি করতে হলে আপনার কোণ সম্পর্কে বিস্তারিত জ্ঞান থাকতে হবে",
+              "cer_errors": 0,
+              "cer_len": 97,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 17.49,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "উদাহরণস্বরূপ, ধরুন আপনি বাঁশের লাঠি ব্যবহার করে স্কুলের প্রদর্শনীর জন্য একটি কুঁড়েঘরের মডেল তৈরি করতে চান। সেক্ষেত্রে কিছু লাঠি সমান্তরাল এবং কিছু লাঠি তির্যকভাবে রাখবেন।",
+              "voice": "Ishita",
+              "duration_s": 14.85,
+              "status": "ok",
+              "transcript": "উদাহরণস্বরূপ ধরুন আপনি বাঁশের লাঠি ব্যবহার করে স্কুলের প্রদর্শনীর জন্য একটি কুঁড়েঘরের মডেল তৈরি করতে চান সেক্ষেত্রে কিছু লাঠি সমান্তরাল এবং কিছু লাঠি তির্যকভাবে রাখবেন",
+              "cer_errors": 0,
+              "cer_len": 90,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.85,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "একজন স্থপতি বহুতল ভবনের নকশা করার সময় বিভিন্ন কোণে ছেদক রেখা এবং সমান্তরাল রেখা আঁকেন। এই রেখা এবং কোণগুলির বৈশিষ্ট্য সম্পর্কে জ্ঞান না থাকলে, তিনি ভবনের নকশা আঁকতে পারতেন না।",
+              "voice": "Ishita",
+              "duration_s": 20.99,
+              "status": "ok",
+              "transcript": "একজন স্থপতি বহুতল ভবনের নকশা করার সময় বিভিন্ন কোণে ছেদক রেখা এবং সমান্তরাল রেখা আঁকেন এই রেখা এবং কোণগুলির বৈশিষ্ট্য সম্পর্কে জ্ঞান না থাকলে তিনি ভবনের নকশা আঁকতে পারতেন",
+              "cer_errors": 1,
+              "cer_len": 94,
+              "cer": 0.0106,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.99,
+                  "cer": 0.0106
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s02.u05",
+          "kind": "explanation",
+          "text_en": "Now, let us see why lines and angles are so important. In science we study light by drawing ray diagrams. When light passes from one medium to another we use the properties of intersecting lines and parallel lines to understand refraction. Similarly, when several forces act on a body we draw directed line segments to find the net effect. In such diagrams we must know how angles relate when the rays or line segments are parallel or intersect each other. To find the height of a tower or the distance of a ship from a lighthouse we use the angle between the horizontal and the line of sight. Many other situations use lines and angles. In the next chapters of geometry you will use these properties to deduce more useful results. Let us first revise the terms and definitions related to lines and angles that you learned in earlier classes.",
+          "text": "এখন, দেখা যাক রেখা এবং কোণ কেন এত গুরুত্বপূর্ণ। বিজ্ঞানে আমরা রশ্মি চিত্র এঁকে আলো নিয়ে পড়াশোনা করি। যখন আলো এক মাধ্যম থেকে অন্য মাধ্যমে যায়, তখন প্রতিসরণ বুঝতে ছেদক রেখা এবং সমান্তরাল রেখার বৈশিষ্ট্য ব্যবহার করি। একইভাবে, যখন কোনো বস্তুর উপর একাধিক বল কাজ করে, তখন নিট প্রভাব খুঁজে বের করতে নির্দেশিত রেখাংশ আঁকি। এই ধরনের চিত্রে রশ্মি বা রেখাংশগুলো সমান্তরাল হলে অথবা একে অপরকে ছেদ করলে কোণগুলোর মধ্যে সম্পর্ক কেমন হবে, তা আমাদের জানতে হবে। কোনো টাওয়ারের উচ্চতা বা লাইটহাউস থেকে জাহাজের দূরত্ব নির্ণয় করতে অনুভূমিক রেখা এবং দৃষ্টিরেখার মধ্যবর্তী কোণ ব্যবহার করি। আরও অনেক পরিস্থিতিতে রেখা এবং কোণ ব্যবহৃত হয়। জ্যামিতির পরবর্তী অধ্যায়গুলোতে তোমরা আরও দরকারি ফলাফল বের করার জন্য এই বৈশিষ্ট্যগুলো ব্যবহার করবে। প্রথমে রেখা এবং কোণ সম্পর্কিত সেই শব্দ এবং সংজ্ঞাগুলো ঝালিয়ে নেওয়া যাক, যা তোমরা আগের ক্লাসগুলোতে শিখেছিলে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "এখন, দেখা যাক রেখা এবং কোণ কেন এত গুরুত্বপূর্ণ। বিজ্ঞানে আমরা রশ্মি চিত্র এঁকে আলো নিয়ে পড়াশোনা করি। যখন আলো এক মাধ্যম থেকে অন্য মাধ্যমে যায়, তখন প্রতিসরণ বুঝতে ছেদক রেখা এবং সমান্তরাল রেখার বৈশিষ্ট্য ব্যবহার করি।",
+              "voice": "Ishita",
+              "duration_s": 20.48,
+              "status": "ok",
+              "transcript": "এখন দেখা যাক রেখা এবং কোণ কেন এত গুরুত্বপূর্ণ বিজ্ঞানে আমরা রশ্মিচিত্র এঁকে আলো নিয়ে পড়াশোনা করি যখন আলো এক মাধ্যম থেকে অন্য মাধ্যমে যায় তখন প্রতিসরণ বুঝতে ছেদক রেখা এবং সমান্তরাল রেখার বৈশিষ্ট্য ব্যবহার করি",
+              "cer_errors": 0,
+              "cer_len": 111,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.48,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "একইভাবে, যখন কোনো বস্তুর উপর একাধিক বল কাজ করে, তখন নিট প্রভাব খুঁজে বের করতে নির্দেশিত রেখাংশ আঁকি। এই ধরনের চিত্রে রশ্মি বা রেখাংশগুলো সমান্তরাল হলে অথবা একে অপরকে ছেদ করলে কোণগুলোর মধ্যে সম্পর্ক কেমন হবে, তা আমাদের জানতে হবে।",
+              "voice": "Ishita",
+              "duration_s": 23.04,
+              "status": "ok",
+              "transcript": "একইভাবে যখন কোনো বস্তুর উপর একাধিক বল কাজ করে তখন নিট প্রভাব খুঁজে বের করতে নির্দেশিত রেখাংশ আঁকি এই ধরনের চিত্রে রশ্মি বা রেখাংশগুলো সমান্তরাল হলে অথবা একে অপরকে ছেদ করলে কোনগুলোর মধ্যে সম্পর্ক কেমন হবে তা আমাদের জানতে হবে",
+              "cer_errors": 1,
+              "cer_len": 121,
+              "cer": 0.0083,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 23.04,
+                  "cer": 0.0083
+                }
+              ]
+            },
+            {
+              "text": "কোনো টাওয়ারের উচ্চতা বা লাইটহাউস থেকে জাহাজের দূরত্ব নির্ণয় করতে অনুভূমিক রেখা এবং দৃষ্টিরেখার মধ্যবর্তী কোণ ব্যবহার করি। আরও অনেক পরিস্থিতিতে রেখা এবং কোণ ব্যবহৃত হয়।",
+              "voice": "Ishita",
+              "duration_s": 14.76,
+              "status": "ok",
+              "transcript": "কোনও টাওয়ারের উচ্চতা বা লাইটহাউস থেকে জাহাজের দূরত্ব নির্ণয় করতে অনুভূমিক রেখা এবং দৃষ্টিরেখার মধ্যবর্তী কোণ ব্যবহার করি আরও অনেক পরিস্থিতিতে রেখা এবং কোণ ব্যবহৃত হয়",
+              "cer_errors": 1,
+              "cer_len": 90,
+              "cer": 0.0111,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.76,
+                  "cer": 0.0111
+                }
+              ]
+            },
+            {
+              "text": "জ্যামিতির পরবর্তী অধ্যায়গুলোতে তোমরা আরও দরকারি ফলাফল বের করার জন্য এই বৈশিষ্ট্যগুলো ব্যবহার করবে। প্রথমে রেখা এবং কোণ সম্পর্কিত সেই শব্দ এবং সংজ্ঞাগুলো ঝালিয়ে নেওয়া যাক, যা তোমরা আগের ক্লাসগুলোতে শিখেছিলে।",
+              "voice": "Ishita",
+              "duration_s": 16.9,
+              "status": "ok",
+              "transcript": "জ্যামিতির পরবর্তী অধ্যায়গুলোতে তোমরা আরও দরকারি ফলাফল বের করার জন্য এই বৈশিষ্ট্যগুলো ব্যবহার করবে প্রথমে রেখা এবং কোণ সম্পর্কিত সেই শব্দ এবং সংজ্ঞাগুলো ঝালিয়ে নেওয়া যাক যা তোমরা আগের ক্লাসগুলোতে শিখেছ",
+              "cer_errors": 1,
+              "cer_len": 109,
+              "cer": 0.0092,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.9,
+                  "cer": 0.0092
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0049
+    },
+    {
+      "section_id": "s03",
+      "title": "6.2 Basic Terms and Definitions",
+      "slug": "03-6-2-basic-terms-and-definitions",
+      "units": [
+        {
+          "id": "s03.u01",
+          "kind": "heading",
+          "text_en": "Six point two, Basic Terms and Definitions.",
+          "text": "ছয় দশমিক দুই, মৌলিক শর্তাবলী এবং সংজ্ঞা।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক দুই, মৌলিক শর্তাবলী এবং সংজ্ঞা।",
+              "voice": "Ishita",
+              "duration_s": 4.1,
+              "status": "ok",
+              "transcript": "ছয় দশমিক দুই মৌলিক শর্তাবলী এবং সংজ্ঞা",
+              "cer_errors": 0,
+              "cer_len": 21,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 4.1,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a part of a line with two end points is called a line segment. A part of a line with one end point is called a ray. We will write the line segment AB, the ray AB, the length AB and the line AB all with the same letters AB. The meaning will be clear from the context. Sometimes small letters l, m, n and so on will be used to denote lines.",
+          "text": "মনে করুন যে দুটি প্রান্তবিন্দু বিশিষ্ট একটি রেখার অংশকে রেখাংশ বলা হয়। একটি প্রান্তবিন্দু বিশিষ্ট রেখার অংশকে রশ্মি বলা হয়। আমরা রেখাংশ AB, রশ্মি AB, দৈর্ঘ্য AB এবং রেখা AB সব একই অক্ষর AB দিয়ে লিখব। প্রসঙ্গ থেকে অর্থ স্পষ্ট হবে। কখনও কখনও ছোট অক্ষর l, m, n ইত্যাদি ব্যবহার করা হবে রেখা বোঝাতে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "মনে করুন যে দুটি প্রান্তবিন্দু বিশিষ্ট একটি রেখার অংশকে রেখাংশ বলা হয়। একটি প্রান্তবিন্দু বিশিষ্ট রেখার অংশকে রশ্মি বলা হয়। আমরা রেখাংশ AB, রশ্মি AB, দৈর্ঘ্য AB এবং রেখা AB সব একই অক্ষর AB দিয়ে লিখব। প্রসঙ্গ থেকে অর্থ স্পষ্ট হবে।",
+              "voice": "Ishita",
+              "duration_s": 21.85,
+              "status": "ok",
+              "transcript": "মনে করুন যে দুটি প্রান্তবিন্দু বিশিষ্ট একটি রেখার অংশকে রেখাংশ বলা হয় একটি প্রান্তবিন্দু বিশিষ্ট রেখার অংশকে রশ্মি বলা হয় আমরা রেখাংশ এবি রশ্মি এবি দৈর্ঘ্য এবি এবং রেখা এবি সব একই অক্ষর এবি দিয়ে লিখব প্রসঙ্গ থেকে অর্থ স্পষ্ট হবে",
+              "cer_errors": 10,
+              "cer_len": 119,
+              "cer": 0.084,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.85,
+                  "cer": 0.084
+                }
+              ]
+            },
+            {
+              "text": "কখনও কখনও ছোট অক্ষর l, m, n ইত্যাদি ব্যবহার করা হবে রেখা বোঝাতে।",
+              "voice": "Ishita",
+              "duration_s": 6.14,
+              "status": "ok",
+              "transcript": "কখনও কখনও ছোটো অক্ষর এল এম ইত্যাদি ব্যবহার করা হবে রেখা বোঝাতে",
+              "cer_errors": 4,
+              "cer_len": 35,
+              "cer": 0.1143,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 6.14,
+                  "cer": 0.1143
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u03",
+          "kind": "explanation",
+          "text_en": "If three or more points lie on the same line, they are called collinear points; otherwise they are called non collinear points.",
+          "text": "যদি তিনটি বা তার বেশি বিন্দু একই সরলরেখায় থাকে তবে তাদের সমরেখ বিন্দু বলা হয়; অন্যথায় তাদেরকে অ-সমরেখ বিন্দু বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "যদি তিনটি বা তার বেশি বিন্দু একই সরলরেখায় থাকে তবে তাদের সমরেখ বিন্দু বলা হয়; অন্যথায় তাদেরকে অ-সমরেখ বিন্দু বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 11.26,
+              "status": "ok",
+              "transcript": "যদি তিনটি বা তার বেশি বিন্দু একই সরলরেখায় থাকে তবে তাদের সমরেখ বিন্দু বলা হয় অন্যথায় তাদেরকে অসমরেখ বিন্দু বলা হয়",
+              "cer_errors": 0,
+              "cer_len": 61,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 11.26,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u04",
+          "kind": "explanation",
+          "text_en": "Recall that an angle is formed when two rays originate from the same end point. The rays are called the arms of the angle and the end point is called the vertex. You have studied different types of angles such as acute angle, right angle, obtuse angle, straight angle and reflex angle in earlier classes. Look at Figure six point one.",
+          "text": "মনে করুন, যখন দুটি রশ্মি একই প্রান্তবিন্দু থেকে উৎপন্ন হয়, তখন একটি কোণ গঠিত হয়। এই রশ্মিগুলোকে কোণের বাহু বলা হয় এবং প্রান্তবিন্দুটিকে শীর্ষবিন্দু বলা হয়। তোমরা আগের ক্লাসগুলোতে বিভিন্ন ধরনের কোণ যেমন - সূক্ষ্মকোণ, সমকোণ, স্থূলকোণ, সরলকোণ এবং প্রতিফলিত কোণ সম্পর্কে জেনেছ। চিত্র ছয় পয়েন্ট এক দেখো।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "মনে করুন, যখন দুটি রশ্মি একই প্রান্তবিন্দু থেকে উৎপন্ন হয়, তখন একটি কোণ গঠিত হয়। এই রশ্মিগুলোকে কোণের বাহু বলা হয় এবং প্রান্তবিন্দুটিকে শীর্ষবিন্দু বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 14.85,
+              "status": "ok",
+              "transcript": "মনে করুন যখন দুটি রশ্মি একই প্রান্তবিন্দু থেকে উৎপন্ন হয় তখন একটি কোণ গঠিত হয় এই রশ্মিগুলোকে কোণের বাহু বলা হয় এবং প্রান্তবিন্দুটিকে শীর্ষবিন্দু বলা হয়",
+              "cer_errors": 0,
+              "cer_len": 83,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.85,
+                  "cer": 0.0
+                }
+              ]
+            },
+            {
+              "text": "তোমরা আগের ক্লাসগুলোতে বিভিন্ন ধরনের কোণ যেমন - সূক্ষ্মকোণ, সমকোণ, স্থূলকোণ, সরলকোণ এবং প্রতিফলিত কোণ সম্পর্কে জেনেছ। চিত্র ছয় পয়েন্ট এক দেখো।",
+              "voice": "Ishita",
+              "duration_s": 13.48,
+              "status": "ok",
+              "transcript": "তোমরা আগের ক্লাসগুলোতে বিভিন্ন ধরনের কোণ যেমন সূক্ষ্ম কোণ সমকোণ স্থূলকোণ সরলকোণ এবং প্রতিফলিত কোণ সম্পর্কে জেনেছ চিত্র ছয় পয়েন্ট এক দেখো",
+              "cer_errors": 0,
+              "cer_len": 76,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 13.48,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u05",
+          "kind": "explanation",
+          "text_en": "Figure six point one shows five separate angle diagrams arranged in two rows. In the top row, diagram one shows two rays meeting at a vertex forming a small angle marked with an arc and the letter x, labeled acute angle. Diagram two shows two rays meeting at a right angle, marked with a small square and the letter y, labeled right angle. Diagram three shows two rays forming a wide angle marked with an arc and the letter z, labeled obtuse angle. In the bottom row, diagram four shows a single straight line with arrows on both ends and a dot at the centre, with a curved arc above it labeled s, called straight angle. Diagram five shows two rays from a vertex with a large curved arrow looping around the outside, labeled t, called reflex angle.",
+          "text": "চিত্র ছয় দশমিক এক-এ দুটি সারিতে পাঁচটি পৃথক কোণের চিত্র দেখানো হয়েছে। উপরের সারিতে, প্রথম চিত্রে একটি শীর্ষবিন্দুতে মিলিত দুটি রশ্মি একটি ছোট কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর x দিয়ে চিহ্নিত করা হয়েছে, যাকে সূক্ষ্ম কোণ বলা হয়েছে। দ্বিতীয় চিত্রে দুটি রশ্মি একটি সমকোণে মিলিত হচ্ছে, যা একটি ছোট বর্গক্ষেত্র এবং অক্ষর y দিয়ে চিহ্নিত করা হয়েছে, যাকে সমকোণ বলা হয়েছে। তৃতীয় চিত্রে দুটি রশ্মি একটি প্রশস্ত কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর z দিয়ে চিহ্নিত করা হয়েছে, যাকে স্থূল কোণ বলা হয়েছে। নিচের সারিতে, চতুর্থ চিত্রে উভয় প্রান্তে তীরচিহ্নযুক্ত একটি সরলরেখা এবং কেন্দ্রে একটি বিন্দু রয়েছে, যার উপরে একটি বাঁকা বৃত্তচাপ রয়েছে যা s দ্বারা চিহ্নিত, যাকে সরল কোণ বলা হয়। পঞ্চম চিত্রে একটি শীর্ষবিন্দু থেকে দুটি রশ্মি রয়েছে যার বাইরের দিকে একটি বড় বাঁকা তীর লুপ করে আছে, যা t দ্বারা চিহ্নিত, যাকে প্রতিফলিত কোণ বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "চিত্র ছয় দশমিক এক-এ দুটি সারিতে পাঁচটি পৃথক কোণের চিত্র দেখানো হয়েছে। উপরের সারিতে, প্রথম চিত্রে একটি শীর্ষবিন্দুতে মিলিত দুটি রশ্মি একটি ছোট কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর x দিয়ে চিহ্নিত করা হয়েছে, যাকে সূক্ষ্ম কোণ বলা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 22.78,
+              "status": "ok",
+              "transcript": "চিত্র ছয় দশমিক একে দুটি সারিতে পাঁচটি পৃথক কোণের চিত্র দেখানো হয়েছে উপরের সারিতে প্রথম চিত্রে একটি শীর্ষ বিন্দুতে মিলিত দুটি রশ্মি একটি ছোট কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর এক্স দিয়ে চিহ্নিত করা হয়েছে যাকে সূক্ষ্ম কোণ বলা হয়েছে",
+              "cer_errors": 4,
+              "cer_len": 119,
+              "cer": 0.0336,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 22.78,
+                  "cer": 0.0336
+                }
+              ]
+            },
+            {
+              "text": "দ্বিতীয় চিত্রে দুটি রশ্মি একটি সমকোণে মিলিত হচ্ছে, যা একটি ছোট বর্গক্ষেত্র এবং অক্ষর y দিয়ে চিহ্নিত করা হয়েছে, যাকে সমকোণ বলা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 11.95,
+              "status": "ok",
+              "transcript": "দ্বিতীয় চিত্রে দুটি রশ্মি একটি সমকোণে মিলিত হচ্ছে যা একটি ছোট বর্গক্ষেত্র এবং অক্ষর ওয়াই দিয়ে চিহ্নিত করা হয়েছে যাকে সমকোণ বলা হয়েছে",
+              "cer_errors": 3,
+              "cer_len": 67,
+              "cer": 0.0448,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 11.95,
+                  "cer": 0.0448
+                }
+              ]
+            },
+            {
+              "text": "তৃতীয় চিত্রে দুটি রশ্মি একটি প্রশস্ত কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর z দিয়ে চিহ্নিত করা হয়েছে, যাকে স্থূল কোণ বলা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 11.52,
+              "status": "ok",
+              "transcript": "তৃতীয় চিত্রে দুটি রশ্মি একটি প্রশস্ত কোণ তৈরি করছে যা একটি বৃত্তচাপ এবং অক্ষর জিত দিয়ে চিহ্নিত করা হয়েছে যাকে স্থূল কোণ বলা হয়েছে",
+              "cer_errors": 2,
+              "cer_len": 65,
+              "cer": 0.0308,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 11.52,
+                  "cer": 0.0308
+                }
+              ]
+            },
+            {
+              "text": "নিচের সারিতে, চতুর্থ চিত্রে উভয় প্রান্তে তীরচিহ্নযুক্ত একটি সরলরেখা এবং কেন্দ্রে একটি বিন্দু রয়েছে, যার উপরে একটি বাঁকা বৃত্তচাপ রয়েছে যা s দ্বারা চিহ্নিত, যাকে সরল কোণ বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 18.6,
+              "status": "ok",
+              "transcript": "নীচের সারিতে চতুর্থ চিত্রে উভয় প্রান্তে তীর চিহ্নযুক্ত একটি সরলরেখা এবং কেন্দ্রে একটি বিন্দু রয়েছে যার উপরে একটি বাঁকা বৃত্তচাপ রয়েছে যা এস দ্বারা চিহ্নিত যাকে সরল কোণ বলা হয়",
+              "cer_errors": 2,
+              "cer_len": 89,
+              "cer": 0.0225,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 18.6,
+                  "cer": 0.0225
+                }
+              ]
+            },
+            {
+              "text": "পঞ্চম চিত্রে একটি শীর্ষবিন্দু থেকে দুটি রশ্মি রয়েছে যার বাইরের দিকে একটি বড় বাঁকা তীর লুপ করে আছে, যা t দ্বারা চিহ্নিত, যাকে প্রতিফলিত কোণ বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 12.8,
+              "status": "ok",
+              "transcript": "পঞ্চম চিত্রে একটি শীর্ষবিন্দু থেকে দুটি রশ্মি রয়েছে যার বাইরের দিকে একটি বড় বাঁকাতির লুপ করে আছে যা টি দ্বারা চিহ্নিত যাকে প্রতিফলিত কোণ বলা হয়",
+              "cer_errors": 1,
+              "cer_len": 72,
+              "cer": 0.0139,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.8,
+                  "cer": 0.0139
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u06",
+          "kind": "explanation",
+          "text_en": "An acute angle measures between zero degrees and ninety degrees. A right angle is exactly ninety degrees. An angle greater than ninety degrees but less than one hundred and eighty degrees is called an obtuse angle. A straight angle is equal to one hundred and eighty degrees. An angle greater than one hundred and eighty degrees but less than three hundred and sixty degrees is called a reflex angle. Two angles whose sum is ninety degrees are called complementary angles, and two angles whose sum is one hundred and eighty degrees are called supplementary angles.",
+          "text": "সূক্ষ্মকোণের পরিমাপ শূন্য থেকে নব্বই ডিগ্রির মধ্যে। সমকোণ ঠিক নব্বই ডিগ্রি। নব্বই ডিগ্রির চেয়ে বড় কিন্তু একশত আশি ডিগ্রির কম কোণকে স্থূলকোণ বলে। সরলকোণ একশত আশি ডিগ্রির সমান। একশত আশি ডিগ্রির চেয়ে বড় কিন্তু তিনশত ষাট ডিগ্রির কম কোণকে প্রতিফলিত কোণ বলে। যে দুই কোণের যোগফল নব্বই ডিগ্রি তাদের একে অপরের পূরক কোণ বলে এবং যে দুই কোণের যোগফল একশত আশি ডিগ্রি তাদের একে অপরের সম্পূরক কোণ বলে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সূক্ষ্মকোণের পরিমাপ শূন্য থেকে নব্বই ডিগ্রির মধ্যে। সমকোণ ঠিক নব্বই ডিগ্রি। নব্বই ডিগ্রির চেয়ে বড় কিন্তু একশত আশি ডিগ্রির কম কোণকে স্থূলকোণ বলে। সরলকোণ একশত আশি ডিগ্রির সমান।",
+              "voice": "Ishita",
+              "duration_s": 15.96,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 15.96,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "একশত আশি ডিগ্রির চেয়ে বড় কিন্তু তিনশত ষাট ডিগ্রির কম কোণকে প্রতিফলিত কোণ বলে। যে দুই কোণের যোগফল নব্বই ডিগ্রি তাদের একে অপরের পূরক কোণ বলে এবং যে দুই কোণের যোগফল একশত আশি ডিগ্রি তাদের একে অপরের সম্পূরক কোণ বলে।",
+              "voice": "Ishita",
+              "duration_s": 19.71,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.71,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u07",
+          "kind": "explanation",
+          "text_en": "You have also studied about adjacent angles in the earlier classes. Look at Figure six point two. Two angles are adjacent if they have a common vertex, a common arm and their non common arms are on different sides of the common arm. In Figure six point two, angle A B D and angle D B C are adjacent angles. Ray B D is their common arm and point B is their common vertex. Ray B A and ray B C are non common arms. Moreover, when two angles are adjacent, then their sum is always equal to the angle formed by the two non common arms.",
+          "text": "তোমরা আগের ক্লাসগুলোতে সন্নিহিত কোণ সম্পর্কেও পড়েছ। চিত্র ছয় দুই নম্বরটি দেখো। দুটি কোণকে সন্নিহিত বলা হয় যদি তাদের একটি সাধারণ শীর্ষবিন্দু এবং একটি সাধারণ বাহু থাকে এবং তাদের ভিন্ন বাহুগুলো সাধারণ বাহুর ভিন্ন দিকে অবস্থিত হয়। চিত্র ছয় দুই নম্বরে, কোণ A B D এবং কোণ D B C হল সন্নিহিত কোণ। রশ্মি B D হল তাদের সাধারণ বাহু এবং বিন্দু B হল তাদের সাধারণ শীর্ষবিন্দু। রশ্মি B A এবং রশ্মি B C হল ভিন্ন বাহু। তাছাড়া, যখন দুটি কোণ সন্নিহিত হয়, তখন তাদের যোগফল সবসময় ভিন্ন বাহুদ্বয়ের দ্বারা গঠিত কোণের সমান হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "তোমরা আগের ক্লাসগুলোতে সন্নিহিত কোণ সম্পর্কেও পড়েছ। চিত্র ছয় দুই নম্বরটি দেখো। দুটি কোণকে সন্নিহিত বলা হয় যদি তাদের একটি সাধারণ শীর্ষবিন্দু এবং একটি সাধারণ বাহু থাকে এবং তাদের ভিন্ন বাহুগুলো সাধারণ বাহুর ভিন্ন দিকে অবস্থিত হয়।",
+              "voice": "Ishita",
+              "duration_s": 22.44,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 22.44,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "চিত্র ছয় দুই নম্বরে, কোণ A B D এবং কোণ D B C হল সন্নিহিত কোণ। রশ্মি B D হল তাদের সাধারণ বাহু এবং বিন্দু B হল তাদের সাধারণ শীর্ষবিন্দু। রশ্মি B A এবং রশ্মি B C হল ভিন্ন বাহু।",
+              "voice": "Ishita",
+              "duration_s": 18.86,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 18.86,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "তাছাড়া, যখন দুটি কোণ সন্নিহিত হয়, তখন তাদের যোগফল সবসময় ভিন্ন বাহুদ্বয়ের দ্বারা গঠিত কোণের সমান হয়।",
+              "voice": "Ishita",
+              "duration_s": 9.73,
+              "status": "ok",
+              "transcript": "তাছাড়া যখন দুটি কোণ সন্নিহিত হয় তখন তাদের যোগফল সবসময় ভিন্ন বাহুদ্বয়ের দ্বারা গঠিত কোণের সমান হয়",
+              "cer_errors": 0,
+              "cer_len": 55,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 9.73,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u08",
+          "kind": "explanation",
+          "text_en": "Figure six point two shows three rays starting from the common vertex B. Ray B A points up and to the left, ray B D points up and to the right, and ray B C points horizontally to the right.",
+          "text": "চিত্র ৬.২-এ সাধারণ শীর্ষবিন্দু বি থেকে শুরু হওয়া তিনটি রশ্মি দেখানো হয়েছে। রশ্মি বি এ উপরের দিকে এবং বাম দিকে নির্দেশ করে, রশ্মি বি ডি উপরের দিকে এবং ডান দিকে নির্দেশ করে এবং রশ্মি বি সি অনুভূমিকভাবে ডান দিকে নির্দেশ করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "চিত্র ৬.২-এ সাধারণ শীর্ষবিন্দু বি থেকে শুরু হওয়া তিনটি রশ্মি দেখানো হয়েছে। রশ্মি বি এ উপরের দিকে এবং বাম দিকে নির্দেশ করে, রশ্মি বি ডি উপরের দিকে এবং ডান দিকে নির্দেশ করে এবং রশ্মি বি সি অনুভূমিকভাবে ডান দিকে নির্দেশ করে।",
+              "voice": "Ishita",
+              "duration_s": 29.7,
+              "status": "ok",
+              "transcript": "চিত্র ছয় দশমিক দুইয়ে সাধারণ শীর্ষবিন্দু বি থেকে শুরু হওয়া তিনটি রশ্মি দেখানো হয়েছে রশ্মি বি এ উপরের দিকে এবং বাম দিকে নির্দেশ করে রশ্মি বি এ উপরের দিকে এবং ডান দিকে নির্দেশ করে এবং রশ্মি বি এ এ উপরের দিকে এবং ডান বিকে নির্দেশ করে এবং রশ্মি বি এ অনুভূমিকভাবে ডান দিকে নির্দেশ করে",
+              "cer_errors": 37,
+              "cer_len": 106,
+              "cer": 0.3491,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 29.7,
+                  "cer": 0.3491
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u09",
+          "kind": "explanation",
+          "text_en": "Angle A B C equals angle A B D plus angle D B C.",
+          "text": "কোণ A B C কোণ A B D যোগ কোণ D B C এর সমান।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ A B C কোণ A B D যোগ কোণ D B C এর সমান।",
+              "voice": "Ishita",
+              "duration_s": 4.52,
+              "status": "high_cer",
+              "transcript": "কোন এবিসি কোন এবিডি যোগ কোন ডিবিসি এর সমান",
+              "cer_errors": 12,
+              "cer_len": 22,
+              "cer": 0.5455,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 4.52,
+                  "cer": 0.5455
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 4.61,
+                  "cer": 0.5455
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u10",
+          "kind": "explanation",
+          "text_en": "Note that angle A B C and angle A B D are not adjacent angles. Why? Because their non common arms B D and B C lie on the same side of the common arm B A.",
+          "text": "লক্ষ্য করুন যে কোণ A B C এবং কোণ A B D সন্নিহিত কোণ নয়। কেন? কারণ তাদের সাধারণ বাহু B A-এর একই দিকে অবস্থিত অ-সাধারণ বাহু B D এবং B C রয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "লক্ষ্য করুন যে কোণ A B C এবং কোণ A B D সন্নিহিত কোণ নয়। কেন? কারণ তাদের সাধারণ বাহু B A-এর একই দিকে অবস্থিত অ-সাধারণ বাহু B D এবং B C রয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 17.49,
+              "status": "ok",
+              "transcript": "লক্ষ্য করুন যে কোন এবিসি এবং কোন এবিডি সন্নিহিত কোন নয় কেন কারণ তাদের সাধারণ বাহু বিএ এর একই দিকে অবস্থিত অসাধারণ বাহু বিডি এবং বিসি রয়েছে",
+              "cer_errors": 15,
+              "cer_len": 73,
+              "cer": 0.2055,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 17.49,
+                  "cer": 0.2055
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u11",
+          "kind": "explanation",
+          "text_en": "If the non common arms B A and B C in Figure six point two form a line then it will look like Figure six point three. In this case, angle A B D and angle D B C are called linear pair of angles.",
+          "text": "যদি চিত্র ৬.২-এর সাধারণ বাহু নয় এমন বাহু B A এবং B C একটি সরলরেখা তৈরি করে, তবে এটি চিত্র ৬.৩-এর মতো দেখাবে। এই ক্ষেত্রে, কোণ A B D এবং কোণ D B C কে সরলকোণী জোড় বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "যদি চিত্র ৬.২-এর সাধারণ বাহু নয় এমন বাহু B A এবং B C একটি সরলরেখা তৈরি করে, তবে এটি চিত্র ৬.৩-এর মতো দেখাবে। এই ক্ষেত্রে, কোণ A B D এবং কোণ D B C কে সরলকোণী জোড় বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 18.69,
+              "status": "ok",
+              "transcript": "যদি চিত্র ছয় দশমিক দুই এর সাধারণ বাহু নয় এমন বাহু বি এ এবং বি সি একটি সরলরেখা তৈরি করে তবে এটি চিত্র ছয় দশমিক তিনের মতো দেখাবে এই ক্ষেত্রে কোন এবিডি এবং কোন ডিবিসিকে সরলকোণী জোর বলা হয়",
+              "cer_errors": 29,
+              "cer_len": 86,
+              "cer": 0.3372,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 18.69,
+                  "cer": 0.3372
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u12",
+          "kind": "explanation",
+          "text_en": "Figure six point three shows a straight horizontal line labelled A on the left, B in the middle, and C on the right. Ray B D extends upward and to the right. The two small arcs at B mark the two angles that form a linear pair.",
+          "text": "ছয় দশমিক তিন নম্বর চিত্রে একটি সরল অনুভূমিক রেখা দেখানো হয়েছে, যার বাম দিকে A, মাঝখানে B এবং ডান দিকে C চিহ্নিত করা আছে। রশ্মি BD উপরের দিকে এবং ডানদিকে প্রসারিত। B বিন্দুতে দুটি ছোট বৃত্তচাপ দুটি কোণকে চিহ্নিত করে যা একটি সরলকোণী জোড় গঠন করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক তিন নম্বর চিত্রে একটি সরল অনুভূমিক রেখা দেখানো হয়েছে, যার বাম দিকে A, মাঝখানে B এবং ডান দিকে C চিহ্নিত করা আছে। রশ্মি BD উপরের দিকে এবং ডানদিকে প্রসারিত। B বিন্দুতে দুটি ছোট বৃত্তচাপ দুটি কোণকে চিহ্নিত করে যা একটি সরলকোণী জোড় গঠন করে।",
+              "voice": "Ishita",
+              "duration_s": 24.06,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 24.06,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u13",
+          "kind": "explanation",
+          "text_en": "You may also recall the vertically opposite angles formed when two lines, say A B and C D, intersect each other at the point O. See Figure six point four. There are two pairs of vertically opposite angles.",
+          "text": "আপনাদের হয়তো মনে আছে যে যখন দুটি সরলরেখা, ধরা যাক A B এবং C D, একটি বিন্দু O-তে একে অপরকে ছেদ করে, তখন উল্লম্বভাবে বিপরীত কোণ তৈরি হয়। চিত্র ছয় পয়েন্ট চার দেখুন। এখানে দুই জোড়া উল্লম্বভাবে বিপরীত কোণ রয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "আপনাদের হয়তো মনে আছে যে যখন দুটি সরলরেখা, ধরা যাক A B এবং C D, একটি বিন্দু O-তে একে অপরকে ছেদ করে, তখন উল্লম্বভাবে বিপরীত কোণ তৈরি হয়। চিত্র ছয় পয়েন্ট চার দেখুন। এখানে দুই জোড়া উল্লম্বভাবে বিপরীত কোণ রয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 22.61,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 22.61,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u14",
+          "kind": "explanation",
+          "text_en": "Figure six point four shows two straight lines crossing at point O. One line is labelled A at the upper left and B at the lower right. The other line is labelled C at the lower left and D at the upper right. Four curved arcs around O show the four angles, with two opposite arcs marked as equal.",
+          "text": "ছয় চার নম্বর চিত্রে দুটি সরলরেখা O বিন্দুতে ছেদ করেছে। একটি রেখার উপরের বাম দিকে A এবং নিচের ডান দিকে B চিহ্নিত করা হয়েছে। অন্য রেখাটির নিচের বাম দিকে C এবং উপরের ডান দিকে D চিহ্নিত করা হয়েছে। O বিন্দুর চারপাশে চারটি বাঁকা চাপ চারটি কোণ দেখায়, যার মধ্যে দুটি বিপরীত চাপকে সমান হিসেবে চিহ্নিত করা হয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় চার নম্বর চিত্রে দুটি সরলরেখা O বিন্দুতে ছেদ করেছে। একটি রেখার উপরের বাম দিকে A এবং নিচের ডান দিকে B চিহ্নিত করা হয়েছে। অন্য রেখাটির নিচের বাম দিকে C এবং উপরের ডান দিকে D চিহ্নিত করা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 27.65,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 27.65,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "O বিন্দুর চারপাশে চারটি বাঁকা চাপ চারটি কোণ দেখায়, যার মধ্যে দুটি বিপরীত চাপকে সমান হিসেবে চিহ্নিত করা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 9.9,
+              "status": "ok",
+              "transcript": "ও বিন্দুর চারপাশে চারটি বাঁকা চাপ চারটি কোণ দেখায় যার মধ্যে দুটি বিপরীত চাপকে সমান হিসেবে চিহ্নিত করা হয়েছে",
+              "cer_errors": 1,
+              "cer_len": 53,
+              "cer": 0.0189,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 9.9,
+                  "cer": 0.0189
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s03.u15",
+          "kind": "explanation",
+          "text_en": "One pair is angle A O D and angle B O C. Can you find the other pair?",
+          "text": "একটি জোড়া হল কোণ AOD এবং কোণ BOC। আপনি কি অন্য জোড়াটি খুঁজে বের করতে পারবেন?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "একটি জোড়া হল কোণ AOD এবং কোণ BOC। আপনি কি অন্য জোড়াটি খুঁজে বের করতে পারবেন?",
+              "voice": "Ishita",
+              "duration_s": 7.85,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 7.85,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0998
+    },
+    {
+      "section_id": "s04",
+      "title": "6.3 Intersecting Lines and Non-intersecting Lines",
+      "slug": "04-6-3-intersecting-lines-and-non-intersect",
+      "units": [
+        {
+          "id": "s04.u01",
+          "kind": "heading",
+          "text_en": "Section six point three intersecting lines and non intersecting lines.",
+          "text": "ধারা ছয় দশমিক তিন ছেদক রেখা এবং অছেদক রেখা।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ধারা ছয় দশমিক তিন ছেদক রেখা এবং অছেদক রেখা।",
+              "voice": "Ishita",
+              "duration_s": 4.86,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 4.86,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u02",
+          "kind": "explanation",
+          "text_en": "Draw two different lines P Q and R S on a paper. You will see that you can draw them in two different ways as shown in figure six point five i and figure six point five ii.",
+          "text": "একটি কাগজের উপর দুটি ভিন্ন রেখা P Q এবং R S আঁকুন। আপনি দেখতে পাবেন যে আপনি চিত্র ছয় পয়েন্ট পাঁচ i এবং চিত্র ছয় পয়েন্ট পাঁচ ii-তে দেখানো দুটি ভিন্ন উপায়ে সেগুলি আঁকতে পারেন।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "একটি কাগজের উপর দুটি ভিন্ন রেখা P Q এবং R S আঁকুন। আপনি দেখতে পাবেন যে আপনি চিত্র ছয় পয়েন্ট পাঁচ i এবং চিত্র ছয় পয়েন্ট পাঁচ ii-তে দেখানো দুটি ভিন্ন উপায়ে সেগুলি আঁকতে পারেন।",
+              "voice": "Ishita",
+              "duration_s": 30.55,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 30.55,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u03",
+          "kind": "explanation",
+          "text_en": "Look at figure six point five. The figure has two parts. Part one, labeled i intersecting lines, shows two straight lines crossing at a single point in the middle. One line runs from point P in the upper left to point Q in the lower right, and the other runs from point R in the lower left to point S in the upper right, with arrows at both ends of each line. Part two, labeled ii non intersecting parallel lines, shows two horizontal straight lines that do not meet. The top line has point P on the left and point Q on the right, and the bottom line has point R on the left and point S on the right, each with arrows at both ends.",
+          "text": "ছয় দশমিক পাঁচ নম্বর চিত্রটি দেখুন। চিত্রটির দুটি অংশ আছে। প্রথম অংশে, \"i ছেদক রেখা\" চিহ্নিত করা হয়েছে, যেখানে দুটি সরলরেখা মাঝখানে একটি বিন্দুতে মিলিত হয়েছে। একটি রেখা উপরের বাম দিকের P বিন্দু থেকে নিচের ডান দিকের Q বিন্দু পর্যন্ত বিস্তৃত, এবং অন্যটি নিচের বাম দিকের R বিন্দু থেকে উপরের ডান দিকের S বিন্দু পর্যন্ত বিস্তৃত, প্রতিটি রেখার দুই প্রান্তে তীর চিহ্ন দেওয়া আছে। দ্বিতীয় অংশে, \"ii অছেদক সমান্তরাল রেখা\" চিহ্নিত করা হয়েছে, যেখানে দুটি অনুভূমিক সরলরেখা দেখানো হয়েছে যা মিলিত হয় না। উপরের রেখাটির বাম দিকে P বিন্দু এবং ডান দিকে Q বিন্দু রয়েছে, এবং নিচের রেখাটির বাম দিকে R বিন্দু এবং ডান দিকে S বিন্দু রয়েছে, প্রতিটির দুই প্রান্তে তীর চিহ্ন দেওয়া আছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক পাঁচ নম্বর চিত্রটি দেখুন। চিত্রটির দুটি অংশ আছে। প্রথম অংশে, \"i ছেদক রেখা\" চিহ্নিত করা হয়েছে, যেখানে দুটি সরলরেখা মাঝখানে একটি বিন্দুতে মিলিত হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 16.9,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.9,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "একটি রেখা উপরের বাম দিকের P বিন্দু থেকে নিচের ডান দিকের Q বিন্দু পর্যন্ত বিস্তৃত, এবং অন্যটি নিচের বাম দিকের R বিন্দু থেকে উপরের ডান দিকের S বিন্দু পর্যন্ত বিস্তৃত, প্রতিটি রেখার দুই প্রান্তে তীর চিহ্ন দেওয়া আছে।",
+              "voice": "Ishita",
+              "duration_s": 16.47,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.47,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "দ্বিতীয় অংশে, \"ii অছেদক সমান্তরাল রেখা\" চিহ্নিত করা হয়েছে, যেখানে দুটি অনুভূমিক সরলরেখা দেখানো হয়েছে যা মিলিত হয় না।",
+              "voice": "Ishita",
+              "duration_s": 10.92,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 10.92,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "উপরের রেখাটির বাম দিকে P বিন্দু এবং ডান দিকে Q বিন্দু রয়েছে, এবং নিচের রেখাটির বাম দিকে R বিন্দু এবং ডান দিকে S বিন্দু রয়েছে, প্রতিটির দুই প্রান্তে তীর চিহ্ন দেওয়া আছে।",
+              "voice": "Ishita",
+              "duration_s": 16.38,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.38,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s04.u04",
+          "kind": "explanation",
+          "text_en": "Recall the notion of a line, that it extends indefinitely in both directions. Lines P Q and R S in figure six point five i are intersecting lines and in figure six point five ii are parallel lines. Note that the lengths of the common perpendiculars at different points on these parallel lines is the same. This equal length is called distance between two parallel lines.",
+          "text": "একটি সরলরেখার ধারণা স্মরণ করুন, যা উভয় দিকে অসীমভাবে বিস্তৃত। চিত্র ছয় পয়েন্ট পাঁচ আই-এ রেখা P Q এবং R S ছেদক রেখা এবং চিত্র ছয় পয়েন্ট পাঁচ আইআই-এ সমান্তরাল রেখা। লক্ষ্য করুন যে এই সমান্তরাল রেখাগুলির বিভিন্ন বিন্দুতে সাধারণ লম্বের দৈর্ঘ্য একই। এই সমান দৈর্ঘ্যকে দুটি সমান্তরাল রেখার মধ্যবর্তী দূরত্ব বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "একটি সরলরেখার ধারণা স্মরণ করুন, যা উভয় দিকে অসীমভাবে বিস্তৃত। চিত্র ছয় পয়েন্ট পাঁচ আই-এ রেখা P Q এবং R S ছেদক রেখা এবং চিত্র ছয় পয়েন্ট পাঁচ আইআই-এ সমান্তরাল রেখা। লক্ষ্য করুন যে এই সমান্তরাল রেখাগুলির বিভিন্ন বিন্দুতে সাধারণ লম্বের দৈর্ঘ্য একই।",
+              "voice": "Ishita",
+              "duration_s": 24.75,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 24.75,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "এই সমান দৈর্ঘ্যকে দুটি সমান্তরাল রেখার মধ্যবর্তী দূরত্ব বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 6.14,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 6.14,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": null
+    },
+    {
+      "section_id": "s05",
+      "title": "6.4 Pairs of Angles",
+      "slug": "05-6-4-pairs-of-angles",
+      "units": [
+        {
+          "id": "s05.u01",
+          "kind": "heading",
+          "text_en": "Six point four Pairs of Angles.",
+          "text": "ছয় দশমিক চার জোড়া কোণ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক চার জোড়া কোণ।",
+              "voice": "Ishita",
+              "duration_s": 2.47,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 2.47,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u02",
+          "kind": "explanation",
+          "text_en": "In Section six point two you learned the definitions of complementary angles, supplementary angles, adjacent angles, linear pair of angles and so on. Can you think of some relations between these angles? Now, let us find out the relation between the angles formed when a ray stands on a line. Look at Figure six point six. Name the line as A B and the ray as O C. The angles formed at the point O are angle A O C, angle B O C and angle A O B.",
+          "text": "ষষ্ঠ অধ্যায়ের ২ নং পয়েন্টে তোমরা পরিপূরক কোণ, সম্পূরক কোণ, সন্নিহিত কোণ, সরলকোণী জোড়া ইত্যাদি কোণের সংজ্ঞা শিখেছ। এই কোণগুলোর মধ্যে কিছু সম্পর্ক কি তুমি ভাবতে পারো? এখন, একটি রশ্মি যখন একটি সরলরেখার উপর দাঁড়ায় তখন যে কোণগুলো তৈরি হয়, তাদের মধ্যে সম্পর্ক খুঁজে বের করি। চিত্র ৬ নং ৬ নম্বরটি দেখো। রেখাটির নাম দাও AB এবং রশ্মিটির নাম দাও OC। O বিন্দুতে যে কোণগুলো তৈরি হয়েছে সেগুলো হলো কোণ AOC, কোণ BOC এবং কোণ AOB।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ষষ্ঠ অধ্যায়ের ২ নং পয়েন্টে তোমরা পরিপূরক কোণ, সম্পূরক কোণ, সন্নিহিত কোণ, সরলকোণী জোড়া ইত্যাদি কোণের সংজ্ঞা শিখেছ। এই কোণগুলোর মধ্যে কিছু সম্পর্ক কি তুমি ভাবতে পারো?",
+              "voice": "Ishita",
+              "duration_s": 15.62,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 15.62,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "এখন, একটি রশ্মি যখন একটি সরলরেখার উপর দাঁড়ায় তখন যে কোণগুলো তৈরি হয়, তাদের মধ্যে সম্পর্ক খুঁজে বের করি। চিত্র ৬ নং ৬ নম্বরটি দেখো। রেখাটির নাম দাও AB এবং রশ্মিটির নাম দাও OC। O বিন্দুতে যে কোণগুলো তৈরি হয়েছে সেগুলো হলো কোণ AOC, কোণ BOC এবং কোণ AOB।",
+              "voice": "Ishita",
+              "duration_s": 25.94,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 25.94,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point six shows a horizontal line with arrows on both ends labeled A on the left and B on the right, with the point O marked in the middle. A ray labeled C starts at point O and extends upward and to the right, ending in an arrow. Three small arcs are drawn at point O, one between ray O A and ray O C, one between ray O C and ray O B, and a larger one spanning from ray O A to ray O B.",
+          "text": "ছয় দশমিক ছয় নম্বর চিত্রে একটি অনুভূমিক রেখা দেখানো হয়েছে যার উভয় প্রান্তে তীর চিহ্ন রয়েছে। বাম দিকে A এবং ডান দিকে B চিহ্নিত করা হয়েছে এবং মাঝখানে O বিন্দুটি চিহ্নিত করা হয়েছে। C নামক একটি রশ্মি O বিন্দু থেকে শুরু হয়ে উপরের দিকে এবং ডানদিকে প্রসারিত হয়েছে, যা একটি তীরের মধ্যে শেষ হয়েছে। O বিন্দুতে তিনটি ছোট বৃত্তচাপ আঁকা হয়েছে, একটি O A রশ্মি এবং O C রশ্মির মধ্যে, অন্যটি O C রশ্মি এবং O B রশ্মির মধ্যে এবং একটি বড় বৃত্তচাপ O A রশ্মি থেকে O B রশ্মি পর্যন্ত বিস্তৃত।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় দশমিক ছয় নম্বর চিত্রে একটি অনুভূমিক রেখা দেখানো হয়েছে যার উভয় প্রান্তে তীর চিহ্ন রয়েছে। বাম দিকে A এবং ডান দিকে B চিহ্নিত করা হয়েছে এবং মাঝখানে O বিন্দুটি চিহ্নিত করা হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 16.98,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.98,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "C নামক একটি রশ্মি O বিন্দু থেকে শুরু হয়ে উপরের দিকে এবং ডানদিকে প্রসারিত হয়েছে, যা একটি তীরের মধ্যে শেষ হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 10.5,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 10.5,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "O বিন্দুতে তিনটি ছোট বৃত্তচাপ আঁকা হয়েছে, একটি O A রশ্মি এবং O C রশ্মির মধ্যে, অন্যটি O C রশ্মি এবং O B রশ্মির মধ্যে এবং একটি বড় বৃত্তচাপ O A রশ্মি থেকে O B রশ্মি পর্যন্ত বিস্তৃত।",
+              "voice": "Ishita",
+              "duration_s": 17.75,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 17.75,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u04",
+          "kind": "explanation",
+          "text_en": "Equation one states that angle A O C plus angle B O C equals angle A O B.",
+          "text": "সমীকরণ এক বলছে যে কোণ A O C যোগ কোণ B O C সমান কোণ A O B।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমীকরণ এক বলছে যে কোণ A O C যোগ কোণ B O C সমান কোণ A O B।",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u05",
+          "kind": "explanation",
+          "text_en": "Yes! Because they are adjacent angles as described in Section six point two.",
+          "text": "হ্যাঁ! কারণ তারা সন্নিহিত কোণ, যেমনটি ষষ্ঠ পয়েন্ট দুই-এ বর্ণনা করা হয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "হ্যাঁ! কারণ তারা সন্নিহিত কোণ, যেমনটি ষষ্ঠ পয়েন্ট দুই-এ বর্ণনা করা হয়েছে।",
+              "voice": "Sourav",
+              "duration_s": 5.55,
+              "status": "ok",
+              "transcript": "হ্যাঁ কারণ তারা সন্নিহিত কোণ যেমনটি ষষ্ঠ পয়েন্ট দুইয়ে বর্ণনা করা হয়েছে",
+              "cer_errors": 1,
+              "cer_len": 37,
+              "cer": 0.027,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 5.55,
+                  "cer": 0.027
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u06",
+          "kind": "explanation",
+          "text_en": "What is the measure of angle A O B? It is one hundred and eighty degrees. Why? Because the two rays O A and O B form a straight line.",
+          "text": "কোণ A O B এর পরিমাপ কত? একশত আশি ডিগ্রী। কেন? কারণ দুটি রশ্মি O A এবং O B একটি সরলরেখা গঠন করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ A O B এর পরিমাপ কত? একশত আশি ডিগ্রী। কেন? কারণ দুটি রশ্মি O A এবং O B একটি সরলরেখা গঠন করে।",
+              "voice": "Sourav",
+              "duration_s": 11.95,
+              "status": "ok",
+              "transcript": "কোন এ ও বি এর পরিমাপ কত একশত আশি ডিগ্রি কেন কারণ দুটি রশ্মি ও এ এবং ও বি একটি সরলরেখা গঠন করে",
+              "cer_errors": 8,
+              "cer_len": 51,
+              "cer": 0.1569,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 11.95,
+                  "cer": 0.1569
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u07",
+          "kind": "explanation",
+          "text_en": "From equation one and the fact that angle A O B is one hundred and eighty degrees, we can say that angle A O C plus angle B O C equals one hundred and eighty degrees. Yes! Because the two adjacent angles together make a straight line.",
+          "text": "সমীকরণ এক থেকে এবং এই কারণে যে কোণ A O B হল একশো আশি ডিগ্রি, আমরা বলতে পারি যে কোণ A O C যোগ কোণ B O C সমান একশো আশি ডিগ্রি। হ্যাঁ! কারণ দুটি সন্নিহিত কোণ মিলে একটি সরলরেখা তৈরি করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমীকরণ এক থেকে এবং এই কারণে যে কোণ A O B হল একশো আশি ডিগ্রি, আমরা বলতে পারি যে কোণ A O C যোগ কোণ B O C সমান একশো আশি ডিগ্রি। হ্যাঁ! কারণ দুটি সন্নিহিত কোণ মিলে একটি সরলরেখা তৈরি করে।",
+              "voice": "Ishita",
+              "duration_s": 21.59,
+              "status": "ok",
+              "transcript": "সমীকরণ এক থেকে এবং এই কারণে যে কোন এ ও বি হল একশো আশি ডিগ্রি আমরা বলতে পারি যে কোন এ ও সি যোগ কোন বি ও সি সমান একশো আশি ডিগ্রি হ্যাঁ কারণ দুটি সন্নিহিত কোন মিলে একটি সরলরেখা তৈরি করে",
+              "cer_errors": 13,
+              "cer_len": 92,
+              "cer": 0.1413,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.59,
+                  "cer": 0.1413
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u08",
+          "kind": "explanation",
+          "text_en": "From the above discussion we can state the following axiom. Axiom six point one: If a ray stands on a line, then the sum of the two adjacent angles so formed is one hundred and eighty degrees.",
+          "text": "উপরের আলোচনা থেকে আমরা নিম্নলিখিত স্বতঃসিদ্ধটি বলতে পারি। স্বতঃসিদ্ধ ছয় দশমিক এক: যদি একটি রশ্মি একটি রেখার উপর থাকে, তবে গঠিত দুটি সন্নিহিত কোণের সমষ্টি হবে একশত আশি ডিগ্রি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "উপরের আলোচনা থেকে আমরা নিম্নলিখিত স্বতঃসিদ্ধটি বলতে পারি। স্বতঃসিদ্ধ ছয় দশমিক এক: যদি একটি রশ্মি একটি রেখার উপর থাকে, তবে গঠিত দুটি সন্নিহিত কোণের সমষ্টি হবে একশত আশি ডিগ্রি।",
+              "voice": "Ishita",
+              "duration_s": 17.07,
+              "status": "ok",
+              "transcript": "উপরের আলোচনা থেকে আমরা নিম্নলিখিত শত সিদ্ধটি বলতে পারি শত সিদ্ধ ছয় দশমিক এক যদি একটি রশ্মি একটি রেখার উপর থাকে তবে গঠিত দুটি সন্নিহিত কোণের সমষ্টি হবে একশত আশি ডিগ্রি",
+              "cer_errors": 4,
+              "cer_len": 94,
+              "cer": 0.0426,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 17.07,
+                  "cer": 0.0426
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u09",
+          "kind": "explanation",
+          "text_en": "Recall that when the sum of two adjacent angles is one hundred and eighty degrees, then they are called a linear pair of angles.",
+          "text": "মনে রাখবেন যে যখন দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তখন তাদের একটি রৈখিক জোড় বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "মনে রাখবেন যে যখন দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তখন তাদের একটি রৈখিক জোড় বলা হয়।",
+              "voice": "Ishita",
+              "duration_s": 9.39,
+              "status": "ok",
+              "transcript": "মনে রাখবেন যে যখন দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তখন তাদের একটি রৈখিক জোড় বলা হয়",
+              "cer_errors": 0,
+              "cer_len": 53,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 9.39,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u10",
+          "kind": "explanation",
+          "text_en": "In Axiom six point one it is given that a ray stands on a line. From this given we concluded that the sum of the two adjacent angles is one hundred and eighty degrees. Can we write Axiom six point one the other way? That is, take the conclusion as the given and the given as the conclusion.",
+          "text": "অ্যাক্সিওম ৬.১-এ বলা হয়েছে যে একটি রশ্মি একটি রেখার উপর অবস্থিত। এই দেওয়া থেকে আমরা এই সিদ্ধান্তে পৌঁছেছি যে দুটি সন্নিহিত কোণের সমষ্টি একশত আশি ডিগ্রি। আমরা কি অ্যাক্সিওম ৬.১ অন্যভাবে লিখতে পারি? অর্থাৎ, সিদ্ধান্তটিকে দেওয়া এবং দেওয়াকে সিদ্ধান্ত হিসেবে নিতে পারি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অ্যাক্সিওম ৬.১-এ বলা হয়েছে যে একটি রশ্মি একটি রেখার উপর অবস্থিত। এই দেওয়া থেকে আমরা এই সিদ্ধান্তে পৌঁছেছি যে দুটি সন্নিহিত কোণের সমষ্টি একশত আশি ডিগ্রি। আমরা কি অ্যাক্সিওম ৬.১ অন্যভাবে লিখতে পারি?",
+              "voice": "Ishita",
+              "duration_s": 19.11,
+              "status": "ok",
+              "transcript": "অ্যাক্সিয়ম ছয় দশমিক একে বলা হয়েছে যে একটি রশ্মি একটি রেখার উপর অবস্থিত এই দেওয়া থেকে আমরা এই সিদ্ধান্তে পৌঁছেছি যে দুটি সন্নিহিত কোণের সমষ্টি একশত আশি ডিগ্রি আমরা কি অ্যাক্সিয়ম ছয় দশমিক এক অন্যভাবে লিখতে পারি",
+              "cer_errors": 17,
+              "cer_len": 101,
+              "cer": 0.1683,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.11,
+                  "cer": 0.1683
+                }
+              ]
+            },
+            {
+              "text": "অর্থাৎ, সিদ্ধান্তটিকে দেওয়া এবং দেওয়াকে সিদ্ধান্ত হিসেবে নিতে পারি।",
+              "voice": "Ishita",
+              "duration_s": 5.63,
+              "status": "ok",
+              "transcript": "অর্থাৎ সিদ্ধান্তটিকে দেওয়া এবং দেওয়াকে সিদ্ধান্ত হিসেবে নিতে পারি",
+              "cer_errors": 0,
+              "cer_len": 32,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 5.63,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u11",
+          "kind": "explanation",
+          "text_en": "Statement A: If the sum of two adjacent angles is one hundred and eighty degrees, then a ray stands on a line, meaning the non‑common arms form a straight line.",
+          "text": "বিবৃতি এ: যদি দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয়, তাহলে একটি রশ্মি একটি রেখার উপর দাঁড়ায়, অর্থাৎ অ-সাধারণ বাহুগুলি একটি সরলরেখা গঠন করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "বিবৃতি এ: যদি দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয়, তাহলে একটি রশ্মি একটি রেখার উপর দাঁড়ায়, অর্থাৎ অ-সাধারণ বাহুগুলি একটি সরলরেখা গঠন করে।",
+              "voice": "Ishita",
+              "duration_s": 15.1,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 15.1,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u12",
+          "kind": "explanation",
+          "text_en": "Now you see that the axiom six point one and statement A are in a sense the reverse of each other. We call each the converse of the other. We do not know whether statement A is true or not. Let us check. Draw adjacent angles of different measures as shown in figure six point seven. Keep the ruler along one of the non common arms in each case. Does the other non common arm also lie along the ruler?",
+          "text": "এখন তোমরা দেখছ যে স্বতঃসিদ্ধ ৬.১ এবং বিবৃতি A এক অর্থে একে অপরের বিপরীত। আমরা প্রত্যেকটিকে অন্যটির converse বলি। আমরা জানি না বিবৃতি A সত্য কিনা। চলো পরীক্ষা করি। চিত্র ৬.৭-এ দেখানো বিভিন্ন পরিমাপের সন্নিহিত কোণ আঁকো। প্রতিটি ক্ষেত্রে একটি সাধারণ বাহু নয় এমন বাহুর সাথে রুলারটি রাখো। অন্য সাধারণ বাহু নয় এমন বাহুটিও কি রুলারের সাথে থাকে?",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "এখন তোমরা দেখছ যে স্বতঃসিদ্ধ ৬.১ এবং বিবৃতি A এক অর্থে একে অপরের বিপরীত। আমরা প্রত্যেকটিকে অন্যটির converse বলি। আমরা জানি না বিবৃতি A সত্য কিনা। চলো পরীক্ষা করি। চিত্র ৬.৭-এ দেখানো বিভিন্ন পরিমাপের সন্নিহিত কোণ আঁকো।",
+              "voice": "Ishita",
+              "duration_s": 25.26,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 25.26,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "প্রতিটি ক্ষেত্রে একটি সাধারণ বাহু নয় এমন বাহুর সাথে রুলারটি রাখো। অন্য সাধারণ বাহু নয় এমন বাহুটিও কি রুলারের সাথে থাকে?",
+              "voice": "Ishita",
+              "duration_s": 10.75,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 10.75,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u13",
+          "kind": "explanation",
+          "text_en": "Look at figure six point seven: Adjacent angles with different measures. The image shows four separate diagrams labeled one, two, three, and four. Each diagram has a common vertex O and a common arm O C. In diagram one, ray O A points straight up and ray O B points straight right; ray O C lies between them, creating angle A O C of sixty degrees and angle C O B of thirty degrees. In diagram two, ray O B points right and ray O A points up and to the left; ray O C is between them, with angle A O C of sixty degrees and angle C O B of eighty degrees. In diagram three, a ruler is drawn along the straight line formed by rays O A and O B, which point in opposite horizontal directions; ray O C stands on this line, creating angle A O C of one hundred twenty five degrees and angle C O B of fifty five degrees. In diagram four, ray O B points right and ray O A points down and to the left, not forming a straight line with O B; ray O C is between them, with angle A O C of one hundred fifty degrees and angle C O B of seventy degrees.",
+          "text": "চিত্র ছয় দশমিক সাত দেখুন: বিভিন্ন পরিমাপের সন্নিহিত কোণ। ছবিতে এক, দুই, তিন এবং চার নম্বর চিহ্নিত চারটি পৃথক চিত্র দেখানো হয়েছে। প্রতিটি চিত্রে একটি সাধারণ শীর্ষবিন্দু O এবং একটি সাধারণ বাহু OC রয়েছে। প্রথম চিত্রে, রশ্মি OA সরাসরি উপরের দিকে নির্দেশ করে এবং রশ্মি OB সরাসরি ডানদিকে নির্দেশ করে; রশ্মি OC তাদের মধ্যে অবস্থিত, যা ষাট ডিগ্রি কোণ AOC এবং ত্রিশ ডিগ্রি কোণ COB তৈরি করে। দ্বিতীয় চিত্রে, রশ্মি OB ডানদিকে এবং রশ্মি OA উপরের দিকে এবং বাম দিকে নির্দেশ করে; রশ্মি OC তাদের মধ্যে অবস্থিত, যেখানে ষাট ডিগ্রি কোণ AOC এবং আশি ডিগ্রি কোণ COB তৈরি হয়। তৃতীয় চিত্রে, রশ্মি OA এবং OB দ্বারা গঠিত সরলরেখা বরাবর একটি রুলার টানা হয়েছে, যা বিপরীত অনুভূমিক দিকে নির্দেশ করে; রশ্মি OC এই রেখার উপর অবস্থিত, যা একশত পঁচিশ ডিগ্রি কোণ AOC এবং পঞ্চান্ন ডিগ্রি কোণ COB তৈরি করে। চতুর্থ চিত্রে, রশ্মি OB ডানদিকে এবং রশ্মি OA নিচের দিকে এবং বাম দিকে নির্দেশ করে, যা OB এর সাথে একটি সরলরেখা তৈরি করে না; রশ্মি OC তাদের মধ্যে অবস্থিত, যেখানে একশত পঞ্চাশ ডিগ্রি কোণ AOC এবং সত্তর ডিগ্রি কোণ COB তৈরি হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "চিত্র ছয় দশমিক সাত দেখুন: বিভিন্ন পরিমাপের সন্নিহিত কোণ। ছবিতে এক, দুই, তিন এবং চার নম্বর চিহ্নিত চারটি পৃথক চিত্র দেখানো হয়েছে। প্রতিটি চিত্রে একটি সাধারণ শীর্ষবিন্দু O এবং একটি সাধারণ বাহু OC রয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 16.98,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.98,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "প্রথম চিত্রে, রশ্মি OA সরাসরি উপরের দিকে নির্দেশ করে এবং রশ্মি OB সরাসরি ডানদিকে নির্দেশ করে; রশ্মি OC তাদের মধ্যে অবস্থিত, যা ষাট ডিগ্রি কোণ AOC এবং ত্রিশ ডিগ্রি কোণ COB তৈরি করে।",
+              "voice": "Ishita",
+              "duration_s": 18.18,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 18.18,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "দ্বিতীয় চিত্রে, রশ্মি OB ডানদিকে এবং রশ্মি OA উপরের দিকে এবং বাম দিকে নির্দেশ করে; রশ্মি OC তাদের মধ্যে অবস্থিত, যেখানে ষাট ডিগ্রি কোণ AOC এবং আশি ডিগ্রি কোণ COB তৈরি হয়।",
+              "voice": "Ishita",
+              "duration_s": 19.71,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.71,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "তৃতীয় চিত্রে, রশ্মি OA এবং OB দ্বারা গঠিত সরলরেখা বরাবর একটি রুলার টানা হয়েছে, যা বিপরীত অনুভূমিক দিকে নির্দেশ করে; রশ্মি OC এই রেখার উপর অবস্থিত, যা একশত পঁচিশ ডিগ্রি কোণ AOC এবং পঞ্চান্ন ডিগ্রি কোণ COB তৈরি করে।",
+              "voice": "Ishita",
+              "duration_s": 21.33,
+              "status": "ok",
+              "transcript": "তৃতীয় চিত্রে রশ্মি ওএ এবং ওবি দ্বারা গঠিত সরলরেখা বরাবর একটি রুলার টানা হয়েছে যা বিপরীত অনুভূমিক দিকে নির্দেশ করে রশ্মি ওসি এই রেখার উপর অবস্থিত যা একশত পঁচিশ ডিগ্রি কোণ এওসি এবং পঞ্চান্ন ডিগ্রি কোণ সিওবি তৈরি করে",
+              "cer_errors": 12,
+              "cer_len": 112,
+              "cer": 0.1071,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.33,
+                  "cer": 0.1071
+                }
+              ]
+            },
+            {
+              "text": "চতুর্থ চিত্রে, রশ্মি OB ডানদিকে এবং রশ্মি OA নিচের দিকে এবং বাম দিকে নির্দেশ করে, যা OB এর সাথে একটি সরলরেখা তৈরি করে না; রশ্মি OC তাদের মধ্যে অবস্থিত, যেখানে একশত পঞ্চাশ ডিগ্রি কোণ AOC এবং সত্তর ডিগ্রি কোণ COB তৈরি হয়।",
+              "voice": "Ishita",
+              "duration_s": 22.95,
+              "status": "ok",
+              "transcript": "চতুর্থ চিত্রে রশ্মি ও বি ডানদিকে এবং রশ্মি ও এ নীচের দিকে এবং বাম দিকে নির্দেশ করে যা ও বি এর সাথে একটি সরলরেখা তৈরি করে না রশ্মি ও সি তাদের মধ্যে অবস্থিত যেখানে একশত পঞ্চাশ ডিগ্রি কোণ এ ও সি এবং সত্তর ডিগ্রি কোণ সি ও বি তৈরি হয়",
+              "cer_errors": 14,
+              "cer_len": 113,
+              "cer": 0.1239,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 22.95,
+                  "cer": 0.1239
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u14",
+          "kind": "explanation",
+          "text_en": "You will find that only in figure six point seven, diagram three, both the non common arms lie along the ruler, that is, points A, O and B lie on the same line and ray O C stands on it. Also see that angle A O C plus angle C O B equals one hundred twenty five degrees plus fifty five degrees equals one hundred eighty degrees. From this, you may conclude that statement A is true. So you can state in the form of an axiom as follows.",
+          "text": "আপনি দেখবেন যে শুধুমাত্র চিত্র ছয় পয়েন্ট সাত, ডায়াগ্রাম তিন-এ, উভয় নন-কমন বাহু রুলারের সাথে থাকে, অর্থাৎ, বিন্দু A, O এবং B একই লাইনে থাকে এবং রেখাংশ O C এর উপর দাঁড়িয়ে থাকে। এছাড়াও দেখুন যে কোণ A O C যোগ কোণ C O B সমান একশ পঁচিশ ডিগ্রি যোগ পঞ্চান্ন ডিগ্রি সমান একশ আশি ডিগ্রি। এখান থেকে আপনি এই সিদ্ধান্তে আসতে পারেন যে বিবৃতি A সত্য। সুতরাং আপনি একটি স্বতঃসিদ্ধের আকারে নিম্নরূপভাবে বলতে পারেন।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "আপনি দেখবেন যে শুধুমাত্র চিত্র ছয় পয়েন্ট সাত, ডায়াগ্রাম তিন-এ, উভয় নন-কমন বাহু রুলারের সাথে থাকে, অর্থাৎ, বিন্দু A, O এবং B একই লাইনে থাকে এবং রেখাংশ O C এর উপর দাঁড়িয়ে থাকে।",
+              "voice": "Ishita",
+              "duration_s": 16.47,
+              "status": "ok",
+              "transcript": "আপনি দেখবেন যে শুধুমাত্র চিত্র ছয় পয়েন্ট সাত ডায়াগ্রাম তিনে উভয় নন কমন বাহু রুলারের সাথে থাকে অর্থাৎ বিন্দু এ ও এবং বি একই লাইনে থাকে এবং রেখাংশ ও সি এর উপর দাঁড়িয়ে থাকে",
+              "cer_errors": 6,
+              "cer_len": 87,
+              "cer": 0.069,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.47,
+                  "cer": 0.069
+                }
+              ]
+            },
+            {
+              "text": "এছাড়াও দেখুন যে কোণ A O C যোগ কোণ C O B সমান একশ পঁচিশ ডিগ্রি যোগ পঞ্চান্ন ডিগ্রি সমান একশ আশি ডিগ্রি। এখান থেকে আপনি এই সিদ্ধান্তে আসতে পারেন যে বিবৃতি A সত্য। সুতরাং আপনি একটি স্বতঃসিদ্ধের আকারে নিম্নরূপভাবে বলতে পারেন।",
+              "voice": "Ishita",
+              "duration_s": 21.67,
+              "status": "ok",
+              "transcript": "এছাড়াও দেখুন যে কোন এ ও সি যোগ কোন সি ও বি সমান একশো পঁচিশ ডিগ্রি যোগ পঞ্চান্ন ডিগ্রি সমান একশো আশি ডিগ্রি এখান থেকে আপনি এই সিদ্ধান্তে আসতে পারেন যে বিবৃতি এই সত্য সুতরাং আপনি একটি শত সিদ্ধের আকারে নিম্নরূপভাবে বলতে পারেন",
+              "cer_errors": 12,
+              "cer_len": 114,
+              "cer": 0.1053,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.67,
+                  "cer": 0.1053
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u15",
+          "kind": "explanation",
+          "text_en": "Axiom six point two: If the sum of two adjacent angles is one hundred and eighty degrees, then the non common arms of the angles form a line.",
+          "text": "অ্যাক্সিয়ম ৬.২: যদি দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তবে কোণগুলির সাধারণ বাহু ব্যতীত অন্য বাহুগুলি একটি রেখা গঠন করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অ্যাক্সিয়ম ৬.২: যদি দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তবে কোণগুলির সাধারণ বাহু ব্যতীত অন্য বাহুগুলি একটি রেখা গঠন করে।",
+              "voice": "Ishita",
+              "duration_s": 12.63,
+              "status": "ok",
+              "transcript": "অ্যাক্সিওম ছয় দশমিক দুই যদি দুটি সন্নিহিত কোণের যোগফল একশত আশি ডিগ্রি হয় তবে কোণগুলির সাধারণ বাহু ব্যতীত অন্য বাহুগুলি একটি রেখা গঠন করে",
+              "cer_errors": 8,
+              "cer_len": 69,
+              "cer": 0.1159,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.63,
+                  "cer": 0.1159
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u16",
+          "kind": "explanation",
+          "text_en": "For obvious reasons, the two axioms above together are called the linear pair axiom.",
+          "text": "স্পষ্ট কারণগুলির জন্য, উপরের দুটি স্বতঃসিদ্ধকে একত্রে রৈখিক জোড়া স্বতঃসিদ্ধ বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "স্পষ্ট কারণগুলির জন্য, উপরের দুটি স্বতঃসিদ্ধকে একত্রে রৈখিক জোড়া স্বতঃসিদ্ধ বলা হয়।",
+              "voice": "Sourav",
+              "duration_s": 6.66,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 6.66,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u17",
+          "kind": "explanation",
+          "text_en": "Let us now examine the case when two lines intersect each other.",
+          "text": "এখন আমরা সেই ক্ষেত্রটি পরীক্ষা করব যখন দুটি রেখা একে অপরকে ছেদ করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "এখন আমরা সেই ক্ষেত্রটি পরীক্ষা করব যখন দুটি রেখা একে অপরকে ছেদ করে।",
+              "voice": "Ishita",
+              "duration_s": 5.8,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 5.8,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u18",
+          "kind": "explanation",
+          "text_en": "Recall from earlier classes that when two lines intersect, the vertically opposite angles are equal. Let us prove this result now. See appendix one for the ingredients of a proof, and keep those in mind while studying the proof given below.",
+          "text": "আগের ক্লাসগুলো থেকে মনে করুন যে যখন দুটি সরলরেখা ছেদ করে, তখন উল্লম্বভাবে বিপরীত কোণগুলো সমান হয়। চলুন এখন এই ফলাফলটি প্রমাণ করি। প্রমাণের উপাদানগুলোর জন্য পরিশিষ্ট এক দেখুন এবং নিচে দেওয়া প্রমাণটি পড়ার সময় সেগুলো মনে রাখুন।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "আগের ক্লাসগুলো থেকে মনে করুন যে যখন দুটি সরলরেখা ছেদ করে, তখন উল্লম্বভাবে বিপরীত কোণগুলো সমান হয়। চলুন এখন এই ফলাফলটি প্রমাণ করি। প্রমাণের উপাদানগুলোর জন্য পরিশিষ্ট এক দেখুন এবং নিচে দেওয়া প্রমাণটি পড়ার সময় সেগুলো মনে রাখুন।",
+              "voice": "Ishita",
+              "duration_s": 19.88,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.88,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u19",
+          "kind": "example",
+          "text_en": "Theorem six point one states that if two lines intersect, the vertically opposite angles are equal. Look at figure six point eight where lines A B and C D cross at O. The opposite pairs are angle A O C with angle B O D, and angle A O D with angle B O C. We need to prove both. First, note that ray O A lies on line C D. By the linear pair axiom, angle A O C plus angle A O D equals one hundred and eighty degrees. Also angle A O D plus angle B O D equals one hundred and eighty degrees.",
+          "text": "উপপাদ্য ৬.১ অনুসারে, যদি দুটি সরলরেখা পরস্পরকে ছেদ করে, তবে তাদের শীর্ষবিন্দুতে গঠিত বিপরীত কোণগুলো সমান হবে। চিত্র ৬.৮ দেখুন যেখানে রেখা A, B এবং C, D বিন্দু O-তে মিলিত হয়েছে। বিপরীত জোড়া কোণগুলো হলো কোণ A O C এবং কোণ B O D, এবং কোণ A O D এবং কোণ B O C। আমাদের উভয়টি প্রমাণ করতে হবে। প্রথমত, লক্ষ্য করুন যে রশ্মি O A রেখা C D-এর উপর অবস্থিত। রৈখিক জোড় উপপাদ্য অনুসারে, কোণ A O C যোগ কোণ A O D সমান একশত আশি ডিগ্রি। এছাড়াও কোণ A O D যোগ কোণ B O D সমান একশত আশি ডিগ্রি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "উপপাদ্য ৬.১ অনুসারে, যদি দুটি সরলরেখা পরস্পরকে ছেদ করে, তবে তাদের শীর্ষবিন্দুতে গঠিত বিপরীত কোণগুলো সমান হবে। চিত্র ৬.৮ দেখুন যেখানে রেখা A, B এবং C, D বিন্দু O-তে মিলিত হয়েছে।",
+              "voice": "Sourav",
+              "duration_s": 16.64,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 16.64,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "বিপরীত জোড়া কোণগুলো হলো কোণ A O C এবং কোণ B O D, এবং কোণ A O D এবং কোণ B O C। আমাদের উভয়টি প্রমাণ করতে হবে। প্রথমত, লক্ষ্য করুন যে রশ্মি O A রেখা C D-এর উপর অবস্থিত। রৈখিক জোড় উপপাদ্য অনুসারে, কোণ A O C যোগ কোণ A O D সমান একশত আশি ডিগ্রি।",
+              "voice": "Sourav",
+              "duration_s": 24.15,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 24.15,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "এছাড়াও কোণ A O D যোগ কোণ B O D সমান একশত আশি ডিগ্রি।",
+              "voice": "Sourav",
+              "duration_s": 4.95,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 4.95,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u20",
+          "kind": "example",
+          "text_en": "Example one: In figure six point nine, lines P Q and R S intersect at O and the ratio of angle P O R to angle R O Q is five to seven. First, apply the linear pair axiom: angle P O R plus angle R O Q equals one hundred and eighty degrees. Second, write the angles as five parts and seven parts of the straight angle, so angle P O R is five twelfths of one hundred and eighty degrees and angle R O Q is seven twelfths of one hundred and eighty degrees.",
+          "text": "উদাহরণ এক: চিত্র ছয় দশমিক নয়-এ, রেখা P Q এবং R S বিন্দুতে O ছেদ করে এবং কোণ P O R এর সাথে কোণ R O Q এর অনুপাত পাঁচ থেকে সাত। প্রথমত, রৈখিক জোড় স্বতঃসিদ্ধ প্রয়োগ করুন: কোণ P O R যোগ কোণ R O Q সমান একশত আশি ডিগ্রি। দ্বিতীয়ত, কোণগুলোকে সরল কোণের পাঁচ ভাগ এবং সাত ভাগ হিসেবে লিখুন, সুতরাং কোণ P O R হল একশত আশি ডিগ্রির পাঁচ ভাগের বারো ভাগ এবং কোণ R O Q হল একশত আশি ডিগ্রির সাত ভাগের বারো ভাগ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "উদাহরণ এক: চিত্র ছয় দশমিক নয়-এ, রেখা P Q এবং R S বিন্দুতে O ছেদ করে এবং কোণ P O R এর সাথে কোণ R O Q এর অনুপাত পাঁচ থেকে সাত। প্রথমত, রৈখিক জোড় স্বতঃসিদ্ধ প্রয়োগ করুন: কোণ P O R যোগ কোণ R O Q সমান একশত আশি ডিগ্রি।",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                }
+              ]
+            },
+            {
+              "text": "দ্বিতীয়ত, কোণগুলোকে সরল কোণের পাঁচ ভাগ এবং সাত ভাগ হিসেবে লিখুন, সুতরাং কোণ P O R হল একশত আশি ডিগ্রির পাঁচ ভাগের বারো ভাগ এবং কোণ R O Q হল একশত আশি ডিগ্রির সাত ভাগের বারো ভাগ।",
+              "voice": "Ishita",
+              "duration_s": 19.03,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.03,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s05.u21",
+          "kind": "example",
+          "text_en": "Example three. In Figure six point eleven, the four rays are O P, O Q, O R and O S. Prove that angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees. First, extend one of the rays backwards. Produce ray O Q backwards to a point T so that T O Q is a straight line, as shown in Figure six point twelve. Then observe that ray O P now lies on the line T O Q. Use the straight line property to relate the four angles and conclude the sum is three hundred and sixty degrees.",
+          "text": "উদাহরণ তিন। চিত্র ছয় পয়েন্ট এগারোতে, চারটি রশ্মি হল O P, O Q, O R এবং O S। প্রমাণ করুন যে কোণ P O Q যোগ কোণ Q O R যোগ কোণ S O R যোগ কোণ P O S সমান তিনশত ষাট ডিগ্রি। প্রথমে, একটি রশ্মিকে পিছনের দিকে প্রসারিত করুন। O Q রশ্মিটিকে পিছনের দিকে T বিন্দু পর্যন্ত এমনভাবে তৈরি করুন যাতে T O Q একটি সরলরেখা হয়, যেমনটি চিত্র ছয় পয়েন্ট বারোতে দেখানো হয়েছে। তারপর লক্ষ্য করুন যে O P রশ্মিটি এখন T O Q রেখার উপর অবস্থিত। সরলরেখার বৈশিষ্ট্য ব্যবহার করে চারটি কোণের মধ্যে সম্পর্ক স্থাপন করুন এবং উপসংহারে আসুন যে তাদের যোগফল তিনশত ষাট ডিগ্রি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "উদাহরণ তিন। চিত্র ছয় পয়েন্ট এগারোতে, চারটি রশ্মি হল O P, O Q, O R এবং O S। প্রমাণ করুন যে কোণ P O Q যোগ কোণ Q O R যোগ কোণ S O R যোগ কোণ P O S সমান তিনশত ষাট ডিগ্রি। প্রথমে, একটি রশ্মিকে পিছনের দিকে প্রসারিত করুন।",
+              "voice": "Ishita",
+              "duration_s": 23.13,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 23.13,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "O Q রশ্মিটিকে পিছনের দিকে T বিন্দু পর্যন্ত এমনভাবে তৈরি করুন যাতে T O Q একটি সরলরেখা হয়, যেমনটি চিত্র ছয় পয়েন্ট বারোতে দেখানো হয়েছে। তারপর লক্ষ্য করুন যে O P রশ্মিটি এখন T O Q রেখার উপর অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 19.11,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 19.11,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "সরলরেখার বৈশিষ্ট্য ব্যবহার করে চারটি কোণের মধ্যে সম্পর্ক স্থাপন করুন এবং উপসংহারে আসুন যে তাদের যোগফল তিনশত ষাট ডিগ্রি।",
+              "voice": "Ishita",
+              "duration_s": 12.2,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.2,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0995
+    },
+    {
+      "section_id": "s06",
+      "title": "6.4 Pairs of Angles (part 2)",
+      "slug": "06-6-4-pairs-of-angles-part-2",
+      "units": [
+        {
+          "id": "s06.u01",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O P plus angle P O Q equals one hundred and eighty degrees. This is equation one. Linear pair axiom.",
+          "text": "অতএব, কোণ T O P যোগ কোণ P O Q সমান একশ আশি ডিগ্রি। এটি প্রথম সমীকরণ। রৈখিক জোড় স্বতঃসিদ্ধ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অতএব, কোণ T O P যোগ কোণ P O Q সমান একশ আশি ডিগ্রি। এটি প্রথম সমীকরণ। রৈখিক জোড় স্বতঃসিদ্ধ।",
+              "voice": "Ishita",
+              "duration_s": 10.75,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 10.75,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u02",
+          "kind": "explanation",
+          "text_en": "Look at Figure six point twelve. Five rays start from the common point O. Ray O T is drawn as a dashed line pointing left, while ray O Q is a solid line pointing right, so T, O, and Q lie on one straight line. Ray O P points upward, ray O S points down and to the left, and ray O R points down and to the right.",
+          "text": "ছয় পয়েন্ট বারো নম্বর চিত্রটি দেখুন। পাঁচটি রশ্মি সাধারণ বিন্দু O থেকে শুরু হয়। রশ্মি O T একটি ড্যাশযুক্ত রেখা হিসাবে বাম দিকে নির্দেশিত, যেখানে রশ্মি O Q একটি কঠিন রেখা যা ডানদিকে নির্দেশিত, সুতরাং T, O এবং Q একটি সরলরেখায় অবস্থিত। রশ্মি O P উপরের দিকে নির্দেশ করে, রশ্মি O S নিচের দিকে এবং বাম দিকে নির্দেশ করে এবং রশ্মি O R নিচের দিকে এবং ডান দিকে নির্দেশ করে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছয় পয়েন্ট বারো নম্বর চিত্রটি দেখুন। পাঁচটি রশ্মি সাধারণ বিন্দু O থেকে শুরু হয়। রশ্মি O T একটি ড্যাশযুক্ত রেখা হিসাবে বাম দিকে নির্দেশিত, যেখানে রশ্মি O Q একটি কঠিন রেখা যা ডানদিকে নির্দেশিত, সুতরাং T, O এবং Q একটি সরলরেখায় অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 24.41,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 24.41,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "রশ্মি O P উপরের দিকে নির্দেশ করে, রশ্মি O S নিচের দিকে এবং বাম দিকে নির্দেশ করে এবং রশ্মি O R নিচের দিকে এবং ডান দিকে নির্দেশ করে।",
+              "voice": "Ishita",
+              "duration_s": 20.05,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.05,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u03",
+          "kind": "explanation",
+          "text_en": "Similarly, ray O S stands on line T O Q.",
+          "text": "একইভাবে, রশ্মি O S রেখা T O Q-এর উপর অবস্থিত।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "একইভাবে, রশ্মি O S রেখা T O Q-এর উপর অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 4.78,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 4.78,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u04",
+          "kind": "explanation",
+          "text_en": "Therefore, angle T O S plus angle S O Q equals one hundred and eighty degrees. This is equation two.",
+          "text": "অতএব, কোণ T O S যোগ কোণ S O Q সমান একশত আশি ডিগ্রি। এটি হল সমীকরণ দুই।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অতএব, কোণ T O S যোগ কোণ S O Q সমান একশত আশি ডিগ্রি। এটি হল সমীকরণ দুই।",
+              "voice": "Ishita",
+              "duration_s": 8.87,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 8.87,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u05",
+          "kind": "explanation",
+          "text_en": "But angle S O Q equals angle S O R plus angle Q O R.",
+          "text": "কিন্তু কোণ S O Q সমান কোণ S O R যোগ কোণ Q O R।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কিন্তু কোণ S O Q সমান কোণ S O R যোগ কোণ Q O R।",
+              "voice": "Ishita",
+              "duration_s": 5.8,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 5.8,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u06",
+          "kind": "explanation",
+          "text_en": "So, equation two becomes",
+          "text": "সুতরাং, সমীকরণ দুই হবে",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সুতরাং, সমীকরণ দুই হবে",
+              "voice": "Ishita",
+              "duration_s": 2.13,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 2.13,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u07",
+          "kind": "explanation",
+          "text_en": "Angle T O S plus angle S O R plus angle Q O R equals one hundred and eighty degrees. This is equation three.",
+          "text": "কোণ T O S যোগ কোণ S O R যোগ কোণ Q O R সমান একশ আশি ডিগ্রি। এটি সমীকরণ তিন।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ T O S যোগ কোণ S O R যোগ কোণ Q O R সমান একশ আশি ডিগ্রি। এটি সমীকরণ তিন।",
+              "voice": "Sourav",
+              "duration_s": 8.79,
+              "status": "ok",
+              "transcript": "কোন টিওএস যোগ কোন এসওআর যোগ কোন কিউওআর সমান একশো আশি ডিগ্রি এটি সমীকরণ তিন",
+              "cer_errors": 17,
+              "cer_len": 39,
+              "cer": 0.4359,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 8.79,
+                  "cer": 0.4359
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u08",
+          "kind": "explanation",
+          "text_en": "Now, adding equation one and equation three, you get",
+          "text": "এখন, প্রথম সমীকরণ এবং তৃতীয় সমীকরণ যোগ করলে, আপনি পাবেন",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "এখন, প্রথম সমীকরণ এবং তৃতীয় সমীকরণ যোগ করলে, আপনি পাবেন",
+              "voice": "Ishita",
+              "duration_s": 5.55,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 5.55,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u09",
+          "kind": "explanation",
+          "text_en": "Angle T O P plus angle P O Q plus angle T O S plus angle S O R plus angle Q O R equals three hundred and sixty degrees. This is equation four. But angle T O P plus angle T O S equals angle P O S.",
+          "text": "কোণ T O P যোগ কোণ P O Q যোগ কোণ T O S যোগ কোণ S O R যোগ কোণ Q O R সমান তিনশত ষাট ডিগ্রি। এটি হল সমীকরণ চার। কিন্তু কোণ T O P যোগ কোণ T O S সমান কোণ P O S।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ T O P যোগ কোণ P O Q যোগ কোণ T O S যোগ কোণ S O R যোগ কোণ Q O R সমান তিনশত ষাট ডিগ্রি। এটি হল সমীকরণ চার। কিন্তু কোণ T O P যোগ কোণ T O S সমান কোণ P O S।",
+              "voice": "Sourav",
+              "duration_s": 17.07,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.93,
+                  "cer": 0.5063
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 17.07,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u10",
+          "kind": "explanation",
+          "text_en": "Therefore, equation four becomes",
+          "text": "অতএব, সমীকরণ চার হবে",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অতএব, সমীকরণ চার হবে",
+              "voice": "Ishita",
+              "duration_s": 2.47,
+              "status": "ok",
+              "transcript": "অতএব সমীকরণ চার হবে",
+              "cer_errors": 0,
+              "cer_len": 13,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 2.47,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s06.u11",
+          "kind": "explanation",
+          "text_en": "Angle P O Q plus angle Q O R plus angle S O R plus angle P O S equals three hundred and sixty degrees.",
+          "text": "কোণ P O Q যোগ কোণ Q O R যোগ কোণ S O R যোগ কোণ P O S সমান তিনশত ষাট ডিগ্রি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ P O Q যোগ কোণ Q O R যোগ কোণ S O R যোগ কোণ P O S সমান তিনশত ষাট ডিগ্রি।",
+              "voice": "Ishita",
+              "duration_s": 9.3,
+              "status": "high_cer",
+              "transcript": "কোন পিও কিউ যোগ কোন কিউওআর যোগ কোন এসওআর যোগ কোন পিওএস সমান তিনশত ষাট ডিগ্রি",
+              "cer_errors": 22,
+              "cer_len": 38,
+              "cer": 0.5789,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 9.3,
+                  "cer": 0.5789
+                },
+                {
+                  "voice": "Sourav",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.4333
+    },
+    {
+      "section_id": "s07",
+      "title": "EXERCISE 6.1",
+      "slug": "07-exercise-6-1",
+      "units": [
+        {
+          "id": "s07.u01",
+          "kind": "heading",
+          "text_en": "It is time to practise.",
+          "text": "অনুশীলন করার সময় হয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "অনুশীলন করার সময় হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 1.88,
+              "status": "ok",
+              "transcript": "অনুশীলন করার সময় হয়েছে",
+              "cer_errors": 0,
+              "cer_len": 14,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 1.88,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u02",
+          "kind": "exercise_problem",
+          "text_en": "Problem one. Find angle B O E and reflex angle C O E. First, use vertically opposite angles to find angle A O C. Then use the given sum to find angle B O E, and finally use angles on a line to find the reflex angle.",
+          "text": "সমস্যা এক। কোণ B O E এবং বিপরীত কোণ C O E নির্ণয় করো। প্রথমে, শীর্ষবিন্দুতে অবস্থিত বিপরীত কোণ ব্যবহার করে কোণ A O C নির্ণয় করো। তারপর প্রদত্ত যোগফল ব্যবহার করে কোণ B O E নির্ণয় করো, এবং সবশেষে একটি সরলরেখার উপর অবস্থিত কোণ ব্যবহার করে বিপরীত কোণ নির্ণয় করো।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমস্যা এক। কোণ B O E এবং বিপরীত কোণ C O E নির্ণয় করো। প্রথমে, শীর্ষবিন্দুতে অবস্থিত বিপরীত কোণ ব্যবহার করে কোণ A O C নির্ণয় করো।",
+              "voice": null,
+              "duration_s": 0.0,
+              "status": "failed",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                }
+              ]
+            },
+            {
+              "text": "তারপর প্রদত্ত যোগফল ব্যবহার করে কোণ B O E নির্ণয় করো, এবং সবশেষে একটি সরলরেখার উপর অবস্থিত কোণ ব্যবহার করে বিপরীত কোণ নির্ণয় করো।",
+              "voice": "Ishita",
+              "duration_s": 12.89,
+              "status": "ok",
+              "transcript": "তারপর প্রদত্ত যোগফল ব্যবহার করে কোন বিওই নির্ণয় করো এবং সবশেষে একটি সরলরেখার উপর অবস্থিত কোন ব্যবহার করে বিপরীত কোন নির্ণয় করো",
+              "cer_errors": 6,
+              "cer_len": 75,
+              "cer": 0.08,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.89,
+                  "cer": 0.08
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u03",
+          "kind": "exercise_problem",
+          "text_en": "Problem two. Find the value of c. First, use the right angle at P O Y to find the sum of a and b. Then use the ratio to find c, and finally check the angles on a line.",
+          "text": "সমস্যা দুই। c এর মান নির্ণয় করো। প্রথমে, P O Y বিন্দুতে সমকোণ ব্যবহার করে a এবং b এর যোগফল নির্ণয় করো। তারপর অনুপাত ব্যবহার করে c এর মান নির্ণয় করো, এবং সবশেষে একটি সরলরেখার উপর কোণগুলো পরীক্ষা করো।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমস্যা দুই। c এর মান নির্ণয় করো। প্রথমে, P O Y বিন্দুতে সমকোণ ব্যবহার করে a এবং b এর যোগফল নির্ণয় করো। তারপর অনুপাত ব্যবহার করে c এর মান নির্ণয় করো, এবং সবশেষে একটি সরলরেখার উপর কোণগুলো পরীক্ষা করো।",
+              "voice": "Ishita",
+              "duration_s": 21.67,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.67,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u04",
+          "kind": "exercise_problem",
+          "text_en": "Problem three. Prove that angle P Q S equals angle P R T. First, use the exterior angle property for triangle P Q R. Then subtract the equal interior angles, and finally conclude the exterior angles are equal.",
+          "text": "সমস্যা তিন। প্রমাণ করুন যে কোণ PQS এবং কোণ PRT সমান। প্রথমে, ত্রিভুজ PQR-এর বহিঃস্থ কোণের বৈশিষ্ট্য ব্যবহার করুন। তারপর সমান অভ্যন্তরীণ কোণগুলি বিয়োগ করুন এবং অবশেষে উপসংহারে আসুন যে বহিঃস্থ কোণগুলি সমান।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমস্যা তিন। প্রমাণ করুন যে কোণ PQS এবং কোণ PRT সমান। প্রথমে, ত্রিভুজ PQR-এর বহিঃস্থ কোণের বৈশিষ্ট্য ব্যবহার করুন। তারপর সমান অভ্যন্তরীণ কোণগুলি বিয়োগ করুন এবং অবশেষে উপসংহারে আসুন যে বহিঃস্থ কোণগুলি সমান।",
+              "voice": "Sourav",
+              "duration_s": 16.64,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 16.64,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u05",
+          "kind": "exercise_problem",
+          "text_en": "Problem four. Prove that A O B is a line. First, use vertically opposite angles to relate x to z and y to w. Then add the equations, and finally use the linear pair axiom to prove the line.",
+          "text": "সমস্যা চার। প্রমাণ করুন যে A O B একটি সরলরেখা। প্রথমে, উল্লম্বভাবে বিপরীত কোণ ব্যবহার করে x কে z এর সাথে এবং y কে w এর সাথে সম্পর্কিত করুন। তারপর সমীকরণগুলো যোগ করুন, এবং সবশেষে সরলরেখাটি প্রমাণ করার জন্য রৈখিক জোড়া স্বতঃসিদ্ধ ব্যবহার করুন।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমস্যা চার। প্রমাণ করুন যে A O B একটি সরলরেখা। প্রথমে, উল্লম্বভাবে বিপরীত কোণ ব্যবহার করে x কে z এর সাথে এবং y কে w এর সাথে সম্পর্কিত করুন। তারপর সমীকরণগুলো যোগ করুন, এবং সবশেষে সরলরেখাটি প্রমাণ করার জন্য রৈখিক জোড়া স্বতঃসিদ্ধ ব্যবহার করুন।",
+              "voice": "Ishita",
+              "duration_s": 26.88,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 26.88,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u06",
+          "kind": "exercise_problem",
+          "text_en": "Problem five. Prove the relationship between angle R O S and the difference of other angles. First, express angle Q O S and angle P O S using the right angle. Then subtract the two expressions, and finally simplify to get the required result.",
+          "text": "সমস্যা পাঁচ। কোণ R O S এবং অন্যান্য কোণের পার্থক্যের মধ্যে সম্পর্ক প্রমাণ করো। প্রথমে কোণ Q O S এবং কোণ P O S কে সমকোণ ব্যবহার করে প্রকাশ করো। তারপর দুটি রাশিকে বিয়োগ করো এবং অবশেষে সরলীকরণ করে নির্ণেয় ফলটি লেখো।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "সমস্যা পাঁচ। কোণ R O S এবং অন্যান্য কোণের পার্থক্যের মধ্যে সম্পর্ক প্রমাণ করো। প্রথমে কোণ Q O S এবং কোণ P O S কে সমকোণ ব্যবহার করে প্রকাশ করো। তারপর দুটি রাশিকে বিয়োগ করো এবং অবশেষে সরলীকরণ করে নির্ণেয় ফলটি লেখো।",
+              "voice": "Ishita",
+              "duration_s": 20.99,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.99,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s07.u07",
+          "kind": "exercise_problem",
+          "text_en": "Problem six. Find angle X Y Q and reflex angle Q Y P. First, use the linear pair to find angle Z Y P. Then use the bisector property to find angle X Y Q, and finally calculate the reflex angle.",
+          "text": "ষষ্ঠ সমস্যা। কোণ X Y Q এবং বিপরীত কোণ Q Y P নির্ণয় করো। প্রথমে সরলকোণের সাহায্যে কোণ Z Y P নির্ণয় করো। তারপর সমদ্বিখণ্ডক উপপাদ্য ব্যবহার করে কোণ X Y Q নির্ণয় করো এবং সবশেষে বিপরীত কোণটি গণনা করো।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ষষ্ঠ সমস্যা। কোণ X Y Q এবং বিপরীত কোণ Q Y P নির্ণয় করো। প্রথমে সরলকোণের সাহায্যে কোণ Z Y P নির্ণয় করো। তারপর সমদ্বিখণ্ডক উপপাদ্য ব্যবহার করে কোণ X Y Q নির্ণয় করো এবং সবশেষে বিপরীত কোণটি গণনা করো।",
+              "voice": "Ishita",
+              "duration_s": 21.42,
+              "status": "ok",
+              "transcript": "ষষ্ঠ সমস্যা কোণ এক্স ওয়াই কিউ এবং বিপরীত কোণ কিউ ওয়াই পি নির্ণয় করো প্রথমে সরল কোণের সাহায্যে কোণ জেড ওয়াই পি নির্ণয় করো তারপর সমদ্বিখণ্ডক উপপাদ্য ব্যবহার করে কোণ এক্স ওয়াই কিউ নির্ণয় করো এবং সবশেষে বিপরীত কোণটি গণনা করো",
+              "cer_errors": 28,
+              "cer_len": 107,
+              "cer": 0.2617,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 21.42,
+                  "cer": 0.2617
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.1735
+    },
+    {
+      "section_id": "s08",
+      "title": "6.5 Parallel Lines and a Transversal",
+      "slug": "08-6-5-parallel-lines-and-a-transversal",
+      "units": [
+        {
+          "id": "s08.u01",
+          "kind": "heading",
+          "text_en": "Section six point five Parallel Lines and a Transversal.",
+          "text": "ধারা ছয় দশমিক পাঁচ সমান্তরাল রেখা এবং একটি ছেদক।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ধারা ছয় দশমিক পাঁচ সমান্তরাল রেখা এবং একটি ছেদক।",
+              "voice": "Sourav",
+              "duration_s": 4.95,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 4.95,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u02",
+          "kind": "explanation",
+          "text_en": "Recall that a line which intersects two or more lines at distinct points is called a transversal. Look at Figure six point eighteen. Line l intersects line m and line n at points P and Q respectively. Therefore line l is a transversal for lines m and n. Observe that four angles are formed at each of the points P and Q.",
+          "text": "মনে করুন, যে রেখা দুটি বা ততোধিক সরলরেখাকে ভিন্ন ভিন্ন বিন্দুতে ছেদ করে, তাকে তির্যক রেখা বলে। চিত্র ছয়-এর আঠারো নম্বর বিন্দুটি দেখুন। রেখা l, রেখা m এবং রেখা n কে যথাক্রমে P এবং Q বিন্দুতে ছেদ করেছে। সুতরাং, রেখা l হল রেখা m এবং n এর জন্য একটি তির্যক রেখা। লক্ষ্য করুন যে P এবং Q প্রতিটি বিন্দুতে চারটি কোণ তৈরি হয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "মনে করুন, যে রেখা দুটি বা ততোধিক সরলরেখাকে ভিন্ন ভিন্ন বিন্দুতে ছেদ করে, তাকে তির্যক রেখা বলে। চিত্র ছয়-এর আঠারো নম্বর বিন্দুটি দেখুন। রেখা l, রেখা m এবং রেখা n কে যথাক্রমে P এবং Q বিন্দুতে ছেদ করেছে।",
+              "voice": "Ishita",
+              "duration_s": 20.91,
+              "status": "ok",
+              "transcript": "মনে করুন যে রেখা দুটি বা ততোধিক সরলরেখাকে ভিন্ন ভিন্ন বিন্দুতে ছেদ করে তাকে তির্যক রেখা বলে চিত্র ছয়ের আঠারো নম্বর বিন্দুটি দেখুন রেখা এল রেখা এম এবং রেখা এন কে যথাক্রমে পি এবং কিউ বিন্দুতে ছেদ করেছে",
+              "cer_errors": 10,
+              "cer_len": 96,
+              "cer": 0.1042,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.91,
+                  "cer": 0.1042
+                }
+              ]
+            },
+            {
+              "text": "সুতরাং, রেখা l হল রেখা m এবং n এর জন্য একটি তির্যক রেখা। লক্ষ্য করুন যে P এবং Q প্রতিটি বিন্দুতে চারটি কোণ তৈরি হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 12.71,
+              "status": "ok",
+              "transcript": "সুতরাং রেখা এল হল রেখা এবং এন এর জন্য একটি তির্যক রেখা লক্ষ্য করুন যে পি এবং কিউ প্রতিটি বিন্দুতে চারটি কোণ তৈরি হয়েছে",
+              "cer_errors": 8,
+              "cer_len": 58,
+              "cer": 0.1379,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 12.71,
+                  "cer": 0.1379
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u03",
+          "kind": "explanation",
+          "text_en": "Figure six point eighteen shows line l running from the upper left to the lower right and crossing line m at point P and line n at point Q. At point P the four angles around the intersection are labeled one, two, three, and four, with one in the upper left, two in the upper right, three in the lower right, and four in the lower left. At point Q the four angles are labeled five, six, seven, and eight, with five in the upper left, six in the upper right, seven in the lower right, and eight in the lower left.",
+          "text": "চিত্র ছয় দশমিক আঠারো-তে দেখা যাচ্ছে যে রেখা l উপরের বাম দিক থেকে নিচের ডান দিকে গেছে এবং এটি P বিন্দুতে রেখা m এবং Q বিন্দুতে রেখা n কে ছেদ করেছে। P বিন্দুতে ছেদবিন্দুর চারপাশের চারটি কোণকে এক, দুই, তিন এবং চার হিসাবে চিহ্নিত করা হয়েছে, যেখানে এক কোণটি উপরের বাম দিকে, দুই কোণটি উপরের ডান দিকে, তিন কোণটি নিচের ডান দিকে এবং চার কোণটি নিচের বাম দিকে অবস্থিত। Q বিন্দুতে চারটি কোণকে পাঁচ, ছয়, সাত এবং আট হিসাবে চিহ্নিত করা হয়েছে, যেখানে পাঁচ কোণটি উপরের বাম দিকে, ছয় কোণটি উপরের ডান দিকে, সাত কোণটি নিচের ডান দিকে এবং আট কোণটি নিচের বাম দিকে অবস্থিত।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "চিত্র ছয় দশমিক আঠারো-তে দেখা যাচ্ছে যে রেখা l উপরের বাম দিক থেকে নিচের ডান দিকে গেছে এবং এটি P বিন্দুতে রেখা m এবং Q বিন্দুতে রেখা n কে ছেদ করেছে।",
+              "voice": "Ishita",
+              "duration_s": 16.04,
+              "status": "ok",
+              "transcript": "চিত্র ছয় দশমিক আঠারোতে দেখা যাচ্ছে যে রেখা উপরের বাম দিক থেকে নিচের ডান দিকে গেছে এবং এটি পি বিন্দুতে রেখা এম এবং কিউ বিন্দুতে রেখা এম কে ছেদ করেছে",
+              "cer_errors": 8,
+              "cer_len": 69,
+              "cer": 0.1159,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 16.04,
+                  "cer": 0.1159
+                }
+              ]
+            },
+            {
+              "text": "P বিন্দুতে ছেদবিন্দুর চারপাশের চারটি কোণকে এক, দুই, তিন এবং চার হিসাবে চিহ্নিত করা হয়েছে, যেখানে এক কোণটি উপরের বাম দিকে, দুই কোণটি উপরের ডান দিকে, তিন কোণটি নিচের ডান দিকে এবং চার কোণটি নিচের বাম দিকে অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 20.48,
+              "status": "ok",
+              "transcript": "পি বিন্দুতে ছেদবিন্দুর চারপাশের চারটি কোণকে এক দুই তিন এবং চার হিসাবে চিহ্নিত করা হয়েছে যেখানে এক কোণটি উপরের বাম দিকে দুই কোণটি উপরের ডান দিকে তিন কোণটি নিচের ডান দিকে এবং চার কোণটি নিচের বাম দিকে অবস্থিত",
+              "cer_errors": 1,
+              "cer_len": 104,
+              "cer": 0.0096,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.48,
+                  "cer": 0.0096
+                }
+              ]
+            },
+            {
+              "text": "Q বিন্দুতে চারটি কোণকে পাঁচ, ছয়, সাত এবং আট হিসাবে চিহ্নিত করা হয়েছে, যেখানে পাঁচ কোণটি উপরের বাম দিকে, ছয় কোণটি উপরের ডান দিকে, সাত কোণটি নিচের ডান দিকে এবং আট কোণটি নিচের বাম দিকে অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 20.14,
+              "status": "ok",
+              "transcript": "কিউ বিন্দুতে চারটি কোণকে পাঁচ ছয় সাত এবং আট হিসাবে চিহ্নিত করা হয়েছে যেখানে পাঁচ কোণটি উপরের বাম দিকে ছয় কোণটি উপরের ডান দিকে সাত কোণটি নিচের ডান দিকে এবং আট কোণটি নিচের বাম দিকে অবস্থিত",
+              "cer_errors": 2,
+              "cer_len": 93,
+              "cer": 0.0215,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.14,
+                  "cer": 0.0215
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u04",
+          "kind": "explanation",
+          "text_en": "Let us name these angles as angle one, angle two, and so on up to angle eight as shown in Figure six point eighteen.",
+          "text": "আসুন আমরা এই কোণগুলোকে কোণ এক, কোণ দুই এবং এভাবে আট পর্যন্ত নাম দেই যেমনটি চিত্র ছয় পয়েন্ট আঠারো-তে দেখানো হয়েছে।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "আসুন আমরা এই কোণগুলোকে কোণ এক, কোণ দুই এবং এভাবে আট পর্যন্ত নাম দেই যেমনটি চিত্র ছয় পয়েন্ট আঠারো-তে দেখানো হয়েছে।",
+              "voice": "Sourav",
+              "duration_s": 10.07,
+              "status": "ok",
+              "transcript": "আসুন আমরা এই কোণগুলোকে কোণ এক কোণ দুই এবং এভাবে আট পর্যন্ত নাম দেই যেমনটি চিত্র ছয় পয়েন্ট আঠারোতে দেখানো হয়েছে",
+              "cer_errors": 0,
+              "cer_len": 60,
+              "cer": 0.0,
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 10.07,
+                  "cer": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u05",
+          "kind": "explanation",
+          "text_en": "Angle one, angle two, angle seven and angle eight are called exterior angles, while angle three, angle four, angle five and angle six are called interior angles.",
+          "text": "কোণ এক, কোণ দুই, কোণ সাত এবং কোণ আট কে বহিঃস্থ কোণ বলা হয়, যেখানে কোণ তিন, কোণ চার, কোণ পাঁচ এবং কোণ ছয় কে অন্তঃস্থ কোণ বলা হয়।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "কোণ এক, কোণ দুই, কোণ সাত এবং কোণ আট কে বহিঃস্থ কোণ বলা হয়, যেখানে কোণ তিন, কোণ চার, কোণ পাঁচ এবং কোণ ছয় কে অন্তঃস্থ কোণ বলা হয়।",
+              "voice": "Sourav",
+              "duration_s": 13.99,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 13.99,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u06",
+          "kind": "explanation",
+          "text_en": "Recall that in the earlier classes you have named some pairs of angles formed when a transversal intersects two lines. These are as follows.",
+          "text": "মনে করুন যে আগের ক্লাসগুলোতে আপনি কিছু জোড়া কোণের নাম দিয়েছেন যখন একটি তির্যক রেখা দুটি সরলরেখাকে ছেদ করে। এগুলো হলো নিম্নরূপ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "মনে করুন যে আগের ক্লাসগুলোতে আপনি কিছু জোড়া কোণের নাম দিয়েছেন যখন একটি তির্যক রেখা দুটি সরলরেখাকে ছেদ করে। এগুলো হলো নিম্নরূপ।",
+              "voice": "Sourav",
+              "duration_s": 10.75,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "error": "Bodhan /audio/speech unavailable after 5 attempts: HTTP 429: {\"detail\":\"Maximum rate limit reached for the model\"}"
+                },
+                {
+                  "voice": "Sourav",
+                  "duration_s": 10.75,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u07",
+          "kind": "explanation",
+          "text_en": "There are four groups. First, corresponding angles: angle one and angle five; angle two and angle six; angle four and angle eight; angle three and angle seven. Second, alternate interior angles: angle four and angle six; angle three and angle five. Third, alternate exterior angles: angle one and angle seven; angle two and angle eight. Fourth, interior angles on the same side of the transversal: angle four and angle five; angle three and angle six.",
+          "text": "চারটি দল আছে। প্রথমত, অনুরূপ কোণ: এক কোণ ও পাঁচ কোণ; দুই কোণ ও ছয় কোণ; চার কোণ ও আট কোণ; তিন কোণ ও সাত কোণ। দ্বিতীয়ত, বিকল্প অন্তঃস্থ কোণ: চার কোণ ও ছয় কোণ; তিন কোণ ও পাঁচ কোণ। তৃতীয়ত, বিকল্প বহিঃস্থ কোণ: এক কোণ ও সাত কোণ; দুই কোণ ও আট কোণ। চতুর্থত, ছেদকের একই পাশের অন্তঃস্থ কোণ: চার কোণ ও পাঁচ কোণ; তিন কোণ ও ছয় কোণ।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "চারটি দল আছে। প্রথমত, অনুরূপ কোণ: এক কোণ ও পাঁচ কোণ; দুই কোণ ও ছয় কোণ; চার কোণ ও আট কোণ; তিন কোণ ও সাত কোণ। দ্বিতীয়ত, বিকল্প অন্তঃস্থ কোণ: চার কোণ ও ছয় কোণ; তিন কোণ ও পাঁচ কোণ। তৃতীয়ত, বিকল্প বহিঃস্থ কোণ: এক কোণ ও সাত কোণ; দুই কোণ ও আট কোণ।",
+              "voice": "Ishita",
+              "duration_s": 20.74,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 20.74,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "চতুর্থত, ছেদকের একই পাশের অন্তঃস্থ কোণ: চার কোণ ও পাঁচ কোণ; তিন কোণ ও ছয় কোণ।",
+              "voice": "Ishita",
+              "duration_s": 8.79,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 8.79,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u08",
+          "kind": "explanation",
+          "text_en": "Interior angles on the same side of the transversal are also referred to as consecutive interior angles, allied angles, or co interior angles. Many times we simply use the words alternate angles for alternate interior angles.",
+          "text": "ছেদকের একই পাশের অন্তঃস্থ কোণগুলিকে অনুক্রমিক অন্তঃস্থ কোণ, সংশ্লিষ্ট কোণ বা সহ-অন্তঃস্থ কোণ হিসাবেও উল্লেখ করা হয়। অনেক সময় আমরা বিকল্প অন্তঃস্থ কোণের জন্য কেবল বিকল্প কোণ শব্দটি ব্যবহার করি।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "ছেদকের একই পাশের অন্তঃস্থ কোণগুলিকে অনুক্রমিক অন্তঃস্থ কোণ, সংশ্লিষ্ট কোণ বা সহ-অন্তঃস্থ কোণ হিসাবেও উল্লেখ করা হয়। অনেক সময় আমরা বিকল্প অন্তঃস্থ কোণের জন্য কেবল বিকল্প কোণ শব্দটি ব্যবহার করি।",
+              "voice": "Ishita",
+              "duration_s": 17.66,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 17.66,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s08.u09",
+          "kind": "explanation",
+          "text_en": "Now, let us find out the relation between the angles in these pairs when line m is parallel to line n. You know that the ruled lines of your notebook are parallel to each other. So, with ruler and pencil, draw two parallel lines along any two of these lines and a transversal to intersect them as shown in Figure six point nineteen. Figure six point nineteen shows a slanted line labeled l crossing two horizontal lines, labeled m on top and n on the bottom. At the intersection of line l and line m, four angles are marked with arcs and numbered one, two, three, and four. Angle one is upper left, two is upper right, three is lower right, and four is lower left. At the intersection of line l and line n, four angles are marked with arcs and numbered five, six, seven, and eight. Angle five is upper left, six is upper right, seven is lower right, and eight is lower left.",
+          "text": "এখন, আমরা এই জোড়াগুলোর কোণগুলোর মধ্যে সম্পর্ক নির্ণয় করি যখন রেখা m, রেখা n এর সমান্তরাল হয়। তোমরা জানো যে তোমাদের খাতায় আঁকা রেখাগুলো একে অপরের সমান্তরাল। সুতরাং, রুলার ও পেন্সিল দিয়ে, এই রেখাগুলোর যেকোনো দুটির উপর দুটি সমান্তরাল রেখা এবং একটি ছেদক আঁকো যা চিত্র ছয় পয়েন্ট উনিশে দেখানো হয়েছে। চিত্র ছয় পয়েন্ট উনিশ-এ একটি তির্যক রেখা দেখা যাচ্ছে যার নাম l, যা দুটি অনুভূমিক রেখা অতিক্রম করছে, উপরেরটিতে m এবং নিচেরটিতে n লেখা আছে। রেখা l এবং রেখা m এর সংযোগস্থলে চারটি কোণকে বৃত্তচাপ দিয়ে চিহ্নিত করা হয়েছে এবং এক, দুই, তিন ও চার নম্বর দেওয়া হয়েছে। প্রথম কোণটি উপরের বাম দিকে, দ্বিতীয়টি উপরের ডান দিকে, তৃতীয়টি নিচের ডান দিকে এবং চতুর্থটি নিচের বাম দিকে অবস্থিত। রেখা l এবং রেখা n এর সংযোগস্থলে চারটি কোণকে বৃত্তচাপ দিয়ে চিহ্নিত করা হয়েছে এবং পাঁচ, ছয়, সাত ও আট নম্বর দেওয়া হয়েছে। পঞ্চম কোণটি উপরের বাম দিকে, ষষ্ঠটি উপরের ডান দিকে, সপ্তমটি নিচের ডান দিকে এবং অষ্টমটি নিচের বাম দিকে অবস্থিত।",
+          "warnings": [],
+          "chunks": [
+            {
+              "text": "এখন, আমরা এই জোড়াগুলোর কোণগুলোর মধ্যে সম্পর্ক নির্ণয় করি যখন রেখা m, রেখা n এর সমান্তরাল হয়। তোমরা জানো যে তোমাদের খাতায় আঁকা রেখাগুলো একে অপরের সমান্তরাল।",
+              "voice": "Ishita",
+              "duration_s": 14.42,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.42,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "সুতরাং, রুলার ও পেন্সিল দিয়ে, এই রেখাগুলোর যেকোনো দুটির উপর দুটি সমান্তরাল রেখা এবং একটি ছেদক আঁকো যা চিত্র ছয় পয়েন্ট উনিশে দেখানো হয়েছে।",
+              "voice": "Ishita",
+              "duration_s": 14.51,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 14.51,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "চিত্র ছয় পয়েন্ট উনিশ-এ একটি তির্যক রেখা দেখা যাচ্ছে যার নাম l, যা দুটি অনুভূমিক রেখা অতিক্রম করছে, উপরেরটিতে m এবং নিচেরটিতে n লেখা আছে।",
+              "voice": "Ishita",
+              "duration_s": 15.19,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 15.19,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "রেখা l এবং রেখা m এর সংযোগস্থলে চারটি কোণকে বৃত্তচাপ দিয়ে চিহ্নিত করা হয়েছে এবং এক, দুই, তিন ও চার নম্বর দেওয়া হয়েছে। প্রথম কোণটি উপরের বাম দিকে, দ্বিতীয়টি উপরের ডান দিকে, তৃতীয়টি নিচের ডান দিকে এবং চতুর্থটি নিচের বাম দিকে অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 23.72,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 23.72,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            },
+            {
+              "text": "রেখা l এবং রেখা n এর সংযোগস্থলে চারটি কোণকে বৃত্তচাপ দিয়ে চিহ্নিত করা হয়েছে এবং পাঁচ, ছয়, সাত ও আট নম্বর দেওয়া হয়েছে। পঞ্চম কোণটি উপরের বাম দিকে, ষষ্ঠটি উপরের ডান দিকে, সপ্তমটি নিচের ডান দিকে এবং অষ্টমটি নিচের বাম দিকে অবস্থিত।",
+              "voice": "Ishita",
+              "duration_s": 26.28,
+              "status": "ok",
+              "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\"",
+              "attempts": [
+                {
+                  "voice": "Ishita",
+                  "duration_s": 26.28,
+                  "check_error": "account budget exhausted (HTTP 429: {\"error\":{\"message\":\"ExceededBudget: User=33f992d5-3338-4f3e-b20c-7b0a50bb0f63 over budget. Spend=₹10.57262444444445, Budget=₹10.0\",\"type\":\"budget_exceeded\",\"param\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cer": 0.0604
+    }
+  ]
+}

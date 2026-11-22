@@ -1,0 +1,203 @@
+{
+  "number": 5,
+  "width": 1050,
+  "height": 1500,
+  "image_path": "out\\pages_png\\page_005.png",
+  "blocks": [
+    {
+      "id": "p005.b03",
+      "page": 5,
+      "order": 3,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        125.2,
+        298.3,
+        923.4,
+        363.3
+      ],
+      "conf": 0.94,
+      "text": "Recall that when the sum of two adjacent angles is $180^{\\circ}$, then they are called a\n**linear pair of angles.**",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p005.b04",
+      "page": 5,
+      "order": 4,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        125.9,
+        365.0,
+        923.1,
+        486.1
+      ],
+      "conf": 0.959,
+      "text": "In Axiom 6.1, it is given that ‘a ray stands on a line’. From this ‘given’, we have\nconcluded that ‘the sum of two adjacent angles so formed is $180^\\circ$’. Can we write\nAxiom 6.1 the other way? That is, take the ‘conclusion’ of Axiom 6.1 as ‘given’ and\nthe ‘given’ as the ‘conclusion’. So it becomes:",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p005.b05",
+      "page": 5,
+      "order": 5,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        126.3,
+        488.0,
+        923.2,
+        553.7
+      ],
+      "conf": 0.929,
+      "text": "(A) If the sum of two adjacent angles is $180^{\\circ}$, then a ray stands on a line (that is,\nthe non-common arms form a line).",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p005.b06",
+      "page": 5,
+      "order": 6,
+      "label": "Paragraph",
+      "type": "Text",
+      "bbox_xyxy": [
+        125.9,
+        555.5,
+        923.4,
+        703.0
+      ],
+      "conf": 0.961,
+      "text": "Now you see that the Axiom 6.1 and statement (A) are in a sense the reverse of\neach others. We call each as converse of the other. We do not know whether the\nstatement (A) is true or not. Let us check. Draw adjacent angles of different measures\nas shown in Fig. 6.7. Keep the ruler along one of the non-common arms in each case.\nDoes the other non-common arm also lie along the ruler?",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    },
+    {
+      "id": "p005.b07",
+      "page": 5,
+      "order": 7,
+      "label": "Diagram",
+      "type": "Figure",
+      "bbox_xyxy": [
+        120.8,
+        700.0,
+        923.8,
+        1310.4
+      ],
+      "conf": 0.918,
+      "text": "",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": "out\\source\\figures\\p005_b07.png",
+      "figure_description": "",
+      "rules_applied": [
+        "rule8_figure_crop"
+      ]
+    },
+    {
+      "id": "p005.b08",
+      "page": 5,
+      "order": 8,
+      "label": "Image-caption",
+      "type": "Caption",
+      "bbox_xyxy": [
+        301.9,
+        1320.8,
+        748.1,
+        1358.1
+      ],
+      "conf": 0.863,
+      "text": "Fig. 6.7 : Adjacent angles with different measures",
+      "doubtful": false,
+      "doubtful_reason": "",
+      "reclassified": false,
+      "eq_label": null,
+      "is_answer": false,
+      "figure_path": null,
+      "figure_description": "",
+      "rules_applied": []
+    }
+  ],
+  "markdown": "LINES AND ANGLES\n\nAxiom 6.1 : If a ray stands on a line, then the sum of two adjacent angles so\nformed is $180^{\\circ}$.\n\nRecall that when the sum of two adjacent angles is $180^{\\circ}$, then they are called a\n**linear pair of angles.**\n\nIn Axiom 6.1, it is given that ‘a ray stands on a line’. From this ‘given’, we have\nconcluded that ‘the sum of two adjacent angles so formed is $180^\\circ$’. Can we write\nAxiom 6.1 the other way? That is, take the ‘conclusion’ of Axiom 6.1 as ‘given’ and\nthe ‘given’ as the ‘conclusion’. So it becomes:\n\n(A) If the sum of two adjacent angles is $180^{\\circ}$, then a ray stands on a line (that is,\nthe non-common arms form a line).\n\nNow you see that the Axiom 6.1 and statement (A) are in a sense the reverse of\neach others. We call each as converse of the other. We do not know whether the\nstatement (A) is true or not. Let us check. Draw adjacent angles of different measures\nas shown in Fig. 6.7. Keep the ruler along one of the non-common arms in each case.\nDoes the other non-common arm also lie along the ruler?\n\nFig. 6.7 : Adjacent angles with different measures",
+  "dropped": [
+    {
+      "block": {
+        "id": "p005.b00",
+        "page": 5,
+        "order": 0,
+        "label": "Header",
+        "type": "PageHeader",
+        "bbox_xyxy": [
+          126.8,
+          179.6,
+          923.1,
+          217.5
+        ],
+        "conf": 0.532,
+        "text": "",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_furniture_type:PageHeader"
+    },
+    {
+      "block": {
+        "id": "p005.b01",
+        "page": 5,
+        "order": 1,
+        "label": "Chapter-title",
+        "type": "Title",
+        "bbox_xyxy": [
+          125.4,
+          180.2,
+          297.1,
+          215.7
+        ],
+        "conf": 0.568,
+        "text": "LINES AND ANGLES",
+        "doubtful": false,
+        "doubtful_reason": "",
+        "reclassified": false,
+        "eq_label": null,
+        "is_answer": false,
+        "figure_path": null,
+        "figure_description": "",
+        "rules_applied": []
+      },
+      "reason": "rule3_running_header"
+    }
+  ]
+}

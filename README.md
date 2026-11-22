@@ -40,24 +40,22 @@ pip install -e .[dev] && pytest    # 179 passing tests (smoke & compliance)
 
 ```mermaid
 flowchart TD
-  PDF["PDF / Image folder"] --> ING["Ingest\nPyMuPDF → PNG"]
-  ING --> OCR["OCR\nindic-ocr · 3 workers\nmax_tokens ladder on 502"]
-  OCR --> CLN["Cleanup\n11 block rules + 3 page rules"]
-  CLN --> ASM["Assemble\nlesson.src.md + sections.json"]
+  PDF["PDF / Image folder"] --> ING["Ingest<br/>PyMuPDF to PNG"]
+  ING --> OCR["OCR<br/>indic-ocr (3 workers)<br/>max_tokens ladder on 502"]
+  OCR --> CLN["Cleanup<br/>11 block rules + 3 page rules"]
+  CLN --> ASM["Assemble<br/>lesson.src.md + sections.json"]
+  ASM --> FIG["Figures<br/>Qwen 27B vision<br/>caption fallback"]
+  FIG --> NAR["Narrate<br/>gpt-oss-120b via Groq<br/>group to batch to validate to repair"]
+  NAR --> TR
 
-  ASM --> FIG["Figures\nQwen 27B vision\ncaption fallback"]
-  FIG --> NAR["Narrate\ngpt-oss-120b via Groq\ngroup → batch → validate → repair"]
-
-  NAR --> LOC
-
-  subgraph LOC["Localize — per language in parallel"]
-    TR["indic-translate\n4 workers"] --> CHK["Chunk ≤250 chars"]
-    CHK --> SP["indic-speak\n6 workers"]
-    SP --> CER["indic-transcribe\nCER check → re-speak if > 0.45"]
-    CER --> AUD["Join WAV · ffmpeg\n-16 LUFS MP3"]
+  subgraph LOC["Localize (per language in parallel)"]
+    TR["indic-translate<br/>4 workers"] --> CHK["Chunk &le; 250 chars"]
+    CHK --> SP["indic-speak<br/>6 workers"]
+    SP --> CER["indic-transcribe<br/>CER check to re-speak if > 0.45"]
+    CER --> AUD["Join WAV and ffmpeg<br/>-16 LUFS MP3"]
   end
 
-  AUD --> OUT["out/lang/lesson.lang.mp3\nout/report.json"]
+  AUD --> OUT["out/lang/lesson.lang.mp3<br/>out/report.json"]
 ```
 
 
@@ -76,25 +74,31 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A[Page images] --> B[Indic-OCR] -->|HTTP 502| B2[retry with larger max_tokens] --> B
-  B --> C[Drop furniture; flag doubtful blocks]
-  C --> D[Assemble elements and sections]
-  D --> E[Figures: vision LLM -> description]
-  E --> F[Narration batch via LLM]
-  F --> G{Valid? no symbols, word cap, no invented numbers, no Indic script}
-  G -- no, up to 2 retries with feedback --> F
-  G -- 413/429/truncated --> H[split batch] --> F
-  G -- still failing --> I[deterministic fallback narration]
-  G -- yes --> J[English narration script]
+  A["Page images"] --> B["Indic-OCR"]
+  B -->|"HTTP 502"| B2["retry with larger max_tokens"]
+  B2 --> B
+  B --> C["Drop furniture; flag doubtful blocks"]
+  C --> D["Assemble elements and sections"]
+  D --> E["Figures: vision LLM to description"]
+  E --> F["Narration batch via LLM"]
+  F --> G{"Valid? no symbols, word cap, no invented numbers, no Indic script"}
+  G -->|"no, up to 2 retries with feedback"| F
+  G -->|"413 or truncated"| H["split batch"]
+  H --> F
+  G -->|"still failing"| I["deterministic fallback narration"]
+  G -->|"yes"| J["English narration script"]
   I --> J
-  J --> K[Indic-Translate per unit] -->|truncated| K2[sentence by sentence] --> L
-  K --> L[Chunk to <= 250 chars]
-  L --> M[Indic-Speak, primary voice]
-  M --> N[Indic-Transcribe -> CER]
-  N --> O{duration odd or CER > 0.45?}
-  O -- yes --> P[alternate voice, keep the better] --> Q
-  O -- no --> Q[Join with gaps, loudnorm, MP3]
-  Q --> R[report.json]
+  J --> K["Indic-Translate per unit"]
+  K -->|"truncated"| K2["sentence by sentence"]
+  K2 --> L
+  K --> L["Chunk to <= 250 chars"]
+  L --> M["Indic-Speak, primary voice"]
+  M --> N["Indic-Transcribe to CER"]
+  N --> O{"duration odd or CER > 0.45?"}
+  O -->|"yes"| P["alternate voice, keep the better"]
+  P --> Q
+  O -->|"no"| Q["Join with gaps, loudnorm, MP3"]
+  Q --> R["report.json"]
 ```
 
 ## Where the LLM is used, and why

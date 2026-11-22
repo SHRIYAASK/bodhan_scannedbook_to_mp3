@@ -35,30 +35,26 @@ python -m bodhan_lesson --input chapter.pdf --out out --langs hi ta bn
 ```bash
 pip install -e .[dev] && pytest    # 179 passing tests (smoke & compliance)
 ```
-
 ## Architecture
-
 ```mermaid
 flowchart TD
-  PDF["PDF / Image folder"] --> ING["Ingest<br/>PyMuPDF to PNG"]
-  ING --> OCR["OCR<br/>indic-ocr (3 workers)<br/>max_tokens ladder on 502"]
-  OCR --> CLN["Cleanup<br/>11 block rules + 3 page rules"]
-  CLN --> ASM["Assemble<br/>lesson.src.md + sections.json"]
-  ASM --> FIG["Figures<br/>Qwen 27B vision<br/>caption fallback"]
-  FIG --> NAR["Narrate<br/>gpt-oss-120b via Groq<br/>group to batch to validate to repair"]
-  NAR --> TR
+    PDF["PDF / Image folder"] --> ING["Ingest<br/>PyMuPDF to PNG"]
+    ING --> OCR["OCR<br/>indic-ocr (3 workers)<br/>max_tokens ladder on 502"]
+    OCR --> CLN["Cleanup<br/>11 block rules + 3 page rules"]
+    CLN --> ASM["Assemble<br/>lesson.src.md + sections.json"]
+    ASM --> FIG["Figures<br/>Qwen 27B vision<br/>caption fallback"]
+    FIG --> NAR["Narrate<br/>gpt-oss-120b via Groq<br/>group, batch, validate, repair"]
+    NAR --> TR
 
-  subgraph LOC["Localize (per language in parallel)"]
-    TR["indic-translate<br/>4 workers"] --> CHK["Chunk &le; 250 chars"]
-    CHK --> SP["indic-speak<br/>6 workers"]
-    SP --> CER["indic-transcribe<br/>CER check to re-speak if > 0.45"]
-    CER --> AUD["Join WAV and ffmpeg<br/>-16 LUFS MP3"]
-  end
+    subgraph LOC["Localize (per language in parallel)"]
+        TR["indic-translate<br/>4 workers"] --> CHK["Chunk ≤ 250 chars"]
+        CHK --> SP["indic-speak<br/>6 workers"]
+        SP --> CER["indic-transcribe<br/>CER check, re-speak if CER above 0.45"]
+        CER --> AUD["Join WAV and ffmpeg<br/>-16 LUFS MP3"]
+    end
 
-  AUD --> OUT["out/lang/lesson.lang.mp3<br/>out/report.json"]
+    AUD --> OUT["out/lang/lesson.lang.mp3<br/>out/report.json"]
 ```
-
-
 
 | Stage | Module | What it does |
 |---|---|---|
@@ -69,38 +65,37 @@ flowchart TD
 | Figures | `stages/figures.py` | Qwen 27B vision model describes each figure crop (2 concurrent workers, 2 retries, caption fallback) |
 | Narrate | `stages/narrate/` | Figure placement → grouping → 1800-char batches → `gpt-oss-120b` (Groq) → `check_batch` validator → retry/split → `repair_batch` |
 | Localize | `stages/localize.py` | Per-language parallel: translate pool (4 workers) → chunk ≤250 chars → speak+CER pool (6 workers) → WAV join → ffmpeg MP3 |
-
 ## Workflow
 
 ```mermaid
 flowchart TD
-  A["Page images"] --> B["Indic-OCR"]
-  B -->|"HTTP 502"| B2["retry with larger max_tokens"]
-  B2 --> B
-  B --> C["Drop furniture; flag doubtful blocks"]
-  C --> D["Assemble elements and sections"]
-  D --> E["Figures: vision LLM to description"]
-  E --> F["Narration batch via LLM"]
-  F --> G{"Valid? no symbols, word cap, no invented numbers, no Indic script"}
-  G -->|"no, up to 2 retries with feedback"| F
-  G -->|"413 or truncated"| H["split batch"]
-  H --> F
-  G -->|"still failing"| I["deterministic fallback narration"]
-  G -->|"yes"| J["English narration script"]
-  I --> J
-  J --> K["Indic-Translate per unit"]
-  K -->|"truncated"| K2["sentence by sentence"]
-  K2 --> L
-  K --> L["Chunk to <= 250 chars"]
-  L --> M["Indic-Speak, primary voice"]
-  M --> N["Indic-Transcribe to CER"]
-  N --> O{"duration odd or CER > 0.45?"}
-  O -->|"yes"| P["alternate voice, keep the better"]
-  P --> Q
-  O -->|"no"| Q["Join with gaps, loudnorm, MP3"]
-  Q --> R["report.json"]
+    A[Page images] --> B[Indic-OCR]
+    B -->|HTTP 502| B2[Retry with larger max_tokens]
+    B2 --> B
+    B --> C[Drop furniture; flag doubtful blocks]
+    C --> D[Assemble elements and sections]
+    D --> E[Figures: vision LLM -> description]
+    E --> F[Narration batch via LLM]
+    F --> G{Valid?}
+    G -->|No| H[Retry with feedback, up to 2 times]
+    H --> F
+    G -->|413/429/truncated| I[Split batch]
+    I --> F
+    G -->|Still failing| J[Deterministic fallback narration]
+    G -->|Yes| K[English narration script]
+    J --> K
+    K --> L[Indic-Translate per unit]
+    L -->|Truncated| M[Sentence-by-sentence translation]
+    L --> N[Chunk to ≤ 250 characters]
+    M --> N
+    N --> O[Indic-Speak]
+    O --> P[Indic-Transcribe -> CER]
+    P --> Q{Duration odd or CER > 0.45?}
+    Q -->|Yes| R[Alternate voice, keep better result]
+    Q -->|No| S[Join with gaps, loudnorm, MP3]
+    R --> S
+    S --> T[report.json]
 ```
-
 ## Where the LLM is used, and why
 | Decision | Model used | Fallback |
 |---|---|---|
@@ -124,15 +119,15 @@ All core OCR, translation, speech synthesis, and verification calls are hosted a
 
 | Model | Purpose | Configuration & Tuning | Error & Edge-Case Handling |
 |---|---|---|---|
-| `indic-ocr` | Text and layout block extraction from 150 DPI page scans | Markdown table format, 3 concurrent worker threads | Escalates `max_tokens` (2048 &rarr; 4096 &rarr; 8192) on HTTP 502; cached per page |
+| `indic-ocr` | Text and layout block extraction from 150 DPI page scans | Markdown table format, 3 concurrent worker threads | Escalates `max_tokens` (2048 -> 4096 -> 8192) on HTTP 502; cached per page |
 | `indic-translate` | Translating English narration units into target Indian languages | `script: native`, `max_output_tokens: 2048`, 4 concurrent workers | Fallback to sentence-by-sentence translation if response is truncated |
-| `indic-speak` | Pedagogical speech synthesis across 13 Indian languages | `style: educational lecture`, sentence chunks &le; 250 chars, 6 workers | Re-speaks with secondary voice if CER > 0.45 or duration is suspect |
-| `indic-transcribe` | Automated ASR back-transcription for CER audio verification | Chunks &le; 30 seconds (within API input limit) | Non-fatal logging as `check_error` under 429 rate limits; cached on retry |
+| `indic-speak` | Pedagogical speech synthesis across 13 Indian languages | `style: educational lecture`, sentence chunks <= 250 chars, 6 workers | Re-speaks with secondary voice if CER > 0.45 or duration is suspect |
+| `indic-transcribe` | Automated ASR back-transcription for CER audio verification | Chunks <= 30 seconds (within API input limit) | Non-fatal logging as `check_error` under 429 rate limits; cached on retry |
 
 ## Results
 Demo chapter: NCERT Class 9 Maths, Lines and Angles, **first 10 pages** processed (OCR cost limited the rest).
 
-| | Hindi | Tamil | Bengali |
+| Metric | Hindi | Tamil | Bengali |
 |---|---|---|---|
 | Narration units | 72 | 72 | 72 |
 | Audio chunks spoken | 117 of 117 | 141 of 141 | 118 of 118 |
@@ -167,4 +162,4 @@ Honest evaluation of current scope and production trade-offs:
 - **Deferred features:** Handwriting extraction, terminology glossary enforcement, multi-column reading order reconstruction, and per-sentence MP3 chapter markers.
 
 ## AI assistance
-Built with Claude Code (Claude Sonnet 5.5) and Antigravity for design, implementation and tests. 
+Built with Claude Code (Claude Sonnet 5.5) and Antigravity for design, implementation and tests.

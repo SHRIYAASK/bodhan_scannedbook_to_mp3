@@ -78,6 +78,31 @@ flowchart TD
 | Narrate | `stages/narrate/` | Figure placement → grouping → 1800-char batches → `gpt-oss-120b` (Groq) → `check_batch` validator → retry/split → `repair_batch` |
 | Localize | `stages/localize.py` | Per-language parallel: translate pool (4 workers) → chunk ≤250 chars → speak+CER pool (6 workers) → WAV join → ffmpeg MP3 |
 
+## Workflow
+
+```mermaid
+flowchart TD
+  A[Page images] --> B[Indic-OCR] -->|HTTP 502| B2[retry with larger max_tokens] --> B
+  B --> C[Drop furniture; flag doubtful blocks]
+  C --> D[Assemble elements and sections]
+  D --> E[Figures: vision LLM -> description]
+  E --> F[Narration batch via LLM]
+  F --> G{Valid? no symbols, word cap, no invented numbers, no Indic script}
+  G -- no, up to 2 retries with feedback --> F
+  G -- 413/429/truncated --> H[split batch] --> F
+  G -- still failing --> I[deterministic fallback narration]
+  G -- yes --> J[English narration script]
+  I --> J
+  J --> K[Indic-Translate per unit] -->|truncated| K2[sentence by sentence] --> L
+  K --> L[Chunk to <= 250 chars]
+  L --> M[Indic-Speak, primary voice]
+  M --> N[Indic-Transcribe -> CER]
+  N --> O{duration odd or CER > 0.45?}
+  O -- yes --> P[alternate voice, keep the better] --> Q
+  O -- no --> Q[Join with gaps, loudnorm, MP3]
+  Q --> R[report.json]
+```
+
 ## Where the LLM is used, and why
 | Decision | Model used | Fallback |
 |---|---|---|
